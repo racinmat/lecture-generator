@@ -6,4 +6,4 @@ services:
     ports:
       - 59125:59125
     command: target/marytts-5.3-SNAPSHOT/bin/marytts-server
-    working_dir: /app
+    working_dir: /marytts
