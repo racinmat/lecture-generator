@@ -1,4144 +1,4380 @@
 1
-0:00:00,000 --> 0:00:05,799
-můj nick je grek1
+0:00:00,000 --> 0:00:05,200
+můj
 
 2
-0:00:05,799 --> 0:00:08,099
-pro ty z vás kteří to ještě neznají a
+0:00:05,200 --> 0:00:07,500
+nick je grek1 pro ty z vás kteří to
 
 3
-0:00:08,099 --> 0:00:11,099
-zopakuji takovou tu mojí obligátní věc
+0:00:07,500 --> 0:00:10,000
+ještě neznají a zopakuji takovou tu
 
 4
-0:00:11,099 --> 0:00:13,400
-co znamená jsem světloplachý takže vás
+0:00:10,000 --> 0:00:12,400
+mojí obligátní věc co znamená jsem
 
 5
-0:00:13,400 --> 0:00:15,599
-požádám že pokud snad hodláte plýtvat
+0:00:12,400 --> 0:00:14,400
+světloplachý takže vás požádám že pokud
 
 6
-0:00:15,599 --> 0:00:17,399
-místem na filmu či na paměťových
+0:00:14,400 --> 0:00:16,699
+snad hodláte plýtvat místem na filmu či
 
 7
-0:00:17,399 --> 0:00:20,899
-kartách a toužíte po zvětšení mého tak
+0:00:16,699 --> 0:00:19,199
+na paměťových kartách a toužíte po
 
 8
-0:00:20,899 --> 0:00:23,399
-říkajíc nemoc pohledného ksichtu tak
+0:00:19,199 --> 0:00:21,699
+zvětšení mého tak říkajíc nemoc
 
 9
-0:00:23,399 --> 0:00:26,899
-prosím Voltaire k tomu foto fotoaparát
+0:00:21,699 --> 0:00:25,199
+pohledného ksichtu tak prosím Voltaire
 
 10
-0:00:26,899 --> 0:00:29,100
-bez blesku protože padnout z tohoto
+0:00:25,199 --> 0:00:27,500
+k tomu foto fotoaparát bez blesku
 
 11
-0:00:29,100 --> 0:00:31,199
-pódia by možná pro vás bylo vtipné Ale
+0:00:27,500 --> 0:00:29,899
+protože padnout z tohoto pódia by možná
 
 12
-0:00:31,199 --> 0:00:33,000
-mně by to vcelku znepříjemnil život i
+0:00:29,899 --> 0:00:31,600
+pro vás bylo vtipné Ale mně by to
 
 13
-0:00:33,000 --> 0:00:36,799
-pokračování této přednášce Dobrá tak
+0:00:31,600 --> 0:00:33,600
+vcelku znepříjemnil život i pokračování
 
 14
+0:00:33,600 --> 0:00:36,799
+této přednášce Dobrá tak
+
+15
 0:00:36,799 --> 0:00:39,399
 Jelikož máme i trošku do vnější
 
-15
+16
 0:00:39,399 --> 0:00:41,399
 zpoždění a vrhneme se rovnou na
 
-16
+17
 0:00:41,399 --> 0:00:44,700
 základní věci první byl bych rád
 
-17
+18
 0:00:44,700 --> 0:00:46,799
 kdybyste zkusili být maximálně aktivní
 
-18
+19
 0:00:46,799 --> 0:00:48,899
 to proto že se budeme bavit o těch
 
-19
+20
 0:00:48,899 --> 0:00:52,100
 nemoc známých a ne moc pěkných
 
-20
+21
 0:00:52,100 --> 0:00:55,700
 vlastnostech a módy chování které
 
-21
+22
 0:00:55,700 --> 0:00:58,000
 tyhlety bytosti mohou mít tím pádem je
 
-22
+23
 0:00:58,000 --> 0:00:59,700
 i asi má příslušnost chaos
 
-23
+24
 0:00:59,899 --> 0:01:01,700
 oprávněná
 
-24
+25
 0:01:05,299 --> 0:01:08,900
 a očekávám od každého zastánce chaosu
 
-25
+26
 0:01:08,900 --> 0:01:12,700
 maximální nasazení hin jsem udělal tu
 
-26
+27
 0:01:12,700 --> 0:01:16,000
 chybu že mi řekl že nemám limit počtu
 
-27
+28
 0:01:16,000 --> 0:01:19,099
 udělených bodů tím pádem si mohu
 
-28
+29
 0:01:19,099 --> 0:01:22,299
 dovolit vypisovat opravdu zajímavé
 
-29
+30
 0:01:22,299 --> 0:01:24,099
 odměny a ptát se skoro na každou blbost
 
-30
+31
 0:01:24,099 --> 0:01:27,200
 tak rovnou k tomu Požádá o další Slide
 
-31
+32
 0:01:27,200 --> 0:01:30,700
 ano tak to si možná budete za chvíli
 
-32
+33
 0:01:30,700 --> 0:01:32,400
 připadat jakožto v obležení těch
 
-33
+34
 0:01:32,400 --> 0:01:35,599
 podivných bytostí které opravdu na
 
-34
+35
 0:01:35,599 --> 0:01:37,900
 rozdíl od Manga anime nejsou jen ty
 
-35
-0:01:37,900 --> 0:01:43,700
-roztomilé muchlací něžné či jen
-
 36
+0:01:37,900 --> 0:01:40,200
+roztomilé muchlací
+
+37
+0:01:40,200 --> 0:01:43,700
+něžné či jen
+
+38
 0:01:43,700 --> 0:01:47,200
 lehce kousající bytosti jsou to někdy
 
-37
-0:01:47,200 --> 0:01:51,599
-velmi velmi nepříjemné společníci další
-
-38
-0:01:51,599 --> 0:01:51,900
-Slide
-
 39
+0:01:47,200 --> 0:01:50,500
+velmi velmi nepříjemné společníci
+
+40
+0:01:50,500 --> 0:01:51,900
+další Slide
+
+41
 0:01:52,799 --> 0:01:53,299
  ano
 
-40
-0:01:54,500 --> 0:01:59,799
-začneme tím asi nejznámějším A to jsou
-
-41
-0:01:59,799 --> 0:02:05,200
-shinigami každý z nás zná minimálně
-
 42
-0:02:05,200 --> 0:02:09,500
-odbarvovač vlasů avias Bleach nám
+0:01:54,500 --> 0:01:58,099
+začneme tím asi nejznámějším A
 
 43
-0:02:09,500 --> 0:02:12,400
-ukázal že shinigami jsou životné
+0:01:58,099 --> 0:02:00,700
+to jsou shinigami
 
 44
-0:02:12,400 --> 0:02:14,300
-postavy samozřejmě to není jediná Manga
+0:02:00,700 --> 0:02:03,900
+každý z nás zná
 
 45
-0:02:14,300 --> 0:02:16,599
-která využívá shinigami jakožto
+0:02:03,900 --> 0:02:07,700
+minimálně odbarvovač vlasů
 
 46
-0:02:16,599 --> 0:02:21,400
-ústřední motiv pro své eskapády řízení
+0:02:07,700 --> 0:02:11,699
+avias Bleach nám ukázal že shinigami
 
 47
-0:02:21,400 --> 0:02:25,300
-se tě chytil je mnoho a opravdu
+0:02:11,699 --> 0:02:13,599
+jsou životné postavy samozřejmě to není
 
 48
-0:02:25,300 --> 0:02:28,900
-existují nikam různých tvarů a podob ať
+0:02:13,599 --> 0:02:16,199
+jediná Manga která využívá shinigami
 
 49
-0:02:28,900 --> 0:02:32,300
-už to jsou tedy Chlapci a děvčata další
+0:02:16,199 --> 0:02:20,099
+jakožto ústřední motiv pro své eskapády
 
 50
-0:02:32,300 --> 0:02:32,599
-Slide
+0:02:20,099 --> 0:02:24,099
+řízení se tě chytil je mnoho a
 
 51
+0:02:24,099 --> 0:02:27,599
+opravdu existují nikam různých tvarů a
+
+52
+0:02:27,599 --> 0:02:30,599
+podob ať už to jsou tedy Chlapci a
+
+53
+0:02:30,599 --> 0:02:32,599
+děvčata další Slide
+
+54
 0:02:33,000 --> 0:02:34,599
  horší a horší
 
-52
-0:02:38,800 --> 0:02:44,199
-a to mi dává další
-
-53
-0:02:44,199 --> 0:02:48,900
-možnost ví někdo jak se jmenuje titul
-
-54
-0:02:48,900 --> 0:02:51,000
-ze kterého je tento obrázek
-
 55
+0:02:38,800 --> 0:02:38,800
+a
+
+56
+0:02:38,800 --> 0:02:42,900
+to
+
+57
+0:02:42,900 --> 0:02:46,699
+mi dává další možnost ví
+
+58
+0:02:46,699 --> 0:02:49,599
+někdo jak se jmenuje titul ze kterého
+
+59
+0:02:49,599 --> 0:02:51,000
+je tento obrázek
+
+60
 0:02:54,000 --> 0:02:56,699
 Tak jak to Jelikož se mi to někdo
 
-56
+61
 0:02:56,699 --> 0:02:59,199
 přihlásil a nekřičel což by bylo dobré
 
-57
+62
 0:02:59,199 --> 0:03:01,000
 kdyby jste pak zkusil i pro další úlohy
 
-58
+63
 0:03:01,000 --> 0:03:02,900
 Jaký máš náramek
 
-59
+64
 0:03:04,199 --> 0:03:07,500
 výborně se přihlásila takže zpožděnou
 
-60
+65
 0:03:07,500 --> 0:03:07,500
 odpověď
 
-61
+66
 0:03:09,000 --> 0:03:11,400
 ano yami no matsuei alias potomci
 
-62
+67
 0:03:11,400 --> 0:03:15,300
 temnoty volně přeloženo takže tam se
 
-63
+68
 0:03:15,300 --> 0:03:17,300
 můžete setkat se spoustou zajímavých
 
-64
+69
 0:03:17,300 --> 0:03:18,300
 mužský
 
-65
+70
 0:03:21,000 --> 0:03:24,300
 vyšší kov ských postav které spolu
 
-66
+71
 0:03:24,300 --> 0:03:26,300
 různě interagují a někteří z nich jsou
 
-67
+72
 0:03:26,300 --> 0:03:27,599
 někam i takto
 
-68
-0:03:28,500 --> 0:03:32,699
-a samozřejmě Abych zůstal abych dostal
-
-69
-0:03:32,699 --> 0:03:34,300
-tu ženy nic i další části tohoto
-
-70
-0:03:34,300 --> 0:03:38,599
-publika požáru další Slide Ano Kill
-
-71
-0:03:38,599 --> 0:03:42,000
-list jak se říká věc která si někam je
-
-72
-0:03:42,000 --> 0:03:45,500
-hodně sprchovala hlavně pak v žánru
-
 73
-0:03:45,500 --> 0:03:48,800
-Light no pardón vyhnul nového tohle je
+0:03:28,500 --> 0:03:32,400
+a samozřejmě Abych zůstal abych
 
 74
-0:03:48,800 --> 0:03:51,000
-s činkami na kissu chilli polibek
+0:03:32,400 --> 0:03:34,300
+dostal tu ženy nic i další části tohoto
 
 75
-0:03:51,000 --> 0:03:53,699
-shinigami a Jedná se o jednu z hrdinek
+0:03:34,300 --> 0:03:37,400
+publika požáru další Slide Ano
 
 76
-0:03:53,699 --> 0:03:56,000
-kterou tedy můžete přesvědčit Nejen k
+0:03:37,400 --> 0:03:41,300
+Kill list jak se říká věc která
 
 77
-0:03:56,000 --> 0:03:57,500
-tomu aby vás nezabila ale aby s vámi
+0:03:41,300 --> 0:03:44,000
+si někam je hodně sprchovala hlavně pak
 
 78
-0:03:57,500 --> 0:04:01,199
-sdílet svůj život takže shinigami co se
+0:03:44,000 --> 0:03:47,900
+v žánru Light no pardón vyhnul nového
 
 79
-0:04:01,199 --> 0:04:03,599
-o nich vlastně můžeme dozvědět že by
+0:03:47,900 --> 0:03:50,599
+tohle je s činkami na kissu chilli
 
 80
-0:04:03,599 --> 0:04:06,699
-bylo tak jako překvapil a tak požádal
+0:03:50,599 --> 0:03:53,300
+polibek shinigami a Jedná se o jednu z
 
 81
-0:04:06,699 --> 0:04:12,699
-She's like Ano to že shinigami tento
+0:03:53,300 --> 0:03:55,500
+hrdinek kterou tedy můžete přesvědčit
 
 82
+0:03:55,500 --> 0:03:57,500
+Nejen k tomu aby vás nezabila ale aby s
+
+83
+0:03:57,500 --> 0:04:00,400
+vámi sdílet svůj život takže shinigami
+
+84
+0:04:00,400 --> 0:04:03,099
+co se o nich vlastně můžeme dozvědět že
+
+85
+0:04:03,099 --> 0:04:06,000
+by bylo tak jako překvapil a tak
+
+86
+0:04:06,000 --> 0:04:09,099
+požádal She's like Ano
+
+87
+0:04:09,099 --> 0:04:12,699
+to že shinigami tento
+
+88
 0:04:12,699 --> 0:04:16,500
 výraz tento shluk znaků sypaného čaje
 
-83
+89
 0:04:16,500 --> 0:04:18,800
 jak by řekli někteří kteří se neradi
 
-84
+90
 0:04:18,800 --> 0:04:22,199
 učí japonské písmo tak tento pojem
 
-85
+91
 0:04:22,199 --> 0:04:25,600
 nikdy v základu neoznačoval
 
-86
+92
 0:04:25,600 --> 0:04:27,300
 mytologickou bytost
 
-87
-0:04:29,000 --> 0:04:34,000
-to čím se Tenhle ten pojem vlastně
-
-88
-0:04:34,000 --> 0:04:36,399
-vyznačoval nebo A co označoval přesněji
-
-89
-0:04:36,399 --> 0:04:40,100
-byli byly spíše sebevražedné sklony
-
-90
-0:04:40,100 --> 0:04:45,100
-první zmínky o něm výraznější nacházíme
-
-91
-0:04:45,100 --> 0:04:49,699
-někdy kolem 15 až 16 století tak datace
-
-92
-0:04:49,699 --> 0:04:51,699
-není úplně přesná protože u mnohých
-
 93
-0:04:51,699 --> 0:04:55,000
-sbírek se vedou zaprvé historické spory
+0:04:29,000 --> 0:04:32,699
+to čím se Tenhle ten pojem
 
 94
-0:04:55,000 --> 0:04:56,899
-o to zda li je napsal tento divně se
+0:04:32,699 --> 0:04:35,899
+vlastně vyznačoval nebo A co označoval
 
 95
-0:04:56,899 --> 0:04:58,899
-jmenují pán žijící v této prefektuře a
+0:04:35,899 --> 0:04:38,500
+přesněji byli byly spíše
 
 96
-0:04:58,899 --> 0:05:00,699
-nebo tento divně se jmenují pán v jiné
+0:04:38,500 --> 0:04:40,100
+sebevražedné sklony
 
 97
-0:05:00,699 --> 0:05:02,899
-prefektuře případně zdali oba nenapsali
+0:04:40,100 --> 0:04:43,500
+první zmínky o něm
 
 98
-0:05:02,899 --> 0:05:06,100
-v podstatě to samé že jeden protočíš
+0:04:43,500 --> 0:04:47,399
+výraznější nacházíme někdy kolem 15
 
 99
-0:05:06,100 --> 0:05:08,699
-žákem druhého a podobně Možná další
+0:04:47,399 --> 0:04:50,399
+až 16 století tak datace není úplně
 
 100
-0:05:08,699 --> 0:05:09,100
-Slide
+0:04:50,399 --> 0:04:53,500
+přesná protože u mnohých sbírek se
 
 101
-0:05:10,899 --> 0:05:16,899
-Ano a v těchto příbězích obvykle poezii
+0:04:53,500 --> 0:04:55,199
+vedou zaprvé historické spory o to zda
 
 102
-0:05:16,899 --> 0:05:20,399
-s pandou příbězích nebo poezii se
+0:04:55,199 --> 0:04:57,699
+li je napsal tento divně se jmenují pán
 
 103
-0:05:20,399 --> 0:05:23,800
-obvykle pojem shinigami právě používá k
+0:04:57,699 --> 0:04:59,399
+žijící v této prefektuře a nebo tento
 
 104
-0:05:23,800 --> 0:05:27,899
-popsání stavu mysli protagonisty
+0:04:59,399 --> 0:05:01,199
+divně se jmenují pán v jiné prefektuře
 
 105
+0:05:01,199 --> 0:05:03,500
+případně zdali oba nenapsali v podstatě
+
+106
+0:05:03,500 --> 0:05:06,899
+to samé že jeden protočíš žákem druhého
+
+107
+0:05:06,899 --> 0:05:09,100
+a podobně Možná další Slide
+
+108
+0:05:10,899 --> 0:05:14,100
+Ano a v těchto
+
+109
+0:05:14,100 --> 0:05:18,100
+příbězích obvykle poezii s
+
+110
+0:05:18,100 --> 0:05:21,000
+pandou příbězích nebo poezii se obvykle
+
+111
+0:05:21,000 --> 0:05:24,300
+pojem shinigami právě používá k popsání
+
+112
+0:05:24,300 --> 0:05:27,899
+stavu mysli protagonisty
+
+113
 0:05:27,899 --> 0:05:30,300
 protagonistky která se z nějakého
 
-106
+114
 0:05:30,300 --> 0:05:33,199
 důvodu rozhodne ukončit svůj život
 
-107
+115
 0:05:35,000 --> 0:05:38,199
 zároveň se čas od času objeví ve
 
-108
+116
 0:05:38,199 --> 0:05:40,399
 spojitosti s shinigami pojem posednutí
 
-109
+117
 0:05:40,399 --> 0:05:43,300
 jako že člověk který je ochoten sáhnout
 
-110
+118
 0:05:43,300 --> 0:05:45,800
 si na svůj život je vlastně posednutý
 
-111
+119
 0:05:45,800 --> 0:05:47,000
 že nikam jako jsem ti jakoby ti
 
-112
+120
 0:05:47,000 --> 0:05:50,899
 impulsem tím porušením základních snahy
 
-113
+121
 0:05:50,899 --> 0:05:54,100
 o sebezáchovu každého života a je tedy
 
-114
+122
 0:05:54,100 --> 0:05:57,199
 schopen překonat vlastně pud
 
-115
-0:05:57,199 --> 0:06:01,300
-sebezáchovy a život si vzít okolo toho
-
-116
-0:06:01,300 --> 0:06:03,699
-16 století jeho druhé půli se dokonce k
-
-117
-0:06:03,699 --> 0:06:08,100
-tomu přidává pojem vlastně spíš význam
-
-118
-0:06:08,100 --> 0:06:10,300
-že se jedná o toho člověka který není
-
-119
-0:06:10,300 --> 0:06:13,300
-že si bere život ale tak říkajíc snaží
-
-120
-0:06:13,300 --> 0:06:15,800
-se sebou vzít i nějakou tu společnost
-
-121
-0:06:15,800 --> 0:06:20,699
-navíc nejčastěji milostná poezie Znáte
-
-122
-0:06:20,699 --> 0:06:22,300
-to dva rody nemají se rádi
-
 123
+0:05:57,199 --> 0:06:01,100
+sebezáchovy a život si vzít okolo
+
+124
+0:06:01,100 --> 0:06:03,399
+toho 16 století jeho druhé půli se
+
+125
+0:06:03,399 --> 0:06:06,500
+dokonce k tomu přidává pojem vlastně
+
+126
+0:06:06,500 --> 0:06:09,600
+spíš význam že se jedná o toho člověka
+
+127
+0:06:09,600 --> 0:06:12,300
+který není že si bere život ale tak
+
+128
+0:06:12,300 --> 0:06:14,300
+říkajíc snaží se sebou vzít i nějakou
+
+129
+0:06:14,300 --> 0:06:16,199
+tu společnost navíc
+
+130
+0:06:16,199 --> 0:06:19,600
+nejčastěji milostná poezie
+
+131
+0:06:19,600 --> 0:06:22,300
+Znáte to dva rody nemají se rádi
+
+132
 0:06:23,399 --> 0:06:26,600
 chlapec z jednoho Dívka z jiného a tak
 
-124
+133
 0:06:26,600 --> 0:06:28,800
 dále Ano William Shakespeare to měl o
 
-125
+134
 0:06:28,800 --> 0:06:31,000
 něco těžší neměl tam možnost dát
 
-126
+135
 0:06:31,000 --> 0:06:33,399
 jednoduché slovo ke kterému by si
 
-127
+136
 0:06:33,399 --> 0:06:34,899
 ostatní museli dohledávat význam o
 
-128
+137
 0:06:34,899 --> 0:06:38,199
 definici musel to popsat jinak Japonci
 
-129
+138
 0:06:38,199 --> 0:06:40,600
 tam mohl dát shinigami a je tedy jasné
 
-130
+139
 0:06:40,600 --> 0:06:43,600
 proč ti to milenci páchají sebevraždu
 
-131
-0:06:43,600 --> 0:06:47,899
-či Proč paradoxně obvykle žena sahá po
+140
+0:06:43,600 --> 0:06:47,500
+či Proč paradoxně obvykle žena sahá
 
-132
-0:06:47,899 --> 0:06:50,300
-tom že otráví muže a pak sebe
+141
+0:06:47,500 --> 0:06:50,300
+po tom že otráví muže a pak sebe
 
-133
+142
 0:06:51,399 --> 0:06:53,600
 kdo ví jestli tato historická lekce má
 
-134
+143
 0:06:53,600 --> 0:06:55,199
 něco společného se současností nebo
 
-135
+144
 0:06:55,199 --> 0:06:57,199
 řekněme jsou sdílením genderových rolí
 
-136
+145
 0:06:57,199 --> 0:06:59,600
 jak je dneska oblíbený moderní termín
 
-137
+146
 0:06:59,600 --> 0:07:02,600
 staří Japonci měli tento pohled další
 
-138
+147
 0:07:02,600 --> 0:07:06,500
 Slide Ano díky tomu se dostáváme k
 
-139
+148
 0:07:06,500 --> 0:07:08,300
 dalšímu pojmu což je dopisy nikdo mi ho
 
-140
+149
 0:07:08,300 --> 0:07:11,100
 volně přeloženo abyste se chovali
 
-141
+150
 0:07:11,100 --> 0:07:13,300
 význam pro nás jako evropany by byl v
 
-142
+151
 0:07:13,300 --> 0:07:15,300
 podstatě pojem dopis na rozloučenou
 
-143
+152
 0:07:15,300 --> 0:07:18,800
 málokdo z vás když slyší nebo čte ve
 
-144
+153
 0:07:18,800 --> 0:07:21,199
 zprávách pojem dopis na rozloučenou tak
 
-145
+154
 0:07:21,199 --> 0:07:23,500
 by ho spojil s tím že to je tak ahoj
 
-146
+155
 0:07:23,500 --> 0:07:26,300
 odjíždím na dva týdny začíná tím jsem
 
-147
+156
 0:07:26,300 --> 0:07:28,500
 zpátky a jako pak vyřešíme ty věci
 
-148
+157
 0:07:28,500 --> 0:07:30,699
 který se toho týká jo Ne Většina z nás
 
-149
+158
 0:07:30,699 --> 0:07:33,100
 si představí dopis na rozloučenou Tak
 
-150
+159
 0:07:33,100 --> 0:07:35,600
 co houpe a seskočila topí se nebo něco
 
-151
+160
 0:07:35,600 --> 0:07:38,000
 na ten způsob je to prostě v tomhle
 
-152
+161
 0:07:38,000 --> 0:07:40,399
 ohledu takže stejným způsobem Japonci
 
-153
+162
 0:07:40,399 --> 0:07:42,600
 dopis od shinigamiho nebo ještě někdo
 
-154
+163
 0:07:42,600 --> 0:07:42,600
 další
 
-155
+164
 0:07:44,100 --> 0:07:44,899
  ano
 
-156
-0:07:45,899 --> 0:07:51,199
-okolo 19 století už autoři aby
+165
+0:07:45,899 --> 0:07:49,399
+okolo 19 století už autoři
 
-157
-0:07:51,199 --> 0:07:55,800
-lépe vytěžili tragičnost situace Tak
+166
+0:07:49,399 --> 0:07:53,199
+aby lépe vytěžili
 
-158
-0:07:55,800 --> 0:08:00,399
-zjistili že pro diváka uvědomění si že
+167
+0:07:53,199 --> 0:07:56,699
+tragičnost situace Tak zjistili že
 
-159
+168
+0:07:56,699 --> 0:08:00,399
+pro diváka uvědomění si že
+
+169
 0:08:00,399 --> 0:08:02,000
 jak jsi si někdo bere život prostě
 
-160
+170
 0:08:02,000 --> 0:08:03,699
 protože ten jeho život stojí za dvě
 
-161
-0:08:03,699 --> 0:08:07,800
-věci není úplně emotivně dokonale
+171
+0:08:03,699 --> 0:08:07,199
+věci není úplně emotivně
 
-162
-0:08:07,800 --> 0:08:11,500
-přiznejme si to tak jako jo chápu Máš
+172
+0:08:07,199 --> 0:08:10,500
+dokonale přiznejme si to tak jako jo
 
-163
-0:08:11,500 --> 0:08:14,300
-život úplně na houby Tak jako je to asi
+173
+0:08:10,500 --> 0:08:12,800
+chápu Máš život úplně na houby Tak jako
 
-164
-0:08:14,300 --> 0:08:17,399
-blbé asi bych to neudělal ale jako on
+174
+0:08:12,800 --> 0:08:16,199
+je to asi blbé asi bych to neudělal ale
 
-165
-0:08:17,399 --> 0:08:19,800
-tomu ty důvody má tak proč ne je to
+175
+0:08:16,199 --> 0:08:19,500
+jako on tomu ty důvody má tak proč ne
 
-166
-0:08:19,800 --> 0:08:22,699
-jeho život jak tedy zvednout taky
+176
+0:08:19,500 --> 0:08:22,699
+je to jeho život jak tedy zvednout taky
 
-167
+177
 0:08:22,699 --> 0:08:24,600
 činnost protože tragičnost prodává
 
-168
+178
 0:08:24,600 --> 0:08:26,300
 prodávala už je té době
 
-169
+179
 0:08:27,100 --> 0:08:30,500
 Tak co myslíte že takový dobrý autor
 
-170
+180
 0:08:30,500 --> 0:08:33,899
 udělat no podívá se na význam toho
 
-171
+181
 0:08:33,899 --> 0:08:36,000
 slova zjistí že je používáno ve
 
-172
+182
 0:08:36,000 --> 0:08:38,799
 spojitosti někdy s posednutí a řekne si
 
-173
+183
 0:08:38,799 --> 0:08:42,500
 to jednoduché tak uděláme to tak že ten
 
-174
+184
 0:08:42,500 --> 0:08:45,700
 žena postava si vezme ten život ale
 
-175
+185
 0:08:45,700 --> 0:08:47,899
 udělá to protože jí posedne zlý duch
 
-176
+186
 0:08:47,899 --> 0:08:51,000
 nějakého Káji nebo není dolehne nějaké
 
-177
+187
 0:08:51,000 --> 0:08:54,500
 Prokletí starého rodu a díky tomu si
 
-178
+188
 0:08:54,500 --> 0:08:57,799
 vlastně vnutí nebo přebije ten pud
 
-179
+189
 0:08:57,799 --> 0:08:59,700
 sebezáchovy A takto si vezme život
 
-180
+190
 0:08:59,700 --> 0:09:02,299
 takovou jak bych to řekl nedobrovolnou
 
-181
+191
 0:09:02,299 --> 0:09:02,899
 formou
 
-182
+192
 0:09:04,500 --> 0:09:06,700
 Ano to bude skvělé protože diváci budou
 
-183
+193
 0:09:06,700 --> 0:09:08,299
 plakat diváci Budou sledovat jak se
 
-184
+194
 0:09:08,299 --> 0:09:10,899
 rozkládá ta jeho osobnost a jeho vůle
 
-185
+195
 0:09:10,899 --> 0:09:14,600
 žít a nakonec skončí Ano a byl to trhák
 
-186
-0:09:14,600 --> 0:09:19,299
-prodávalo se to bylo to výborné Řekněme
+196
+0:09:14,600 --> 0:09:17,500
+prodávalo se to bylo to výborné
 
-187
-0:09:19,299 --> 0:09:21,299
-že Šestáková literatura jak se
+197
+0:09:17,500 --> 0:09:21,299
+Řekněme že Šestáková literatura jak se
 
-188
+198
 0:09:21,299 --> 0:09:24,100
 označovaly takové ty krátké romány a
 
-189
+199
 0:09:24,100 --> 0:09:27,100
 novely na počátku 20 století zahrnující
 
-190
+200
 0:09:27,100 --> 0:09:29,200
 ty různá Dobrodružství v temné Africe
 
-191
-0:09:29,200 --> 0:09:33,600
-Na oceány a tak dále tak něčím podobným
+201
+0:09:29,200 --> 0:09:32,700
+Na oceány a tak dále tak
 
-192
-0:09:33,600 --> 0:09:35,899
-pro některé japonce byly tyhle ty
+202
+0:09:32,700 --> 0:09:35,500
+něčím podobným pro některé japonce byly
 
-193
-0:09:35,899 --> 0:09:38,600
-příběhy zároveň vám to dá tak je
+203
+0:09:35,500 --> 0:09:38,500
+tyhle ty příběhy zároveň vám to dá tak
 
-194
-0:09:38,600 --> 0:09:40,399
-odpověď na to Co obvykle naplňovalo
+204
+0:09:38,500 --> 0:09:40,399
+je odpověď na to Co obvykle naplňovalo
 
-195
+205
 0:09:40,399 --> 0:09:42,399
 některé kaidan je tahle ta je doby a to
 
-196
-0:09:42,399 --> 0:09:47,500
-někdy až řekněme 60% takže pojem že
+206
+0:09:42,399 --> 0:09:45,399
+někdy až řekněme 60% takže
 
-197
-0:09:47,500 --> 0:09:49,799
-nikam jakožto označení jiného Jaká je
+207
+0:09:45,399 --> 0:09:49,299
+pojem že nikam jakožto označení jiného
 
-198
-0:09:49,799 --> 0:09:53,200
-říct třeba že duch vašeho zemřelého
+208
+0:09:49,299 --> 0:09:52,799
+Jaká je říct třeba že duch vašeho
 
-199
-0:09:53,200 --> 0:09:55,799
-manžela který se vám spí za to že on je
+209
+0:09:52,799 --> 0:09:54,899
+zemřelého manžela který se vám spí za
 
-200
-0:09:55,799 --> 0:09:57,700
-pod drnem by si žijete a našla si
+210
+0:09:54,899 --> 0:09:57,200
+to že on je pod drnem by si žijete a
 
-201
-0:09:57,700 --> 0:10:01,000
-někoho nového tak jako Mám získat titul
+211
+0:09:57,200 --> 0:10:00,000
+našla si někoho nového tak jako Mám
 
-202
-0:10:01,000 --> 0:10:02,399
-si někdo mi ho tím že vás to sedne a
+212
+0:10:00,000 --> 0:10:01,899
+získat titul si někdo mi ho tím že vás
 
-203
-0:10:02,399 --> 0:10:04,200
-dovede vás vaší sebevraždě totéž
+213
+0:10:01,899 --> 0:10:03,399
+to sedne a dovede vás vaší sebevraždě
 
-204
+214
+0:10:03,399 --> 0:10:04,200
+totéž
+
+215
 0:10:04,500 --> 0:10:07,799
 dělali ženy paradoxně jak jsem říkal co
 
-205
+216
 0:10:07,799 --> 0:10:09,700
 se otravných a toho jakoby zprovoznění
 
-206
+217
 0:10:09,700 --> 0:10:11,500
 se ze světa i s někým jiným to byla
 
-207
+218
 0:10:11,500 --> 0:10:14,399
 doména žen toho jít se mstít ze záhrobí
 
-208
+219
 0:10:14,399 --> 0:10:17,200
 tom jsme zase dominovali my muži tak
 
-209
+220
 0:10:17,200 --> 0:10:19,000
 další Slide
 
-210
-0:10:19,899 --> 0:10:24,799
-Ano vyslovená personifikace jako říct o
+221
+0:10:19,899 --> 0:10:22,600
+Ano vyslovená
 
-211
+222
+0:10:22,600 --> 0:10:24,799
+personifikace jako říct o
+
+223
 0:10:24,799 --> 0:10:28,600
 pšenici jako že představuje vysloveně
 
-212
+224
 0:10:28,600 --> 0:10:30,100
 označení nezávislé bytost jako
 
-213
+225
 0:10:30,100 --> 0:10:32,399
 shinigamiho není to že nikam zlý duch
 
-214
+226
 0:10:32,399 --> 0:10:34,600
 není to shinigami Ok není to žádné
 
-215
+227
 0:10:34,600 --> 0:10:38,000
 spojení přichází až opravdu po druhé
 
-216
-0:10:38,000 --> 0:10:43,700
-světové válce s tím že zase první tyhle
+228
+0:10:38,000 --> 0:10:41,700
+světové válce s tím že zase
 
-217
-0:10:43,700 --> 0:10:47,299
-ty příběhy byly situovány spíš jako
+229
+0:10:41,700 --> 0:10:44,899
+první tyhle ty příběhy byly
 
-218
-0:10:47,299 --> 0:10:52,299
-takové ty drobné hororové zkazky o tom
+230
+0:10:44,899 --> 0:10:47,299
+situovány spíš jako
 
-219
-0:10:52,299 --> 0:10:54,600
-jak se člověk dozví dá z různých
+231
+0:10:47,299 --> 0:10:51,200
+takové ty drobné hororové
 
-220
-0:10:54,600 --> 0:10:57,600
-znamení že jsem že má vlastně zemřít
+232
+0:10:51,200 --> 0:10:54,299
+zkazky o tom jak se člověk dozví dá z
 
-221
-0:10:57,600 --> 0:11:01,000
-aby nakonec odhalil tu bytost rampa to
+233
+0:10:54,299 --> 0:10:56,899
+různých znamení že jsem že má vlastně
 
-222
-0:11:01,000 --> 0:11:04,200
-znamení nechává a následně jak se tato
+234
+0:10:56,899 --> 0:11:00,399
+zemřít aby nakonec odhalil tu bytost
 
-223
-0:11:04,200 --> 0:11:06,299
-bytost jenom konstatovala no Tím že jsi
+235
+0:11:00,399 --> 0:11:03,899
+rampa to znamení nechává a následně jak
 
-224
-0:11:06,299 --> 0:11:08,100
-mě našel tak tím jsi tak jako doplnil
+236
+0:11:03,899 --> 0:11:05,899
+se tato bytost jenom konstatovala no
 
-225
-0:11:08,100 --> 0:11:11,200
-ten řetězec hledání stop a můžeme jít
+237
+0:11:05,899 --> 0:11:07,500
+Tím že jsi mě našel tak tím jsi tak
 
-226
+238
+0:11:07,500 --> 0:11:09,899
+jako doplnil ten řetězec hledání stop a
+
+239
+0:11:09,899 --> 0:11:11,200
+můžeme jít
+
+240
 0:11:12,600 --> 0:11:14,799
 takže tak to opravdu nikam jako takový
 
-227
+241
 0:11:14,799 --> 0:11:17,200
 ani v té v těchto počátcích nebyl brán
 
-228
+242
 0:11:17,200 --> 0:11:19,700
 jako by jsme něco někdo kdo přímo vám
 
-229
+243
 0:11:19,700 --> 0:11:21,500
 ten život vezme jako že bys jako třeba
 
-230
+244
 0:11:21,500 --> 0:11:23,000
 tavoli ulovit casco jsou tam prostě to
 
-231
+245
 0:11:23,000 --> 0:11:26,799
 letěl jdeme nic takového bylo to pravdu
 
-232
+246
 0:11:26,799 --> 0:11:28,600
 že vás dovedl k tomu aby Vy jste si
 
-233
+247
 0:11:28,600 --> 0:11:31,200
 nějak vzal ten život a následně vás
 
-234
+248
 0:11:31,200 --> 0:11:34,500
 tedy mohl uchvátit teď další Slide
 
-235
+249
 0:11:35,299 --> 0:11:38,899
 Ano díky Tady to tady tomu tématu jsem
 
-236
+250
 0:11:38,899 --> 0:11:42,399
 zabrouzdal na různé stránky obskurních
 
-237
+251
 0:11:42,399 --> 0:11:45,899
 etnologů obskurních fanoušků a Fanoušku
 
-238
-0:11:45,899 --> 0:11:50,899
-obscure nábytek a našel jsem zajímavé
-
-239
-0:11:50,899 --> 0:11:54,299
-spisy bohužel věčně časy nepřeložené
-
-240
-0:11:54,299 --> 0:11:56,799
-ale u některých byly alespoň synapse v
-
-241
-0:11:56,799 --> 0:11:58,299
-jistých inteligentních jazycích jako je
-
-242
-0:11:58,299 --> 0:12:01,799
-třeba angličtina a díky tomu jsem se
-
-243
-0:12:01,799 --> 0:12:04,700
-dozvěděl někdy až velmi zvrhle
-
-244
-0:12:04,700 --> 0:12:08,200
-propracovanou metodu či způsob jakým
-
-245
-0:12:08,200 --> 0:12:11,200
-dokázali různé shinigami spravit někoho
-
-246
-0:12:11,200 --> 0:12:14,100
-ze světa a vy teď tady v sále si
-
-247
-0:12:14,100 --> 0:12:16,799
-zahrajete hru Každý z vás se na chvíli
-
-248
-0:12:16,799 --> 0:12:19,700
-s takovým tím že nikam I'm A zkuste se
-
-249
-0:12:19,700 --> 0:12:23,399
-mi hlásit a navrhovat metody jak by
-
-250
-0:12:23,399 --> 0:12:25,500
-tady ten někdo mohl být s provozem ze
-
-251
-0:12:25,500 --> 0:12:27,600
-světa podle toho jak se mi budou líbit
-
 252
-0:12:27,600 --> 0:12:29,299
-vás Buď to označil za někoho do toho
+0:11:45,899 --> 0:11:49,799
+obscure nábytek a našel jsem
 
 253
-0:12:29,299 --> 0:12:31,299
-jako japonce který je mým osobním
+0:11:49,799 --> 0:11:53,600
+zajímavé spisy bohužel věčně časy
 
 254
-0:12:31,299 --> 0:12:35,000
-Favoritem to nutné A ne že za
+0:11:53,600 --> 0:11:55,100
+nepřeložené ale u některých byly
 
 255
+0:11:55,100 --> 0:11:57,000
+alespoň synapse v jistých
+
+256
+0:11:57,000 --> 0:11:58,500
+inteligentních jazycích jako je třeba
+
+257
+0:11:58,500 --> 0:12:02,100
+angličtina a díky tomu jsem se dozvěděl
+
+258
+0:12:02,100 --> 0:12:05,600
+někdy až velmi zvrhle propracovanou
+
+259
+0:12:05,600 --> 0:12:09,399
+metodu či způsob jakým dokázali různé
+
+260
+0:12:09,399 --> 0:12:12,500
+shinigami spravit někoho ze světa a vy
+
+261
+0:12:12,500 --> 0:12:15,899
+teď tady v sále si zahrajete hru Každý
+
+262
+0:12:15,899 --> 0:12:17,399
+z vás se na chvíli s takovým tím že
+
+263
+0:12:17,399 --> 0:12:20,299
+nikam I'm A zkuste se mi hlásit a
+
+264
+0:12:20,299 --> 0:12:24,000
+navrhovat metody jak by tady ten někdo
+
+265
+0:12:24,000 --> 0:12:26,799
+mohl být s provozem ze světa podle toho
+
+266
+0:12:26,799 --> 0:12:28,299
+jak se mi budou líbit vás Buď to
+
+267
+0:12:28,299 --> 0:12:30,700
+označil za někoho do toho jako japonce
+
+268
+0:12:30,700 --> 0:12:33,000
+který je mým osobním Favoritem to nutné
+
+269
+0:12:33,000 --> 0:12:35,000
+A ne že za
+
+270
 0:12:35,299 --> 0:12:37,700
 i ti kteří nebudou taky dobře a
 
-256
+271
 0:12:37,700 --> 0:12:39,600
 Bioptron to já nebudu chodit na děti je
 
-257
+272
 0:12:39,600 --> 0:12:41,899
 ti ty body dostanu Takže hlaste se mi
 
-258
+273
 0:12:41,899 --> 0:12:42,399
 teď
 
-259
+274
 0:12:44,100 --> 0:12:46,399
 výborně tak zkusíme tamhle vzadu hned l
 
-260
+275
 0:12:46,399 --> 0:12:47,799
 pod sektorem C
 
-261
+276
 0:12:52,700 --> 0:12:56,000
 vymazat čáru života paradoxně Ano
 
-262
+277
 0:12:56,000 --> 0:12:59,000
 saháte po spíš takové té starší
 
-263
+278
 0:12:59,000 --> 0:13:01,200
 literatuře je to je to obvykle taková
 
-264
+279
 0:13:01,200 --> 0:13:04,100
 ta třetí a čtvrtá stopa z toho řetězu
 
-265
+280
 0:13:04,100 --> 0:13:05,899
 který by vás měl dovézt k smrti ono že
 
-266
+281
 0:13:05,899 --> 0:13:07,399
 vám chybí čára života asi ještě není
 
-267
+282
 0:13:07,399 --> 0:13:10,700
 pro japonce ten úplný konec támhle
 
-268
-0:13:14,399 --> 0:13:19,500
-dovést k pochopení sebe sama tak teď si
+283
+0:13:14,399 --> 0:13:16,600
+dovést k pochopení sebe sama
 
-269
-0:13:19,500 --> 0:13:21,100
-říkám jestli bych někam je spíš neměly
+284
+0:13:16,600 --> 0:13:20,600
+tak teď si říkám jestli bych někam je
 
-270
-0:13:21,100 --> 0:13:24,799
-být nazýváni nositeli požehnání nebo
+285
+0:13:20,600 --> 0:13:23,700
+spíš neměly být nazýváni nositeli
 
-271
-0:13:24,799 --> 0:13:26,299
-spíš osvícení
+286
+0:13:23,700 --> 0:13:26,299
+požehnání nebo spíš osvícení
 
-272
+287
 0:13:27,600 --> 0:13:29,700
 zajímavý koncept zkusím s ním promluvit
 
-273
+288
 0:13:29,700 --> 0:13:31,299
 s jedním svým známým buddhistou jak by
 
-274
+289
 0:13:31,299 --> 0:13:32,600
 se na to dívali když je někdo mi byly
 
-275
+290
 0:13:32,600 --> 0:13:34,299
 uznávány jako buddhové dovádějících
 
-276
+291
 0:13:34,299 --> 0:13:34,899
 osvícení
 
-277
+292
 0:13:36,100 --> 0:13:38,000
  máte bod Jaký máte náramek
 
-278
+293
 0:13:40,899 --> 0:13:41,899
  takže bez náramků
 
-279
+294
 0:13:42,700 --> 0:13:45,200
 budiž co se dá dělat Můžeme tento den
 
-280
+295
 0:13:45,200 --> 0:13:45,399
 chaosu
 
-281
+296
 0:13:47,000 --> 0:13:50,299
 ne Bohužel bohužel nechal který jsem já
 
-282
+297
 0:13:50,299 --> 0:13:52,600
 řekla že pravidly co se dá dělat ale už
 
-283
+298
 0:13:52,600 --> 0:13:56,600
 máme aspoň jeden tam Ano znova vzadu
 
-284
+299
 0:13:57,600 --> 0:13:58,000
  jak
 
-285
-0:14:00,899 --> 0:14:05,000
-svádět i A že by jste četl yami no
+300
+0:14:00,899 --> 0:14:04,899
+svádět i A že by jste četl yami
 
-286
-0:14:05,000 --> 0:14:05,000
-matsuei
+301
+0:14:04,899 --> 0:14:05,000
+no matsuei
 
-287
+302
 0:14:07,600 --> 0:14:11,500
 no a no a musím říct že to bohužel není
 
-288
+303
 0:14:11,500 --> 0:14:13,600
 zrovna moc originální způsob nehody na
 
-289
+304
 0:14:13,600 --> 0:14:15,000
 to že Japonci abych nedokážu myslet ani
 
-290
+305
 0:14:15,000 --> 0:14:16,899
 originální způsob svádění ale to už je
 
-291
+306
 0:14:16,899 --> 0:14:19,000
 věc trošku jiná ale rozhodně Děkuji
 
-292
+307
 0:14:19,000 --> 0:14:19,899
 Jaký máte náramek
 
-293
+308
 0:14:20,500 --> 0:14:23,299
  budiž řád má jeden bod dál
 
-294
+309
 0:14:25,700 --> 0:14:36,799
 vtip
 
-295
+310
 0:14:36,799 --> 0:14:39,500
 muž zemřel Praha pár minut na to smíchy
 
-296
-0:14:39,500 --> 0:14:45,200
-dobrá Jaký máte náramek budiž
+311
+0:14:39,500 --> 0:14:43,299
+dobrá Jaký máte náramek
 
-297
-0:14:45,200 --> 0:14:48,000
-řád má Další bod ale myslím že to na
+312
+0:14:43,299 --> 0:14:46,700
+budiž řád má Další bod
 
-298
-0:14:48,000 --> 0:14:51,500
-dobré cestě ke správné straně tak ta
+313
+0:14:46,700 --> 0:14:48,799
+ale myslím že to na dobré cestě ke
 
-299
-0:14:51,500 --> 0:14:51,799
-moje
+314
+0:14:48,799 --> 0:14:51,799
+správné straně tak ta moje
 
-300
+315
 0:14:54,899 --> 0:14:58,000
 vidím že angína přednáška se nechala
 
-301
-0:14:58,000 --> 0:15:02,600
-výrazné stopy v tomhle ohledu chápu tak
+316
+0:14:58,000 --> 0:15:01,799
+výrazné stopy v tomhle ohledu chápu
 
-302
-0:15:02,600 --> 0:15:04,799
-snad ne To není hlavně proto že pokud
+317
+0:15:01,799 --> 0:15:04,500
+tak snad ne To není hlavně proto že
 
-303
-0:15:04,799 --> 0:15:06,500
-vás zabiji na mytologická bytost je
+318
+0:15:04,500 --> 0:15:06,000
+pokud vás zabiji na mytologická bytost
 
-304
-0:15:06,500 --> 0:15:08,600
-velká šance že jak jsi že nikdo mi
+319
+0:15:06,000 --> 0:15:08,600
+je velká šance že jak jsi že nikdo mi
 
-305
+320
 0:15:08,600 --> 0:15:10,600
 nebude moc dokončit svoji práci protože
 
-306
+321
 0:15:10,600 --> 0:15:12,700
 on měl odvézt vaše duše do zásvětí a
 
-307
+322
 0:15:12,700 --> 0:15:16,100
 pokud to učiní ten jiný démon tak
 
-308
+323
 0:15:16,100 --> 0:15:18,399
 obvykle jako nad vámi získat na tu vaší
 
-309
+324
 0:15:18,399 --> 0:15:20,700
 duši získá nějakou kontrolu takže tohle
 
-310
+325
 0:15:20,700 --> 0:15:22,100
 to by až tak snadno nešlo ano
 
-311
+326
 0:15:25,299 --> 0:15:28,600
 volat vlastně jako jak má Bludička
 
-312
+327
 0:15:28,600 --> 0:15:30,799
 řekněme jako pojď pojď skoč
 
-313
+328
 0:15:32,700 --> 0:15:35,799
 Ano Šlo by to použít bohužel jak říkám
 
-314
+329
 0:15:35,799 --> 0:15:39,299
 Bludička až tak originální nebude tam L
 
-315
+330
 0:15:48,100 --> 0:15:50,100
  velmi časté uvažujete správně
 
-316
+331
 0:15:52,100 --> 0:15:53,600
  jaký má ten náramek
 
-317
+332
 0:15:54,899 --> 0:15:55,399
  jak
 
-318
+333
 0:15:57,100 --> 0:15:57,799
  černá
 
-319
-0:15:58,799 --> 0:16:04,799
-chaos a chci chaos a si snažíme se No s
+334
+0:15:58,799 --> 0:16:02,799
+chaos a chci chaos a si snažíme
 
-320
-0:16:04,799 --> 0:16:06,200
-ohledem na to jak vám to moc nejde
+335
+0:16:02,799 --> 0:16:05,899
+se No s ohledem na to jak vám to moc
 
-321
-0:16:06,200 --> 0:16:09,100
-dobrá Dáme posledního takže po kom
+336
+0:16:05,899 --> 0:16:08,899
+nejde dobrá Dáme posledního takže po
 
-322
-0:16:09,100 --> 0:16:10,299
-sáhneme támhle
+337
+0:16:08,899 --> 0:16:10,299
+kom sáhneme támhle
 
-323
+338
 0:16:16,399 --> 0:16:18,500
 a kvantová mechanika manipulace časem
 
-324
+339
 0:16:18,500 --> 0:16:19,500
 Zapomněl jsem
 
-325
+340
 0:16:21,399 --> 0:16:23,899
 Kéž by to bylo tak snadné časové
 
-326
+341
 0:16:23,899 --> 0:16:26,200
 paradoxy jsou věc která se vám jako
 
-327
+342
 0:16:26,200 --> 0:16:28,600
 autorovi obvykle těchto zakousne zpátky
 
-328
+343
 0:16:28,600 --> 0:16:32,299
 do vašich hýždí a nepustí Takže tady
 
-329
+344
 0:16:32,299 --> 0:16:35,500
 bych Bohužel nevím to tedy ukončím a
 
-330
+345
 0:16:35,500 --> 0:16:38,200
 jenom řeknu že teď příběh od japonského
 
-331
+346
 0:16:38,200 --> 0:16:40,799
 autora který získal mé srdce je taková
 
-332
+347
 0:16:40,799 --> 0:16:44,500
 sbírka krátkých povídek o zaměstnankyni
 
-333
-0:16:44,500 --> 0:16:49,299
-poslat berního úřadu a funguje jako
+348
+0:16:44,500 --> 0:16:46,799
+poslat berního úřadu a
 
-334
-0:16:49,299 --> 0:16:52,299
-takový nevědomí shinigami to protože v
+349
+0:16:46,799 --> 0:16:50,600
+funguje jako takový nevědomí shinigami
 
-335
-0:16:52,299 --> 0:16:54,600
-každém příběhu začne řešit nějaký
+350
+0:16:50,600 --> 0:16:53,899
+to protože v každém příběhu začne řešit
 
-336
-0:16:54,600 --> 0:16:57,700
-drobný problém nějakého japonce jak ve
+351
+0:16:53,899 --> 0:16:57,399
+nějaký drobný problém nějakého japonce
 
-337
-0:16:57,700 --> 0:17:00,500
-smyslu nějaká Ztracená úhrada nebo
+352
+0:16:57,399 --> 0:17:00,100
+jak ve smyslu nějaká Ztracená úhrada
 
-338
-0:17:00,500 --> 0:17:02,799
-naopak přeplatek na nějakém účtě či
+353
+0:17:00,100 --> 0:17:02,200
+nebo naopak přeplatek na nějakém účtě
 
-339
-0:17:02,799 --> 0:17:04,599
-dohledání nějaké informace ohledně
+354
+0:17:02,200 --> 0:17:04,599
+či dohledání nějaké informace ohledně
 
-340
+355
 0:17:04,599 --> 0:17:08,299
 nějaké zakázky a podobně a během této
 
-341
+356
 0:17:08,299 --> 0:17:12,299
 věci Je schopná tomu nebo Žákovi aniž
 
-342
+357
 0:17:12,299 --> 0:17:14,500
 bych chtěla udělat ze života naprosté
 
-343
+358
 0:17:14,500 --> 0:17:14,700
 peklo
 
-344
+359
 0:17:15,500 --> 0:17:17,700
 ve smyslu toho je jako je příběh ve
 
-345
+360
 0:17:17,700 --> 0:17:20,599
 kterém kvůli jedné platbě donutí sejít
 
-346
+361
 0:17:20,599 --> 0:17:22,700
 se rodinu která se vzájemně velmi
 
-347
+362
 0:17:22,700 --> 0:17:26,099
 nemusí a teď si představte že vy jako
 
-348
+363
 0:17:26,099 --> 0:17:29,299
 malý člověk který nakonec voláte tento
 
-349
+364
 0:17:29,299 --> 0:17:30,599
 vaše příbuzenstvo že se vám si do
 
-350
+365
 0:17:30,599 --> 0:17:33,599
 všechny tetičky vaše matka vaše babička
 
-351
+366
 0:17:33,599 --> 0:17:36,500
 aby jste svobodný Japonec 70 letech
 
-352
-0:17:36,500 --> 0:17:42,500
-to je peklo a není se divit a Není se
+367
+0:17:36,500 --> 0:17:40,299
+to je peklo a
 
-353
-0:17:42,500 --> 0:17:45,400
-čemu divit že není Japonec pak zvolil
+368
+0:17:40,299 --> 0:17:43,099
+není se divit a Není se čemu divit že
 
-354
-0:17:45,400 --> 0:17:47,099
-tu nejlepší možnou cestu
+369
+0:17:43,099 --> 0:17:46,299
+není Japonec pak zvolil tu nejlepší
 
-355
+370
+0:17:46,299 --> 0:17:47,099
+možnou cestu
+
+371
 0:17:48,000 --> 0:17:50,400
  odešel a sebou vzali je
 
-356
+372
 0:17:51,299 --> 0:17:54,400
 a tak dále takže podobným způsobem se
 
-357
-0:17:54,400 --> 0:17:59,700
-tento se tato úřednice stává tím Řekni
+373
+0:17:54,400 --> 0:17:58,000
+tento se tato úřednice
 
-358
-0:17:59,700 --> 0:18:02,200
-medová Děčín k smrti druhých aniž by to
+374
+0:17:58,000 --> 0:18:00,799
+stává tím Řekni medová Děčín k smrti
 
-359
-0:18:02,200 --> 0:18:04,099
-opravdu vysloveně chtěl a jen se pak
+375
+0:18:00,799 --> 0:18:03,000
+druhých aniž by to opravdu vysloveně
 
-360
-0:18:04,099 --> 0:18:06,299
-vždy diví proč je to vždy o na které se
+376
+0:18:03,000 --> 0:18:05,200
+chtěl a jen se pak vždy diví proč je to
 
-361
-0:18:06,299 --> 0:18:07,400
-dějí takhle špatné věci
+377
+0:18:05,200 --> 0:18:07,200
+vždy o na které se dějí takhle špatné
 
-362
-0:18:08,799 --> 0:18:14,200
-No jdeme dál a No šikovný
+378
+0:18:07,200 --> 0:18:07,400
+věci
 
-363
-0:18:14,200 --> 0:18:19,099
-První otázka zvedněte ruku ti kteří si
+379
+0:18:08,799 --> 0:18:12,299
+No jdeme dál a No
 
-364
-0:18:19,099 --> 0:18:21,900
-myslíte že víte co je to taky com
+380
+0:18:12,299 --> 0:18:16,299
+šikovný První otázka
 
-365
-0:18:26,299 --> 0:18:31,299
- dobře přestřelil jsem Jiná otázka a
+381
+0:18:16,299 --> 0:18:19,700
+zvedněte ruku ti kteří si myslíte že
 
-366
+382
+0:18:19,700 --> 0:18:21,900
+víte co je to taky com
+
+383
+0:18:26,299 --> 0:18:29,000
+dobře přestřelil jsem
+
+384
+0:18:29,000 --> 0:18:31,299
+Jiná otázka a
+
+385
 0:18:34,599 --> 0:18:37,799
 ne i když vysvětlíme si Proč později
 
-367
-0:18:37,799 --> 0:18:42,400
-zkusíme ještě někdo hlásí D
+386
+0:18:37,799 --> 0:18:41,799
+zkusíme ještě
 
-368
+387
+0:18:41,799 --> 0:18:42,400
+někdo hlásí D
+
+388
 0:18:44,799 --> 0:18:45,400
  nevidím
 
-369
+389
 0:18:47,400 --> 0:18:50,900
 ne ne ne Bohužel a zkusíme to ty to
 
-370
+390
 0:18:50,900 --> 0:18:53,599
 zkusíme to jinak Tato dáma kterou pro
 
-371
+391
 0:18:53,599 --> 0:18:55,200
 mě protože se opravdu špatně hledají
 
-372
+392
 0:18:55,200 --> 0:18:57,299
 nějaké rozumné Manga Art i této postavy
 
-373
+393
 0:18:57,299 --> 0:19:00,799
 jakožto mytologické nakreslil za kterou
 
-374
+394
 0:19:00,799 --> 0:19:03,400
 můžete najít zde vr-300 a objednat si
 
-375
+395
 0:19:03,400 --> 0:19:05,200
 od ní možná není to to šikovná ale i
 
-376
-0:19:05,200 --> 0:19:09,799
-spoustu jiných prací tak tahle osoba má
+396
+0:19:05,200 --> 0:19:08,500
+spoustu jiných prací tak tahle osoba
 
-377
-0:19:09,799 --> 0:19:12,500
-na sobě jeden znak který říká jí
+397
+0:19:08,500 --> 0:19:12,500
+má na sobě jeden znak který říká jí
 
-378
+398
 0:19:12,500 --> 0:19:14,900
 příslušnost k smrti Všimne si někdo
 
-379
+399
 0:19:14,900 --> 0:19:15,299
 který to je
 
-380
+400
 0:19:18,599 --> 0:19:19,000
  ano
 
-381
+401
 0:19:20,200 --> 0:19:21,900
  nene nene tamhle vzadu
 
-382
+402
 0:19:23,799 --> 0:19:24,400
  jak
 
-383
+403
 0:19:26,099 --> 0:19:27,299
  zahyb kimona jak to myslíte
 
-384
+404
 0:19:33,799 --> 0:19:37,099
 v pořádku jdete správným směrem Přesně
 
-385
+405
 0:19:37,099 --> 0:19:39,200
 tak tato slečna máš špatně složené
 
-386
+406
 0:19:39,200 --> 0:19:42,400
 kimono protože když na něj podíváte Tak
 
-387
+407
 0:19:42,400 --> 0:19:45,900
 pravá část vlastně překrývá levou a
 
-388
+408
 0:19:45,900 --> 0:19:48,599
 oběd a se pravá zapaluje první a levá
 
-389
+409
 0:19:48,599 --> 0:19:51,700
 přední Tedy pokud nebavíte nebožtíka
 
-390
+410
 0:19:51,700 --> 0:19:54,900
 tam to děláte obráceně takže všem dámám
 
-391
+411
 0:19:54,900 --> 0:19:56,400
 které tady teďka mají na sobě kimono
 
-392
+412
 0:19:56,400 --> 0:19:57,900
 doporučil Zkontrolovat jestli náhodou
 
-393
+413
 0:19:57,900 --> 0:20:00,599
 nechuť jako taková šikovná a jak říkám
 
-394
+414
 0:20:00,599 --> 0:20:02,400
 Tedy pokud máte zájem tak Elda
 
-395
+415
 0:20:02,400 --> 0:20:05,299
 poskytuje může poskytnout podobné Arty
 
-396
+416
 0:20:05,299 --> 0:20:07,900
 zde The farthest Eli už mám i další
 
-397
+417
 0:20:07,900 --> 0:20:11,299
 Slide A proč to nefunguje jako šikovném
 
-398
+418
 0:20:11,299 --> 0:20:13,299
 je asi jasné tady to a pak do něho
 
-399
+419
 0:20:13,299 --> 0:20:15,700
 Sukuba protože Tato dáma je tak trochu
 
-400
+420
 0:20:15,700 --> 0:20:17,700
 v pokročilejším stádiu rozkladu
 
-401
+421
 0:20:23,200 --> 0:20:26,000
  to jsem nechtěl slyšet
 
-402
+422
 0:20:29,099 --> 0:20:30,000
  tak
 
-403
+423
 0:20:32,000 --> 0:20:35,099
 Jedná se o služebnou přesně večer Něco
 
-404
+424
 0:20:35,099 --> 0:20:38,500
 jako Dvorní dámu nebo vysloveně přímou
 
-405
-0:20:38,500 --> 0:20:42,599
-osobní služebnou bohyně izanami izanagi
-
-406
-0:20:42,599 --> 0:20:45,400
-jak jistě víte je jedna ze dvou pošta
-
-407
-0:20:45,400 --> 0:20:47,400
-která stvořila Japonsko pak jakožto
-
-408
-0:20:47,400 --> 0:20:49,299
-makrely v poli zákazu činnosti laviho
-
-409
-0:20:49,299 --> 0:20:51,000
-mi protože tak asi už je jakožto oheň
-
-410
-0:20:51,000 --> 0:20:53,900
-se narodil se ti prostě zabil a když
-
-411
-0:20:53,900 --> 0:20:56,099
-její manžel a trpěl tím že mu zemřela a
-
-412
-0:20:56,099 --> 0:20:57,599
-šel si pro ni zpět tak se zachoval jako
-
-413
-0:20:57,599 --> 0:21:01,099
-správná žena a když tak si ze
-
-414
-0:21:01,099 --> 0:21:03,200
-zvědavosti pohledu na ty mrtvé tělo tak
-
-415
-0:21:03,200 --> 0:21:06,200
-s tím výkřikem On už mě neuvidíš nikdy
-
-416
-0:21:06,200 --> 0:21:07,799
-krásnou zeptat
-
-417
-0:21:08,599 --> 0:21:13,299
-na něj poslala podle logiky 1 podle
-
-418
-0:21:13,299 --> 0:21:16,799
-nejhorší Hockey celých 8 hnusných
-
-419
-0:21:16,799 --> 0:21:20,500
-zahnívajících babicz jo my a to je
-
-420
-0:21:20,500 --> 0:21:24,500
-právě šikovný takže izanami která se
-
-421
-0:21:24,500 --> 0:21:26,200
-pak vlastně stala personifikací smrti
-
-422
-0:21:26,200 --> 0:21:29,700
-nebo ne božstvem který které dle nebo
-
-423
-0:21:29,700 --> 0:21:32,099
-bydlí nad smrdí jako takovou tak má
-
-424
-0:21:32,099 --> 0:21:35,700
-tyto své přímé služebné jakožto takové
-
 425
-0:21:35,700 --> 0:21:38,099
-dost drsné vykonavatel k její vůle a
+0:20:38,500 --> 0:20:42,400
+osobní služebnou bohyně izanami
 
 426
-0:21:38,099 --> 0:21:42,700
-jak říkám tedy původně krásné nyní už
+0:20:42,400 --> 0:20:45,000
+izanagi jak jistě víte je jedna ze dvou
 
 427
-0:21:42,700 --> 0:21:45,200
-teď pro někoho méně krásné a nebo sedí
+0:20:45,000 --> 0:20:47,099
+pošta která stvořila Japonsko pak
 
 428
-0:21:45,200 --> 0:21:47,099
-otáček na ta místa kde jsem slyšel
+0:20:47,099 --> 0:20:48,500
+jakožto makrely v poli zákazu činnosti
 
 429
-0:21:47,099 --> 0:21:51,099
-Výkřik něco nechat chvíli služebně tu
+0:20:48,500 --> 0:20:50,700
+laviho mi protože tak asi už je jakožto
 
 430
-0:21:51,099 --> 0:21:53,200
-práci dělají požár na další Slide
+0:20:50,700 --> 0:20:52,299
+oheň se narodil se ti prostě zabil a
 
 431
+0:20:52,299 --> 0:20:55,599
+když její manžel a trpěl tím že mu
+
+432
+0:20:55,599 --> 0:20:57,200
+zemřela a šel si pro ni zpět tak se
+
+433
+0:20:57,200 --> 0:20:59,700
+zachoval jako správná žena a když tak
+
+434
+0:20:59,700 --> 0:21:02,099
+si ze zvědavosti pohledu na ty mrtvé
+
+435
+0:21:02,099 --> 0:21:05,599
+tělo tak s tím výkřikem On už mě
+
+436
+0:21:05,599 --> 0:21:07,799
+neuvidíš nikdy krásnou zeptat
+
+437
+0:21:08,599 --> 0:21:12,200
+na něj poslala podle logiky 1
+
+438
+0:21:12,200 --> 0:21:15,599
+podle nejhorší Hockey celých 8
+
+439
+0:21:15,599 --> 0:21:19,099
+hnusných zahnívajících babicz jo my a
+
+440
+0:21:19,099 --> 0:21:23,000
+to je právě šikovný takže
+
+441
+0:21:23,000 --> 0:21:25,099
+izanami která se pak vlastně stala
+
+442
+0:21:25,099 --> 0:21:28,200
+personifikací smrti nebo ne božstvem
+
+443
+0:21:28,200 --> 0:21:30,799
+který které dle nebo bydlí nad smrdí
+
+444
+0:21:30,799 --> 0:21:33,400
+jako takovou tak má tyto své přímé
+
+445
+0:21:33,400 --> 0:21:36,900
+služebné jakožto takové dost drsné
+
+446
+0:21:36,900 --> 0:21:40,500
+vykonavatel k její vůle a jak říkám
+
+447
+0:21:40,500 --> 0:21:43,200
+tedy původně krásné nyní už teď pro
+
+448
+0:21:43,200 --> 0:21:45,700
+někoho méně krásné a nebo sedí otáček
+
+449
+0:21:45,700 --> 0:21:47,799
+na ta místa kde jsem slyšel Výkřik něco
+
+450
+0:21:47,799 --> 0:21:51,799
+nechat chvíli služebně tu práci dělají
+
+451
+0:21:51,799 --> 0:21:53,200
+požár na další Slide
+
+452
 0:21:54,299 --> 0:21:56,099
 tady vlastně vidíte jak říkám
 
-432
+453
 0:21:56,099 --> 0:21:59,099
 transformaci včetně těch přehybu toho
 
-433
+454
 0:21:59,099 --> 0:22:01,099
 kimona že vlastně vidíte že pravá část
 
-434
-0:22:01,099 --> 0:22:05,400
-Zaživa má jít jako první ovšem za mrtvá
+455
+0:22:01,099 --> 0:22:04,799
+Zaživa má jít jako první ovšem za
 
-435
-0:22:05,400 --> 0:22:09,000
-Tak říkajíc překrývá levou tento Art za
+456
+0:22:04,799 --> 0:22:08,500
+mrtvá Tak říkajíc překrývá levou tento
 
-436
-0:22:09,000 --> 0:22:10,299
-to můžeme poděkovat tady Now wormovi
+457
+0:22:08,500 --> 0:22:10,000
+Art za to můžeme poděkovat tady Now
 
-437
-0:22:10,299 --> 0:22:14,099
-který nám tu pospává v první řadě a a
+458
+0:22:10,000 --> 0:22:12,500
+wormovi který nám tu pospává v první
 
-438
+459
+0:22:12,500 --> 0:22:14,099
+řadě a a
+
+460
 0:22:14,099 --> 0:22:23,299
 pokud
 
-439
+461
 0:22:23,299 --> 0:22:27,000
 vás zaujal tento Art vězte že sličný
 
-440
+462
 0:22:27,000 --> 0:22:29,900
 neoform vám na natsucon připravil
 
-441
+463
 0:22:29,900 --> 0:22:31,700
 zajímavé překvapení které
 
-442
+464
 0:22:32,700 --> 0:22:34,700
  označíme pojmem peprné
 
-443
+465
 0:22:36,599 --> 0:22:39,200
 bude stát za to kdo má možnost ať
 
-444
+466
 0:22:39,200 --> 0:22:42,099
 nasypu navštíví Jdeme dál pár těch vodu
 
-445
+467
 0:22:42,099 --> 0:22:44,000
 k tomu takže hnusná zahnívající Babis
 
-446
-0:22:44,000 --> 0:22:49,400
-na zemi takže další Slide Ano nejprve 1
-
-447
-0:22:49,400 --> 0:22:51,200
-pak se to asi japoncům zdálo málo když
-
-448
-0:22:51,200 --> 0:22:53,000
-museli kodžiki přepsat protože chtěli
-
-449
-0:22:53,000 --> 0:22:55,099
-být zaujmout na čínském dvoře takže
-
-450
-0:22:55,099 --> 0:22:59,099
-jich rovnou vytvořili osm dalších ano a
-
-451
-0:22:59,099 --> 0:23:02,400
-ty to šikovné schopné pracovat izanagi
-
-452
-0:23:02,400 --> 0:23:05,200
-ho jakožto mužského stvořitelského Boha
-
-453
-0:23:05,200 --> 0:23:07,000
-Japonska to znamená jednu z
-
-454
-0:23:07,000 --> 0:23:09,500
-nejmocnějších bytostí té doby a tak
-
-455
-0:23:09,500 --> 0:23:13,700
-jako vzdorovat jeho úderu mečem celkově
-
-456
-0:23:13,700 --> 0:23:18,299
-se nezastavit ani před takovými věcmi
-
-457
-0:23:18,299 --> 0:23:21,200
-jako jsou vztyčené mocné bariéry a
-
-458
-0:23:21,200 --> 0:23:24,700
-vzrostlý les a podobně Většinu těchto
-
-459
-0:23:24,700 --> 0:23:26,799
-překážek dokázali buďto pozřít a nebo
-
-460
-0:23:26,799 --> 0:23:28,400
-zničit další Slide
-
-461
-0:23:29,000 --> 0:23:33,799
-ano až si izanagi uvědomil že pořád to
-
-462
-0:23:33,799 --> 0:23:38,099
-jsou ženy Možná se jim červy hýbou pod
-
-463
-0:23:38,099 --> 0:23:41,799
-kůží možná ty oční bulvy plandají v tom
-
-464
-0:23:41,799 --> 0:23:45,200
-zahnívající obličeji ale pořád to jsou
-
-465
-0:23:45,200 --> 0:23:49,000
-ženy takže nejprve odhodil krásný
-
-466
-0:23:49,000 --> 0:23:51,700
-hřeben který is Nagy měl ve vlasech vši
-
-467
-0:23:51,700 --> 0:23:54,599
-komise zastavili aby se podívali po
-
 468
-0:23:54,599 --> 0:23:56,900
-hřebenu optej se pak trošku poprali v
+0:22:44,000 --> 0:22:47,400
+na zemi takže další Slide Ano
 
 469
-0:23:56,900 --> 0:24:01,000
-té verzi když jí bylo osm bohužel tato
+0:22:47,400 --> 0:22:50,799
+nejprve 1 pak se to asi japoncům zdálo
 
 470
-0:24:01,000 --> 0:24:03,799
-tento šarvátce nevydržela moc dlouho a
+0:22:50,799 --> 0:22:52,299
+málo když museli kodžiki přepsat
 
 471
-0:24:03,799 --> 0:24:06,400
-za chvíli jsme začali znovu dohánět
+0:22:52,299 --> 0:22:54,299
+protože chtěli být zaujmout na čínském
 
 472
-0:24:06,400 --> 0:24:12,299
-tehdy tedy začal svůj náhrdelník a po
+0:22:54,299 --> 0:22:56,500
+dvoře takže jich rovnou vytvořili osm
 
 473
-0:24:12,299 --> 0:24:13,599
-zemi se rozsypaly korále
+0:22:56,500 --> 0:23:00,500
+dalších ano a ty to šikovné
 
 474
+0:23:00,500 --> 0:23:03,099
+schopné pracovat izanagi ho jakožto
+
+475
+0:23:03,099 --> 0:23:06,000
+mužského stvořitelského Boha Japonska
+
+476
+0:23:06,000 --> 0:23:07,299
+to znamená jednu z nejmocnějších
+
+477
+0:23:07,299 --> 0:23:10,599
+bytostí té doby a tak jako vzdorovat
+
+478
+0:23:10,599 --> 0:23:13,700
+jeho úderu mečem celkově
+
+479
+0:23:13,700 --> 0:23:17,500
+se nezastavit ani před
+
+480
+0:23:17,500 --> 0:23:20,500
+takovými věcmi jako jsou vztyčené mocné
+
+481
+0:23:20,500 --> 0:23:23,799
+bariéry a vzrostlý les a podobně
+
+482
+0:23:23,799 --> 0:23:26,000
+Většinu těchto překážek dokázali buďto
+
+483
+0:23:26,000 --> 0:23:28,400
+pozřít a nebo zničit další Slide
+
+484
+0:23:29,000 --> 0:23:32,900
+ano až si izanagi uvědomil že
+
+485
+0:23:32,900 --> 0:23:36,700
+pořád to jsou ženy Možná se jim červy
+
+486
+0:23:36,700 --> 0:23:40,700
+hýbou pod kůží možná ty oční bulvy
+
+487
+0:23:40,700 --> 0:23:43,799
+plandají v tom zahnívající obličeji ale
+
+488
+0:23:43,799 --> 0:23:47,500
+pořád to jsou ženy takže nejprve
+
+489
+0:23:47,500 --> 0:23:50,299
+odhodil krásný hřeben který is Nagy měl
+
+490
+0:23:50,299 --> 0:23:54,000
+ve vlasech vši komise zastavili aby se
+
+491
+0:23:54,000 --> 0:23:56,299
+podívali po hřebenu optej se pak trošku
+
+492
+0:23:56,299 --> 0:23:58,500
+poprali v té verzi když jí bylo osm
+
+493
+0:23:58,500 --> 0:24:01,900
+bohužel tato tento
+
+494
+0:24:01,900 --> 0:24:04,000
+šarvátce nevydržela moc dlouho a za
+
+495
+0:24:04,000 --> 0:24:07,299
+chvíli jsme začali znovu dohánět tehdy
+
+496
+0:24:07,299 --> 0:24:10,500
+tedy začal svůj
+
+497
+0:24:10,500 --> 0:24:13,099
+náhrdelník a po zemi se rozsypaly
+
+498
+0:24:13,099 --> 0:24:13,599
+korále
+
+499
 0:24:14,500 --> 0:24:17,700
 Ano korálky ten krásný zvuk Lesk a
 
-475
+500
 0:24:17,700 --> 0:24:20,099
 třpyt fungoval to stoprocentně a
 
-476
+501
 0:24:20,099 --> 0:24:23,700
 nakonec když ani to to nemělo to
 
-477
+502
 0:24:23,700 --> 0:24:27,200
 řekněme trvalejší výsledky výsledek
 
-478
+503
 0:24:27,200 --> 0:24:30,099
 sáhnul po ultimátní zbraň vůči všemu
 
-479
+504
 0:24:30,099 --> 0:24:32,900
 ženskému každý muž který musel řešit
 
-480
+505
 0:24:32,900 --> 0:24:36,599
 Nějaký velký hmyz ženské strany ví že
 
-481
+506
 0:24:36,599 --> 0:24:40,200
 pokud pomalu před sebe házíte Copak
 
-482
+507
 0:24:40,200 --> 0:24:42,200
 čokoládu nebo nějakou jinou pochutinu
 
-483
+508
 0:24:42,200 --> 0:24:45,000
 je pak možné se které dravé bytosti
 
-484
+509
 0:24:45,000 --> 0:24:48,000
 přiblížit a pokusit se možná o nějakou
 
-485
+510
 0:24:48,000 --> 0:24:51,299
 formu smíření vynechání tohoto
 
-486
+511
 0:24:51,299 --> 0:24:53,099
 bezpečnostního kroků může vést k tomu
 
-487
+512
 0:24:53,099 --> 0:24:54,900
 že bude to že se s vámi bude naloženo
 
-488
+513
 0:24:54,900 --> 0:24:57,799
 jako s tou čokoládou takže pozor na to
 
-489
+514
 0:24:57,799 --> 0:25:01,799
 tedy když nakonec se do stíhání
 
-490
+515
 0:25:01,799 --> 0:25:04,500
 zapojila i samotná Ivana mi tak vlastně
 
-491
+516
 0:25:04,500 --> 0:25:07,000
 za sebe hodil několik sladkých broskví
 
-492
+517
 0:25:07,000 --> 0:25:08,599
 které zastavili
 
-493
-0:25:09,299 --> 0:25:14,200
-vlastně pochod šikovné které nebyly
+518
+0:25:09,299 --> 0:25:12,700
+vlastně pochod šikovné
 
-494
-0:25:14,200 --> 0:25:16,799
-schopné tak krásnou a sladkou v jestli
+519
+0:25:12,700 --> 0:25:16,000
+které nebyly schopné tak krásnou a
 
-495
-0:25:16,799 --> 0:25:19,599
-překročit klinika je taková vágní neví
+520
+0:25:16,000 --> 0:25:18,599
+sladkou v jestli překročit klinika je
 
-496
-0:25:19,599 --> 0:25:21,700
-se jestli je pozřeli nebo nepozřeli Ale
+521
+0:25:18,599 --> 0:25:20,400
+taková vágní neví se jestli je pozřeli
 
-497
-0:25:21,700 --> 0:25:23,000
-od té doby Japonci věří že právě
+522
+0:25:20,400 --> 0:25:22,400
+nebo nepozřeli Ale od té doby Japonci
 
-498
-0:25:23,000 --> 0:25:25,599
-broskev je má ochranitelský charakter
+523
+0:25:22,400 --> 0:25:24,099
+věří že právě broskev je má
 
-499
-0:25:25,599 --> 0:25:28,099
-proti silám jakožto zásvětí že celkově
+524
+0:25:24,099 --> 0:25:26,200
+ochranitelský charakter proti silám
 
-500
-0:25:28,099 --> 0:25:29,700
-zlým silám které nějakým způsobem a
+525
+0:25:26,200 --> 0:25:28,599
+jakožto zásvětí že celkově zlým silám
 
-501
-0:25:29,700 --> 0:25:33,500
-chtějí škodit vašemu životu Tak já se
+526
+0:25:28,599 --> 0:25:30,200
+které nějakým způsobem a chtějí škodit
 
-502
-0:25:33,500 --> 0:25:36,200
-teď zeptám zas takový menší test
+527
+0:25:30,200 --> 0:25:34,000
+vašemu životu Tak já se teď
 
-503
-0:25:36,200 --> 0:25:40,799
-znalostí nahlášení jak jsem říkal
+528
+0:25:34,000 --> 0:25:37,299
+zeptám zas takový menší test znalostí
 
-504
-0:25:40,799 --> 0:25:45,000
-izanagi izanami spojili několik dětí
+529
+0:25:37,299 --> 0:25:40,799
+nahlášení jak jsem říkal
 
-505
-0:25:45,000 --> 0:25:47,000
-které pak tvoří součást vlastně
+530
+0:25:40,799 --> 0:25:44,700
+izanagi izanami spojili několik
 
-506
+531
+0:25:44,700 --> 0:25:47,000
+dětí které pak tvoří součást vlastně
+
+532
 0:25:47,000 --> 0:25:50,799
 japonského pantheonu při porodu právě
 
-507
+533
 0:25:50,799 --> 0:25:54,299
 toho který zosobňoval oheň izanami
 
-508
+534
 0:25:54,299 --> 0:25:56,900
 zemřel a já se ptám jak se božstvo ohně
 
-509
+535
 0:25:56,900 --> 0:25:58,299
 jmenuje
 
-510
+536
 0:25:59,900 --> 0:26:00,400
  ano
 
-511
+537
 0:26:01,900 --> 0:26:02,400
  jak
 
-512
+538
 0:26:03,500 --> 0:26:06,200
 já už znám tu dnes na správnou slabik
 
-513
+539
 0:26:06,200 --> 0:26:09,900
 vět o kaga cvičit ale máte pravdu Jaký
 
-514
+540
 0:26:09,900 --> 0:26:10,200
 náramek
 
-515
+541
 0:26:12,099 --> 0:26:16,099
 Výborně takhle se na to musí
 
-516
+542
 0:26:16,099 --> 0:26:19,400
 Takže přesně tak jednalo se o
 
-517
+543
 0:26:19,400 --> 0:26:22,400
 prokazujícího kterého pak izanagi když
 
-518
+544
 0:26:22,400 --> 0:26:23,599
 tak jsi viděl Co provedl si ho ne
 
-519
+545
 0:26:23,599 --> 0:26:26,299
 milovanou ženu na místě skaut Ne že by
 
-520
+546
 0:26:26,299 --> 0:26:28,200
 to tohoto Boha ohně zastavilo v tom aby
 
-521
+547
 0:26:28,200 --> 0:26:30,400
 se tak nestalo a tím bohem ohně ale to
 
-522
+548
 0:26:30,400 --> 0:26:32,000
 je i v jiných mytologiích že se znáte
 
-523
+549
 0:26:32,000 --> 0:26:34,400
 ganéšu a další jiné tam jako setnutí
 
-524
+550
 0:26:34,400 --> 0:26:36,799
 hlavy není až takový problém Tak jedeme
 
-525
+551
 0:26:36,799 --> 0:26:38,200
 dál ano
 
-526
+552
 0:26:39,200 --> 0:26:43,099
 kdo by neměl rád Cupu tohle roztomilé
 
-527
+553
 0:26:43,099 --> 0:26:46,799
 vodní stvoření takový japonský vodník
 
-528
+554
 0:26:46,799 --> 0:26:48,500
 jsem slyšel vlastně označit Honěk a
 
-529
+555
 0:26:48,500 --> 0:26:50,400
 některými od a že tě to taková
 
-530
+556
 0:26:50,400 --> 0:26:53,400
 roztomilá a Schwarzmüller že to V
 
-531
+557
 0:26:53,400 --> 0:26:56,400
 potocích řekách a rybnících čas od času
 
-532
+558
 0:26:56,400 --> 0:26:58,900
 to na polích kraje okurky ale co je to
 
-533
+559
 0:26:58,900 --> 0:27:00,700
 roztomilé vždyť to má na hlavě malý
 
-534
+560
 0:27:00,700 --> 0:27:02,700
 bazének s vodou To nemůže být To nemůže
 
-535
+561
 0:27:02,700 --> 0:27:05,400
 být prostě žádný problém že jo no
 
-536
-0:27:06,400 --> 0:27:11,000
-pokud se začtete do těch příběhu Czech
+562
+0:27:06,400 --> 0:27:10,000
+pokud se začtete do těch příběhu
 
-537
-0:27:11,000 --> 0:27:13,400
-Ronic další Slide
+563
+0:27:10,000 --> 0:27:13,400
+Czech Ronic další Slide
 
-538
+564
 0:27:14,799 --> 0:27:17,200
 tak by Kappa měla vypadat spíše nějak
 
-539
+565
 0:27:17,200 --> 0:27:18,200
 takhle
 
-540
+566
 0:27:21,200 --> 0:27:22,599
  kdo by si to nevzal domů že
 
-541
-0:27:25,799 --> 0:27:30,900
-protože ta věc je vysoká tak jako
+567
+0:27:25,799 --> 0:27:29,700
+protože ta věc je vysoká
 
-542
-0:27:30,900 --> 0:27:36,400
-poloviční Japonec Ale dokud má v té
+568
+0:27:29,700 --> 0:27:32,599
+tak jako poloviční Japonec
 
-543
+569
+0:27:32,599 --> 0:27:36,400
+Ale dokud má v té
+
+570
 0:27:36,400 --> 0:27:39,400
 mističce na hlavě vodu tak má
 
-544
+571
 0:27:39,400 --> 0:27:40,900
 neuvěřitelnou sílu
 
-545
+572
 0:27:42,299 --> 0:27:45,700
  mocné pařáty a další Slide
 
-546
+573
 0:27:48,700 --> 0:27:51,200
 vedle těch okurek nepohrdne lidským
 
-547
+574
 0:27:51,200 --> 0:27:51,299
 masem
 
-548
+575
 0:27:52,900 --> 0:27:56,400
 Ano ten zobák vám dokáže utrhnout
 
-549
+576
 0:27:56,400 --> 0:27:59,400
 končetiny Japonci zvláštní který období
 
-550
+577
 0:27:59,400 --> 0:28:01,900
 se možná až vyžívali v popisování
 
-551
+578
 0:28:01,900 --> 0:28:03,900
 různých věcí které sami Kappa může
 
-552
+579
 0:28:03,900 --> 0:28:04,200
 udělat
 
-553
+580
 0:28:06,200 --> 0:28:10,000
 pařáty vás dokáží roztrhat A obvykle
 
-554
+581
 0:28:10,000 --> 0:28:13,400
 nefiguruje úplně sama ve většině
 
-555
+582
 0:28:13,400 --> 0:28:15,700
 příběhu tak další Slide
 
-556
+583
 0:28:16,700 --> 0:28:17,400
  ano
 
-557
+584
 0:28:18,500 --> 0:28:22,000
 vlastně Máme záznam o tom jak bývalý
 
-558
+585
 0:28:22,000 --> 0:28:24,400
 jak jsou kapely podle představivosti
 
-559
+586
 0:28:24,400 --> 0:28:27,299
 japonců asi silné a to byl příběh
 
-560
+587
 0:28:27,299 --> 0:28:30,200
 jistého Samara jménem shop který se byl
 
-561
-0:28:30,200 --> 0:28:34,599
-nucen utkat vlastně
+588
+0:28:30,200 --> 0:28:31,799
+nucen utkat
 
-562
+589
+0:28:31,799 --> 0:28:34,599
+vlastně
+
+590
 0:28:36,099 --> 0:28:38,299
 nejprve podlehl Stick API která se
 
-563
+591
 0:28:38,299 --> 0:28:39,799
 snažila tvářit Ale dyť já jsem taková
 
-564
+592
 0:28:39,799 --> 0:28:43,400
 jako malá hnusná želva s velkými pařát
 
-565
+593
 0:28:43,400 --> 0:28:45,500
 tam a já ti nemůžu nějak ublížit jsem
 
-566
+594
 0:28:45,500 --> 0:28:47,900
 se slabý stvoření Oni na to naletěl a
 
-567
+595
 0:28:47,900 --> 0:28:50,700
 souhlas se tedy na přetahování s lanem
 
-568
-0:28:50,700 --> 0:28:55,299
-Topo řekla no tak dobře uvidíme Kdo z
+596
+0:28:50,700 --> 0:28:53,599
+Topo řekla no tak dobře
 
-569
-0:28:55,299 --> 0:28:59,099
-nás je silnější naštěstí měl velké
+597
+0:28:53,599 --> 0:28:56,299
+uvidíme Kdo z nás je silnější
 
-570
-0:28:59,099 --> 0:29:04,299
-štěstí protože ho na cestách doprovázel
+598
+0:28:56,299 --> 0:29:00,299
+naštěstí měl velké štěstí protože ho
 
-571
+599
+0:29:00,299 --> 0:29:04,299
+na cestách doprovázel
+
+600
 0:29:04,299 --> 0:29:06,500
 moudrý Muž který mu poradil že Hele
 
-572
+601
 0:29:06,500 --> 0:29:09,099
 možná když tak jako stanu souhlasila s
 
-573
+602
 0:29:09,099 --> 0:29:11,200
 podobnými věcmi Tak pa má něco za lubem
 
-574
+603
 0:29:11,200 --> 0:29:15,099
 buď připravený tak si vymysleli že tady
 
-575
+604
 0:29:15,099 --> 0:29:17,599
 jsem byl přetahovat přes lano a přes
 
-576
+605
 0:29:17,599 --> 0:29:20,599
 lano vlastně a měla jsem a neviděli
 
-577
+606
 0:29:20,599 --> 0:29:22,000
 které povede skrze stodolu
 
-578
+607
 0:29:23,099 --> 0:29:26,000
 a na druhém konci toho lan a mýlíš o
 
-579
+608
 0:29:26,000 --> 0:29:29,599
 vzal svého tažného koně přivázal k tomu
 
-580
+609
 0:29:29,599 --> 0:29:33,200
 lanu a tedy začali s přetahováním tak
 
-581
+610
 0:29:33,200 --> 0:29:36,400
 Kappa toho koně málem udělala
 
-582
+611
 0:29:37,200 --> 0:29:39,299
 já si někdo z vás někdy zkoušel nebo
 
-583
+612
 0:29:39,299 --> 0:29:41,099
 viděla co takový tažný kůň třeba udělá
 
-584
+613
 0:29:41,099 --> 0:29:44,000
 přetahování S60 lidmi tak si umí
 
-585
+614
 0:29:44,000 --> 0:29:46,200
 představit co taková Kappa která skoro
 
-586
+615
 0:29:46,200 --> 0:29:48,700
 udělá tažného koně můžou dělat s jedním
 
-587
+616
 0:29:48,700 --> 0:29:48,900
 člověkem
 
-588
+617
 0:29:51,000 --> 0:29:53,000
 Ano pořád to chcete vzít domů jak je to
 
-589
+618
 0:29:53,000 --> 0:29:53,200
 roztomilé
 
-590
+619
 0:29:54,900 --> 0:29:57,500
  jako To objetí bude opravdu poslední
 
-591
-0:29:59,599 --> 0:30:03,700
- tedy kdyby šlo o obětí další Slide
+620
+0:29:59,599 --> 0:30:03,299
+tedy kdyby šlo o obětí další
 
-592
+621
+0:30:03,299 --> 0:30:03,700
+Slide
+
+622
 0:30:05,099 --> 0:30:08,799
 ano Pokud se vám povede Cupu přimět
 
-593
+623
 0:30:08,799 --> 0:30:11,700
 nejčastěji nějakým důmyslným pozdravem
 
-594
+624
 0:30:11,700 --> 0:30:14,400
 tak bych vám poklonila že jí překotit
 
-595
+625
 0:30:14,400 --> 0:30:16,599
 což není zrovna snadné Díky její síle a
 
-596
+626
 0:30:16,599 --> 0:30:20,599
 vylijete jí tu nádobku s vodou některé
 
-597
+627
 0:30:20,599 --> 0:30:22,599
 kroniky říkají že přijde o svůj
 
-598
+628
 0:30:22,599 --> 0:30:25,000
 nadlidskou sílu a je pak slabá jako
 
-599
+629
 0:30:25,000 --> 0:30:28,000
 dítě jiné tvrdí že přímo zemře Takže je
 
-600
+630
 0:30:28,000 --> 0:30:30,799
 to jedna z mých možností co z ní udělat
 
-601
+631
 0:30:30,799 --> 0:30:34,099
 tedy snadných tažný kůň jsme zase u
 
-602
-0:30:34,099 --> 0:30:38,900
-toho ovšem jsou provincie které k
+632
+0:30:34,099 --> 0:30:37,599
+toho ovšem jsou
 
-603
-0:30:38,900 --> 0:30:43,599
-legendám okapy a dodávají nových šmrnc
+633
+0:30:37,599 --> 0:30:40,700
+provincie které k legendám okapy a
 
-604
-0:30:43,599 --> 0:30:45,000
-další Slide
+634
+0:30:40,700 --> 0:30:44,599
+dodávají nových šmrnc další
 
-605
+635
+0:30:44,599 --> 0:30:45,000
+Slide
+
+636
 0:30:46,900 --> 0:30:50,500
 jo zase lásky a hazardní hry viz
 
-606
+637
 0:30:50,500 --> 0:30:52,599
 přetahování toto
 
-607
+638
 0:30:54,799 --> 0:30:58,200
 otázka Do publika nahlášení tuší někdo
 
-608
-0:30:58,200 --> 0:31:02,599
-z vás co má tenhle dřevoryt symbol
+639
+0:30:58,200 --> 0:31:01,900
+z vás co má tenhle dřevoryt
 
-609
-0:31:02,599 --> 0:31:03,700
-zobrazovat ano
+640
+0:31:01,900 --> 0:31:03,700
+symbol zobrazovat ano
 
-610
+641
 0:31:12,900 --> 0:31:16,099
 Tady bych řekl tak Blízko a přece tak
 
-611
+642
 0:31:16,099 --> 0:31:16,599
 daleko
 
-612
+643
 0:31:18,200 --> 0:31:18,900
  někdo další
 
-613
+644
 0:31:23,400 --> 0:31:24,000
  ne
 
-614
+645
 0:31:25,500 --> 0:31:26,000
  ano
 
-615
+646
 0:31:29,700 --> 0:31:30,099
  jak
 
-616
-0:31:31,500 --> 0:31:36,900
-přesně tak řekněme že prd
+647
+0:31:31,500 --> 0:31:35,400
+přesně tak řekněme že
 
-617
-0:31:36,900 --> 0:31:40,099
-člověka je pro ní vcelku nepříjemná věc
+648
+0:31:35,400 --> 0:31:39,299
+prd člověka je pro ní vcelku
 
-618
-0:31:40,099 --> 0:31:43,900
-Ono pro koho by nebyl a proto v
+649
+0:31:39,299 --> 0:31:42,099
+nepříjemná věc Ono pro koho by nebyl a
 
-619
-0:31:43,900 --> 0:31:46,000
-některých regionech je doporučováno že
+650
+0:31:42,099 --> 0:31:45,099
+proto v některých regionech je
 
-620
-0:31:46,000 --> 0:31:48,200
-jde tedy se koupat tak před tím
+651
+0:31:45,099 --> 0:31:47,299
+doporučováno že jde tedy se koupat tak
 
-621
-0:31:48,200 --> 0:31:49,599
-rozhodně nejste okurky
+652
+0:31:47,299 --> 0:31:49,599
+před tím rozhodně nejste okurky
 
-622
-0:31:50,400 --> 0:31:54,500
-a ještě lépe pokud možno nakrmte třeba
+653
+0:31:50,400 --> 0:31:54,000
+a ještě lépe pokud možno nakrmte
 
-623
-0:31:54,500 --> 0:31:57,599
-červenými fazolemi či v kombinaci s
+654
+0:31:54,000 --> 0:31:57,599
+třeba červenými fazolemi či v kombinaci
 
-624
+655
 0:31:57,599 --> 0:32:00,099
-wasabi a takové ty pěkné kombinace
+s wasabi a takové ty pěkné kombinace
 
-625
+656
 0:32:00,099 --> 0:32:03,000
 které působí že pak můžete mít skoro
 
-626
+657
 0:32:03,000 --> 0:32:06,200
 reaktivní pohon to protože když by
 
-627
-0:32:06,200 --> 0:32:10,900
-náhodou došlo na nejhorší tak můžete na
+658
+0:32:06,200 --> 0:32:09,700
+náhodou došlo na nejhorší tak můžete
 
-628
-0:32:10,900 --> 0:32:12,900
-kapu tedy vrhnout
+659
+0:32:09,700 --> 0:32:12,900
+na kapu tedy vrhnout
 
-629
-0:32:15,299 --> 0:32:20,299
-nastřádané plyny a uniknout do bezpečí
+660
+0:32:15,299 --> 0:32:19,299
+nastřádané plyny a uniknout
 
-630
-0:32:20,299 --> 0:32:25,200
-břehu teď další svaly
+661
+0:32:19,299 --> 0:32:20,700
+do bezpečí břehu
 
-631
+662
+0:32:20,700 --> 0:32:24,599
+teď další
+
+663
+0:32:24,599 --> 0:32:25,200
+svaly
+
+664
 0:32:26,200 --> 0:32:28,200
 to proto že pokud se vám nepovede
 
-632
+665
 0:32:28,200 --> 0:32:29,500
 uniknout
 
-633
+666
 0:32:31,400 --> 0:32:35,299
 tak Kappa obvykle jak jsem říkal má
 
-634
+667
 0:32:35,299 --> 0:32:37,000
 slabost pro lidské maso a v některých
 
-635
+668
 0:32:37,000 --> 0:32:40,200
 provinciích získává vaše vnitřnosti a
 
-636
+669
 0:32:40,200 --> 0:32:43,599
 použijeme pokud do ní reference kdo to
 
-637
+670
 0:32:43,599 --> 0:32:44,500
 viděl predátora
 
-638
+671
 0:32:46,099 --> 0:32:49,400
 výborně Víte jak Predátor získával své
 
-639
+672
 0:32:49,400 --> 0:32:53,099
 trofeje z lidí obvykle za páteř V2
 
-640
+673
 0:32:53,099 --> 0:32:55,099
 lebeční komoru a tak dále se vším všudy
 
-641
-0:32:55,099 --> 0:32:59,299
-No a Kappa to bere i jiným směrem
+674
+0:32:55,099 --> 0:32:58,700
+No a Kappa to bere i jiným
 
-642
-0:33:01,299 --> 0:33:05,799
-a tedy bere to se střevy celým trávicím
+675
+0:32:58,700 --> 0:32:59,299
+směrem
 
-643
-0:33:05,799 --> 0:33:08,599
-traktem a nich někteří romanopisci
+676
+0:33:01,299 --> 0:33:05,200
+a tedy bere to se střevy celým
 
-644
-0:33:08,599 --> 0:33:09,900
-uvádí i částí plic
+677
+0:33:05,200 --> 0:33:07,099
+trávicím traktem a nich někteří
 
-645
+678
+0:33:07,099 --> 0:33:09,900
+romanopisci uvádí i částí plic
+
+679
 0:33:11,500 --> 0:33:13,500
  Ano to vše tím místem
 
-646
-0:33:17,900 --> 0:33:22,500
-co víc existuje několik dalších pověstí
+680
+0:33:17,900 --> 0:33:21,700
+co víc existuje několik dalších
 
-647
-0:33:22,500 --> 0:33:25,200
-které dokonce říkají že je to maso tak
+681
+0:33:21,700 --> 0:33:24,000
+pověstí které dokonce říkají že je to
 
-648
-0:33:25,200 --> 0:33:28,599
-říkajíc i pro ní druhotný prvek protože
+682
+0:33:24,000 --> 0:33:27,000
+maso tak říkajíc i pro ní druhotný
 
-649
-0:33:28,599 --> 0:33:30,799
-to co skutečně chce další Slide
+683
+0:33:27,000 --> 0:33:30,299
+prvek protože to co skutečně chce další
 
-650
+684
+0:33:30,299 --> 0:33:30,799
+Slide
+
+685
 0:33:32,500 --> 0:33:34,799
  je takzvaná kšíry kodama
 
-651
-0:33:36,000 --> 0:33:40,799
- volně přeloženo anální Korálek
+686
+0:33:36,000 --> 0:33:37,200
+volně přeloženo
 
-652
-0:33:44,900 --> 0:33:49,200
-tato zvláštní věc která není nikde
+687
+0:33:37,200 --> 0:33:40,799
+anální Korálek
 
-653
-0:33:49,200 --> 0:33:51,500
-úplně přesně popsána Takže mnozí
+688
+0:33:44,900 --> 0:33:48,799
+tato zvláštní věc která není
 
-654
+689
+0:33:48,799 --> 0:33:51,500
+nikde úplně přesně popsána Takže mnozí
+
+690
 0:33:51,500 --> 0:33:54,400
 etnologové Ano vysokoškolsky vzdělaní
 
-655
+691
 0:33:54,400 --> 0:33:58,200
 lidé utrácí státní granty na to aby se
 
-656
+692
 0:33:58,200 --> 0:34:00,599
 pokoušeli rozkódovat některé pověsti
 
-657
-0:34:00,599 --> 0:34:06,299
-zahrnující široké jakožto co to vlastně
+693
+0:34:00,599 --> 0:34:01,700
+zahrnující široké
 
-658
-0:34:06,299 --> 0:34:09,500
-má být tak dochází k závěru že se jedná
+694
+0:34:01,700 --> 0:34:05,700
+jakožto co to
 
-659
-0:34:09,500 --> 0:34:13,199
-buď o delikatesu něco jako jako
+695
+0:34:05,700 --> 0:34:09,300
+vlastně má být tak dochází k závěru že
 
-660
-0:34:13,199 --> 0:34:16,599
-třešničku na dortu z manem člověk
+696
+0:34:09,300 --> 0:34:13,099
+se jedná buď o delikatesu něco jako
 
-661
-0:34:18,300 --> 0:34:23,699
-či personifikace mění Pardon zmocnění
+697
+0:34:13,099 --> 0:34:16,599
+jako třešničku na dortu z manem člověk
 
-662
-0:34:23,699 --> 0:34:24,599
-lidské duše
+698
+0:34:18,300 --> 0:34:21,599
+či personifikace
 
-663
+699
+0:34:21,599 --> 0:34:24,599
+mění Pardon zmocnění lidské duše
+
+700
 0:34:26,000 --> 0:34:29,800
 což je řekněme nebudeme tak raději
 
-664
+701
 0:34:29,800 --> 0:34:31,699
 uvažovat o tom co má taky české vodník
 
-665
+702
 0:34:31,699 --> 0:34:34,300
 Česílko v těch hrníčcích že mu tak jako
 
-666
+703
 0:34:34,300 --> 0:34:34,900
 bublají
 
-667
-0:34:38,800 --> 0:34:43,000
-a pak se a do těchto teorií pak tak
+704
+0:34:38,800 --> 0:34:42,699
+a pak se a do těchto teorií pak
 
-668
-0:34:43,000 --> 0:34:45,800
-říkajíc vstoupí nalezení svitek asi
+705
+0:34:42,699 --> 0:34:45,800
+tak říkajíc vstoupí nalezení svitek asi
 
-669
+706
 0:34:45,800 --> 0:34:48,900
 před 20 lety který popisuje nebožáka
 
-670
+707
 0:34:48,900 --> 0:34:51,199
 zabitého kapou tím způsobem který jsem
 
-671
+708
 0:34:51,199 --> 0:34:53,800
 popsal předtím která se netvářila moc
 
-672
+709
 0:34:53,800 --> 0:34:55,300
 nadšeně na na to Co drží v rukách
 
-673
+710
 0:34:56,599 --> 0:34:59,900
  Takže mám to a jako k čemu mi to je
 
-674
+711
 0:35:01,900 --> 0:35:04,199
 My nevím Jediné co snad po dveře
 
-675
+712
 0:35:04,199 --> 0:35:06,000
 povedlo ještě zjistit je že v jedné z
 
-676
+713
 0:35:06,000 --> 0:35:08,500
 Pobřežní provincie ostrov Hokkaidó je
 
-677
-0:35:08,500 --> 0:35:14,400
-vlastně vypráví příběh o kapie která
+714
+0:35:08,500 --> 0:35:12,500
+vlastně vypráví příběh o
 
-678
-0:35:14,400 --> 0:35:18,500
-si ricotta mu darovala severnímu
+715
+0:35:12,500 --> 0:35:15,699
+kapie která si ricotta mu
 
-679
+716
+0:35:15,699 --> 0:35:18,500
+darovala severnímu
+
+717
 0:35:18,500 --> 0:35:22,099
 mořskému králi který jakožto mozkem
 
-680
+718
 0:35:22,099 --> 0:35:25,599
 drakovi který velmi ochotně přijal jako
 
-681
+719
 0:35:25,599 --> 0:35:26,699
 velký dar
 
-682
+720
 0:35:27,699 --> 0:35:30,400
 proč by si někdo toto dával do
 
-683
+721
 0:35:30,400 --> 0:35:32,099
 pokladnice také není známo ale
 
-684
+722
 0:35:34,699 --> 0:35:36,699
 můžeme použít je to jsou to Japonci a
 
-685
+723
 0:35:36,699 --> 0:35:39,500
 nebo tedy asi od po tom nebudeme dál
 
-686
+724
 0:35:39,500 --> 0:35:43,000
 pátrat tedy roztomilá kapat o stvoření
 
-687
+725
 0:35:43,000 --> 0:35:46,800
 které mají všichni rádi tak jen na vás
 
-688
+726
 0:35:46,800 --> 0:35:49,400
 zdali byste tohle chtěli mít doma třeba
 
-689
+727
 0:35:49,400 --> 0:35:49,800
 ve vaně
 
-690
+728
 0:35:51,199 --> 0:35:53,300
  No další Slide
 
-691
+729
 0:35:55,800 --> 0:35:59,500
 Přesně tak měli jsme tu jedno roztomilé
 
-692
+730
 0:35:59,500 --> 0:36:01,599
 stvoření přecházíme k jiným roztomilému
 
-693
+731
 0:36:01,599 --> 0:36:04,699
 stvoření a natáhnu se v obličeji
 
-694
+732
 0:36:04,699 --> 0:36:07,599
 některých kteří si domýšlet co jsem ho
 
-695
+733
 0:36:07,599 --> 0:36:10,199
 tanuki je kouzelná Ne už to nebude
 
-696
-0:36:10,199 --> 0:36:14,800
-Zahrnovat šedý Konami Tak první otázka
+734
+0:36:10,199 --> 0:36:12,599
+Zahrnovat šedý Konami Tak
 
-697
-0:36:14,800 --> 0:36:15,599
-na publikum
+735
+0:36:12,599 --> 0:36:15,599
+první otázka na publikum
 
-698
+736
 0:36:16,900 --> 0:36:19,199
  z jakého anime je tento obrázek
 
-699
-0:36:22,699 --> 0:36:27,500
-Ano jak pom Poko Přesně tak studio
+737
+0:36:22,699 --> 0:36:26,199
+Ano jak pom Poko
 
-700
-0:36:27,500 --> 0:36:28,599
-Ghibli náramek
+738
+0:36:26,199 --> 0:36:28,599
+Přesně tak studio Ghibli náramek
 
-701
+739
 0:36:29,500 --> 0:36:30,000
  sakra
 
-702
+740
 0:36:37,400 --> 0:36:40,099
 pant oko tanuki kteří se snaží chránit
 
-703
+741
 0:36:40,099 --> 0:36:43,000
 svůj hlas před zlými stavaři kteří se
 
-704
+742
 0:36:43,000 --> 0:36:45,199
 ho snaží zbourat vytěžit a na jeho
 
-705
+743
 0:36:45,199 --> 0:36:46,699
 místě postavit nějaké obytné domy
 
-706
-0:36:46,699 --> 0:36:51,199
-prostě hnusní lidé tak co se o nich
+744
+0:36:46,699 --> 0:36:48,900
+prostě hnusní lidé tak
 
-707
-0:36:51,199 --> 0:36:53,699
-vlastně můžeme dozvědět další Slide
+745
+0:36:48,900 --> 0:36:52,699
+co se o nich vlastně můžeme dozvědět
 
-708
+746
+0:36:52,699 --> 0:36:53,699
+další Slide
+
+747
 0:36:54,300 --> 0:36:58,000
 ano Za prvé je to mytologická bytost
 
-709
-0:36:58,000 --> 0:37:03,000
-která má zoologický podklad psík
+748
+0:36:58,000 --> 0:37:01,900
+která má zoologický podklad
 
-710
-0:37:03,000 --> 0:37:06,099
-mývalovitý který obývá část Japonska
+749
+0:37:01,900 --> 0:37:05,599
+psík mývalovitý který obývá část
 
-711
-0:37:06,099 --> 0:37:08,199
-tedy Japonsku se ho povedlo skoro
+750
+0:37:05,599 --> 0:37:07,900
+Japonska tedy Japonsku se ho povedlo
 
-712
-0:37:08,199 --> 0:37:10,599
-úspěšně vyhladit Díky změnám v jeho
+751
+0:37:07,900 --> 0:37:10,400
+skoro úspěšně vyhladit Díky změnám v
 
-713
-0:37:10,599 --> 0:37:13,400
-životním prostředím na druhou stranu i
+752
+0:37:10,400 --> 0:37:12,800
+jeho životním prostředím na druhou
 
-714
-0:37:13,400 --> 0:37:15,199
-některé jeho poddruhy se dokázali v
+753
+0:37:12,800 --> 0:37:14,699
+stranu i některé jeho poddruhy se
 
-715
-0:37:15,199 --> 0:37:16,500
-saku slušně přizpůsobit životu ve
+754
+0:37:14,699 --> 0:37:16,199
+dokázali v saku slušně přizpůsobit
 
-716
-0:37:16,500 --> 0:37:18,800
-městech on a přiznejme si Když nemusíte
+755
+0:37:16,199 --> 0:37:17,800
+životu ve městech on a přiznejme si
 
-717
-0:37:18,800 --> 0:37:21,300
-lovit a jídlo máte v nejbližší
+756
+0:37:17,800 --> 0:37:20,800
+Když nemusíte lovit a jídlo máte v
 
-718
-0:37:21,300 --> 0:37:23,400
-popelnici Tak jako proč bych proč by
+757
+0:37:20,800 --> 0:37:22,699
+nejbližší popelnici Tak jako proč bych
 
-719
-0:37:23,400 --> 0:37:26,400
-vás lákalo nějakej les ale to už je
+758
+0:37:22,699 --> 0:37:26,199
+proč by vás lákalo nějakej les ale to
 
-720
-0:37:26,400 --> 0:37:29,400
-vedlejší Takže tanuki co jsi vlastně o
+759
+0:37:26,199 --> 0:37:29,000
+už je vedlejší Takže tanuki co jsi
 
-721
-0:37:29,400 --> 0:37:31,900
-těhle těch tvorech mohli se všechno
+760
+0:37:29,000 --> 0:37:31,500
+vlastně o těhle těch tvorech mohli se
 
-722
-0:37:31,900 --> 0:37:33,500
-Japonci vymyslet
+761
+0:37:31,500 --> 0:37:33,500
+všechno Japonci vymyslet
 
-723
+762
 0:37:34,199 --> 0:37:34,800
  náš Is Like
 
-724
+763
 0:37:36,099 --> 0:37:39,900
 Tak vymysli si o nich to že někteří z
 
-725
-0:37:39,900 --> 0:37:44,900
-těchto zvířecích tvorů dosáhnou věku a
+764
+0:37:39,900 --> 0:37:41,699
+těchto zvířecích tvorů
 
-726
-0:37:44,900 --> 0:37:48,400
-jisté míry schopností která je povýší
+765
+0:37:41,699 --> 0:37:45,599
+dosáhnou věku a jisté
 
-727
-0:37:48,400 --> 0:37:51,400
-na normální zvířata to proto že získají
+766
+0:37:45,599 --> 0:37:48,599
+míry schopností která je povýší na
 
-728
-0:37:51,400 --> 0:37:55,500
-velmi pronikavý intelekt a velice často
+767
+0:37:48,599 --> 0:37:51,400
+normální zvířata to proto že získají
 
-729
-0:37:55,500 --> 0:37:58,000
-přístup k různým formám magie
+768
+0:37:51,400 --> 0:37:55,300
+velmi pronikavý intelekt a velice
 
-730
+769
+0:37:55,300 --> 0:37:58,000
+často přístup k různým formám magie
+
+770
 0:37:58,900 --> 0:38:02,599
 nejčastěji zahrnující proměny a iluze
 
-731
+771
 0:38:02,599 --> 0:38:06,400
 že dokážeme nic sebe či maskovat různé
 
-732
+772
 0:38:06,400 --> 0:38:08,599
 věci a to dokonce i ve velkém rozsahu
 
-733
+773
 0:38:08,599 --> 0:38:12,400
 či vlastně nahrazovat některé lidi jako
 
-734
+774
 0:38:12,400 --> 0:38:13,900
 že se vám dokáže vydávat za výslovně
 
-735
+775
 0:38:13,900 --> 0:38:16,099
 specifické jedince To znamená že třeba
 
-736
+776
 0:38:16,099 --> 0:38:19,099
 tahle Kraso může být klidně tanuki
 
-737
+777
 0:38:19,099 --> 0:38:21,099
 který v podstatě působí tady animefestu
 
-738
+778
 0:38:21,099 --> 0:38:21,800
 všechny technické problémy
 
-739
+779
 0:38:23,699 --> 0:38:25,599
 doufejme že tomu tak není a je to jiné
 
-740
+780
 0:38:25,599 --> 0:38:27,199
 je to jen nějaký z jeho podřízených
 
-741
+781
 0:38:27,199 --> 0:38:29,400
 Takže bude potřeba pak zavést nějaké
 
-742
+782
 0:38:29,400 --> 0:38:32,900
 vymítání technické sekce tak další
 
-743
+783
 0:38:32,900 --> 0:38:33,099
 Slide
 
-744
+784
 0:38:34,199 --> 0:38:37,800
 Ano Tím to ale nekončí protože tihle
 
-745
+785
 0:38:37,800 --> 0:38:41,500
 mocní tanuki obvykle kolem sebe
 
-746
-0:38:41,500 --> 0:38:45,800
-shromáždil jiné méně mocné tanuki a v
+786
+0:38:41,500 --> 0:38:44,599
+shromáždil jiné méně mocné tanuki a
 
-747
-0:38:45,800 --> 0:38:49,000
-podstatě s nimi podstatě si vytvoříme
+787
+0:38:44,599 --> 0:38:48,300
+v podstatě s nimi podstatě si
 
-748
-0:38:49,000 --> 0:38:52,599
-smečku ale klan klan který má
+788
+0:38:48,300 --> 0:38:52,300
+vytvoříme smečku ale klan klan který
 
-749
-0:38:52,599 --> 0:38:55,599
-jednotlivá hierarchická patra která
+789
+0:38:52,300 --> 0:38:55,599
+má jednotlivá hierarchická patra která
 
-750
-0:38:55,599 --> 0:38:59,699
-přesně odpovídají takové málo známé
+790
+0:38:55,599 --> 0:38:59,300
+přesně odpovídají takové málo
 
-751
-0:38:59,699 --> 0:39:01,400
-japonské organizaci My jsme se jmenuje
+791
+0:38:59,300 --> 0:39:01,199
+známé japonské organizaci My jsme se
 
-752
-0:39:01,400 --> 0:39:01,699
-Yakuza
+792
+0:39:01,199 --> 0:39:01,699
+jmenuje Yakuza
 
-753
-0:39:03,400 --> 0:39:07,699
-máte toho oyabun a to Hobo se máte ty
+793
+0:39:03,400 --> 0:39:07,400
+máte toho oyabun a to Hobo se máte
 
-754
-0:39:07,699 --> 0:39:11,599
-jeho pobočník i nějaké typ správci
+794
+0:39:07,400 --> 0:39:10,699
+ty jeho pobočník i nějaké typ
 
-755
-0:39:11,599 --> 0:39:14,099
-jednotlivých oblastí a mladší bratry
+795
+0:39:10,699 --> 0:39:13,699
+správci jednotlivých oblastí a mladší
 
-756
-0:39:14,099 --> 0:39:15,599
-které se postarají o takové ty věci
+796
+0:39:13,699 --> 0:39:15,400
+bratry které se postarají o takové ty
 
-757
-0:39:15,599 --> 0:39:16,199
-kolem
+797
+0:39:15,400 --> 0:39:16,199
+věci kolem
 
-758
-0:39:17,599 --> 0:39:21,900
-další Slide a v těch příbězích těmto
+798
+0:39:17,599 --> 0:39:21,400
+další Slide a v těch příbězích
 
-759
-0:39:21,900 --> 0:39:24,199
-kolenům nejsou cizí takové věci jako
+799
+0:39:21,400 --> 0:39:24,000
+těmto kolenům nejsou cizí takové věci
 
-760
-0:39:24,199 --> 0:39:27,599
-jsou války o teritorium ať už Mezi
+800
+0:39:24,000 --> 0:39:27,599
+jako jsou války o teritorium ať už Mezi
 
-761
+801
 0:39:27,599 --> 0:39:29,500
 tanuki mezi vetnymi cleny tanuki nebo
 
-762
+802
 0:39:29,500 --> 0:39:32,800
 mezi tanky a lidmi nejsou vůbec cizí
 
-763
+803
 0:39:32,800 --> 0:39:36,099
 mafiánské praktiky to znamená vybírání
 
-764
+804
 0:39:36,099 --> 0:39:36,199
 výpalného
 
-765
+805
 0:39:37,900 --> 0:39:41,800
 korupce na různých místech a státních
 
-766
-0:39:41,800 --> 0:39:47,599
-úřadech realitní machinace protože
+806
+0:39:41,800 --> 0:39:45,500
+úřadech realitní
 
-767
-0:39:47,599 --> 0:39:50,000
-jako váš dům bude hořet i si ho
+807
+0:39:45,500 --> 0:39:49,199
+machinace protože jako váš dům bude
 
-768
-0:39:50,000 --> 0:39:52,900
-postavíte Je to jednoduché a nás
+808
+0:39:49,199 --> 0:39:51,400
+hořet i si ho postavíte Je to
 
-769
-0:39:52,900 --> 0:39:55,900
-neuvidíte mi si přijdeme nechce takže
+809
+0:39:51,400 --> 0:39:54,000
+jednoduché a nás neuvidíte mi si
 
-770
-0:39:55,900 --> 0:39:58,500
-buď se dohodneme a nebo vás to bude
+810
+0:39:54,000 --> 0:39:57,300
+přijdeme nechce takže buď se dohodneme
 
-771
-0:39:58,500 --> 0:39:58,699
-bolet
+811
+0:39:57,300 --> 0:39:58,699
+a nebo vás to bude bolet
 
-772
+812
 0:40:00,000 --> 0:40:02,500
 A samozřejmě když ten oyabun tak jako
 
-773
+813
 0:40:02,500 --> 0:40:05,599
 umře Tak jsou ty příběhy o tom jak se
 
-774
+814
 0:40:05,599 --> 0:40:09,000
 ti tanuki tak jako ožralý mezi sebou ve
 
-775
+815
 0:40:09,000 --> 0:40:12,699
 válce o následnictví takže milý
 
-776
-0:40:12,699 --> 0:40:17,000
-roztomilý jako Zak s příjemným kožíškem
+816
+0:40:12,699 --> 0:40:16,500
+roztomilý jako Zak s příjemným
 
-777
+817
+0:40:16,500 --> 0:40:17,000
+kožíškem
+
+818
 0:40:18,400 --> 0:40:22,000
 je tedy verze tanuki kterou opravdu v
 
-778
+819
 0:40:22,000 --> 0:40:24,599
 málo že najdete ale v kronikách je dost
 
-779
-0:40:24,599 --> 0:40:29,800
-často další ano navíc
+820
+0:40:24,599 --> 0:40:27,699
+často další ano
 
-780
-0:40:29,800 --> 0:40:34,699
-je to velmi specifický kanadský žert
+821
+0:40:27,699 --> 0:40:31,300
+navíc je to velmi
 
-781
-0:40:34,699 --> 0:40:39,099
-podle různých provincií a různých
+822
+0:40:31,300 --> 0:40:34,699
+specifický kanadský žert
 
-782
-0:40:39,099 --> 0:40:40,599
-historických figur kterým je
+823
+0:40:34,699 --> 0:40:38,000
+podle různých provincií a
 
-783
+824
+0:40:38,000 --> 0:40:40,599
+různých historických figur kterým je
+
+825
 0:40:40,599 --> 0:40:42,599
 přisuzováno to že to byly tanuki ať
 
-784
+826
 0:40:42,599 --> 0:40:44,300
 drží stopu je buďto jako lidé nebo jako
 
-785
-0:40:44,300 --> 0:40:48,599
-tanuki tak přisuzuje dost zajímavé
+827
+0:40:44,300 --> 0:40:48,000
+tanuki tak přisuzuje dost
 
-786
-0:40:48,599 --> 0:40:53,800
-žerty máte žerty máte zprávy o tom že
+828
+0:40:48,000 --> 0:40:51,400
+zajímavé žerty máte
 
-787
-0:40:53,800 --> 0:40:57,599
-třeba u několika mostu místní tanuki
+829
+0:40:51,400 --> 0:40:54,500
+žerty máte zprávy o tom že třeba u
 
-788
-0:40:57,599 --> 0:40:59,099
-dělá tu věc že když je přicházíte o
+830
+0:40:54,500 --> 0:40:58,000
+několika mostu místní tanuki dělá tu
 
-789
-0:40:59,099 --> 0:41:01,400
-půlnoci tak přijdete most a na druhé
+831
+0:40:58,000 --> 0:40:59,900
+věc že když je přicházíte o půlnoci tak
 
-790
-0:41:01,400 --> 0:41:03,500
-straně z tebe bez vlasů úplně holohlavý
+832
+0:40:59,900 --> 0:41:01,800
+přijdete most a na druhé straně z tebe
 
-791
-0:41:03,500 --> 0:41:07,099
-a vlasy vám neporostou do té doby než
+833
+0:41:01,800 --> 0:41:05,099
+bez vlasů úplně holohlavý a vlasy vám
 
-792
-0:41:07,099 --> 0:41:07,500
-zemřete
+834
+0:41:05,099 --> 0:41:07,500
+neporostou do té doby než zemřete
 
-793
+835
 0:41:09,300 --> 0:41:12,400
 stejně tak zprávě o tom že je tedy já
 
-794
+836
 0:41:12,400 --> 0:41:16,000
 si tanuki zahrají na mě k tomu říká
 
-795
-0:41:16,000 --> 0:41:21,599
-úchyláky z metra to znamená vyjedete si
+837
+0:41:16,000 --> 0:41:19,800
+úchyláky z metra to znamená
 
-796
-0:41:21,599 --> 0:41:23,699
-takhle v kočáře A zjišťujete že vás
+838
+0:41:19,800 --> 0:41:22,800
+vyjedete si takhle v kočáře A
 
-797
-0:41:23,699 --> 0:41:25,099
-někdo nebo něco osahává
+839
+0:41:22,800 --> 0:41:24,300
+zjišťujete že vás někdo nebo něco
 
-798
+840
+0:41:24,300 --> 0:41:25,099
+osahává
+
+841
 0:41:27,000 --> 0:41:30,900
 čas od času kousne trapné a provede
 
-799
+842
 0:41:30,900 --> 0:41:33,800
 jiné věci No a pak jsou ti tanuki kteří
 
-800
+843
 0:41:33,800 --> 0:41:36,699
 s vámi hrají hry jako že když špatně
 
-801
+844
 0:41:36,699 --> 0:41:39,400
 odpovíte tak Víte jak se věku se
 
-802
+845
 0:41:39,400 --> 0:41:42,000
 prokazuje řekněme odpovědnost za
 
-803
+846
 0:41:42,000 --> 0:41:42,400
 selhání
 
-804
+847
 0:41:44,900 --> 0:41:48,800
 a znáte To zaprvé naštval jsi mě za
 
-805
+848
 0:41:48,800 --> 0:41:52,599
 druhé Zklamal jsi mě za třetí mám sedm
 
-806
+849
 0:41:52,599 --> 0:41:54,300
 dalších důvodů co ti říct
 
-807
+850
 0:41:56,000 --> 0:41:56,400
  no
 
-808
+851
 0:41:59,000 --> 0:42:02,699
 prsty stranou jistou šanci pro vás je
 
-809
+852
 0:42:02,699 --> 0:42:05,300
 Pokud narazíte na tanuki ho který má
 
-810
+853
 0:42:05,300 --> 0:42:07,199
 sebou bečku Saké
 
-811
+854
 0:42:08,300 --> 0:42:11,199
 Jak vidíte na té na tom obrázku houpe
 
-812
+855
 0:42:11,199 --> 0:42:12,800
 se mu vlastně pod tím deštníkem
 
-813
+856
 0:42:14,099 --> 0:42:16,699
 Pokud totiž narazíte na tanuki ho který
 
-814
+857
 0:42:16,699 --> 0:42:20,199
 má saké takhle otevřeně a tak Je
 
-815
+858
 0:42:20,199 --> 0:42:21,800
 pravděpodobné že pravděpodobně o
 
-816
+859
 0:42:21,800 --> 0:42:24,000
 potulného tanuki ho který nemá své
 
-817
+860
 0:42:24,000 --> 0:42:26,800
 teritorium tedy nefunguje jako nějaký
 
-818
+861
 0:42:26,800 --> 0:42:28,699
 Boss nebo kriminální Element nějaké
 
-819
+862
 0:42:28,699 --> 0:42:31,900
 oblasti ale je to opravdu jsem pocestní
 
-820
+863
 0:42:31,900 --> 0:42:34,900
 Velmi často velmi vzdělaný a taktéž
 
-821
+864
 0:42:34,900 --> 0:42:37,000
 často vcelku příjemný chlapík v
 
-822
+865
 0:42:37,000 --> 0:42:40,599
 podstatě dokud naléváte tak není žádný
 
-823
+866
 0:42:40,599 --> 0:42:40,800
 problém
 
-824
+867
 0:42:42,099 --> 0:42:44,300
 Což mi připomíná že to že možná někteří
 
-825
+868
 0:42:44,300 --> 0:42:46,300
 místní otaku budou takové tanuki
 
-826
+869
 0:42:47,699 --> 0:42:50,900
  ale o tom budeme mluvit někdy jindy tak
 
-827
+870
 0:42:51,900 --> 0:42:54,900
 tedy pokud nejste na někoho takového je
 
-828
+871
 0:42:54,900 --> 0:42:56,500
 velká šance že když mi dáte dobrý
 
-829
+872
 0:42:56,500 --> 0:42:58,900
 chlast tak z něj vytáhnete dobré
 
-830
+873
 0:42:58,900 --> 0:43:01,500
 informace spousta příběhu o chytrých
 
-831
+874
 0:43:01,500 --> 0:43:05,199
 samurajích či rolníci kteří ke štěstí
 
-832
+875
 0:43:05,199 --> 0:43:07,199
 přišel i obchodníci kteří se ve velkém
 
-833
+876
 0:43:07,199 --> 0:43:09,099
 neštěstí a tak dále zahrnuje to že
 
-834
+877
 0:43:09,099 --> 0:43:11,099
 narazili na podobného tanuki ho a buď
 
-835
+878
 0:43:11,099 --> 0:43:13,500
 to tedy měli tu malou kliku že vyhráli
 
-836
+879
 0:43:13,500 --> 0:43:15,699
 s ním nějakou tu hru sázku aniž bych u
 
-837
+880
 0:43:15,699 --> 0:43:17,900
 toho umřel i nebo příště od části těla
 
-838
+881
 0:43:17,900 --> 0:43:21,699
 a nebo bunda Lily tak dobré pití že se
 
-839
+882
 0:43:21,699 --> 0:43:23,900
 tam Nokie rozpovídal a odhalil Kde se
 
-840
+883
 0:43:23,900 --> 0:43:26,400
 nachází nějaký magický kámen nějaký ten
 
-841
+884
 0:43:26,400 --> 0:43:29,099
 celku slušný poklad či v kterou hodinu
 
-842
+885
 0:43:29,099 --> 0:43:32,400
 jít do sídla temného pána aby jste se
 
-843
+886
 0:43:32,400 --> 0:43:34,300
 zmocnili zdroje jeho síly aniž by byl
 
-844
+887
 0:43:34,300 --> 0:43:36,300
 hlídán a v řadě Vlastně nikdo nebyl a
 
-845
-0:43:36,300 --> 0:43:40,800
-tak dále typický kouzelný dědeček
+888
+0:43:36,300 --> 0:43:38,900
+tak dále typický
 
-846
-0:43:40,800 --> 0:43:46,000
-alkoholik Tulák jehož příbuzní vedou
+889
+0:43:38,900 --> 0:43:42,900
+kouzelný dědeček alkoholik
 
-847
-0:43:46,000 --> 0:43:47,000
-kriminálník Lán
+890
+0:43:42,900 --> 0:43:46,699
+Tulák jehož příbuzní vedou kriminálník
 
-848
+891
+0:43:46,699 --> 0:43:47,000
+Lán
+
+892
 0:43:47,900 --> 0:43:51,699
  Takže na tanuki pozor
 
-849
+893
 0:43:52,800 --> 0:43:54,400
  ano kitsune
 
-850
+894
 0:43:56,400 --> 0:43:59,599
 neznám otaku který by nevěděl co je to
 
-851
+895
 0:43:59,599 --> 0:44:01,599
 kitsune takže pro tuto chvíli se na to
 
-852
-0:44:01,599 --> 0:44:05,800
-ptát nebudu pro ty přeci jenom kdyby se
+896
+0:44:01,599 --> 0:44:05,599
+ptát nebudu pro ty přeci jenom kdyby
 
-853
-0:44:05,800 --> 0:44:08,199
-tu našel i ti kteří se možná stejně to
+897
+0:44:05,599 --> 0:44:08,099
+se tu našel i ti kteří se možná stejně
 
-854
-0:44:08,199 --> 0:44:14,000
-přiznat Jedná se o hangkai jakožto jo
+898
+0:44:08,099 --> 0:44:11,199
+to přiznat Jedná se o hangkai jakožto
 
-855
-0:44:14,000 --> 0:44:16,199
-Chris tomlin nebo s proměnlivou formou
+899
+0:44:11,199 --> 0:44:14,900
+jo Chris tomlin nebo s
 
-856
-0:44:16,199 --> 0:44:19,099
-vedou se spory s daleko jsou lidé kteří
+900
+0:44:14,900 --> 0:44:17,900
+proměnlivou formou vedou se spory s
 
-857
-0:44:19,099 --> 0:44:20,599
-získali schopnost něco do lišty nebo
+901
+0:44:17,900 --> 0:44:19,400
+daleko jsou lidé kteří získali
 
-858
-0:44:20,599 --> 0:44:23,599
-Lišky které získávají jistým stárnutím
+902
+0:44:19,400 --> 0:44:21,000
+schopnost něco do lišty nebo Lišky
 
-859
-0:44:23,599 --> 0:44:25,599
-ty v tom jsi ty koník rozchází některou
+903
+0:44:21,000 --> 0:44:24,099
+které získávají jistým stárnutím ty v
 
-860
+904
+0:44:24,099 --> 0:44:25,599
+tom jsi ty koník rozchází některou
+
+905
 0:44:25,599 --> 0:44:29,300
 uvádí 50 některé 100 let vlastně moc No
 
-861
+906
 0:44:29,300 --> 0:44:33,000
 vlastně síly magii a projekt a je to
 
-862
+907
 0:44:33,000 --> 0:44:35,800
 strašně mocnost se projevuje navyšování
 
-863
+908
 0:44:35,800 --> 0:44:36,500
 počtu ocasu
 
-864
+909
 0:44:37,300 --> 0:44:40,099
 navíc se většina anime ani neřeší to
 
-865
+910
 0:44:40,099 --> 0:44:42,199
 věc Jak vlastně můžou tu pohankovou
 
-866
+911
 0:44:42,199 --> 0:44:44,099
 smršť narvat pod to krátké kimono
 
-867
-0:44:45,800 --> 0:44:50,400
-základu co se týče můžete v dle počtu
+912
+0:44:45,800 --> 0:44:49,400
+základu co se týče můžete
 
-868
-0:44:50,400 --> 0:44:53,800
-ocasu dojít ke dvěma separátním cestám
+913
+0:44:49,400 --> 0:44:52,500
+v dle počtu ocasu dojít ke dvěma
 
-869
-0:44:53,800 --> 0:44:56,400
-Jak může jak se může projevovat velmi
+914
+0:44:52,500 --> 0:44:55,500
+separátním cestám Jak může jak se může
 
-870
-0:44:56,400 --> 0:44:58,500
-mocná kitsune další Slide
+915
+0:44:55,500 --> 0:44:58,099
+projevovat velmi mocná kitsune další
 
-871
-0:44:59,800 --> 0:45:04,000
- Ano Čím starší tím více loli takže
+916
+0:44:58,099 --> 0:44:58,500
+Slide
 
-872
+917
+0:44:59,800 --> 0:45:02,599
+Ano Čím starší tím více loli
+
+918
+0:45:02,599 --> 0:45:04,000
+takže
+
+919
 0:45:05,800 --> 0:45:08,099
 pokud narazíte na roztomilou malou
 
-873
+920
 0:45:08,099 --> 0:45:10,300
 holčičku hluboko v japonských lesích
 
-874
+921
 0:45:10,300 --> 0:45:12,199
 která by si s námi Buď to chtěla hrát
 
-875
+922
 0:45:12,199 --> 0:45:15,099
 nebo povídat a celkově působí dojmem že
 
-876
-0:45:15,099 --> 0:45:19,400
-na svých možná sedm osm devět let toho
+923
+0:45:15,099 --> 0:45:18,500
+na svých možná sedm osm devět let
 
-877
-0:45:19,400 --> 0:45:21,699
-v nějak moc Je pravděpodobné že jsme
+924
+0:45:18,500 --> 0:45:21,500
+toho v nějak moc Je pravděpodobné že
 
-878
-0:45:21,699 --> 0:45:24,000
-narazili podle anime na mocnou kitsune
+925
+0:45:21,500 --> 0:45:23,599
+jsme narazili podle anime na mocnou
 
-879
-0:45:24,000 --> 0:45:27,900
-samozřejmě trh je velký potřebujeme
+926
+0:45:23,599 --> 0:45:26,900
+kitsune samozřejmě trh je velký
 
-880
-0:45:27,900 --> 0:45:31,199
-uspokojit všechny otaku a tím pádem
+927
+0:45:26,900 --> 0:45:30,500
+potřebujeme uspokojit všechny otaku a
 
-881
-0:45:31,199 --> 0:45:34,099
-druhá verze mocnosti další Slide
+928
+0:45:30,500 --> 0:45:33,699
+tím pádem druhá verze mocnosti další
 
-882
+929
+0:45:33,699 --> 0:45:34,099
+Slide
+
+930
 0:45:35,900 --> 0:45:38,300
 Pokud narazíte v hlubokém japonském
 
-883
-0:45:38,300 --> 0:45:42,800
-lese na velmi snadnou dívku která může
+931
+0:45:38,300 --> 0:45:41,300
+lese na velmi snadnou dívku která
 
-884
-0:45:42,800 --> 0:45:45,199
-přetékat ze svého velmi Krátkého kimona
+932
+0:45:41,300 --> 0:45:44,699
+může přetékat ze svého velmi Krátkého
 
-885
-0:45:45,199 --> 0:45:48,800
-Je pravděpodobné že se jedná o kitsune
+933
+0:45:44,699 --> 0:45:48,300
+kimona Je pravděpodobné že se jedná o
 
-886
-0:45:48,800 --> 0:45:53,199
-která je velmi mocná a tím pádem by
+934
+0:45:48,300 --> 0:45:50,500
+kitsune která je velmi mocná a
 
-887
-0:45:53,199 --> 0:45:54,599
-jste si měli dát sakra pozor na to co
+935
+0:45:50,500 --> 0:45:54,099
+tím pádem by jste si měli dát sakra
 
-888
-0:45:54,599 --> 0:45:55,900
-děláte Nebo kam se díváte
+936
+0:45:54,099 --> 0:45:55,500
+pozor na to co děláte Nebo kam se
 
-889
-0:45:57,500 --> 0:46:01,800
-takže takto toto k anime a dvou větví
+937
+0:45:55,500 --> 0:45:55,900
+díváte
 
-890
-0:46:01,800 --> 0:46:03,599
-vývoje naší Slide
+938
+0:45:57,500 --> 0:46:01,099
+takže takto toto k anime a dvou
 
-891
-0:46:05,000 --> 0:46:09,099
-Ano tohle je známý dřevoryt zachycující
+939
+0:46:01,099 --> 0:46:03,599
+větví vývoje naší Slide
 
-892
-0:46:09,099 --> 0:46:13,199
-tuším matku Abe No seimei a to proto že
+940
+0:46:05,000 --> 0:46:08,500
+Ano tohle je známý dřevoryt
 
-893
-0:46:13,199 --> 0:46:17,500
-samozřejmě kitsune jako takové se
+941
+0:46:08,500 --> 0:46:11,400
+zachycující tuším matku Abe No seimei a
 
-894
-0:46:17,500 --> 0:46:21,699
-obvykle dělí na takzvané zenko to jsou
+942
+0:46:11,400 --> 0:46:15,000
+to proto že samozřejmě
 
-895
-0:46:21,699 --> 0:46:23,800
-kitsune které přijely bohyni rýže
+943
+0:46:15,000 --> 0:46:18,500
+kitsune jako takové se obvykle dělí
 
-896
-0:46:23,800 --> 0:46:27,400
-bohatství jménem inari slouží a Obvykle
+944
+0:46:18,500 --> 0:46:22,300
+na takzvané zenko to jsou kitsune které
 
-897
-0:46:27,400 --> 0:46:30,400
-se projevují jako takové jako jí řekni
+945
+0:46:22,300 --> 0:46:24,699
+přijely bohyni rýže bohatství jménem
 
-898
-0:46:30,400 --> 0:46:33,000
-mi jaké i po slově jako její služebné
+946
+0:46:24,699 --> 0:46:28,000
+inari slouží a Obvykle se projevují
 
-899
-0:46:33,000 --> 0:46:37,500
-Či jako takové až benefiční síly v
+947
+0:46:28,000 --> 0:46:31,400
+jako takové jako jí řekni mi jaké i po
 
-900
+948
+0:46:31,400 --> 0:46:34,800
+slově jako její služebné Či jako takové
+
+949
+0:46:34,800 --> 0:46:37,500
+až benefiční síly v
+
+950
 0:46:37,500 --> 0:46:41,400
 Japonsku mnohým z nich je připisováno
 
-901
-0:46:41,400 --> 0:46:45,900
-zabránit některým byt mám vlastně
+951
+0:46:41,400 --> 0:46:43,699
+zabránit některým byt mám
 
-902
-0:46:45,900 --> 0:46:48,199
-přispění k mírovým dohodám a podobné
+952
+0:46:43,699 --> 0:46:47,699
+vlastně přispění k mírovým dohodám a
 
-903
-0:46:48,199 --> 0:46:48,300
-věci
+953
+0:46:47,699 --> 0:46:48,300
+podobné věci
 
-904
+954
 0:46:49,900 --> 0:46:52,599
 na druhou stranu jsou pak ty které
 
-905
+955
 0:46:52,599 --> 0:46:55,500
 nikdy inari nepřijali a jmenují a jsou
 
-906
-0:46:55,500 --> 0:47:00,000
-označovány jako jakožto divé a opravdu
+956
+0:46:55,500 --> 0:46:57,199
+označovány jako jakožto divé a
 
-907
-0:47:00,000 --> 0:47:02,699
-na ty velký pozor další Slide
+957
+0:46:57,199 --> 0:47:01,199
+opravdu na ty velký
 
-908
+958
+0:47:01,199 --> 0:47:02,699
+pozor další Slide
+
+959
 0:47:04,199 --> 0:47:07,099
 Ano 50 až 100 let A bavili jsme se o
 
-909
-0:47:07,099 --> 0:47:11,400
-tom další Slide tak to protože využil
+960
+0:47:07,099 --> 0:47:10,599
+tom další Slide tak to protože
 
-910
-0:47:11,400 --> 0:47:13,900
-tyhle ty jako jakožto Dive využívají
+961
+0:47:10,599 --> 0:47:13,199
+využil tyhle ty jako jakožto Dive
 
-911
-0:47:13,900 --> 0:47:18,000
-své schopnosti k tomu aby se bavili aby
+962
+0:47:13,199 --> 0:47:15,900
+využívají své schopnosti k tomu aby se
 
-912
-0:47:18,000 --> 0:47:20,300
-intrikoval i aby hráli svoje hry
+963
+0:47:15,900 --> 0:47:19,699
+bavili aby intrikoval i aby hráli
 
-913
+964
+0:47:19,699 --> 0:47:20,300
+svoje hry
+
+965
 0:47:21,199 --> 0:47:23,900
 a k tomu jsou velmi slušně vybavený Jak
 
-914
+966
 0:47:23,900 --> 0:47:26,800
 vidíte schopnost měnit se schopnost
 
-915
+967
 0:47:26,800 --> 0:47:30,800
 iluzí schopnost ovládání ohně Jsou to
 
-916
+968
 0:47:30,800 --> 0:47:34,000
 takové ty koule toho modrého éterického
 
-917
+969
 0:47:34,000 --> 0:47:36,599
 ohně či regulérní oheň jako takový
 
-918
+970
 0:47:36,599 --> 0:47:40,599
 případně jiná ofenzivní magie v Naganu
 
-919
+971
 0:47:40,599 --> 0:47:44,400
 existují spisy popisující že někteří
 
-920
+972
 0:47:44,400 --> 0:47:46,300
 některé místní kitsune tak jako si v
 
-921
+973
 0:47:46,300 --> 0:47:48,000
 klidu zavolej ten Blesk z čistého nebe
 
-922
+974
 0:47:48,000 --> 0:47:51,900
 a nečiní jim problém se svou rukou
 
-923
+975
 0:47:51,900 --> 0:47:55,099
 opřít o ten vzrostlý strom a soudit ho
 
-924
-0:47:55,099 --> 0:47:59,199
-na vás takže tolik k něžnosti a
+976
+0:47:55,099 --> 0:47:57,599
+na vás takže tolik k
 
-925
-0:47:59,199 --> 0:48:01,400
-slabosti ať už pod loli nebo velmi v
+977
+0:47:57,599 --> 0:48:01,099
+něžnosti a slabosti ať už pod loli nebo
 
-926
-0:48:01,400 --> 0:48:05,900
-nad ním země tak na to již proměna když
+978
+0:48:01,099 --> 0:48:04,099
+velmi v nad ním země tak na to již
 
-927
-0:48:05,900 --> 0:48:08,800
-vlastně berou lidskou podobu není úplně
+979
+0:48:04,099 --> 0:48:06,400
+proměna když vlastně berou lidskou
 
-928
-0:48:08,800 --> 0:48:12,199
-dokonalá na tom svitku je právě vidět
+980
+0:48:06,400 --> 0:48:09,000
+podobu není úplně dokonalá
 
-929
-0:48:12,199 --> 0:48:14,500
-jak byla odhalena matka a menu jsme je
+981
+0:48:09,000 --> 0:48:12,699
+na tom svitku je právě vidět jak byla
 
-930
-0:48:14,500 --> 0:48:17,099
-a to tím že když se lidé dívali
+982
+0:48:12,699 --> 0:48:15,000
+odhalena matka a menu jsme je a to tím
 
-931
+983
+0:48:15,000 --> 0:48:17,099
+že když se lidé dívali
+
+984
 0:48:18,300 --> 0:48:18,800
  čas
 
-932
+985
 0:48:20,699 --> 0:48:21,199
  a sakra
 
-933
+986
 0:48:22,300 --> 0:48:22,900
  O kolik
 
-934
-0:48:25,099 --> 0:48:29,900
-takže v rychlosti Omlouvám se Takže dá
+987
+0:48:25,099 --> 0:48:29,000
+takže v rychlosti Omlouvám se
 
-935
-0:48:29,900 --> 0:48:32,500
-se prohlédnout si vlastně vyprchání s
+988
+0:48:29,000 --> 0:48:32,000
+Takže dá se prohlédnout si vlastně
 
-936
-0:48:32,500 --> 0:48:34,699
-tím na zástěnu byl vidět nejezdím
+989
+0:48:32,000 --> 0:48:34,099
+vyprchání s tím na zástěnu byl vidět
 
-937
-0:48:34,699 --> 0:48:37,599
-člověka ale Lišky důležitá věc pro
+990
+0:48:34,099 --> 0:48:37,300
+nejezdím člověka ale Lišky důležitá věc
 
-938
-0:48:37,599 --> 0:48:42,500
-různé podoby kitsune nabývají bez
+991
+0:48:37,300 --> 0:48:40,599
+pro různé podoby
 
-939
-0:48:42,500 --> 0:48:44,099
-ohledu na své původní biologické
+992
+0:48:40,599 --> 0:48:43,099
+kitsune nabývají bez ohledu na své
 
-940
-0:48:44,099 --> 0:48:47,300
-pohlaví Co znamená pojmem kitsune je
+993
+0:48:43,099 --> 0:48:46,000
+původní biologické pohlaví Co znamená
 
-941
-0:48:47,300 --> 0:48:50,699
-podle všeho označován jak Liška tak
+994
+0:48:46,000 --> 0:48:48,300
+pojmem kitsune je podle všeho označován
 
-942
-0:48:50,699 --> 0:48:53,500
-Lišák a je úplně jedno jestli je to
+995
+0:48:48,300 --> 0:48:52,300
+jak Liška tak Lišák a je
 
-943
-0:48:53,500 --> 0:48:55,699
-plyšák těle ženy Lišák v těle muže
+996
+0:48:52,300 --> 0:48:54,500
+úplně jedno jestli je to plyšák těle
 
-944
-0:48:55,699 --> 0:48:58,900
-Liška v těle muže Liška v těle ženy Tak
+997
+0:48:54,500 --> 0:48:56,599
+ženy Lišák v těle muže Liška v těle
 
-945
-0:48:58,900 --> 0:49:02,800
-to ano Ale jak říkám hrají své hry
+998
+0:48:56,599 --> 0:48:59,000
+muže Liška v těle ženy Tak to
 
-946
+999
+0:48:59,000 --> 0:49:02,800
+ano Ale jak říkám hrají své hry
+
+1000
 0:49:02,800 --> 0:49:05,099
 zvláště teď v neuvěřitelně marnivé A
 
-947
+1001
 0:49:05,099 --> 0:49:07,800
 stačit aby jste aby získali dojem že
 
-948
+1002
 0:49:07,800 --> 0:49:09,800
 jste dorazili a klidně vám zničí život
 
-949
-0:49:09,800 --> 0:49:15,500
-pamatujte ovládají oheň dál Ano veškeré
+1003
+0:49:09,800 --> 0:49:13,000
+pamatujte ovládají oheň dál
 
-950
-0:49:15,500 --> 0:49:17,599
-věci které činí jsou pro ně nástroje
+1004
+0:49:13,000 --> 0:49:17,000
+Ano veškeré věci které činí jsou pro
 
-951
-0:49:17,599 --> 0:49:22,400
-pro dosažení cílů a dál Ano a liší se i
+1005
+0:49:17,000 --> 0:49:20,900
+ně nástroje pro dosažení cílů a dál Ano
 
-952
-0:49:22,400 --> 0:49:24,400
-v tom jak jednají se svými oběťmi
+1006
+0:49:20,900 --> 0:49:24,099
+a liší se i v tom jak jednají se svými
 
-953
+1007
+0:49:24,099 --> 0:49:24,400
+oběťmi
+
+1008
 0:49:25,099 --> 0:49:27,400
 může o byt a přivádějí k šílenství ženy
 
-954
+1009
 0:49:27,400 --> 0:49:28,599
 zabíjejí dál
 
-955
+1010
 0:49:29,800 --> 0:49:33,500
 Ano dokonce existuje takzvané kitsune
 
-956
+1011
 0:49:33,500 --> 0:49:36,599
 Cuky neboli posednuti liškou což je
 
-957
+1012
 0:49:36,599 --> 0:49:39,300
 relevantní diagnóza kterou psycholog
 
-958
+1013
 0:49:39,300 --> 0:49:40,500
 japonští psychologové a lékaři
 
-959
+1014
 0:49:40,500 --> 0:49:44,300
 používali vlastně první půle 19 století
 
-960
+1015
 0:49:44,300 --> 0:49:47,400
 která se projevovala syndromy jakože
 
-961
+1016
 0:49:47,400 --> 0:49:49,800
 dospívající dívka posedlá posedlá
 
-962
+1017
 0:49:49,800 --> 0:49:51,400
 liškou který Teplice kitsune Socky
 
-963
+1018
 0:49:51,400 --> 0:49:54,800
 obvykle vykazovala Buď to velmi
 
-964
+1019
 0:49:54,800 --> 0:49:56,900
 sníženou nebo velmi zvýšenou aktivitu
 
-965
+1020
 0:49:56,900 --> 0:49:59,099
 výrazný tělesný růst
 
-966
+1021
 0:50:00,599 --> 0:50:02,199
  velkou chuť na sladké
 
-967
+1022
 0:50:03,599 --> 0:50:05,900
  výraznou vulgárnost svého projevu
 
-968
+1023
 0:50:06,800 --> 0:50:08,000
  minimální vstup
 
-969
+1024
 0:50:10,800 --> 0:50:12,099
  Když mám ty cosplayery
 
-970
+1025
 0:50:15,099 --> 0:50:17,900
 no je v jejich moc mě pak obvykle
 
-971
+1026
 0:50:17,900 --> 0:50:19,699
 potřeba zajít do chrámu inari a provést
 
-972
+1027
 0:50:19,699 --> 0:50:22,900
 nějaké to vymítání případně zda No
 
-973
+1028
 0:50:22,900 --> 0:50:24,800
 děkuji naložit takže se drží v tom
 
-974
+1029
 0:50:24,800 --> 0:50:27,300
 sklepě v klasickém rodinné vězení aby
 
-975
+1030
 0:50:27,300 --> 0:50:31,300
 nenakazila pověst tak ovládají oheň
 
-976
+1031
 0:50:31,300 --> 0:50:33,300
 mají sklony k Germany mnoho příběhu
 
-977
+1032
 0:50:33,300 --> 0:50:37,000
 hovoří o tom že pro radost zapalují
 
-978
-0:50:37,000 --> 0:50:42,500
-věci jako jsou třeba domy Sýpky hotely
+1033
+0:50:37,000 --> 0:50:40,500
+věci jako jsou třeba domy Sýpky
 
-979
+1034
+0:50:40,500 --> 0:50:42,500
+hotely
+
+1035
 0:50:43,599 --> 0:50:45,199
  dal ano
 
-980
+1036
 0:50:46,500 --> 0:50:49,500
 A navíc A když už jako si s vámi
 
-981
+1037
 0:50:49,500 --> 0:50:53,099
 založit u rodinku nějakým způsobem je
 
-982
+1038
 0:50:53,099 --> 0:50:54,800
 velmi pravděpodobné že vaše dítě bude
 
-983
+1039
 0:50:54,800 --> 0:50:57,099
 buď to velmi schopný kouzelník věštec a
 
-984
+1040
 0:50:57,099 --> 0:50:59,400
 nebo takové řekněme Monstrum v lidské
 
-985
+1041
 0:50:59,400 --> 0:50:59,599
 podobě
 
-986
+1042
 0:51:01,699 --> 0:51:04,099
  Tango servis pro dívky
 
-987
+1043
 0:51:06,000 --> 0:51:08,400
 většina z Vás se vlastně z tanku
 
-988
+1044
 0:51:08,400 --> 0:51:10,000
 setkává v mám z obytné právě
 
-989
+1045
 0:51:10,000 --> 0:51:11,800
 zpracovanými zpracováním i v podobě
 
-990
+1046
 0:51:11,800 --> 0:51:12,699
 další Slide
 
-991
-0:51:14,000 --> 0:51:18,599
-ta originální není úplně přitažlivá na
+1047
+0:51:14,000 --> 0:51:16,300
+ta originální není úplně
 
-992
-0:51:18,599 --> 0:51:22,400
-první pohled podle mého názoru na
+1048
+0:51:16,300 --> 0:51:19,800
+přitažlivá na první pohled podle mého
 
-993
-0:51:22,400 --> 0:51:24,699
-druhou stranu se traduje že prý to co
+1049
+0:51:19,800 --> 0:51:23,400
+názoru na druhou stranu se traduje že
 
-994
-0:51:24,699 --> 0:51:26,199
-má Tengu na obličeji by většina můžu
+1050
+0:51:23,400 --> 0:51:25,900
+prý to co má Tengu na obličeji by
 
-995
-0:51:26,199 --> 0:51:27,300
-přivítala někde jinde
+1051
+0:51:25,900 --> 0:51:27,300
+většina můžu přivítala někde jinde
 
-996
+1052
 0:51:29,000 --> 0:51:32,500
 maska Tengu rychlosti jenom venku
 
-997
+1053
 0:51:32,500 --> 0:51:34,699
 vznikají Pingu podle různých spisu
 
-998
+1054
 0:51:34,699 --> 0:51:38,599
 vznikají z rozmařilý a velmi pyšný v
 
-999
+1055
 0:51:38,599 --> 0:51:41,000
 buddhistických duchovních či jiných
 
-1000
+1056
 0:51:41,000 --> 0:51:43,800
 duchovních všeobecně kteří tedy se
 
-1001
+1057
 0:51:43,800 --> 0:51:47,699
 promění ve velmi agresivní až krvelačné
 
-1002
-0:51:47,699 --> 0:51:52,000
-démony Aspekt který bude zajímat zde
+1058
+0:51:47,699 --> 0:51:51,599
+démony Aspekt který bude zajímat
 
-1003
-0:51:52,000 --> 0:51:54,300
-moraváky protože Morava je Jediným
+1059
+0:51:51,599 --> 0:51:54,300
+zde moraváky protože Morava je Jediným
 
-1004
+1060
 0:51:54,300 --> 0:51:56,000
 státem jak se říká na světě kde s
 
-1005
+1061
 0:51:56,000 --> 0:51:57,699
 alkoholem remizovali zatímco zbytek
 
-1006
-0:51:57,699 --> 0:52:01,900
-světa prohrál je ten že venku a jsou
+1062
+0:51:57,699 --> 0:52:01,500
+světa prohrál je ten že venku a
 
-1007
-0:52:01,900 --> 0:52:04,400
-proslulý zaprvé svým vybraným jazýčkem
+1063
+0:52:01,500 --> 0:52:03,900
+jsou proslulý zaprvé svým vybraným
 
-1008
-0:52:04,400 --> 0:52:06,800
-pro ochutnávání také či jiných alkoholu
+1064
+0:52:03,900 --> 0:52:06,300
+jazýčkem pro ochutnávání také či jiných
 
-1009
-0:52:06,800 --> 0:52:10,099
-a za druhé knihy že mají asi mít
+1065
+0:52:06,300 --> 0:52:09,900
+alkoholu a za druhé knihy že mají asi
 
-1010
-0:52:10,099 --> 0:52:11,800
-nejdokonalejší přípravu alkoholu mezi
+1066
+0:52:09,900 --> 0:52:11,599
+mít nejdokonalejší přípravu alkoholu
 
-1011
-0:52:11,800 --> 0:52:13,000
-mytologickými bytost a napříč japonskem
+1067
+0:52:11,599 --> 0:52:12,900
+mezi mytologickými bytost a napříč
 
-1012
+1068
+0:52:12,900 --> 0:52:13,000
+japonskem
+
+1069
 0:52:15,099 --> 0:52:16,400
  takže
 
-1013
+1070
 0:52:17,500 --> 0:52:20,300
 Tím myslím že je asi tedy další Bohužel
 
-1014
+1071
 0:52:20,300 --> 0:52:22,400
 budeme muset nechat na někdy příště a
 
-1015
+1072
 0:52:22,400 --> 0:52:26,300
 tím to mít mýtickým opilcem To znamená
 
-1016
+1073
 0:52:26,300 --> 0:52:27,900
 že možná by mohl vydávat tím tanuki já
 
-1017
+1074
 0:52:27,900 --> 0:52:29,800
 ti pak dělal i menší problémy tedy
 
-1018
+1075
 0:52:29,800 --> 0:52:32,400
 prozatím skončíme já vám tedy přeji
 
-1019
+1076
 0:52:32,400 --> 0:52:36,000
 pěkný zbytek animefestu Děkuji vám za
 
-1020
-0:52:36,000 --> 0:52:42,000
-pozornost a pro ty z
+1077
+0:52:36,000 --> 0:52:36,699
+pozornost a
 
-1021
-0:52:42,000 --> 0:52:44,599
-vás kteří snad nedorazí na zakončení
+1078
+0:52:36,699 --> 0:52:41,800
+pro
 
-1022
-0:52:44,599 --> 0:52:47,500
-jenom připomenu že i tento rok se na
+1079
+0:52:41,800 --> 0:52:44,300
+ty z vás kteří snad nedorazí na
 
-1023
-0:52:47,500 --> 0:52:52,000
-podzim chystá akicon a bude to 1 srpna
+1080
+0:52:44,300 --> 0:52:47,000
+zakončení jenom připomenu že i tento
 
-1024
-0:52:52,000 --> 0:52:54,500
-Kdy se Budou otvírat registrace pro
+1081
+0:52:47,000 --> 0:52:50,500
+rok se na podzim chystá akicon a bude
 
-1025
-0:52:54,500 --> 0:52:56,900
-vstupenky na něj Takže červeným písmem
+1082
+0:52:50,500 --> 0:52:53,300
+to 1 srpna Kdy se Budou otvírat
 
-1026
-0:52:56,900 --> 0:53:00,300
-se vyznačte tyto věci poslední pak věc
+1083
+0:52:53,300 --> 0:52:56,199
+registrace pro vstupenky na něj Takže
 
-1027
-0:53:00,300 --> 0:53:03,099
-ty z vás kteří by snad chtěli navštívit
+1084
+0:52:56,199 --> 0:52:58,599
+červeným písmem se vyznačte tyto věci
 
-1028
-0:53:03,099 --> 0:53:05,599
-přednášku pana clemence a nebo stejně
+1085
+0:52:58,599 --> 0:53:02,300
+poslední pak věc ty z vás kteří by snad
 
-1029
-0:53:05,599 --> 0:53:07,800
-dostanou mohu využít toho že v sále
+1086
+0:53:02,300 --> 0:53:04,199
+chtěli navštívit přednášku pana
 
-1030
-0:53:07,800 --> 0:53:10,800
-Morava a bude souběžně začínat panel je
+1087
+0:53:04,199 --> 0:53:06,699
+clemence a nebo stejně dostanou mohu
 
-1031
-0:53:10,800 --> 0:53:13,900
-dnes hostí současné Artist Alley myslím
+1088
+0:53:06,699 --> 0:53:08,500
+využít toho že v sále Morava a bude
 
-1032
-0:53:13,900 --> 0:53:15,400
-že si zjistit na o slečnu maily a
+1089
+0:53:08,500 --> 0:53:11,300
+souběžně začínat panel je dnes hostí
 
-1033
-0:53:15,400 --> 0:53:17,400
-určitě Pokud rádi kreslí
+1090
+0:53:11,300 --> 0:53:14,199
+současné Artist Alley myslím že si
 
-1034
+1091
+0:53:14,199 --> 0:53:16,199
+zjistit na o slečnu maily a určitě
+
+1092
+0:53:16,199 --> 0:53:17,400
+Pokud rádi kreslí
+
+1093
 0:53:17,400 --> 0:53:19,400
 vám zrovna toto profesionálka dodá
 
-1035
+1094
 0:53:19,400 --> 0:53:21,199
 spousty rad pro vaše pro váš profesní
 
-1036
+1095
 0:53:21,199 --> 0:53:22,900
 růst Děkuji nashle
 

@@ -7,28 +7,28 @@ Aha
 takže já vás vítám v hlavním sále a
 
 3
-0:00:31,399 --> 0:00:36,200
-výkonu Kde právě udeřil čas vyslyšet
+0:00:31,399 --> 0:00:34,500
+výkonu Kde právě udeřil čas
 
 4
-0:00:36,200 --> 0:00:39,700
-prosby které se v anketě o přednášku na
+0:00:34,500 --> 0:00:38,100
+vyslyšet prosby které se v anketě
 
 5
-0:00:39,700 --> 0:00:43,200
-přání objevují již několik let a já se
+0:00:38,100 --> 0:00:41,100
+o přednášku na přání objevují již
 
 6
-0:00:43,200 --> 0:00:46,600
-zeptám najdu tu osobu která těch
+0:00:41,100 --> 0:00:44,700
+několik let a já se zeptám najdu tu
 
 7
-0:00:46,600 --> 0:00:49,799
-několik let pravidelně připisuje toto
+0:00:44,700 --> 0:00:47,799
+osobu která těch několik let pravidelně
 
 8
-0:00:49,799 --> 0:00:51,399
-téma do hlasování
+0:00:47,799 --> 0:00:51,399
+připisuje toto téma do hlasování
 
 9
 0:00:53,299 --> 0:00:56,500
@@ -55,3926 +55,4182 @@ poprvé nevyhrálo a nevadí Příští
 navrhneme znovu
 
 15
-0:01:13,500 --> 0:01:19,500
-ne dobře tak
+0:01:13,500 --> 0:01:18,200
+ne
 
 16
-0:01:19,500 --> 0:01:21,500
-buď to Nebuď to chybí odvaha nebo chybí
+0:01:18,200 --> 0:01:20,700
+dobře tak buď to Nebuď to chybí odvaha
 
 17
-0:01:21,500 --> 0:01:25,099
-Dani člověk v pořádku To znamená i tak
+0:01:20,700 --> 0:01:23,700
+nebo chybí Dani člověk v pořádku To
 
 18
-0:01:25,099 --> 0:01:30,400
-dnes nás čeká agrárně statistická
+0:01:23,700 --> 0:01:26,000
+znamená i tak dnes nás čeká
 
 19
-0:01:30,400 --> 0:01:35,799
-přednáška vliv anime nerušeně C A jak
+0:01:26,000 --> 0:01:29,400
+agrárně
 
 20
-0:01:35,799 --> 0:01:38,700
-už bývá mým zvykem k tomuto tématu jsem
+0:01:29,400 --> 0:01:33,200
+statistická přednáška vliv anime
 
 21
-0:01:38,700 --> 0:01:41,200
-se postavil čelem a tedy hodlám ho
+0:01:33,200 --> 0:01:37,099
+nerušeně C A jak už bývá mým zvykem k
 
 22
-0:01:41,200 --> 0:01:43,299
-zpracovat tak jak by jste ho mohli
+0:01:37,099 --> 0:01:39,700
+tomuto tématu jsem se postavil čelem a
 
 23
-0:01:43,299 --> 0:01:46,500
-najít zpracované v nějaké populárně
+0:01:39,700 --> 0:01:43,000
+tedy hodlám ho zpracovat tak jak by
 
 24
-0:01:46,500 --> 0:01:49,299
-naučné videa práci a hodlám být tak
+0:01:43,000 --> 0:01:45,000
+jste ho mohli najít zpracované v nějaké
 
 25
-0:01:49,299 --> 0:01:54,299
-maximálně nudné a nezáživné abyste
+0:01:45,000 --> 0:01:48,799
+populárně naučné videa práci a hodlám
 
 26
+0:01:48,799 --> 0:01:51,000
+být tak maximálně nudné a
+
+27
+0:01:51,000 --> 0:01:54,299
+nezáživné abyste
+
+28
 0:01:54,299 --> 0:01:57,400
 pochopili že podobná témata ve většině
 
-27
-0:01:57,400 --> 0:02:02,299
-případů nemá smysl navrhovat a požádám
-
-28
-0:02:02,299 --> 0:02:08,000
-o další Slide Přesně tak tedy pšenice a
-
 29
-0:02:08,000 --> 0:02:12,199
-anime jak na sebe tyto dvě složky mohou
+0:01:57,400 --> 0:02:00,400
+případů nemá smysl navrhovat a
 
 30
-0:02:12,199 --> 0:02:13,199
-působit i přesně řečeno
+0:02:00,400 --> 0:02:03,799
+požádám o další Slide
 
 31
-0:02:13,500 --> 0:02:17,800
-v té příčiny příčiny nespojitosti vliv
+0:02:03,799 --> 0:02:06,900
+Přesně tak tedy
 
 32
-0:02:17,800 --> 0:02:20,500
-na růst pšenice další Flight
+0:02:06,900 --> 0:02:10,300
+pšenice a anime jak na
 
 33
-0:02:22,599 --> 0:02:27,099
-pšenice u každé takovéhle práce Je
+0:02:10,300 --> 0:02:12,800
+sebe tyto dvě složky mohou působit i
 
 34
-0:02:27,099 --> 0:02:31,099
-potřeba vzít v úvahu definici
+0:02:12,800 --> 0:02:13,199
+přesně řečeno
 
 35
-0:02:31,099 --> 0:02:35,900
-základních pojmů a určit množiny je vůl
+0:02:13,500 --> 0:02:16,599
+v té příčiny příčiny nespojitosti
 
 36
-0:02:35,900 --> 0:02:39,400
-a prvků které hodláte nějakým způsobem
+0:02:16,599 --> 0:02:20,500
+vliv na růst pšenice další Flight
 
 37
+0:02:22,599 --> 0:02:26,099
+pšenice u každé takovéhle
+
+38
+0:02:26,099 --> 0:02:29,000
+práce Je potřeba vzít v úvahu
+
+39
+0:02:29,000 --> 0:02:32,199
+definici základních pojmů a
+
+40
+0:02:32,199 --> 0:02:36,000
+určit množiny je vůl a
+
+41
+0:02:36,000 --> 0:02:39,400
+prvků které hodláte nějakým způsobem
+
+42
 0:02:39,400 --> 0:02:41,900
 porovnávat proto je potřeba definovat
 
-38
+43
 0:02:41,900 --> 0:02:45,800
 opravdu ty základní pojmy a taktéž má
 
-39
+44
 0:02:45,800 --> 0:02:47,800
 samozřejmě dovzdělat o nich samotných
 
-40
+45
 0:02:47,800 --> 0:02:50,000
 takže pšenice Light
 
-41
-0:02:51,099 --> 0:02:55,400
-Jak vidíte bohužel v sedm na pardon v
-
-42
-0:02:55,400 --> 0:02:58,400
-neděli po dvou dnech na conu nejsem
-
-43
-0:02:58,400 --> 0:03:00,699
-schopen na té správné latiny Takže vás
-
-44
-0:03:00,699 --> 0:03:04,800
-nechám si to přečíst co je zajímavé A
-
-45
-0:03:04,800 --> 0:03:07,500
-málokdo to ví že vše Nic jí máme
-
 46
-0:03:07,500 --> 0:03:09,500
-jakožto lidský druh kdo činí už velmi
+0:02:51,099 --> 0:02:55,000
+Jak vidíte bohužel v sedm na
 
 47
-0:03:09,500 --> 0:03:13,800
-dlouho dokonce ta doba 9600 let před
+0:02:55,000 --> 0:02:57,900
+pardon v neděli po dvou dnech na conu
 
 48
-0:03:13,800 --> 0:03:16,300
-naším letopočtem vlastně region
+0:02:57,900 --> 0:03:00,300
+nejsem schopen na té správné latiny
 
 49
-0:03:16,300 --> 0:03:20,699
-levantis což je Západní cíp arabského
+0:03:00,300 --> 0:03:04,300
+Takže vás nechám si to přečíst co je
 
 50
-0:03:20,699 --> 0:03:22,699
-poloostrova neboli je část úrodného
+0:03:04,300 --> 0:03:06,800
+zajímavé A málokdo to ví že vše Nic jí
 
 51
-0:03:22,699 --> 0:03:27,800
-půlměsíce je ne úplně první datum ale
+0:03:06,800 --> 0:03:09,300
+máme jakožto lidský druh kdo činí už
 
 52
-0:03:27,800 --> 0:03:29,500
-je to co nejdál kam se to schopni do
+0:03:09,300 --> 0:03:12,500
+velmi dlouho dokonce ta doba
 
 53
-0:03:29,500 --> 0:03:32,599
-sledovat ovšem už tehdy ten region jeví
+0:03:12,500 --> 0:03:16,000
+9600 let před naším letopočtem vlastně
 
 54
-0:03:32,599 --> 0:03:33,500
-známky toho že
+0:03:16,000 --> 0:03:19,900
+region levantis což je Západní cíp
 
 55
+0:03:19,900 --> 0:03:22,199
+arabského poloostrova neboli je část
+
+56
+0:03:22,199 --> 0:03:26,199
+úrodného půlměsíce je ne úplně
+
+57
+0:03:26,199 --> 0:03:29,000
+první datum ale je to co nejdál kam se
+
+58
+0:03:29,000 --> 0:03:30,900
+to schopni do sledovat ovšem už tehdy
+
+59
+0:03:30,900 --> 0:03:33,500
+ten region jeví známky toho že
+
+60
 0:03:34,699 --> 0:03:38,400
 analýzou genetických stop z daných
 
-56
+61
 0:03:38,400 --> 0:03:40,599
 sedimentu tam pšenici už pěstovali
 
-57
+62
 0:03:40,599 --> 0:03:42,199
 nějakým způsobem ve větším měřítku
 
-58
+63
 0:03:42,199 --> 0:03:44,099
 takže samotná kultivace mohla být
 
-59
+64
 0:03:44,099 --> 0:03:46,199
 klidně i ještě tisíc let před tímto
 
-60
+65
 0:03:46,199 --> 0:03:48,699
 jestli to kdy se z divoké trávy která
 
-61
+66
 0:03:48,699 --> 0:03:50,300
 původně sloužila pouze jako krmná směs
 
-62
+67
 0:03:50,300 --> 0:03:53,400
 zřejmě pro řekne Zemědělská Zemědělská
 
-63
+68
 0:03:53,400 --> 0:03:57,099
 zvířata někdo udělal plodinu ze které
 
-64
+69
 0:03:57,099 --> 0:04:00,300
 pak děláme chleba příště už tam mohl
 
-65
-0:04:00,300 --> 0:04:04,400
-pojmy chleba je řekněme spíše nový
-
-66
-0:04:04,400 --> 0:04:07,800
-protože ten ve kterém o kterém by jsme
-
-67
-0:04:07,800 --> 0:04:10,199
-byli schopni prohlásit že by splňoval
-
-68
-0:04:10,199 --> 0:04:12,900
-alespoň blízkou podobnost konzistencí
-
-69
-0:04:12,900 --> 0:04:14,800
-složením a způsobem přípravy s chlebem
-
 70
-0:04:14,800 --> 0:04:17,899
-který známe Dnes se objevil až roku 350
+0:04:00,300 --> 0:04:03,900
+pojmy chleba je řekněme spíše
 
 71
-0:04:17,899 --> 0:04:21,899
-naším letopočtem je uchováván v
+0:04:03,900 --> 0:04:07,699
+nový protože ten ve kterém o kterém by
 
 72
-0:04:21,899 --> 0:04:26,300
-newyorském národopisném muzeu je to
+0:04:07,699 --> 0:04:09,500
+jsme byli schopni prohlásit že by
 
 73
-0:04:26,300 --> 0:04:28,199
-přibližně dvoucentimetrové Fragment
+0:04:09,500 --> 0:04:12,199
+splňoval alespoň blízkou podobnost
 
 74
-0:04:28,199 --> 0:04:30,399
-Kamenného chleba z makedonského města
+0:04:12,199 --> 0:04:14,099
+konzistencí složením a způsobem
 
 75
-0:04:30,399 --> 0:04:33,399
-Takže pokud byste chtěli Můžete vyrazit
+0:04:14,099 --> 0:04:15,699
+přípravy s chlebem který známe Dnes se
 
 76
-0:04:33,399 --> 0:04:34,600
-věřím tomu že kurátora
+0:04:15,699 --> 0:04:18,300
+objevil až roku 350 naším letopočtem
 
 77
+0:04:18,300 --> 0:04:21,899
+je uchováván v
+
+78
+0:04:21,899 --> 0:04:23,100
+newyorském národopisném muzeu
+
+79
+0:04:23,100 --> 0:04:26,800
+je to přibližně
+
+80
+0:04:26,800 --> 0:04:28,600
+dvoucentimetrové Fragment Kamenného
+
+81
+0:04:28,600 --> 0:04:31,699
+chleba z makedonského města Takže pokud
+
+82
+0:04:31,699 --> 0:04:34,000
+byste chtěli Můžete vyrazit věřím tomu
+
+83
+0:04:34,000 --> 0:04:34,600
+že kurátora
+
+84
 0:04:34,600 --> 0:04:37,000
 výstavy naprosto nadchne že se ti kteří
 
-78
+85
 0:04:37,000 --> 0:04:39,000
 přijeli aby se podívali na kurz
 
-79
+86
 0:04:39,000 --> 0:04:40,300
 Kamenného chleba který pochází z
 
-80
+87
 0:04:40,300 --> 0:04:43,899
 Makedonie tak včely jako pšenici beru
 
-81
+88
 0:04:43,899 --> 0:04:47,699
 zástupce vlastně daného daného řádu
 
-82
+89
 0:04:47,699 --> 0:04:50,699
 pšeničný chléb pšeničný k rostlin které
 
-83
-0:04:50,699 --> 0:04:54,899
-lidé využívají vlastně k ekonomickému
-
-84
-0:04:54,899 --> 0:04:58,899
-zisku potravy jako takové a pouze tato
-
-85
-0:04:58,899 --> 0:05:02,500
-pšenice mě bude zajímat rozhodně nebudu
-
-86
-0:05:02,500 --> 0:05:05,300
-řešit divné druhy různé poddruhy a už
-
-87
-0:05:05,300 --> 0:05:08,399
-vůbec nechci zabíhat do možných debat o
-
-88
-0:05:08,399 --> 0:05:11,899
-tom které ještě jiné řekněme druhy trav
-
-89
-0:05:11,899 --> 0:05:15,100
-se mohou stáhnout do rodiny že nic díky
-
 90
+0:04:50,699 --> 0:04:53,899
+lidé využívají vlastně k
+
+91
+0:04:53,899 --> 0:04:57,800
+ekonomickému zisku potravy jako takové
+
+92
+0:04:57,800 --> 0:05:00,100
+a pouze tato pšenice mě bude zajímat
+
+93
+0:05:00,100 --> 0:05:03,500
+rozhodně nebudu řešit divné druhy
+
+94
+0:05:03,500 --> 0:05:05,899
+různé poddruhy a už vůbec nechci
+
+95
+0:05:05,899 --> 0:05:09,399
+zabíhat do možných debat o tom které
+
+96
+0:05:09,399 --> 0:05:12,300
+ještě jiné řekněme druhy trav se mohou
+
+97
+0:05:12,300 --> 0:05:15,100
+stáhnout do rodiny že nic díky
+
+98
 0:05:15,100 --> 0:05:17,800
 genetické analýzy takže jdeme dál
 
-91
+99
 0:05:18,699 --> 0:05:22,600
 Animate otázka Co je to Anime definovat
 
-92
+100
 0:05:22,600 --> 0:05:25,600
 anime Já se zeptám Nejde se mi tu
 
-93
+101
 0:05:25,600 --> 0:05:27,800
 nějaký odvážlivec který by to zkusil
 
-94
-0:05:27,800 --> 0:05:33,600
-dokud se nenajde tak si a
+102
+0:05:27,800 --> 0:05:32,000
+dokud
 
-95
-0:05:33,600 --> 0:05:38,100
-já požádal o mikrofon přidat ať je to
+103
+0:05:32,000 --> 0:05:35,699
+se nenajde tak si a já
 
-96
+104
+0:05:35,699 --> 0:05:38,100
+požádal o mikrofon přidat ať je to
+
+105
 0:05:38,100 --> 0:05:38,600
 slyšet
 
-97
+106
 0:05:38,600 --> 0:05:45,000
 mluvit
 
-98
+107
 0:05:45,000 --> 0:05:47,600
 a mikrofon stačí mluvit
 
-99
-0:05:47,600 --> 0:05:53,199
-rychle animace a
-
-100
-0:05:53,199 --> 0:05:56,500
-vůbec jeho těch příběhu animovaných
-
-101
-0:05:56,500 --> 0:05:59,699
-zajímavá myšlenka a požádáme předat
-
-102
-0:05:59,699 --> 0:06:01,899
-jedny extra horské bonbóny asi taky
-
-103
-0:06:01,899 --> 0:06:04,500
-budu alespoň za snahu protože pokud
-
-104
-0:06:04,500 --> 0:06:07,199
-začnete se stylem japonské animace a
-
-105
-0:06:07,199 --> 0:06:09,600
-pak budu ještě mluvit Je to hodně
-
-106
-0:06:09,600 --> 0:06:13,100
-zavádějící rozhodně neplatí že všechno
-
-107
-0:06:13,100 --> 0:06:17,500
-co má velké oči anime tak běžím A
-
 108
+0:05:47,600 --> 0:05:52,199
+rychle
+
+109
+0:05:52,199 --> 0:05:55,199
+animace a vůbec jeho těch příběhu
+
+110
+0:05:55,199 --> 0:05:58,500
+animovaných zajímavá myšlenka a
+
+111
+0:05:58,500 --> 0:06:01,000
+požádáme předat jedny extra horské
+
+112
+0:06:01,000 --> 0:06:02,899
+bonbóny asi taky budu alespoň za snahu
+
+113
+0:06:02,899 --> 0:06:05,600
+protože pokud začnete se stylem
+
+114
+0:06:05,600 --> 0:06:08,000
+japonské animace a pak budu ještě
+
+115
+0:06:08,000 --> 0:06:10,100
+mluvit Je to hodně zavádějící
+
+116
+0:06:10,100 --> 0:06:13,600
+rozhodně neplatí že všechno co má velké
+
+117
+0:06:13,600 --> 0:06:17,500
+oči anime tak běžím A
+
+118
 0:06:17,500 --> 0:06:17,899
 támhle
 
-109
+119
 0:06:18,699 --> 0:06:26,399
 Takže
 
-110
+120
 0:06:26,399 --> 0:06:28,500
 já bych to definovali jako animaci
 
-111
+121
 0:06:28,500 --> 0:06:32,100
 která historicky Vznikla v Japonsku A
 
-112
+122
 0:06:32,100 --> 0:06:35,100
 dále se vyvíjela a pochází vlastně z
 
-113
+123
 0:06:35,100 --> 0:06:38,600
 této japonské kultury původně Jaká
 
-114
+124
 0:06:38,600 --> 0:06:40,899
 animace Vznikla v Japonsku se chci
 
-115
+125
 0:06:40,899 --> 0:06:44,100
 zeptat zda tam přišel z Ameriky původně
 
-116
+126
 0:06:44,100 --> 0:06:45,800
 po druhé světové válce pokud se nepletu
 
-117
-0:06:45,800 --> 0:06:50,199
-tak měli ano ne To mě už předtím
-
-118
-0:06:50,199 --> 0:06:53,699
-tak bude to v podstatě animace která se
-
-119
-0:06:53,699 --> 0:06:56,800
-vyvíjela a v japonské kultuře kultuře a
-
-120
-0:06:56,800 --> 0:06:59,300
-bude tím pádem bude budeme když budeme
-
-121
-0:06:59,300 --> 0:07:00,899
-hledat je historické kořeny tak vlastně
-
-122
-0:07:00,899 --> 0:07:03,899
-půjdeme do Japonska v rozumně že o to
-
-123
-0:07:03,899 --> 0:07:05,899
-že to je z toho historického hlediska
-
-124
-0:07:05,899 --> 0:07:10,399
-chápu to je možná použitelné hrozně tam
-
-125
-0:07:10,399 --> 0:07:12,500
-nebudou Kačeří příběhy které známe asi
-
-126
-0:07:12,500 --> 0:07:14,500
-všichni a a nemáte za jízdy Ještě
-
 127
-0:07:14,500 --> 0:07:17,399
-vlastně pruští firma TM s.r.o Twin a za
+0:06:45,800 --> 0:06:49,699
+tak měli ano ne To mě už
 
 128
-0:07:17,399 --> 0:07:18,100
-spoustu jiných anime
+0:06:49,699 --> 0:06:53,199
+předtím tak bude to v podstatě animace
 
 129
+0:06:53,199 --> 0:06:55,800
+která se vyvíjela a v japonské kultuře
+
+130
+0:06:55,800 --> 0:06:58,899
+kultuře a bude tím pádem bude budeme
+
+131
+0:06:58,899 --> 0:07:00,300
+když budeme hledat je historické kořeny
+
+132
+0:07:00,300 --> 0:07:03,199
+tak vlastně půjdeme do Japonska v
+
+133
+0:07:03,199 --> 0:07:05,199
+rozumně že o to že to je z toho
+
+134
+0:07:05,199 --> 0:07:08,800
+historického hlediska chápu to je možná
+
+135
+0:07:08,800 --> 0:07:11,100
+použitelné hrozně tam nebudou Kačeří
+
+136
+0:07:11,100 --> 0:07:13,500
+příběhy které známe asi všichni a a
+
+137
+0:07:13,500 --> 0:07:15,500
+nemáte za jízdy Ještě vlastně pruští
+
+138
+0:07:15,500 --> 0:07:17,899
+firma TM s.r.o Twin a za spoustu jiných
+
+139
+0:07:17,899 --> 0:07:18,100
+anime
+
+140
 0:07:18,600 --> 0:07:20,699
 Kačeří příběhy nikdo za nimi neoznačí
 
-130
-0:07:20,699 --> 0:07:25,699
-chápu další ano tak já bych řekl že to
+141
+0:07:20,699 --> 0:07:24,699
+chápu další ano tak já
 
-131
-0:07:25,699 --> 0:07:27,500
-je to prostě něco že je to prostě
+142
+0:07:24,699 --> 0:07:27,300
+bych řekl že to je to prostě něco že je
 
-132
-0:07:27,500 --> 0:07:29,300
-kreslený seriál vzniklý v Japonsku
+143
+0:07:27,300 --> 0:07:28,800
+to prostě kreslený seriál vzniklý v
 
-133
+144
+0:07:28,800 --> 0:07:29,300
+Japonsku
+
+145
 0:07:30,699 --> 0:07:33,699
 asi nejběžnější definice já znám jsem
 
-134
+146
 0:07:33,699 --> 0:07:35,699
 se pokusila o něco přesnější jinak
 
-135
+147
 0:07:35,699 --> 0:07:39,600
 počkám pak předat 200 a 100 a kimonu a
 
-136
-0:07:39,600 --> 0:07:45,300
-Pytlík Skittles další Slide ano
+148
+0:07:39,600 --> 0:07:43,399
+Pytlík Skittles další
 
-137
-0:07:45,300 --> 0:07:47,300
-protože původně anime je prostě jenom
+149
+0:07:43,399 --> 0:07:46,800
+Slide ano protože původně anime je
 
-138
-0:07:47,300 --> 0:07:49,100
-slovo označující animovaný film
+150
+0:07:46,800 --> 0:07:48,699
+prostě jenom slovo označující animovaný
 
-139
-0:07:49,100 --> 0:07:51,399
-libovolně jakou technikou libovolně V
+151
+0:07:48,699 --> 0:07:50,600
+film libovolně jakou technikou
 
-140
-0:07:51,399 --> 0:07:55,000
-jaké době a tak dále další Slide pro
+152
+0:07:50,600 --> 0:07:53,199
+libovolně V jaké době a tak dále další
 
-141
-0:07:55,000 --> 0:07:57,100
-účely této přednášky jakožto množinu
+153
+0:07:53,199 --> 0:07:56,399
+Slide pro účely této přednášky jakožto
 
-142
-0:07:57,100 --> 0:07:59,899
-anime která má býti chrám aby tě tím
+154
+0:07:56,399 --> 0:07:59,600
+množinu anime která má býti chrám aby
 
-143
-0:07:59,899 --> 0:08:02,000
-zdrojem ovlivnění pěstování pšenice
+155
+0:07:59,600 --> 0:08:01,899
+tě tím zdrojem ovlivnění pěstování
 
-144
-0:08:02,000 --> 0:08:05,500
-budu brát libovolné animované dílo
+156
+0:08:01,899 --> 0:08:05,100
+pšenice budu brát libovolné animované
 
-145
-0:08:05,500 --> 0:08:08,199
-vzniklé po uvedení Astro Boy na něž
+157
+0:08:05,100 --> 0:08:08,100
+dílo vzniklé po uvedení Astro Boy na
 
-146
-0:08:08,199 --> 0:08:11,000
-vlastní primární práva produkční
+158
+0:08:08,100 --> 0:08:11,000
+něž vlastní primární práva produkční
 
-147
+159
 0:08:11,000 --> 0:08:14,000
 společnost sídlící v Japonsku to
 
-148
+160
 0:08:14,000 --> 0:08:15,899
 protože se pak vyvarujeme i těch
 
-149
+161
 0:08:15,899 --> 0:08:18,300
 různých věcí za posledních 10 let aneb
 
-150
+162
 0:08:18,300 --> 0:08:21,600
 KARE Design udělal Japonec produkovala
 
-151
+163
 0:08:21,600 --> 0:08:23,100
 to Taiwan taiwanská společnost
 
-152
+164
 0:08:23,100 --> 0:08:26,399
 prodávalo se to globálně nakonec jenom
 
-153
+165
 0:08:26,399 --> 0:08:28,500
 na webu a podobně nic takového prostě
 
-154
+166
 0:08:28,500 --> 0:08:30,199
 primární práva vlastní
 
-155
+167
 0:08:30,699 --> 0:08:33,299
 společnost sídlící v Japonsku Space
 
-156
+168
 0:08:33,299 --> 0:08:35,500
 těhle těch dvou definice budu vycházet
 
-157
+169
 0:08:35,500 --> 0:08:38,500
 pro pokračování této řekněme analýzy
 
-158
-0:08:38,500 --> 0:08:42,899
-další Slide Ano korelace kauzalita
-
-159
-0:08:42,899 --> 0:08:46,500
-nevím jestli to někomu z vás říkají
-
-160
-0:08:46,500 --> 0:08:49,100
-tyto pojmy něco české ekvivalenty by
-
-161
-0:08:49,100 --> 0:08:52,600
-byly vlastně tažnost a skutečná
-
-162
-0:08:52,600 --> 0:08:56,600
-závislost korelace je prostě že když
-
-163
-0:08:56,600 --> 0:08:58,899
-vezmete dvě veličiny nebo dva jevy a
-
-164
-0:08:58,899 --> 0:09:01,500
-snaží nějakým způsobem si je promítnete
-
-165
-0:09:01,500 --> 0:09:03,500
-včas se případně v závislosti na nějaké
-
-166
-0:09:03,500 --> 0:09:05,899
-společné další veličině tak zjistíte že
-
-167
-0:09:05,899 --> 0:09:09,500
-se vzájemně nebo alespoň zjevně zda je
-
-168
-0:09:09,500 --> 0:09:11,700
-v jakožto vzájemně se ovlivňující
-
-169
-0:09:11,700 --> 0:09:15,100
-kauzalita je Pak když se vám povede
-
 170
-0:09:15,100 --> 0:09:19,299
-prokázat že tato závislost tam opravdu
+0:08:38,500 --> 0:08:41,899
+další Slide Ano korelace
 
 171
-0:09:19,299 --> 0:09:23,799
-nějaká je Příkladem může být v Lipo
+0:08:41,899 --> 0:08:45,600
+kauzalita nevím jestli to někomu z vás
 
 172
-0:09:23,799 --> 0:09:27,600
-taky zimu a schopnost dýchat čistý
+0:08:45,600 --> 0:08:48,399
+říkají tyto pojmy něco české
 
 173
-0:09:27,600 --> 0:09:30,200
-vzduch s menším obsahem kyslíku ve
+0:08:48,399 --> 0:08:51,399
+ekvivalenty by byly vlastně tažnost a
 
 174
-0:09:30,200 --> 0:09:30,500
-většině
+0:08:51,399 --> 0:08:55,200
+skutečná závislost korelace
 
 175
+0:08:55,200 --> 0:08:57,700
+je prostě že když vezmete dvě veličiny
+
+176
+0:08:57,700 --> 0:09:00,899
+nebo dva jevy a snaží nějakým způsobem
+
+177
+0:09:00,899 --> 0:09:02,600
+si je promítnete včas se případně v
+
+178
+0:09:02,600 --> 0:09:04,399
+závislosti na nějaké společné další
+
+179
+0:09:04,399 --> 0:09:07,200
+veličině tak zjistíte že se vzájemně
+
+180
+0:09:07,200 --> 0:09:10,299
+nebo alespoň zjevně zda je v jakožto
+
+181
+0:09:10,299 --> 0:09:14,000
+vzájemně se ovlivňující kauzalita je
+
+182
+0:09:14,000 --> 0:09:17,600
+Pak když se vám povede prokázat že
+
+183
+0:09:17,600 --> 0:09:20,399
+tato závislost tam opravdu nějaká je
+
+184
+0:09:20,399 --> 0:09:24,200
+Příkladem může být v Lipo taky
+
+185
+0:09:24,200 --> 0:09:27,799
+zimu a schopnost dýchat čistý vzduch
+
+186
+0:09:27,799 --> 0:09:30,500
+s menším obsahem kyslíku ve většině
+
+187
 0:09:30,700 --> 0:09:32,899
 nakonec se smrti můžete setkat při mít
 
-176
+188
 0:09:32,899 --> 0:09:35,000
 otázku tím menší místnosti můžete
 
-177
+189
 0:09:35,000 --> 0:09:36,899
 poskytnout a tím více jich tam vejde
 
-178
+190
 0:09:36,899 --> 0:09:38,100
 protože prostě si nějakým způsobem
 
-179
-0:09:38,100 --> 0:09:43,600
-vystačí Tak jdeme dál Tady máte třeba
+191
+0:09:38,100 --> 0:09:41,000
+vystačí Tak jdeme dál
 
-180
-0:09:43,600 --> 0:09:48,700
-ukázku takové pěkné korelace počet lidí
+192
+0:09:41,000 --> 0:09:44,799
+Tady máte třeba ukázku
 
-181
+193
+0:09:44,799 --> 0:09:48,700
+takové pěkné korelace počet lidí
+
+194
 0:09:48,700 --> 0:09:51,200
 kteří se utopili pádem do bazénu a
 
-182
+195
 0:09:51,200 --> 0:09:54,799
 filmy Nicolas Jaké filmy vectrix aby
 
-183
+196
 0:09:54,799 --> 0:09:58,500
 byl Nicolas Cage jisté řekněme
 
-184
+197
 0:09:58,500 --> 0:10:01,000
 kopírování těch dvou křivek přijedu
 
-185
-0:10:01,000 --> 0:10:06,500
-zjevné ovšem stále platí že ta korelace
-
-186
-0:10:06,500 --> 0:10:08,700
-jako taková nemusí znamenat že Nikolas
-
-187
-0:10:08,700 --> 0:10:12,500
-kejč je za to odpovědný je možná to
-
-188
-0:10:12,500 --> 0:10:14,399
-běžecké problémy lidí kteří sleduj
-
-189
-0:10:14,399 --> 0:10:16,700
-filmy s ním ale to není předmětem
-
-190
-0:10:16,700 --> 0:10:19,700
-tohoto porovnání tak stejně tak můžete
-
-191
-0:10:19,700 --> 0:10:22,700
-najít grafy ve kterých se třeba vynáší
-
-192
-0:10:22,700 --> 0:10:24,299
-počet sebevražd v České republice a
-
-193
-0:10:24,299 --> 0:10:28,399
-premiéry filmu Zdeňka Trošky Ano ano
-
-194
-0:10:28,399 --> 0:10:30,000
-včetně Jasněnka a létající
-
-195
-0:10:30,600 --> 0:10:35,100
-počasí Co to je asi jediný slušný Ovšem
-
-196
-0:10:35,100 --> 0:10:37,399
-ve všem tomhletom platí další Slide
-
-197
-0:10:37,399 --> 0:10:40,799
-korelace neimplikuje kauzalitu Jinými
-
 198
-0:10:40,799 --> 0:10:42,500
-slovy to že se vám zdá že nějaká
+0:10:01,000 --> 0:10:04,799
+zjevné ovšem stále platí že
 
 199
+0:10:04,799 --> 0:10:08,000
+ta korelace jako taková nemusí znamenat
+
+200
+0:10:08,000 --> 0:10:09,700
+že Nikolas kejč je za to odpovědný
+
+201
+0:10:09,700 --> 0:10:13,700
+je možná to běžecké problémy
+
+202
+0:10:13,700 --> 0:10:16,000
+lidí kteří sleduj filmy s ním ale to
+
+203
+0:10:16,000 --> 0:10:18,899
+není předmětem tohoto porovnání tak
+
+204
+0:10:18,899 --> 0:10:20,700
+stejně tak můžete najít grafy ve
+
+205
+0:10:20,700 --> 0:10:23,500
+kterých se třeba vynáší počet sebevražd
+
+206
+0:10:23,500 --> 0:10:25,600
+v České republice a premiéry filmu
+
+207
+0:10:25,600 --> 0:10:29,000
+Zdeňka Trošky Ano ano včetně
+
+208
+0:10:29,000 --> 0:10:30,000
+Jasněnka a létající
+
+209
+0:10:30,600 --> 0:10:33,100
+počasí Co to je asi jediný slušný
+
+210
+0:10:33,100 --> 0:10:37,100
+Ovšem ve všem tomhletom platí další
+
+211
+0:10:37,100 --> 0:10:39,700
+Slide korelace neimplikuje kauzalitu
+
+212
+0:10:39,700 --> 0:10:42,500
+Jinými slovy to že se vám zdá že nějaká
+
+213
 0:10:42,500 --> 0:10:45,000
 starost existuje neznamená že je
 
-200
+214
 0:10:45,000 --> 0:10:47,100
 opravdu nějaký reálný základ na kterém
 
-201
-0:10:47,100 --> 0:10:51,799
-vlastně to potom můžete mluvit a tohle
+215
+0:10:47,100 --> 0:10:50,100
+vlastně to potom můžete mluvit a
 
-202
-0:10:51,799 --> 0:10:54,100
-té přednášce kde se jí zajímá vztah a
+216
+0:10:50,100 --> 0:10:53,600
+tohle té přednášce kde se jí zajímá
 
-203
-0:10:54,100 --> 0:10:57,100
-my funny Man a růst pšenice tady musíme
+217
+0:10:53,600 --> 0:10:56,100
+vztah a my funny Man a růst pšenice
 
-204
-0:10:57,100 --> 0:10:58,399
-počítat s tím že i když mi nějakou
+218
+0:10:56,100 --> 0:10:58,299
+tady musíme počítat s tím že i když mi
 
-205
-0:10:58,399 --> 0:11:01,399
-závislost zjevně najdeme nemusí platit
+219
+0:10:58,299 --> 0:11:01,200
+nějakou závislost zjevně najdeme nemusí
 
-206
-0:11:01,399 --> 0:11:05,000
-že je tedy důkazně podmíněná Jdeme dál
+220
+0:11:01,200 --> 0:11:03,500
+platit že je tedy důkazně podmíněná
 
-207
-0:11:05,000 --> 0:11:10,799
-tak stylizace protože ve Francii
+221
+0:11:03,500 --> 0:11:07,500
+Jdeme dál tak
 
-208
+222
+0:11:07,500 --> 0:11:10,799
+stylizace protože ve Francii
+
+223
 0:11:10,799 --> 0:11:13,899
 možného ovlivnění se teď budeme
 
-209
-0:11:13,899 --> 0:11:18,200
-operatio práce starší Řekni mi
-
-210
-0:11:18,200 --> 0:11:21,000
-Výzkumníků protože ať se budete možná
-
-211
-0:11:21,000 --> 0:11:24,399
-divit zjišťování to zdali by pole
-
-212
-0:11:24,399 --> 0:11:27,500
-nedokázal on s tím více jenom tím že
-
-213
-0:11:27,500 --> 0:11:30,100
-změníme jihotvar že
-
-214
-0:11:30,600 --> 0:11:34,899
-ho vyzdobím že na každý Class navážeme
-
-215
-0:11:34,899 --> 0:11:39,200
-mašličku nějaké barvy či že jeho ne
-
-216
-0:11:39,200 --> 0:11:41,000
-zakomponujeme do nějakého řekněme
-
-217
-0:11:41,000 --> 0:11:45,799
-krajinného parku probíhaly už vlastně
-
-218
-0:11:45,799 --> 0:11:49,200
-dá se říct ve středověku průkopníky
-
-219
-0:11:49,200 --> 0:11:51,299
-těchto specifických výzkumu jsou hlavně
-
-220
-0:11:51,299 --> 0:11:55,000
-Francouzi i velikáni Jako je pan The
-
-221
-0:11:55,000 --> 0:11:57,700
-Trap and humboldt a další jsou to
-
-222
-0:11:57,700 --> 0:12:00,399
-výborná jména která se pak věnovala i v
-
-223
-0:12:00,399 --> 0:12:05,000
-o kosmických energií homeopatie šíření
-
 224
+0:11:13,899 --> 0:11:17,500
+operatio práce starší
+
+225
+0:11:17,500 --> 0:11:20,500
+Řekni mi Výzkumníků protože ať se
+
+226
+0:11:20,500 --> 0:11:23,899
+budete možná divit zjišťování to zdali
+
+227
+0:11:23,899 --> 0:11:27,000
+by pole nedokázal on s tím více jenom
+
+228
+0:11:27,000 --> 0:11:30,100
+tím že změníme jihotvar že
+
+229
+0:11:30,600 --> 0:11:33,799
+ho vyzdobím že na každý Class
+
+230
+0:11:33,799 --> 0:11:37,600
+navážeme mašličku nějaké barvy či
+
+231
+0:11:37,600 --> 0:11:40,500
+že jeho ne zakomponujeme do nějakého
+
+232
+0:11:40,500 --> 0:11:44,100
+řekněme krajinného parku probíhaly
+
+233
+0:11:44,100 --> 0:11:47,799
+už vlastně dá se říct ve středověku
+
+234
+0:11:47,799 --> 0:11:50,899
+průkopníky těchto specifických výzkumu
+
+235
+0:11:50,899 --> 0:11:54,000
+jsou hlavně Francouzi i velikáni Jako
+
+236
+0:11:54,000 --> 0:11:56,500
+je pan The Trap and humboldt a další
+
+237
+0:11:56,500 --> 0:11:59,700
+jsou to výborná jména která se pak
+
+238
+0:11:59,700 --> 0:12:01,200
+věnovala i v o kosmických energií
+
+239
+0:12:01,200 --> 0:12:05,000
+homeopatie šíření
+
+240
 0:12:05,000 --> 0:12:07,799
 pozitivní energií lámání pozitivní
 
-225
+241
 0:12:07,799 --> 0:12:09,700
 energií změny naladění energií a
 
-226
+242
 0:12:09,700 --> 0:12:12,299
 podobně opravdu o vědecké kapacity pár
 
-227
+243
 0:12:12,299 --> 0:12:12,899
 Excelent
 
-228
-0:12:13,600 --> 0:12:19,200
-Tak ty zkoušeli a spousta dalších
+244
+0:12:13,600 --> 0:12:16,500
+Tak ty zkoušeli a
 
-229
-0:12:19,200 --> 0:12:22,100
-zkouška třeba to že když umístili na
+245
+0:12:16,500 --> 0:12:20,100
+spousta dalších zkouška třeba to že
 
-230
-0:12:22,100 --> 0:12:24,500
-své pro na své pole s pšenicí a
+246
+0:12:20,100 --> 0:12:23,799
+když umístili na své pro na své pole s
 
-231
-0:12:24,500 --> 0:12:27,100
-malované oleje zdali tedy květiny
+247
+0:12:23,799 --> 0:12:26,700
+pšenicí a malované oleje zdali tedy
 
-232
-0:12:27,100 --> 0:12:30,600
-motivované k růstu zobrazeními
+248
+0:12:26,700 --> 0:12:30,600
+květiny motivované k růstu zobrazeními
 
-233
+249
 0:12:30,600 --> 0:12:33,700
 uměleckými díly budou tedy mít větší
 
-234
+250
 0:12:33,700 --> 0:12:36,100
 klasy nesou více nebo alespoň porostou
 
-235
+251
 0:12:36,100 --> 0:12:39,899
 rychleji bohužel zvláštní humboldt měl
 
-236
+252
 0:12:39,899 --> 0:12:43,399
 tu smůlu že si vybral období tříletého
 
-237
-0:12:43,399 --> 0:12:47,700
-sucha ve Francii a zjistil že je mu
+253
+0:12:43,399 --> 0:12:46,899
+sucha ve Francii a zjistil že je
 
-238
-0:12:47,700 --> 0:12:51,700
-výzkum nenese relevantní data co vůz po
+254
+0:12:46,899 --> 0:12:50,000
+mu výzkum nenese relevantní data
 
-239
-0:12:51,700 --> 0:12:53,299
-těch třech letech přišlo naopak velmi
+255
+0:12:50,000 --> 0:12:52,799
+co vůz po těch třech letech přišlo
 
-240
-0:12:53,299 --> 0:12:56,299
-velmi velmi deštivý rok a tam zjistil
+256
+0:12:52,799 --> 0:12:55,100
+naopak velmi velmi velmi deštivý rok a
 
-241
-0:12:56,299 --> 0:12:59,399
-že oleje a déšť nejsou úplně ono
+257
+0:12:55,100 --> 0:12:59,000
+tam zjistil že oleje a déšť nejsou
 
-242
-0:12:59,399 --> 0:13:01,700
-kombinací zvláště proto když mám ty
+258
+0:12:59,000 --> 0:13:01,399
+úplně ono kombinací zvláště proto když
 
-243
-0:13:01,700 --> 0:13:04,799
-barvy tak trochu utečou do půdy a
+259
+0:13:01,399 --> 0:13:04,700
+mám ty barvy tak trochu utečou do půdy
 
-244
-0:13:04,799 --> 0:13:06,399
-následně tam tu nic nemůžete přestat
+260
+0:13:04,700 --> 0:13:06,399
+a následně tam tu nic nemůžete přestat
 
-245
+261
 0:13:06,399 --> 0:13:10,100
 ale to jsou typické přešlapy počátku
 
-246
+262
 0:13:10,100 --> 0:13:12,399
 vědeckého výzkumu a musíme tady s nimi
 
-247
+263
 0:13:12,399 --> 0:13:12,799
 počítat
 
-248
+264
 0:13:13,700 --> 0:13:16,200
 zkoušely se různé věci já jenom požádal
 
-249
-0:13:16,200 --> 0:13:20,899
-She's like Ano miyazaki obvyklá
+265
+0:13:16,200 --> 0:13:19,600
+She's like Ano miyazaki
 
-250
-0:13:20,899 --> 0:13:25,399
-vlajková loď anime další Slide jedna z
+266
+0:13:19,600 --> 0:13:22,899
+obvyklá vlajková loď anime další Slide
 
-251
-0:13:25,399 --> 0:13:26,700
-prvních vlajkových lodí anime a
+267
+0:13:22,899 --> 0:13:26,700
+jedna z prvních vlajkových lodí anime a
 
-252
+268
 0:13:26,700 --> 0:13:28,899
 přiznejme si to co to byste asi změna
 
-253
+269
 0:13:28,899 --> 0:13:31,500
 zatím já taky nenašli na druhou stranu
 
-254
+270
 0:13:31,500 --> 0:13:33,299
 to to do prohánějící se na otoky na
 
-255
+271
 0:13:33,299 --> 0:13:35,299
 motorce by mohl být celku zajímavé ale
 
-256
+272
 0:13:35,299 --> 0:13:37,200
 nevím jaký vliv by to mělo na agrární
 
-257
+273
 0:13:37,200 --> 0:13:40,500
 řekněme vývoj nějaké země další Slide
 
-258
+274
 0:13:40,500 --> 0:13:43,799
 Ti z vás kteří by jako nějakou
 
-259
+275
 0:13:43,799 --> 0:13:45,799
 stylizaci a neoznačili opravna mi
 
-260
+276
 0:13:45,799 --> 0:13:47,399
 nějakou tu klasickou kresbu tak máme
 
-261
+277
 0:13:47,399 --> 0:13:50,000
 tady main Game a cokoli od čtyř stupňů
 
-262
-0:13:50,000 --> 0:13:54,899
-is Like A samozřejmě šachty a nevím
+278
+0:13:50,000 --> 0:13:53,899
+is Like A samozřejmě šachty
 
-263
-0:13:54,899 --> 0:13:58,200
-tedy jestli 5S baterie monogatari mohla
+279
+0:13:53,899 --> 0:13:57,500
+a nevím tedy jestli 5S baterie
 
-264
-0:13:58,200 --> 0:14:00,600
-sloužit jako trénink pšenice aby
+280
+0:13:57,500 --> 0:13:59,799
+monogatari mohla sloužit jako trénink
 
-265
-0:14:00,600 --> 0:14:02,399
-odolávala větru protože takhle by
+281
+0:13:59,799 --> 0:14:02,000
+pšenice aby odolávala větru protože
 
-266
-0:14:02,399 --> 0:14:04,799
-kroucenou hlavou a přesto funkční bazén
+282
+0:14:02,000 --> 0:14:04,000
+takhle by kroucenou hlavou a přesto
 
-267
-0:14:04,799 --> 0:14:07,100
-by se tedy rostliny cítili být i
+283
+0:14:04,000 --> 0:14:06,500
+funkční bazén by se tedy rostliny
 
-268
-0:14:07,100 --> 0:14:09,899
-pevnější odolávání přírodním podmínkám
+284
+0:14:06,500 --> 0:14:08,700
+cítili být i pevnější odolávání
 
-269
-0:14:09,899 --> 0:14:13,700
-opravdu žádný z těchto experimentů
+285
+0:14:08,700 --> 0:14:12,700
+přírodním podmínkám opravdu žádný
 
-270
+286
+0:14:12,700 --> 0:14:13,700
+z těchto experimentů
+
+287
 0:14:13,600 --> 0:14:15,799
 dokonce pak i vedený pod přísným
 
-271
-0:14:15,799 --> 0:14:19,899
-dohledem například americké vládní
-
-272
-0:14:19,899 --> 0:14:22,700
-organizace pro agrární plánování a spol
-
-273
-0:14:22,700 --> 0:14:26,200
-nevedly k tomu že by se prokázala
-
-274
-0:14:26,200 --> 0:14:29,799
-nějaká vazba mezi tím jak vyzdobit a
-
-275
-0:14:29,799 --> 0:14:33,799
-jak vytvarujete pole s tím jak řekni mi
-
-276
-0:14:33,799 --> 0:14:37,899
-kolik dnes a jeden zmatečný výsledek
-
-277
-0:14:37,899 --> 0:14:39,500
-právě díky tomu že si někdo z
-
-278
-0:14:39,500 --> 0:14:42,200
-neuvědomil že korelace neimplikuje
-
-279
-0:14:42,200 --> 0:14:46,100
-kauzalitu nespočívá v tom že právě když
-
-280
-0:14:46,100 --> 0:14:49,500
-vazelina klasy ty mašličky tak se
-
-281
-0:14:49,500 --> 0:14:52,700
-povedlo dobrovolníkům zlámat některé
-
-282
-0:14:52,700 --> 0:14:55,100
-klasy kolem což vedlo k tomu že samotná
-
-283
-0:14:55,100 --> 0:14:56,899
-rostlina pak měla tedy více prostoru a
-
-284
-0:14:56,899 --> 0:15:00,200
-proto vyrostl o něco větší při
-
-285
-0:15:00,200 --> 0:15:02,500
-opakování pokusu s šikovnějším a
-
-286
-0:15:02,500 --> 0:15:05,200
-dobrovolníky se ale toto tento
-
-287
-0:15:05,200 --> 0:15:07,799
-předpoklad ty vrátil navíc pokud byste
-
 288
-0:15:07,799 --> 0:15:09,399
-chtěli mít tedy hrozně zase ne dále od
+0:14:15,799 --> 0:14:18,799
+dohledem například americké
 
 289
-0:15:09,399 --> 0:15:10,700
-sebe tak celkový výnos pole mám
+0:14:18,799 --> 0:14:22,200
+vládní organizace pro agrární plánování
 
 290
+0:14:22,200 --> 0:14:24,700
+a spol nevedly k tomu že by se
+
+291
+0:14:24,700 --> 0:14:28,500
+prokázala nějaká vazba mezi tím
+
+292
+0:14:28,500 --> 0:14:31,200
+jak vyzdobit a jak vytvarujete pole s
+
+293
+0:14:31,200 --> 0:14:35,000
+tím jak řekni mi kolik dnes a
+
+294
+0:14:35,000 --> 0:14:38,899
+jeden zmatečný výsledek právě díky tomu
+
+295
+0:14:38,899 --> 0:14:41,799
+že si někdo z neuvědomil že korelace
+
+296
+0:14:41,799 --> 0:14:44,899
+neimplikuje kauzalitu nespočívá v tom
+
+297
+0:14:44,899 --> 0:14:47,700
+že právě když vazelina klasy ty
+
+298
+0:14:47,700 --> 0:14:51,500
+mašličky tak se povedlo dobrovolníkům
+
+299
+0:14:51,500 --> 0:14:54,299
+zlámat některé klasy kolem což vedlo k
+
+300
+0:14:54,299 --> 0:14:56,000
+tomu že samotná rostlina pak měla tedy
+
+301
+0:14:56,000 --> 0:14:58,299
+více prostoru a proto vyrostl o něco
+
+302
+0:14:58,299 --> 0:15:01,399
+větší při opakování pokusu s
+
+303
+0:15:01,399 --> 0:15:04,700
+šikovnějším a dobrovolníky se ale toto
+
+304
+0:15:04,700 --> 0:15:07,500
+tento předpoklad ty vrátil navíc pokud
+
+305
+0:15:07,500 --> 0:15:09,000
+byste chtěli mít tedy hrozně zase ne
+
+306
+0:15:09,000 --> 0:15:10,700
+dále od sebe tak celkový výnos pole mám
+
+307
 0:15:10,700 --> 0:15:13,200
 samozřejmě na ten jako shackles a jdeme
 
-291
+308
 0:15:13,200 --> 0:15:13,299
 dál
 
-292
-0:15:14,299 --> 0:15:19,100
-Ano to jsme tedy vyřešili teď další
+309
+0:15:14,299 --> 0:15:16,899
+Ano to jsme tedy
 
-293
-0:15:19,100 --> 0:15:23,299
-Slide světelné podmínky když jsem
+310
+0:15:16,899 --> 0:15:19,500
+vyřešili teď další Slide
 
-294
+311
+0:15:19,500 --> 0:15:23,299
+světelné podmínky když jsem
+
+312
 0:15:23,299 --> 0:15:25,299
 uvažoval o tom čím jsme my jakožto
 
-295
+313
 0:15:25,299 --> 0:15:28,899
 otaku proslulý řekněme jako společenská
 
-296
+314
 0:15:28,899 --> 0:15:32,799
 vrstva nebo komunita je to naše
 
-297
+315
 0:15:32,799 --> 0:15:35,899
 schopnost být zabořen očima The LCD
 
-298
-0:15:35,899 --> 0:15:41,600
-Display kdykoliv a kdekoliv a tedy
+316
+0:15:35,899 --> 0:15:38,299
+Display kdykoliv a kdekoliv a
 
-299
+317
+0:15:38,299 --> 0:15:41,600
+tedy
+
+318
 0:15:41,600 --> 0:15:44,399
 musíme přiznat že běžná l sedačka
 
-300
+319
 0:15:44,399 --> 0:15:46,100
 dokonce i kdyby to byly staré CR
 
-301
+320
 0:15:46,100 --> 0:15:48,899
 televize nejsou zanedbatelné mi zdroj
 
-302
+321
 0:15:48,899 --> 0:15:50,500
 světla pokud si chcete nějaké větší
 
-303
+322
 0:15:50,500 --> 0:15:53,000
 množství nedejbože Pokud je to otaku ty
 
-304
+323
 0:15:53,000 --> 0:15:55,000
 jsi snad tak to vyzdobí takže svůj
 
-305
+324
 0:15:55,000 --> 0:15:57,700
 pokoj a dodá světýlka věci kolem
 
-306
-0:15:57,700 --> 0:16:02,000
-Všechno toto může mít vliv na to že tak
+325
+0:15:57,700 --> 0:16:01,000
+Všechno toto může mít vliv na to že
 
-307
-0:16:02,000 --> 0:16:04,500
-říkej světelné zamoření oblasti kolem
+326
+0:16:01,000 --> 0:16:04,299
+tak říkej světelné zamoření oblasti
 
-308
-0:16:04,500 --> 0:16:07,399
-vás pokud by se kolem vás nacházeli
+327
+0:16:04,299 --> 0:16:06,700
+kolem vás pokud by se kolem vás
 
-309
-0:16:07,399 --> 0:16:09,200
-nějaké rostliny je možné že v rámci
+328
+0:16:06,700 --> 0:16:09,100
+nacházeli nějaké rostliny je možné že v
 
-310
-0:16:09,200 --> 0:16:11,200
-svého biologického cyklu to povede k
+329
+0:16:09,100 --> 0:16:10,799
+rámci svého biologického cyklu to
 
-311
-0:16:11,200 --> 0:16:13,200
-tomu že Zličín s tím světla budou lépe
+330
+0:16:10,799 --> 0:16:12,700
+povede k tomu že Zličín s tím světla
 
-312
-0:16:13,200 --> 0:16:13,899
-prosperovat
+331
+0:16:12,700 --> 0:16:13,899
+budou lépe prosperovat
 
-313
+332
 0:16:14,299 --> 0:16:16,200
 tím pádem Možná porostou rychleji a
 
-314
+333
 0:16:16,200 --> 0:16:17,799
 budete mít nějaké tedy ekonomický dopad
 
-315
+334
 0:16:17,799 --> 0:16:21,000
 že třeba dozrají dříve a podobně další
 
-316
-0:16:21,000 --> 0:16:26,799
-Slide Ano bohužel díky tomu jak obvykle
+335
+0:16:21,000 --> 0:16:24,600
+Slide Ano bohužel
 
-317
-0:16:26,799 --> 0:16:30,299
-žijí otaku ve většině zemí a kde se ve
+336
+0:16:24,600 --> 0:16:28,000
+díky tomu jak obvykle žijí otaku ve
 
-318
-0:16:30,299 --> 0:16:32,200
-větší věčně země schází pšeničná pole
+337
+0:16:28,000 --> 0:16:30,700
+většině zemí a kde se ve větší věčně
 
-319
-0:16:32,200 --> 0:16:35,299
-je velmi malý průnik těchto dvou množin
+338
+0:16:30,700 --> 0:16:33,899
+země schází pšeničná pole je velmi malý
 
-320
-0:16:35,299 --> 0:16:39,299
-v jednom čase dokonce v takovém čase
+339
+0:16:33,899 --> 0:16:36,200
+průnik těchto dvou množin v jednom čase
 
-321
-0:16:39,299 --> 0:16:41,700
-aby tady světlo z toho monitoru bylo
+340
+0:16:36,200 --> 0:16:39,799
+dokonce v takovém čase aby tady
 
-322
-0:16:41,700 --> 0:16:44,399
-nějak výrazným prvkem pro ovlivnění
+341
+0:16:39,799 --> 0:16:42,100
+světlo z toho monitoru bylo nějak
 
-323
-0:16:44,399 --> 0:16:48,600
-pěstění pšenice pokud to má snad někdo
+342
+0:16:42,100 --> 0:16:45,600
+výrazným prvkem pro ovlivnění pěstění
 
-324
-0:16:48,600 --> 0:16:51,600
-nějaká jiná pozorování Já jsem vycházel
+343
+0:16:45,600 --> 0:16:48,899
+pšenice pokud to má snad někdo nějaká
 
-325
-0:16:51,600 --> 0:16:55,399
-z toho že třeba japonský statistický
+344
+0:16:48,899 --> 0:16:52,600
+jiná pozorování Já jsem vycházel z toho
 
-326
-0:16:55,399 --> 0:16:58,700
-úřad Urči vlastně vypočítal že pokud
+345
+0:16:52,600 --> 0:16:55,799
+že třeba japonský statistický úřad
 
-327
-0:16:58,700 --> 0:17:00,200
-jste otaku Máte mnohem větší šanci
+346
+0:16:55,799 --> 0:16:58,799
+Urči vlastně vypočítal že pokud jste
 
-328
-0:17:00,200 --> 0:17:02,600
-upravit svůj biorytmus na sovu a žena
+347
+0:16:58,799 --> 0:17:00,899
+otaku Máte mnohem větší šanci upravit
 
-329
-0:17:02,600 --> 0:17:04,700
-Slavíka To znamená že tedy stáhnete to
+348
+0:17:00,899 --> 0:17:03,000
+svůj biorytmus na sovu a žena Slavíka
 
-330
-0:17:04,700 --> 0:17:09,299
-více do noci nešli na ráno a taktéž že
+349
+0:17:03,000 --> 0:17:05,099
+To znamená že tedy stáhnete to více do
 
-331
-0:17:09,299 --> 0:17:11,599
-minimálně opouštíte urbanistické
+350
+0:17:05,099 --> 0:17:09,000
+noci nešli na ráno a taktéž
 
-332
+351
+0:17:09,000 --> 0:17:11,599
+že minimálně opouštíte urbanistické
+
+352
 0:17:11,599 --> 0:17:13,200
 oblasti Takže ty zastavěné
 
-333
+353
 0:17:14,299 --> 0:17:17,900
 nejsem si moc jistý jestli v Japonsku
 
-334
+354
 0:17:17,900 --> 0:17:19,200
 se potom si to nenašel kdyby tam byly v
 
-335
+355
 0:17:19,200 --> 0:17:20,700
 truhlících ve městech třeba zase ne
 
-336
+356
 0:17:20,700 --> 0:17:23,700
 klasy pšenice televize sklízeli nevím
 
-337
+357
 0:17:23,700 --> 0:17:25,599
 tedy stoprocentní jestli bych to mohl
 
-338
-0:17:25,599 --> 0:17:29,700
-vyloučit ve všech státech na zemi Ale s
+358
+0:17:25,599 --> 0:17:29,099
+vyloučit ve všech státech na zemi Ale
 
-339
-0:17:29,700 --> 0:17:34,400
-ohledem na to že nejbližší pšenici o
+359
+0:17:29,099 --> 0:17:32,599
+s ohledem na to že nejbližší
 
-340
-0:17:34,400 --> 0:17:36,599
-byt jakoby obytném prostoru podle
+360
+0:17:32,599 --> 0:17:35,799
+pšenici o byt jakoby obytném prostoru
 
-341
-0:17:36,599 --> 0:17:39,299
-průzkumu světové zemědělské organizace
+361
+0:17:35,799 --> 0:17:39,099
+podle průzkumu světové zemědělské
 
-342
-0:17:39,299 --> 0:17:44,599
-má Mongolsko nejsem se zase takový že
+362
+0:17:39,099 --> 0:17:40,799
+organizace má Mongolsko
 
-343
-0:17:44,599 --> 0:17:47,900
-když mají také nejmenší počet těchto
+363
+0:17:40,799 --> 0:17:44,799
+nejsem se zase takový že když
 
-344
-0:17:47,900 --> 0:17:49,799
-stavení Electric vlastně vybavených
+364
+0:17:44,799 --> 0:17:48,400
+mají také nejmenší počet těchto stavení
 
-345
-0:17:49,799 --> 0:17:52,500
-elektrické síti jestli bych nedokázal
+365
+0:17:48,400 --> 0:17:51,000
+Electric vlastně vybavených elektrické
 
-346
-0:17:52,500 --> 0:17:53,900
-najít ten první který mezi běžícími
+366
+0:17:51,000 --> 0:17:52,900
+síti jestli bych nedokázal najít ten
 
-347
-0:17:53,900 --> 0:17:56,299
-cédéčkem a mongolským polem pšenice
+367
+0:17:52,900 --> 0:17:54,900
+první který mezi běžícími cédéčkem a
 
-348
+368
+0:17:54,900 --> 0:17:56,299
+mongolským polem pšenice
+
+369
 0:17:57,299 --> 0:18:00,700
 Omlouvám se tady opravdu stále bych
 
-349
+370
 0:18:00,700 --> 0:18:02,900
 razil tu tezi že ten průnik jako
 
-350
+371
 0:18:02,900 --> 0:18:05,599
 množení minimální a tedy naše LCD
 
-351
+372
 0:18:05,599 --> 0:18:08,299
 posedlost nemůže způsobit a tohle
 
-352
+373
 0:18:08,299 --> 0:18:09,500
 zamoření které by nějakým způsobem
 
-353
+374
 0:18:09,500 --> 0:18:12,299
 opravdu v globálu ovlivnilo celkové
 
-354
+375
 0:18:12,299 --> 0:18:15,000
 produkce pšenice ať už je globálním a
 
-355
+376
 0:18:15,000 --> 0:18:17,000
 celosvětově nebo v jednom státě další
 
-356
-0:18:17,000 --> 0:18:21,700
-starší Slide nazvučení podobně jako se
-
-357
-0:18:21,700 --> 0:18:25,000
-prováděly experimenty s výzdobou A
-
-358
-0:18:25,000 --> 0:18:28,500
-samozřejmě se prováděly provádějí a
-
-359
-0:18:28,500 --> 0:18:30,900
-dokonce příštích pěti letech provádět
-
-360
-0:18:30,900 --> 0:18:33,200
-budou experimenty s tím když budete
-
-361
-0:18:33,200 --> 0:18:38,599
-rostlinám hrát ať už nějaké formy
-
-362
-0:18:38,599 --> 0:18:41,099
-modulovaných zvuků které by se daly
-
-363
-0:18:41,099 --> 0:18:47,000
-nazvat volnou variací na šedý šum
-
-364
-0:18:47,000 --> 0:18:50,599
-a další jiné nemoc poslouchatelné věci
-
-365
-0:18:50,599 --> 0:18:54,000
-až po to když hledáte jestli řeknu oves
-
-366
-0:18:54,000 --> 0:18:56,599
-preferuje Wagnera A nebo třeba
-
-367
-0:18:57,200 --> 0:19:02,000
-karta opět i tyto věci nejsou mladé už
-
-368
-0:19:02,000 --> 0:19:04,700
-staří Řekové tedy u nich to byly
-
-369
-0:19:04,700 --> 0:19:08,099
-olivové tady to to zkoušeli jsou
-
-370
-0:19:08,099 --> 0:19:11,599
-záznamy někdy vlastně z druhého století
-
-371
-0:19:11,599 --> 0:19:15,799
-našeho letopočtu kterém řecký majitel
-
-372
-0:19:15,799 --> 0:19:17,700
-vlastně olivových sadu jim nechal
-
-373
-0:19:17,700 --> 0:19:21,900
-vyhrávat najmu týmy hudebníky a chtěl
-
-374
-0:19:21,900 --> 0:19:24,500
-tedy po nich zvýšit tímto vyhráváním
-
-375
-0:19:24,500 --> 0:19:28,000
-celkový výnos Bohužel už se mi bohužel
-
-376
-0:19:28,000 --> 0:19:30,400
-už se nedochovaly záznamy o tom jak pak
-
 377
-0:19:30,400 --> 0:19:31,900
-naložit hudebníky kteří zřejmě toto
+0:18:17,000 --> 0:18:19,700
+starší Slide nazvučení
 
 378
-0:19:31,900 --> 0:19:35,900
-nesplnili takže v tom bohužel historie
+0:18:19,700 --> 0:18:23,700
+podobně jako se prováděly experimenty s
 
 379
-0:19:35,900 --> 0:19:38,000
-nám zanechala veškeré informace ale z
+0:18:23,700 --> 0:18:27,200
+výzdobou A samozřejmě se prováděly
 
 380
-0:19:38,000 --> 0:19:40,200
-těch novodobých pokusů jsme došli k
+0:18:27,200 --> 0:18:29,700
+provádějí a dokonce příštích pěti
 
 381
-0:19:40,200 --> 0:19:42,099
-celku zajímavým závěrům další Flight
+0:18:29,700 --> 0:18:32,700
+letech provádět budou experimenty s tím
 
 382
-0:19:42,099 --> 0:19:45,200
-Ano další a
+0:18:32,700 --> 0:18:36,500
+když budete rostlinám hrát ať už
 
 383
-0:19:45,200 --> 0:19:51,000
-různé formy
+0:18:36,500 --> 0:18:40,500
+nějaké formy modulovaných zvuků které
 
 384
-0:19:51,000 --> 0:19:52,700
-zvukové zatím to budu dokáží ovlivňovat
+0:18:40,500 --> 0:18:41,099
+by se daly nazvat
 
 385
-0:19:52,700 --> 0:19:55,599
-ten růst rostlin ve většině případů se
+0:18:41,099 --> 0:18:45,299
+volnou
 
 386
-0:19:55,599 --> 0:19:56,900
-jedná o ovlivnění
+0:18:45,299 --> 0:18:48,599
+variací na šedý šum a další jiné
 
 387
+0:18:48,599 --> 0:18:51,799
+nemoc poslouchatelné věci až po to když
+
+388
+0:18:51,799 --> 0:18:54,500
+hledáte jestli řeknu oves preferuje
+
+389
+0:18:54,500 --> 0:18:56,599
+Wagnera A nebo třeba
+
+390
+0:18:57,200 --> 0:19:00,900
+karta opět i tyto věci
+
+391
+0:19:00,900 --> 0:19:04,000
+nejsou mladé už staří Řekové tedy u
+
+392
+0:19:04,000 --> 0:19:06,400
+nich to byly olivové tady to to
+
+393
+0:19:06,400 --> 0:19:10,400
+zkoušeli jsou záznamy někdy vlastně
+
+394
+0:19:10,400 --> 0:19:12,799
+z druhého století našeho letopočtu
+
+395
+0:19:12,799 --> 0:19:16,599
+kterém řecký majitel vlastně olivových
+
+396
+0:19:16,599 --> 0:19:19,700
+sadu jim nechal vyhrávat najmu týmy
+
+397
+0:19:19,700 --> 0:19:23,099
+hudebníky a chtěl tedy po nich zvýšit
+
+398
+0:19:23,099 --> 0:19:26,900
+tímto vyhráváním celkový výnos Bohužel
+
+399
+0:19:26,900 --> 0:19:29,400
+už se mi bohužel už se nedochovaly
+
+400
+0:19:29,400 --> 0:19:31,200
+záznamy o tom jak pak naložit hudebníky
+
+401
+0:19:31,200 --> 0:19:34,799
+kteří zřejmě toto nesplnili takže v tom
+
+402
+0:19:34,799 --> 0:19:37,200
+bohužel historie nám zanechala veškeré
+
+403
+0:19:37,200 --> 0:19:39,200
+informace ale z těch novodobých pokusů
+
+404
+0:19:39,200 --> 0:19:41,200
+jsme došli k celku zajímavým závěrům
+
+405
+0:19:41,200 --> 0:19:45,200
+další Flight Ano další a
+
+406
+0:19:45,200 --> 0:19:50,599
+různé
+
+407
+0:19:50,599 --> 0:19:52,200
+formy zvukové zatím to budu dokáží
+
+408
+0:19:52,200 --> 0:19:54,799
+ovlivňovat ten růst rostlin ve většině
+
+409
+0:19:54,799 --> 0:19:56,900
+případů se jedná o ovlivnění
+
+410
 0:19:57,200 --> 0:20:01,099
 zanedbatelné jediného úspěchu dosáhli
 
-388
+411
 0:20:01,099 --> 0:20:04,099
 soudruzi v Číně výrazného a to tehdy
 
-389
-0:20:04,099 --> 0:20:09,000
-když zjistili že pole zbudované v po
-
-390
-0:20:09,000 --> 0:20:12,599
-sloupy elektrického vedení bombardované
-
-391
-0:20:12,599 --> 0:20:16,400
-zvukem a vysoké věci bylo v zátěži vede
-
-392
-0:20:16,400 --> 0:20:18,400
-k tomu že rezonující železo těchto
-
-393
-0:20:18,400 --> 0:20:21,799
-sloupů vysokého vedení Seva City to
-
-394
-0:20:21,799 --> 0:20:23,400
-jsem vibrace přináší do základu a tím
-
-395
-0:20:23,400 --> 0:20:28,200
-kypří půdu v širokém okolí tím dokázali
-
-396
-0:20:28,200 --> 0:20:31,200
-celku výrazně zvednout rychlost růstu
-
-397
-0:20:31,200 --> 0:20:34,700
-plodin za přijatelných podmínek bohužel
-
-398
-0:20:34,700 --> 0:20:36,299
-tím také silně zkrátili životnost
-
-399
-0:20:36,299 --> 0:20:38,099
-daných Sloupu elektrického vedení a
-
-400
-0:20:38,099 --> 0:20:42,200
-Nejste tak Nevychází to úplně dobře v
-
-401
-0:20:42,200 --> 0:20:43,799
-porovnání s tím jak často musí se
-
-402
-0:20:43,799 --> 0:20:45,599
-budovateli Sloup vysokého vedení a s
-
-403
-0:20:45,599 --> 0:20:48,400
-tím Kolik stojí tesaného polena v takže
-
-404
-0:20:48,400 --> 0:20:51,400
-tam je ten to jakoby výraznější
-
-405
-0:20:51,400 --> 0:20:54,099
-ekonomický efekt ale jeho skutečný
-
-406
-0:20:54,099 --> 0:20:55,500
-reálný přínos je takový Řekni mi
-
-407
-0:20:55,500 --> 0:20:57,200
-diskutabilní další
-
-408
-0:20:57,200 --> 0:21:01,799
-co se týče samotných rostlin tak podle
-
-409
-0:21:01,799 --> 0:21:04,700
-všeho opravdu nevím pšenice ale i další
-
-410
-0:21:04,700 --> 0:21:07,700
-průmyslové plodiny dokáží reagovat na
-
-411
-0:21:07,700 --> 0:21:10,099
-ten zvuk tím že nějak mění rychlost
-
 412
-0:21:10,099 --> 0:21:13,299
-vývoje jednotlivých jednotlivých
+0:20:04,099 --> 0:20:08,000
+když zjistili že pole zbudované v
 
 413
-0:21:13,299 --> 0:21:19,200
-rostlin s tím že co se týče nízkých
+0:20:08,000 --> 0:20:10,700
+po sloupy elektrického vedení
 
 414
-0:21:19,200 --> 0:21:23,500
-frekvencí tak okolo 217 herců což je
+0:20:10,700 --> 0:20:14,700
+bombardované zvukem a vysoké věci bylo
 
 415
-0:21:23,500 --> 0:21:28,099
-pod prahem slyšení většiny lidí Pokud
+0:20:14,700 --> 0:20:17,500
+v zátěži vede k tomu že rezonující
 
 416
-0:21:28,099 --> 0:21:32,000
-takto budete hrát vašemu poli je možné
+0:20:17,500 --> 0:20:19,700
+železo těchto sloupů vysokého vedení
 
 417
-0:21:32,000 --> 0:21:36,500
-docílit skoro až jedno procentního
+0:20:19,700 --> 0:20:22,599
+Seva City to jsem vibrace přináší do
 
 418
-0:21:36,500 --> 0:21:41,700
-urychlení vývoje listů u 60% v
+0:20:22,599 --> 0:20:24,500
+základu a tím kypří půdu v širokém
 
 419
-0:21:41,700 --> 0:21:44,400
-tuto chvíli a domů před deseti lety po
+0:20:24,500 --> 0:20:28,500
+okolí tím dokázali celku
 
 420
-0:21:44,400 --> 0:21:47,500
-známých druhů pšenice která se používá
+0:20:28,500 --> 0:20:31,700
+výrazně zvednout rychlost růstu plodin
 
 421
-0:21:47,500 --> 0:21:49,299
-pro průmyslové průmyslovou výrobu
+0:20:31,700 --> 0:20:34,799
+za přijatelných podmínek bohužel tím
 
 422
-0:21:49,299 --> 0:21:54,000
-potravin takže 12 a 14 herců Pokud
+0:20:34,799 --> 0:20:36,599
+také silně zkrátili životnost daných
 
 423
-0:21:54,000 --> 0:21:56,700
-byste měli něco takhle nízkého tak není
+0:20:36,599 --> 0:20:40,599
+Sloupu elektrického vedení a Nejste tak
 
 424
-0:21:56,700 --> 0:21:56,799
-problém
+0:20:40,599 --> 0:20:42,900
+Nevychází to úplně dobře v porovnání s
 
 425
+0:20:42,900 --> 0:20:44,400
+tím jak často musí se budovateli Sloup
+
+426
+0:20:44,400 --> 0:20:46,299
+vysokého vedení a s tím Kolik stojí
+
+427
+0:20:46,299 --> 0:20:49,700
+tesaného polena v takže tam je
+
+428
+0:20:49,700 --> 0:20:51,900
+ten to jakoby výraznější ekonomický
+
+429
+0:20:51,900 --> 0:20:54,700
+efekt ale jeho skutečný reálný přínos
+
+430
+0:20:54,700 --> 0:20:57,200
+je takový Řekni mi diskutabilní další
+
+431
+0:20:57,200 --> 0:21:00,900
+co se týče samotných
+
+432
+0:21:00,900 --> 0:21:03,299
+rostlin tak podle všeho opravdu nevím
+
+433
+0:21:03,299 --> 0:21:05,400
+pšenice ale i další průmyslové plodiny
+
+434
+0:21:05,400 --> 0:21:08,599
+dokáží reagovat na ten zvuk tím že
+
+435
+0:21:08,599 --> 0:21:11,799
+nějak mění rychlost vývoje jednotlivých
+
+436
+0:21:11,799 --> 0:21:15,599
+jednotlivých rostlin s tím že
+
+437
+0:21:15,599 --> 0:21:19,200
+co se týče nízkých
+
+438
+0:21:19,200 --> 0:21:23,200
+frekvencí tak okolo 217 herců což
+
+439
+0:21:23,200 --> 0:21:26,000
+je pod prahem slyšení většiny lidí
+
+440
+0:21:26,000 --> 0:21:29,500
+Pokud takto budete hrát
+
+441
+0:21:29,500 --> 0:21:32,900
+vašemu poli je možné docílit
+
+442
+0:21:32,900 --> 0:21:36,500
+skoro až jedno procentního
+
+443
+0:21:36,500 --> 0:21:39,200
+urychlení vývoje listů u
+
+444
+0:21:39,200 --> 0:21:43,099
+60% v tuto chvíli a
+
+445
+0:21:43,099 --> 0:21:45,799
+domů před deseti lety po známých druhů
+
+446
+0:21:45,799 --> 0:21:48,299
+pšenice která se používá pro průmyslové
+
+447
+0:21:48,299 --> 0:21:52,000
+průmyslovou výrobu potravin takže
+
+448
+0:21:52,000 --> 0:21:54,500
+12 a 14 herců Pokud byste měli něco
+
+449
+0:21:54,500 --> 0:21:56,799
+takhle nízkého tak není problém
+
+450
 0:21:57,200 --> 0:22:00,900
 opravdu nějaký vliv tam bude Co se týče
 
-426
+451
 0:22:00,900 --> 0:22:03,400
 negativního a jsme u toho že tedy Suchá
 
-427
+452
 0:22:03,400 --> 0:22:05,400
 terapie se dá použít nejen jako léčba a
 
-428
+453
 0:22:05,400 --> 0:22:08,099
 nebo podpora ale i také ale taktéž jako
 
-429
+454
 0:22:08,099 --> 0:22:09,900
 mučení Mimochodem Asie používané
 
-430
+455
 0:22:09,900 --> 0:22:13,500
 častěji než kdekoli jinde tak negativní
 
-431
+456
 0:22:13,500 --> 0:22:17,299
 vlastně vliv na růst plodin mají naopak
 
-432
+457
 0:22:17,299 --> 0:22:20,000
 vysoké frekvence v rozmezí okolo 18:00
 
-433
+458
 0:22:20,000 --> 0:22:23,500
 do 19:00 woher to znamená na hranic
 
-434
+459
 0:22:23,500 --> 0:22:25,900
 vlastně Ultras ultrazvuku jako takového
 
-435
-0:22:25,900 --> 0:22:30,000
-Pokud vystavíte rostliny tomuto zvuku
+460
+0:22:25,900 --> 0:22:29,599
+Pokud vystavíte rostliny tomuto
 
-436
-0:22:30,000 --> 0:22:33,500
-dochází tam naopak ke zpomalení vývoje
+461
+0:22:29,599 --> 0:22:33,099
+zvuku dochází tam naopak ke zpomalení
 
-437
-0:22:33,500 --> 0:22:35,900
-kořenového systému tím pádem menšího
+462
+0:22:33,099 --> 0:22:35,400
+vývoje kořenového systému tím pádem
 
-438
-0:22:35,900 --> 0:22:38,700
-vlastně vstřebávání vody a živin a
+463
+0:22:35,400 --> 0:22:37,900
+menšího vlastně vstřebávání vody a
 
-439
-0:22:38,700 --> 0:22:40,799
-logicky tedy zpomalený vývoj jako
+464
+0:22:37,900 --> 0:22:40,500
+živin a logicky tedy zpomalený vývoj
 
-440
-0:22:40,799 --> 0:22:43,700
-takového případně ve kterých při
+465
+0:22:40,500 --> 0:22:43,700
+jako takového případně ve kterých při
 
-441
+466
 0:22:43,700 --> 0:22:46,000
 extrémní zátěži špatným počasím Může
 
-442
+467
 0:22:46,000 --> 0:22:48,299
 dojít až k úhynu nějakých rostlin Jdeme
 
-443
-0:22:48,299 --> 0:22:54,000
-dál právě tady jsem se zamyslel tedy
+468
+0:22:48,299 --> 0:22:48,500
+dál
 
-444
-0:22:54,000 --> 0:22:56,599
-Jak je možné že by otaku tím že sleduje
+469
+0:22:48,500 --> 0:22:52,900
+právě
 
-445
-0:22:56,599 --> 0:22:57,099
-a ne nebo
+470
+0:22:52,900 --> 0:22:54,900
+tady jsem se zamyslel tedy Jak je možné
 
-446
+471
+0:22:54,900 --> 0:22:57,099
+že by otaku tím že sleduje a ne nebo
+
+472
 0:22:57,099 --> 0:22:59,400
 existuje nějaká skupina vítr ho slevě
 
-447
+473
 0:22:59,400 --> 0:23:01,200
 mohla toto ovlivnit a došel jsem k
 
-448
+474
 0:23:01,200 --> 0:23:03,900
 závěru že jistá možnost to skutečně je
 
-449
-0:23:03,900 --> 0:23:08,700
-to proto že mi otaku jsme vcelku se
+475
+0:23:03,900 --> 0:23:07,700
+to proto že mi otaku jsme vcelku
 
-450
-0:23:08,700 --> 0:23:12,099
-zcestovalý druhy celosvětově většinou
+476
+0:23:07,700 --> 0:23:10,900
+se zcestovalý druhy celosvětově
 
-451
-0:23:12,099 --> 0:23:15,400
-je schopna procestovat celé velké státy
+477
+0:23:10,900 --> 0:23:14,500
+většinou je schopna procestovat celé
 
-452
-0:23:15,400 --> 0:23:17,700
-jenom aby se dostal na nějakou akci
+478
+0:23:14,500 --> 0:23:17,299
+velké státy jenom aby se dostal na
 
-453
-0:23:17,700 --> 0:23:20,900
-která je pro ně důležitá Ti z vás kteří
+479
+0:23:17,299 --> 0:23:19,500
+nějakou akci která je pro ně důležitá
 
-454
-0:23:20,900 --> 0:23:23,400
-počítají novinky z Japonska když chtějí
+480
+0:23:19,500 --> 0:23:22,400
+Ti z vás kteří počítají novinky z
 
-455
-0:23:23,400 --> 0:23:27,299
-on Film běžel v kinech na 17 17 vlastně
+481
+0:23:22,400 --> 0:23:24,299
+Japonska když chtějí on Film běžel v
 
-456
-0:23:27,299 --> 0:23:29,700
-městech našli se otaku kteří byli
+482
+0:23:24,299 --> 0:23:27,799
+kinech na 17 17 vlastně městech
 
-457
-0:23:29,700 --> 0:23:32,099
-schopní Naplánovat trasu tak že projeli
+483
+0:23:27,799 --> 0:23:30,000
+našli se otaku kteří byli schopní
 
-458
+484
+0:23:30,000 --> 0:23:32,099
+Naplánovat trasu tak že projeli
+
+485
 0:23:32,099 --> 0:23:34,599
 Japonsko aby stihli tyto premiéry a
 
-459
+486
 0:23:34,599 --> 0:23:37,500
 sesbírali všechny vlastně prémie
 
-460
+487
 0:23:37,500 --> 0:23:39,299
 speciální předměty které se vydávali
 
-461
+488
 0:23:39,299 --> 0:23:42,000
 těmto premiérovým vstupenkám takže
 
-462
+489
 0:23:42,000 --> 0:23:44,200
 opravdu jako otaku jsou odhodláni
 
-463
+490
 0:23:44,200 --> 0:23:47,799
 cestovatelé a tady existuje jistá
 
-464
+491
 0:23:47,799 --> 0:23:49,799
 možnost že jak takto Cestujeme na kone
 
-465
+492
 0:23:49,799 --> 0:23:53,099
 Pokud zvolíme zvlášť pozemní přepravu
 
-466
+493
 0:23:53,099 --> 0:23:55,900
 která nezná nezanedbatelné množství
 
-467
+494
 0:23:55,900 --> 0:23:57,000
 případů kříži
 
-468
+495
 0:23:57,099 --> 0:24:00,299
 pole s pšenicí a poslouchám a nějakou
 
-469
+496
 0:24:00,299 --> 0:24:02,900
 anime skladbu opravdu hlasitě takže
 
-470
+497
 0:24:02,900 --> 0:24:06,000
 dolehne do nějakého rozumného řekněme
 
-471
+498
 0:24:06,000 --> 0:24:08,799
 akčního rádiu Na tom poli tak můžeme
 
-472
+499
 0:24:08,799 --> 0:24:11,900
 alespoň krátkodobě docílit jistého
 
-473
+500
 0:24:11,900 --> 0:24:15,599
 vlivu na ten Vlastně vývoj daně plodiny
 
-474
+501
 0:24:15,599 --> 0:24:19,000
 tak s ohledem na to jak jsem uvedl
 
-475
+502
 0:24:19,000 --> 0:24:22,200
 vlastně frekvence Tak můžeme se
 
-476
+503
 0:24:22,200 --> 0:24:25,500
 domluvit na takovém pokusu Když budete
 
-477
+504
 0:24:25,500 --> 0:24:28,700
 mířit třeba na animefest Advik a další
 
-478
+505
 0:24:28,700 --> 0:24:31,400
 Kony jezdit a prosím výhradně po zemi s
 
-479
+506
 0:24:31,400 --> 0:24:34,400
 otevřenými okýnky A hlasitě
 
-480
+507
 0:24:34,400 --> 0:24:36,599
 poslouchejte následující věci další
 
-481
-0:24:36,599 --> 0:24:41,299
-Slide pro pozitivní působení vřele
+508
+0:24:36,599 --> 0:24:39,900
+Slide pro pozitivní působení
 
-482
-0:24:41,299 --> 0:24:44,099
-doporučuji tedy jenom čas tam triku ze
+509
+0:24:39,900 --> 0:24:43,500
+vřele doporučuji tedy jenom čas tam
 
-483
-0:24:44,099 --> 0:24:46,799
-série tak se experimentální že jsi
+510
+0:24:43,500 --> 0:24:46,599
+triku ze série tak se experimentální že
 
-484
-0:24:46,799 --> 0:24:49,500
-Chicco hašimoto a zvláště skladby které
+511
+0:24:46,599 --> 0:24:49,400
+jsi Chicco hašimoto a zvláště skladby
 
-485
-0:24:49,500 --> 0:24:50,500
-simulují
+512
+0:24:49,400 --> 0:24:50,500
+které simulují
 
-486
+513
 0:24:51,599 --> 0:24:55,000
 záznam bití srdce Pokud byste měl Pokud
 
-487
+514
 0:24:55,000 --> 0:24:57,200
 byste měli ozvu v mikrofon na hrudníku
 
-488
+515
 0:24:57,200 --> 0:24:58,799
 nej to moc poslouchat ale ale to je
 
-489
-0:24:58,799 --> 0:25:03,000
-jedno Prostě zapnout okénky a nechat
+516
+0:24:58,799 --> 0:25:02,500
+jedno Prostě zapnout okénky a
 
-490
-0:25:03,000 --> 0:25:05,200
-proudit do okolí a hlídat abych
+517
+0:25:02,500 --> 0:25:05,200
+nechat proudit do okolí a hlídat abych
 
-491
+518
 0:25:05,200 --> 0:25:06,500
 nepřeskočila na nějaké ty více
 
-492
+519
 0:25:06,500 --> 0:25:08,799
 symfonické protože ty už by vlastně
 
-493
+520
 0:25:08,799 --> 0:25:10,400
 jste mohli vzájemně pokrátit ty
 
-494
+521
 0:25:10,400 --> 0:25:12,299
 pozitivní a negativní vlivy takže
 
-495
+522
 0:25:12,299 --> 0:25:15,299
 opravdu sám saxofonu případně pokud
 
-496
+523
 0:25:15,299 --> 0:25:18,400
 jste fandové opravdu experimentálního
 
-497
+524
 0:25:18,400 --> 0:25:21,299
 industriálu žlutého nosem který jde
 
-498
+525
 0:25:21,299 --> 0:25:25,000
 hodně nízko Můžete zvolit i to má to
 
-499
+526
 0:25:25,000 --> 0:25:26,799
 hned několik výhod budete žít s tím že
 
-500
+527
 0:25:26,799 --> 0:25:29,000
 pomáhat růstu pšenice a pravděpodobně
 
-501
+528
 0:25:29,000 --> 0:25:31,000
 budete v autě maximálně vy protože je
 
-502
+529
 0:25:31,000 --> 0:25:32,500
 odjeli všichni ostatní sami odmítnou
 
-503
+530
 0:25:32,500 --> 0:25:35,700
 jezdit Takže opravdu je to skvělý
 
-504
+531
 0:25:35,700 --> 0:25:38,599
 způsob a pokud se tomuto odhodláte
 
-505
+532
 0:25:38,599 --> 0:25:40,299
 Prosím dejte mi vědět já bych rád
 
-506
+533
 0:25:40,299 --> 0:25:42,799
 sbírat a statistická data a například
 
-507
+534
 0:25:42,799 --> 0:25:44,799
 udělat pokračování té přednášky je to
 
-508
+535
 0:25:44,799 --> 0:25:46,099
 rozebereme Tedy jestli se tam třeba
 
-509
+536
 0:25:46,099 --> 0:25:49,000
 povedlo zvýšit ekonomický výkon Poli
 
-510
+537
 0:25:49,000 --> 0:25:51,599
 České republiky tímto způsobem a můžem
 
-511
+538
 0:25:51,599 --> 0:25:54,400
 tady způsobit revoluci mezi chápáním
 
-512
+539
 0:25:54,400 --> 0:25:57,500
 otaku Community protože mi tak můžeme
 
-513
+540
 0:25:57,500 --> 0:25:59,799
 být dost výrazně ekonomickým prvkem nad
 
-514
+541
 0:25:59,799 --> 0:26:01,299
 rámec toho merch a jak a kdy tedy o
 
-515
+542
 0:26:01,299 --> 0:26:04,500
 běžné kupujeme takže je tu ta Možnost
 
-516
-0:26:04,500 --> 0:26:09,700
-dalších like Pokud naopak chcete být
+543
+0:26:04,500 --> 0:26:08,500
+dalších like Pokud naopak
 
-517
-0:26:09,700 --> 0:26:12,200
-škodolibý přiznejme si to škodolibost
+544
+0:26:08,500 --> 0:26:11,500
+chcete být škodolibý přiznejme si to
 
-518
-0:26:12,200 --> 0:26:14,500
-je vlastní každému člověku a máte
+545
+0:26:11,500 --> 0:26:13,500
+škodolibost je vlastní každému člověku
 
-519
-0:26:14,500 --> 0:26:17,599
-radost z toho Pokud zemědělci trpí pod
+546
+0:26:13,500 --> 0:26:16,400
+a máte radost z toho Pokud zemědělci
 
-520
-0:26:17,599 --> 0:26:21,299
-sněhem snížené úrody pak Pokud
+547
+0:26:16,400 --> 0:26:19,299
+trpí pod sněhem snížené úrody
 
-521
-0:26:21,299 --> 0:26:23,200
-Posloucháte nechceš říct skoro
+548
+0:26:19,299 --> 0:26:23,000
+pak Pokud Posloucháte nechceš říct
 
-522
-0:26:23,200 --> 0:26:24,799
-libovolný Protože už mi bylo
+549
+0:26:23,000 --> 0:26:24,799
+skoro libovolný Protože už mi bylo
 
-523
+550
 0:26:24,799 --> 0:26:26,299
 vysvětlováno 6:00 tam prý i
 
-524
+551
 0:26:26,299 --> 0:26:29,099
 poslouchatelné Frekvence ale nějaké
 
-525
+552
 0:26:29,099 --> 0:26:31,599
 formy Nightcore u zvlášť Pokud v nichž
 
-526
+553
 0:26:31,599 --> 0:26:33,700
 figuruje hatsune Miku posazené hodně
 
-527
+554
 0:26:33,700 --> 0:26:35,799
 vysoko a Nightcore úpravě hodná ještě
 
-528
-0:26:35,799 --> 0:26:40,900
-víš takový z toho vždycky nůž tak je tu
+555
+0:26:35,799 --> 0:26:39,700
+víš takový z toho vždycky nůž tak
 
-529
-0:26:40,900 --> 0:26:43,900
-ta možnost dokonce jet velmi
+556
+0:26:39,700 --> 0:26:43,500
+je tu ta možnost dokonce jet
 
-530
-0:26:43,900 --> 0:26:45,400
-pravděpodobné že za plného stavu Pokud
+557
+0:26:43,500 --> 0:26:45,000
+velmi pravděpodobné že za plného stavu
 
-531
-0:26:45,400 --> 0:26:47,299
-budete procházet uznané koloidy alba
+558
+0:26:45,000 --> 0:26:47,000
+Pokud budete procházet uznané koloidy
 
-532
-0:26:47,299 --> 0:26:49,900
-kdybys o něj No hatsune Miku na to
+559
+0:26:47,000 --> 0:26:49,900
+alba kdybys o něj No hatsune Miku na to
 
-533
+560
 0:26:49,900 --> 0:26:51,500
 dneska ty narazíte a nebo tam stan
 
-534
+561
 0:26:51,500 --> 0:26:54,700
 editovat playlist co se týče těch z vás
 
-535
+562
 0:26:54,700 --> 0:26:57,099
 kteří máte rádi své uši a chcete i když
 
-536
+563
 0:26:57,099 --> 0:26:58,700
 už tedy vysoké tóny poslouchat i něco
 
-537
+564
 0:26:58,700 --> 0:27:02,700
 opravdu líbivého tak samozřejmě slečna
 
-538
-0:27:02,700 --> 0:27:07,400
-paní origa i některé skladby které se
+565
+0:27:02,700 --> 0:27:06,500
+paní origa i některé
 
-539
-0:27:07,400 --> 0:27:11,799
-též kterou do Velkých výšin tak pokud
+566
+0:27:06,500 --> 0:27:09,099
+skladby které se též kterou do Velkých
 
-540
-0:27:11,799 --> 0:27:13,799
-budete volit specifické skladby je tu
+567
+0:27:09,099 --> 0:27:12,900
+výšin tak pokud budete volit specifické
 
-541
-0:27:13,799 --> 0:27:15,900
-možnost zvlášť opening Ghost in the
+568
+0:27:12,900 --> 0:27:15,200
+skladby je tu možnost zvlášť opening
 
-542
-0:27:15,900 --> 0:27:19,099
-Shell 1 série tento komplexu vřele
+569
+0:27:15,200 --> 0:27:18,000
+Ghost in the Shell 1 série tento
 
-543
-0:27:19,099 --> 0:27:21,299
-doporučuji Tož toho ve smyčce Jeďte na
+570
+0:27:18,000 --> 0:27:20,299
+komplexu vřele doporučuji Tož toho ve
 
-544
-0:27:21,299 --> 0:27:24,000
-kolo otevřená okna maximální vytoceni
+571
+0:27:20,299 --> 0:27:22,400
+smyčce Jeďte na kolo otevřená okna
 
-545
-0:27:24,000 --> 0:27:25,799
-zvuk ono to nějakým způsobem půjde
+572
+0:27:22,400 --> 0:27:25,000
+maximální vytoceni zvuk ono to nějakým
 
-546
-0:27:25,799 --> 0:27:28,200
-pokutu skladbu nebudete po cestě do
+573
+0:27:25,000 --> 0:27:27,799
+způsobem půjde pokutu skladbu nebudete
 
-547
-0:27:28,200 --> 0:27:30,900
-Brna nenávidět je to na vás v pořádku
+574
+0:27:27,799 --> 0:27:29,599
+po cestě do Brna nenávidět je to na vás
 
-548
-0:27:30,900 --> 0:27:33,700
-Jste psychicky velmi odolní Takže ty z
+575
+0:27:29,599 --> 0:27:32,099
+v pořádku Jste psychicky velmi odolní
 
-549
-0:27:33,700 --> 0:27:36,000
-vás kteří chtějí škodit prosím i vy se
+576
+0:27:32,099 --> 0:27:34,799
+Takže ty z vás kteří chtějí škodit
 
-550
-0:27:36,000 --> 0:27:37,799
-mi ozvěte se mi o to abych mohl proti
+577
+0:27:34,799 --> 0:27:37,000
+prosím i vy se mi ozvěte se mi o to
 
-551
-0:27:37,799 --> 0:27:39,900
-sobě postavit to jestli tak říkajíc
+578
+0:27:37,000 --> 0:27:38,500
+abych mohl proti sobě postavit to
 
-552
-0:27:39,900 --> 0:27:45,000
-Míra škodolibosti v rámci komunity je
+579
+0:27:38,500 --> 0:27:42,299
+jestli tak říkajíc Míra
 
-553
+580
+0:27:42,299 --> 0:27:45,000
+škodolibosti v rámci komunity je
+
+581
 0:27:45,000 --> 0:27:47,099
 nějakým způsobem buď to rovnoměrná nebo
 
-554
+582
 0:27:47,099 --> 0:27:49,599
 ne takže jestli je naše Factory spíše
 
-555
+583
 0:27:49,599 --> 0:27:51,400
 pozitivní nebo negativní potom co mám
 
-556
+584
 0:27:51,400 --> 0:27:51,500
 do
 
-557
+585
 0:27:51,500 --> 0:27:54,099
 odhalení 200 styl vývoje myslím že by
 
-558
+586
 0:27:54,099 --> 0:27:56,299
 to bylo taktéž zajímavé a tento kamna
 
-559
+587
 0:27:56,299 --> 0:27:59,099
 hincu aby aby rozebral škodolibost mezi
 
-560
+588
 0:27:59,099 --> 0:28:00,500
 otaku tak ano
 
-561
+589
 0:28:00,500 --> 0:28:08,500
 Ano
 
-562
+590
 0:28:08,500 --> 0:28:10,500
 ovšem Vemte si to tak že pšenice
 
-563
-0:28:10,500 --> 0:28:15,799
-vlastně druhů řekněme
+591
+0:28:10,500 --> 0:28:13,400
+vlastně druhů
 
-564
-0:28:15,799 --> 0:28:19,000
-zemské šířky a tak dále může být
+592
+0:28:13,400 --> 0:28:17,299
+řekněme zemské šířky a
 
-565
-0:28:19,000 --> 0:28:24,000
-pěstována O přibližně první půlky
+593
+0:28:17,299 --> 0:28:20,099
+tak dále může být pěstována O
 
-566
+594
+0:28:20,099 --> 0:28:24,000
+přibližně první půlky
+
+595
 0:28:24,000 --> 0:28:26,500
 března až do skoro konce září
 
-567
+596
 0:28:27,500 --> 0:28:30,299
 A vy jste si opravdu jistí že poznáte
 
-568
+597
 0:28:30,299 --> 0:28:32,000
 podle které Měchenice zase tak to už
 
-569
+598
 0:28:32,000 --> 0:28:33,200
 tak to můžete ovlivnit
 
-570
+599
 0:28:33,200 --> 0:28:43,299
 opravdu
 
-571
+600
 0:28:43,299 --> 0:28:46,299
 nepodceňujte to může to mít solidní
 
-572
+601
 0:28:46,299 --> 0:28:49,099
 ekonomický dopad na 3% v rámci Národní
 
-573
+602
 0:28:49,099 --> 0:28:51,299
 produkce jsou 3% na Národní produkce
 
-574
+603
 0:28:51,299 --> 0:28:53,500
 abychom zopakovali jedno z opakované
 
-575
-0:28:53,500 --> 0:28:58,000
-tak požádám o další Slide Ano další
+604
+0:28:53,500 --> 0:28:56,700
+tak požádám o další Slide Ano
 
-576
-0:28:58,000 --> 0:29:01,799
-možností je samozřejmě tlak na to že
+605
+0:28:56,700 --> 0:28:59,000
+další možností je samozřejmě
 
-577
-0:29:01,799 --> 0:29:05,000
-budeme se spotřebovat více pšenice tím
+606
+0:28:59,000 --> 0:29:02,299
+tlak na to že budeme se
 
-578
-0:29:05,000 --> 0:29:06,299
-pádem je potřeba položit si otázku
+607
+0:29:02,299 --> 0:29:05,400
+spotřebovat více pšenice tím pádem je
 
-579
-0:29:06,299 --> 0:29:09,700
-zdali otaku jsou takovými konzumenty
+608
+0:29:05,400 --> 0:29:07,700
+potřeba položit si otázku zdali otaku
 
-580
-0:29:09,700 --> 0:29:12,599
-Jak se mění jídelníček otaku když se
+609
+0:29:07,700 --> 0:29:11,099
+jsou takovými konzumenty Jak se mění
 
-581
-0:29:12,599 --> 0:29:15,000
-tedy Pardon jak se mění jídelníček
+610
+0:29:11,099 --> 0:29:13,099
+jídelníček otaku když se tedy Pardon
 
-582
-0:29:15,000 --> 0:29:18,299
-normálu když se z nich stávají otaku
+611
+0:29:13,099 --> 0:29:17,000
+jak se mění jídelníček normálu když se
 
-583
-0:29:18,299 --> 0:29:20,000
-tak
+612
+0:29:17,000 --> 0:29:20,000
+z nich stávají otaku tak
 
-584
+613
 0:29:21,200 --> 0:29:23,500
 obvykle další slevy prosím
 
-585
-0:29:23,500 --> 0:29:29,500
-ty vlivy nejsou úplně ideální
+614
+0:29:23,500 --> 0:29:28,099
+ty
 
-586
-0:29:29,500 --> 0:29:31,000
-Protože ve většině případů dochází
+615
+0:29:28,099 --> 0:29:30,200
+vlivy nejsou úplně ideální Protože ve
 
-587
-0:29:31,000 --> 0:29:33,000
-spíše k lehkému až středně silného
+616
+0:29:30,200 --> 0:29:32,000
+většině případů dochází spíše k lehkému
 
-588
-0:29:33,000 --> 0:29:35,299
-ústupu od pokrm z pšenice a zařazení
+617
+0:29:32,000 --> 0:29:34,000
+až středně silného ústupu od pokrm z
 
-589
-0:29:35,299 --> 0:29:38,700
-většího množství rýže pro ty z vás
+618
+0:29:34,000 --> 0:29:36,200
+pšenice a zařazení většího množství
 
-590
-0:29:38,700 --> 0:29:41,700
-kteří které zajímá statistika a dělají
+619
+0:29:36,200 --> 0:29:39,200
+rýže pro ty z vás kteří
 
-591
-0:29:41,700 --> 0:29:43,500
-si rád žebříčky pšenice je v tuto
+620
+0:29:39,200 --> 0:29:41,900
+které zajímá statistika a dělají si rád
 
-592
-0:29:43,500 --> 0:29:47,000
-chvíli tři nejvíce pěstovanou plodinou
+621
+0:29:41,900 --> 0:29:44,900
+žebříčky pšenice je v tuto chvíli tři
 
-593
-0:29:47,000 --> 0:29:50,200
-vlastně o obilovin kterou jakožto
+622
+0:29:44,900 --> 0:29:48,299
+nejvíce pěstovanou plodinou vlastně o
 
-594
-0:29:50,200 --> 0:29:54,099
-pěstujeme přední Je rýže a ještě
+623
+0:29:48,299 --> 0:29:51,000
+obilovin kterou jakožto pěstujeme
 
-595
-0:29:54,099 --> 0:29:57,099
-předními je kukuřice vychází to z toho
+624
+0:29:51,000 --> 0:29:54,500
+přední Je rýže a ještě předními je
 
-596
-0:29:57,099 --> 0:29:58,700
-jak jsou geografické oblasti vhodné k
+625
+0:29:54,500 --> 0:29:57,500
+kukuřice vychází to z toho jak jsou
 
-597
-0:29:58,700 --> 0:30:01,099
-čemu péče o ty rostliny a tak dále
+626
+0:29:57,500 --> 0:29:59,799
+geografické oblasti vhodné k čemu péče
 
-598
-0:30:01,099 --> 0:30:04,299
-Jinými slovy tím že se z nás stávají
+627
+0:29:59,799 --> 0:30:02,700
+o ty rostliny a tak dále Jinými slovy
 
-599
-0:30:04,299 --> 0:30:06,799
-otaku dál pomáháme to může se když když
+628
+0:30:02,700 --> 0:30:05,400
+tím že se z nás stávají otaku dál
 
-600
-0:30:06,799 --> 0:30:11,799
-na druhém místě takže žádné sushi
+629
+0:30:05,400 --> 0:30:07,200
+pomáháme to může se když když na druhém
 
-601
-0:30:11,799 --> 0:30:15,799
-Prosím nic takového nikdy a další věci
+630
+0:30:07,200 --> 0:30:10,000
+místě takže
 
-602
-0:30:15,799 --> 0:30:20,099
-ne co hůř dokonce i když jako herní
+631
+0:30:10,000 --> 0:30:13,799
+žádné sushi Prosím nic
 
-603
+632
+0:30:13,799 --> 0:30:16,299
+takového nikdy a další věci ne
+
+633
+0:30:16,299 --> 0:30:20,099
+co hůř dokonce i když jako herní
+
+634
 0:30:20,099 --> 0:30:21,099
 otaku přijdete až
 
-604
+635
 0:30:21,099 --> 0:30:24,900
 Já jím jenom Junk Food tak také
 
-605
+636
 0:30:24,900 --> 0:30:27,200
 nepomáháte pšenici ve většině případů
 
-606
+637
 0:30:27,200 --> 0:30:31,000
 různé laskominy jsou vlastně spíše
 
-607
+638
 0:30:31,000 --> 0:30:32,700
 vyráběné z brambor bramborového škrobu
 
-608
+639
 0:30:32,700 --> 0:30:35,000
 a podobných surovin takže zase
 
-609
+640
 0:30:35,000 --> 0:30:36,900
 nepomáháte pšenice pomáhat a bramborám
 
-610
-0:30:38,000 --> 0:30:43,000
-ano když si k tomu dáte chleba
+641
+0:30:38,000 --> 0:30:42,000
+ano když
 
-611
-0:30:43,000 --> 0:30:47,299
-dobrá uznávám v tom případě můžeme
+642
+0:30:42,000 --> 0:30:46,000
+si k tomu dáte chleba dobrá uznávám v
 
-612
-0:30:47,299 --> 0:30:50,799
-udělat happening pokud chcete Nakoupím
+643
+0:30:46,000 --> 0:30:48,599
+tom případě můžeme udělat happening
 
-613
-0:30:50,799 --> 0:30:53,900
-a brambůrky na B na krajíce chleba a
+644
+0:30:48,599 --> 0:30:52,500
+pokud chcete Nakoupím a brambůrky na
 
-614
-0:30:53,900 --> 0:30:55,900
-místo toho aby tam byly tady řízky s
+645
+0:30:52,500 --> 0:30:54,700
+B na krajíce chleba a místo toho aby
 
-615
-0:30:55,900 --> 0:30:58,099
-chlebem tak budeme prodávat brambůrky s
+646
+0:30:54,700 --> 0:30:56,500
+tam byly tady řízky s chlebem tak
 
-616
-0:30:58,099 --> 0:30:58,400
-chlebem
+647
+0:30:56,500 --> 0:30:58,400
+budeme prodávat brambůrky s chlebem
 
-617
+648
 0:31:00,400 --> 0:31:03,000
 Už vidím ten nápis nad pro tu reklamní
 
-618
+649
 0:31:03,000 --> 0:31:05,200
 kampaň mysli na to že i ty ovlivníš
 
-619
+650
 0:31:05,200 --> 0:31:05,799
 pšenici
 
-620
+651
 0:31:05,799 --> 0:31:13,099
 Ano
 
-621
-0:31:13,099 --> 0:31:18,900
-já jsem pro tousty tousty chipsy
+652
+0:31:13,099 --> 0:31:15,700
+já jsem pro tousty
 
-622
-0:31:18,900 --> 0:31:21,500
-tak jelikož je právě teď bavíme s
+653
+0:31:15,700 --> 0:31:19,700
+tousty chipsy tak jelikož
 
-623
-0:31:21,500 --> 0:31:24,200
-provozovatelem a do kafe na animefestu
+654
+0:31:19,700 --> 0:31:22,400
+je právě teď bavíme s provozovatelem a
 
-624
-0:31:24,200 --> 0:31:27,200
-jestli se nemýlím a další Connect Dejte
+655
+0:31:22,400 --> 0:31:24,700
+do kafe na animefestu jestli se nemýlím
 
-625
-0:31:27,200 --> 0:31:30,900
-se na jídelníček na opravu tousty se vy
+656
+0:31:24,700 --> 0:31:28,000
+a další Connect Dejte se na jídelníček
 
-626
-0:31:30,900 --> 0:31:32,500
-máte tousty z brambůrky
+657
+0:31:28,000 --> 0:31:31,700
+na opravu tousty se vy máte tousty z
 
-627
-0:31:32,500 --> 0:31:38,200
-Slyšeli jste to bylo slovo do pranice
+658
+0:31:31,700 --> 0:31:32,500
+brambůrky
 
-628
-0:31:38,200 --> 0:31:42,900
-pro jistotu jenom informujte o vašem
+659
+0:31:32,500 --> 0:31:37,200
+Slyšeli
 
-629
-0:31:42,900 --> 0:31:45,400
-záměru i organizátory já si nejsem
+660
+0:31:37,200 --> 0:31:40,700
+jste to bylo slovo do pranice pro
 
-630
-0:31:45,400 --> 0:31:48,799
-jistý jestli by pak třeba tak jestli
+661
+0:31:40,700 --> 0:31:43,700
+jistotu jenom informujte o vašem záměru
 
-631
-0:31:48,799 --> 0:31:50,000
-chvilku mě nebylo potřeba postavit
+662
+0:31:43,700 --> 0:31:45,799
+i organizátory já si nejsem jistý
 
-632
-0:31:50,000 --> 0:31:52,400
-vedle stanu Černé Hory is tam stojí to
+663
+0:31:45,799 --> 0:31:49,000
+jestli by pak třeba tak jestli chvilku
 
-633
-0:31:52,400 --> 0:31:55,200
-Wiki takže takto
+664
+0:31:49,000 --> 0:31:50,700
+mě nebylo potřeba postavit vedle stanu
 
-634
-0:31:56,200 --> 0:32:01,200
-ano ale od konzumují sojovku a japonské
+665
+0:31:50,700 --> 0:31:52,599
+Černé Hory is tam stojí to Wiki
 
-635
-0:32:01,200 --> 0:32:04,599
-nudle a tam je takový úplně všude Ano
+666
+0:31:52,599 --> 0:31:55,200
+takže takto
 
-636
-0:32:04,599 --> 0:32:07,000
-tomu je proto je to skutečně pravda ale
+667
+0:31:56,200 --> 0:31:59,900
+ano ale od konzumují
 
-637
-0:32:07,000 --> 0:32:09,400
-zkuste si promluvit s otázku a ať už ve
+668
+0:31:59,900 --> 0:32:01,900
+sojovku a japonské nudle a tam je
 
-638
-0:32:09,400 --> 0:32:11,900
-Francii v Americe či ve Španělsku si
+669
+0:32:01,900 --> 0:32:05,799
+takový úplně všude Ano tomu je proto je
 
-639
-0:32:11,900 --> 0:32:14,400
-takhle ty největší trhy a oni vám
+670
+0:32:05,799 --> 0:32:07,299
+to skutečně pravda ale zkuste si
 
-640
-0:32:14,400 --> 0:32:17,400
-Řeknou no ano jako mobilní nudlí jo ale
+671
+0:32:07,299 --> 0:32:10,000
+promluvit s otázku a ať už ve Francii v
 
-641
-0:32:17,400 --> 0:32:22,000
-ty rýžové jsou lepší Jedná se o ryze
+672
+0:32:10,000 --> 0:32:12,299
+Americe či ve Španělsku si takhle ty
 
-642
-0:32:22,000 --> 0:32:24,000
-subjektivní hledisko a je výrazné
+673
+0:32:12,299 --> 0:32:15,500
+největší trhy a oni vám Řeknou no ano
 
-643
+674
+0:32:15,500 --> 0:32:17,900
+jako mobilní nudlí jo ale ty rýžové
+
+675
+0:32:17,900 --> 0:32:21,799
+jsou lepší Jedná se o
+
+676
+0:32:21,799 --> 0:32:24,000
+ryze subjektivní hledisko a je výrazné
+
+677
 0:32:24,000 --> 0:32:26,099
 dokonce takové že když jsem se díval do
 
-644
+678
 0:32:26,099 --> 0:32:29,700
 prodejních Taktik některých řetězců na
 
-645
+679
 0:32:29,700 --> 0:32:32,500
 podobné akce tak rýžové nudle výrazně
 
-646
+680
 0:32:32,500 --> 0:32:34,099
 preferují že je mají nakoupené do větší
 
-647
+681
 0:32:34,099 --> 0:32:35,500
 zásoby než elity pšeničné
 
-648
+682
 0:32:35,500 --> 0:32:41,200
 vysvětlete
 
-649
+683
 0:32:41,200 --> 0:32:44,900
 evropským a americkým otaku Takže v
 
-650
+684
 0:32:44,900 --> 0:32:48,099
 tomto ohledu ten posun tom jídelníčku
 
-651
+685
 0:32:48,099 --> 0:32:50,000
 opravdu není nějakým způsobem tak
 
-652
+686
 0:32:50,000 --> 0:32:52,500
 výrazný abysme motivovaly k většímu
 
-653
+687
 0:32:52,500 --> 0:32:54,200
 pěsti pěstění pšenice Jdeme dál
 
-654
-0:32:55,599 --> 0:32:59,900
-Ano tohle bude otázka sa-200a kimonu
+688
+0:32:55,599 --> 0:32:59,500
+Ano tohle bude otázka sa-200a
 
-655
-0:32:59,900 --> 0:33:03,700
-pochopí někdo co chci rozebírat v bodě
+689
+0:32:59,500 --> 0:33:03,200
+kimonu pochopí někdo co chci rozebírat
 
-656
-0:33:03,700 --> 0:33:05,700
-kde změnit Jean Jacques Rousseau a
+690
+0:33:03,200 --> 0:33:05,299
+v bodě kde změnit Jean Jacques Rousseau
 
-657
-0:33:05,700 --> 0:33:11,500
-není to
+691
+0:33:05,299 --> 0:33:05,700
+a
 
-658
-0:33:11,500 --> 0:33:14,000
-křížení Ne není
+692
+0:33:05,700 --> 0:33:11,400
+není
 
-659
+693
+0:33:11,400 --> 0:33:14,000
+to křížení Ne není
+
+694
 0:33:14,000 --> 0:33:19,900
 vystoupení
 
-660
+695
 0:33:19,900 --> 0:33:21,400
 informace o křížení hrachu ano
 
-661
+696
 0:33:33,099 --> 0:33:35,599
 asketismus úplně nejde ale se stylem
 
-662
+697
 0:33:35,599 --> 0:33:37,200
 života to nějak souvisí s tím pánem co
 
-663
+698
 0:33:37,200 --> 0:33:39,000
 znamena 100 a kimonu Zkusí to ještě
 
-664
+699
 0:33:39,000 --> 0:33:39,200
 někdo
 
-665
+700
 0:33:40,799 --> 0:33:43,900
 nejde o to je v publikaci o výchově
 
-666
+701
 0:33:43,900 --> 0:33:47,200
 náhodou jako výchova těch otaku abych
 
-667
+702
 0:33:47,200 --> 0:33:47,900
 jedl pšenici
 
-668
+703
 0:33:52,599 --> 0:33:54,799
 jelikož si nejsem jistý jestli v tomto
 
-669
+704
 0:33:54,799 --> 0:33:56,500
 svém spisu akcentovala svou hlavní
 
-670
+705
 0:33:56,500 --> 0:33:58,799
 myšlenku nemusí být jistý ale tím pádem
 
-671
+706
 0:33:58,799 --> 0:34:00,900
 Požádám dám dělat alespoň ty bonbony
 
-672
+707
 0:34:00,900 --> 0:34:03,200
 není to stoprocentně Na jaké Pony ale
 
-673
+708
 0:34:03,200 --> 0:34:06,599
 bonbóny si zaslouží No mě ještě napadlo
 
-674
+709
 0:34:06,599 --> 0:34:08,199
 Jenom jestli to nějak nešlo by jsi s
 
-675
+710
 0:34:08,199 --> 0:34:09,699
 tím že on propagoval ten návrat k
 
-676
-0:34:09,699 --> 0:34:14,000
-přírodě výborně gratuluji moc prosím o
+711
+0:34:09,699 --> 0:34:13,500
+přírodě výborně gratuluji moc
 
-677
-0:34:14,000 --> 0:34:19,599
-adaptaci zasloužený Přesně tak protože
+712
+0:34:13,500 --> 0:34:15,300
+prosím o adaptaci zasloužený
 
-678
-0:34:19,599 --> 0:34:22,000
-přiznejme si to Anime má na nás vliv
+713
+0:34:15,300 --> 0:34:19,199
+Přesně tak
 
-679
-0:34:22,000 --> 0:34:25,199
-bude to takhle objeví se anime o
+714
+0:34:19,199 --> 0:34:21,800
+protože přiznejme si to Anime má na nás
 
-680
+715
+0:34:21,800 --> 0:34:25,199
+vliv bude to takhle objeví se anime o
+
+716
 0:34:25,199 --> 0:34:28,199
 holčina které hraju hrají naprosto se
 
-681
+717
 0:34:28,199 --> 0:34:30,599
 strašně na hudební nástroje a otaku
 
-682
+718
 0:34:30,599 --> 0:34:32,300
 začnou nakupovat kytary na Kubu
 
-683
+719
 0:34:32,300 --> 0:34:34,800
 nakupovat bicí klávesy neumí letohrádek
 
-684
+720
 0:34:34,800 --> 0:34:36,400
 na to hrát nebudu ale mají to doma
 
-685
-0:34:36,400 --> 0:34:40,800
-objeví se anime o tom že se hraje Gott
+721
+0:34:36,400 --> 0:34:39,400
+objeví se anime o tom že se hraje
 
-686
-0:34:40,800 --> 0:34:43,699
-otaku si koupí kdo naučí se Go zahraje
+722
+0:34:39,400 --> 0:34:43,199
+Gott otaku si koupí kdo naučí se Go
 
-687
-0:34:43,699 --> 0:34:45,500
-jsme dvakrát za život a vloží do skříně
+723
+0:34:43,199 --> 0:34:45,000
+zahraje jsme dvakrát za život a vloží
 
-688
-0:34:45,500 --> 0:34:49,900
-a kde kupovat nástroje baseball basket
+724
+0:34:45,000 --> 0:34:46,699
+do skříně a kde kupovat nástroje
 
-689
-0:34:49,900 --> 0:34:51,800
-cokoliv tohle všechno
+725
+0:34:46,699 --> 0:34:50,500
+baseball basket cokoliv
 
-690
+726
+0:34:50,500 --> 0:34:51,800
+tohle všechno
+
+727
 0:34:52,599 --> 0:34:56,199
 nás dělá docela řekne skupinu která je
 
-691
+728
 0:34:56,199 --> 0:34:59,199
 ovlivnitelná i k tomu aby třeba začala
 
-692
-0:34:59,199 --> 0:35:05,099
-pěstovat pšenici a No Nedělám si
+729
+0:34:59,199 --> 0:35:00,800
+pěstovat pšenici a
 
-693
-0:35:05,099 --> 0:35:08,099
-legraci další Slide
+730
+0:35:00,800 --> 0:35:03,599
+No
 
-694
-0:35:08,099 --> 0:35:14,000
-dojdu k tomu
+731
+0:35:03,599 --> 0:35:05,199
+Nedělám si legraci
 
-695
+732
+0:35:05,199 --> 0:35:08,099
+další Slide
+
+733
+0:35:08,099 --> 0:35:13,699
+dojdu
+
+734
+0:35:13,699 --> 0:35:14,000
+k tomu
+
+735
 0:35:15,800 --> 0:35:16,400
  ano
 
-696
-0:35:20,800 --> 0:35:26,099
-to znamená že kdybyste měl možnost
+736
+0:35:20,800 --> 0:35:24,800
+to
 
-697
-0:35:26,099 --> 0:35:28,199
-koupit tank tak to uděláte nebo
+737
+0:35:24,800 --> 0:35:26,500
+znamená že kdybyste měl možnost koupit
 
-698
-0:35:28,199 --> 0:35:28,699
-neuděláte
+738
+0:35:26,500 --> 0:35:28,699
+tank tak to uděláte nebo neuděláte
 
-699
+739
 0:35:29,599 --> 0:35:32,400
 Ano já čekám
 
-700
+740
 0:35:32,400 --> 0:35:41,099
 existují
 
-701
+741
 0:35:41,099 --> 0:35:42,900
 skupiny otaku v Americe které už
 
-702
+742
 0:35:42,900 --> 0:35:46,099
 utratily 30000 dolarů každá aby jsi ve
 
-703
+743
 0:35:46,099 --> 0:35:48,099
 sklepě postavili mecha skutečné
 
-704
+744
 0:35:48,099 --> 0:35:50,099
 velikosti a tvrdí že bude funkční
 
-705
+745
 0:35:53,500 --> 0:36:02,500
 Takže
 
-706
+746
 0:36:02,500 --> 0:36:04,599
 jako otaku jsme opravdu schopný dělat
 
-707
+747
 0:36:04,599 --> 0:36:07,900
 zajímavé věci pod vlivem anime Bohužel
 
-708
+748
 0:36:07,900 --> 0:36:11,000
 když jsem zkoumal tuto problematiku tak
 
-709
+749
 0:36:11,000 --> 0:36:14,099
 i přesto že existují vládní subvence v
 
-710
+750
 0:36:14,099 --> 0:36:16,400
 rámci japonského Agera R japonské
 
-711
-0:36:16,400 --> 0:36:20,500
-Agrární komory pro propagaci různých
+751
+0:36:16,400 --> 0:36:19,199
+Agrární komory pro propagaci
 
-712
-0:36:20,500 --> 0:36:23,500
-forem života a třeba i tak říkajíc
+752
+0:36:19,199 --> 0:36:23,199
+různých forem života a třeba i tak
 
-713
-0:36:23,500 --> 0:36:29,199
-návratu k zemědělské činnosti Tak v
+753
+0:36:23,199 --> 0:36:26,000
+říkajíc návratu k
 
-714
-0:36:29,199 --> 0:36:33,699
-rámci komunity prozatím nebyly
+754
+0:36:26,000 --> 0:36:29,199
+zemědělské činnosti Tak v
 
-715
-0:36:33,699 --> 0:36:37,500
-vyslyšeny ať už je to tím že Japonsko
+755
+0:36:29,199 --> 0:36:33,000
+rámci komunity prozatím
 
-716
-0:36:37,500 --> 0:36:39,800
-stále ještě i řeší problém že tamní
+756
+0:36:33,000 --> 0:36:36,500
+nebyly vyslyšeny ať už je to tím že
 
-717
-0:36:39,800 --> 0:36:42,400
-komunita nechce moc opouštět místa kde
+757
+0:36:36,500 --> 0:36:39,300
+Japonsko stále ještě i řeší problém že
 
-718
-0:36:42,400 --> 0:36:44,099
-mají plně dostupnou wifinu která je
+758
+0:36:39,300 --> 0:36:41,699
+tamní komunita nechce moc opouštět
 
-719
-0:36:44,099 --> 0:36:47,500
-plně stabilní a Řekněme v EUR americké
+759
+0:36:41,699 --> 0:36:43,699
+místa kde mají plně dostupnou wifinu
 
-720
-0:36:47,500 --> 0:36:49,300
-společnosti tomu většinou nebývá také
+760
+0:36:43,699 --> 0:36:47,099
+která je plně stabilní a Řekněme v EUR
 
-721
-0:36:49,300 --> 0:36:53,400
-tak neboj nebo jenom tím že prostě to
+761
+0:36:47,099 --> 0:36:48,500
+americké společnosti tomu většinou
 
-722
+762
+0:36:48,500 --> 0:36:52,500
+nebývá také tak neboj nebo jenom tím
+
+763
+0:36:52,500 --> 0:36:53,400
+že prostě to
+
+764
 0:36:53,400 --> 0:36:56,099
 obdělávání pole znamená že nemůžete v
 
-723
+765
 0:36:56,099 --> 0:36:57,900
 tom čase kdyby svět a Všenice sledovat
 
-724
+766
 0:36:57,900 --> 0:36:59,000
 anime o tom jak se pěstuje pšenice
 
-725
-0:36:59,000 --> 0:37:03,199
-Takže je to takhle to kontraproduktivní
+767
+0:36:59,000 --> 0:37:02,900
+Takže je to takhle to
 
-726
-0:37:03,199 --> 0:37:07,599
-a abych opravdu dokázal Paradox nos
+768
+0:37:02,900 --> 0:37:05,500
+kontraproduktivní a abych opravdu
 
-727
-0:37:07,599 --> 0:37:10,800
-některých programů japonské vlády
+769
+0:37:05,500 --> 0:37:08,199
+dokázal Paradox nos některých
 
-728
-0:37:10,800 --> 0:37:16,599
-požádám o další Slide uhodne někdo z
+770
+0:37:08,199 --> 0:37:11,500
+programů japonské vlády požádám o další
 
-729
-0:37:16,599 --> 0:37:19,599
-vás co mají tyto dva tituly společné
+771
+0:37:11,500 --> 0:37:11,800
+Slide
 
-730
-0:37:19,599 --> 0:37:25,400
-pochází z vesnice mi hlavní hrdinové ne
+772
+0:37:11,800 --> 0:37:16,199
+uhodne
 
-731
-0:37:25,400 --> 0:37:28,900
-hrdinka on Yesterday o studia Ghibli
+773
+0:37:16,199 --> 0:37:18,400
+někdo z vás co mají tyto dva tituly
 
-732
-0:37:28,900 --> 0:37:29,599
-pochází z města
+774
+0:37:18,400 --> 0:37:19,599
+společné
 
-733
+775
+0:37:19,599 --> 0:37:23,500
+pochází z vesnice mi
+
+776
+0:37:23,500 --> 0:37:27,199
+hlavní hrdinové ne hrdinka
+
+777
+0:37:27,199 --> 0:37:29,500
+on Yesterday o studia Ghibli pochází z
+
+778
+0:37:29,500 --> 0:37:29,599
+města
+
+779
 0:37:30,400 --> 0:37:32,000
 Alena vesnice se vrací
 
-734
+780
 0:37:32,000 --> 0:37:38,500
 ano
 
-735
-0:37:38,500 --> 0:37:44,500
-oba hrdinové se
+781
+0:37:38,500 --> 0:37:43,900
+oba
 
-736
-0:37:44,500 --> 0:37:47,599
-v určitém čase octnou na vesnici a
+782
+0:37:43,900 --> 0:37:46,699
+hrdinové se v určitém čase octnou na
 
-737
-0:37:47,599 --> 0:37:51,599
-dokonce tady hrdina z toho druhého
+783
+0:37:46,699 --> 0:37:49,400
+vesnici a dokonce tady hrdina z
 
-738
-0:37:51,599 --> 0:37:55,300
-anime Death Metal City Ano se dokonce
+784
+0:37:49,400 --> 0:37:53,400
+toho druhého anime Death Metal City Ano
 
-739
-0:37:55,300 --> 0:38:01,099
-ikonickou s jednou
+785
+0:37:53,400 --> 0:37:55,300
+se dokonce
 
-740
-0:38:01,099 --> 0:38:06,000
-plné návratu k přírodě aktivně
+786
+0:37:55,300 --> 0:37:59,500
+ikonickou
 
-741
-0:38:06,000 --> 0:38:10,500
-podílí na sklizeň obilovin a tak dál
+787
+0:37:59,500 --> 0:38:02,400
+s jednou plné návratu k přírodě
 
-742
+788
+0:38:02,400 --> 0:38:06,000
+aktivně
+
+789
+0:38:06,000 --> 0:38:09,800
+podílí na sklizeň obilovin
+
+790
+0:38:09,800 --> 0:38:10,500
+a tak dál
+
+791
 0:38:17,800 --> 0:38:20,900
 já tady uvedl že ten s tím společným
 
-743
+792
 0:38:20,900 --> 0:38:24,199
 prvkem je že oba tyto tituly tedy jeden
 
-744
+793
 0:38:24,199 --> 0:38:26,400
 formou speciálního ocenění a druhou
 
-745
+794
 0:38:26,400 --> 0:38:28,699
 přímo finanční injekci do produkce
 
-746
+795
 0:38:28,699 --> 0:38:31,199
 daného anime Ano to je to Death Metal
 
-747
+796
 0:38:31,199 --> 0:38:34,500
 City získal podporu japonské Agrární
 
-748
+797
 0:38:34,500 --> 0:38:38,099
 komory za propagaci života na venkově a
 
-749
-0:38:38,099 --> 0:38:42,199
-motivování mladých lidí k postele
+798
+0:38:38,099 --> 0:38:40,400
+motivování mladých lidí k
 
-750
-0:38:42,199 --> 0:38:44,800
-řekněme k zapůjčení kariéry zemědělce
+799
+0:38:40,400 --> 0:38:44,099
+postele řekněme k zapůjčení kariéry
 
-751
-0:38:44,800 --> 0:38:50,300
-ty z vás kteří viděli on Yesterday
+800
+0:38:44,099 --> 0:38:47,599
+zemědělce ty z vás
 
-752
-0:38:50,300 --> 0:38:53,800
-tak tam je to jednoznačně hlavní
+801
+0:38:47,599 --> 0:38:51,500
+kteří viděli on Yesterday tak
 
-753
-0:38:53,800 --> 0:38:55,900
-hrdinka neví co s životem odjíždí na
+802
+0:38:51,500 --> 0:38:54,199
+tam je to jednoznačně hlavní hrdinka
 
-754
-0:38:55,900 --> 0:38:57,699
-venkov a tam postupně zjišťuje že by na
+803
+0:38:54,199 --> 0:38:56,500
+neví co s životem odjíždí na venkov a
 
-755
-0:38:57,699 --> 0:38:59,199
-měkko je vlastně ráda zůstala protože
+804
+0:38:56,500 --> 0:38:57,900
+tam postupně zjišťuje že by na měkko je
 
-756
-0:38:59,199 --> 0:39:00,599
-tam našla ten smysl toho být i v
+805
+0:38:57,900 --> 0:38:59,599
+vlastně ráda zůstala protože tam našla
 
-757
-0:39:00,599 --> 0:39:04,699
-případě Detroit Metal City jde o to že
+806
+0:38:59,599 --> 0:39:02,800
+ten smysl toho být i v případě Detroit
 
-758
-0:39:04,699 --> 0:39:08,500
-náš hlavní hrdina ten hlavní kytarista
+807
+0:39:02,800 --> 0:39:05,599
+Metal City jde o to že náš hlavní
 
-759
-0:39:08,500 --> 0:39:13,099
-Krause pan pekel a další jiné přídomky
+808
+0:39:05,599 --> 0:39:09,500
+hrdina ten hlavní kytarista Krause
 
-760
+809
+0:39:09,500 --> 0:39:13,099
+pan pekel a další jiné přídomky
+
+810
 0:39:13,099 --> 0:39:15,800
 je vlastně ty původem z vesnice a
 
-761
+811
 0:39:15,800 --> 0:39:17,699
 zjistí že jeho rodiče mají problém s
 
-762
+812
 0:39:17,699 --> 0:39:20,000
 bratrem který jí začal Poslouchat jeho
 
-763
+813
 0:39:20,000 --> 0:39:21,900
 metalovou skupinu a odmítá tedy na
 
-764
-0:39:21,900 --> 0:39:26,699
-farmě v pomáhat v rámci anime mu jenom
+814
+0:39:21,900 --> 0:39:25,900
+farmě v pomáhat v rámci anime
 
-765
-0:39:26,699 --> 0:39:29,300
-domluví v tom smyslu že přece tím že
+815
+0:39:25,900 --> 0:39:28,599
+mu jenom domluví v tom smyslu že přece
 
-766
-0:39:29,300 --> 0:39:31,800
-dojí krávu tak jen posiluje svoje
+816
+0:39:28,599 --> 0:39:31,400
+tím že dojí krávu tak jen posiluje
 
-767
-0:39:31,800 --> 0:39:33,599
-spojení s peklem a to že jakožto
+817
+0:39:31,400 --> 0:39:33,599
+svoje spojení s peklem a to že jakožto
 
-768
+818
 0:39:33,599 --> 0:39:35,800
 vyslanec pekla má vlastně právo
 
-769
+819
 0:39:35,800 --> 0:39:39,000
 vládnout na to ubohou zvíře No že
 
-770
+820
 0:39:39,000 --> 0:39:42,500
 sklízení rýže vede k tomu že se jenom
 
-771
+821
 0:39:42,500 --> 0:39:44,400
 procvičit v reflexi se srpem protože
 
-772
+822
 0:39:44,400 --> 0:39:46,400
 Srb je přece skvělá zbraň pro krvavé
 
-773
+823
 0:39:46,400 --> 0:39:50,099
 oběti a tak dále tak ty z vás kteří
 
-774
+824
 0:39:50,099 --> 0:39:52,300
 věděli již live Action Detroit Metal
 
-775
+825
 0:39:52,300 --> 0:39:55,199
 City si možná kladli otázku Proč jen ty
 
-776
+826
 0:39:55,199 --> 0:39:58,099
 scény na farmě Mají v sobě počítačovou
 
-777
+827
 0:39:58,099 --> 0:40:01,699
 grafiku je to proto že právě po
 
-778
+828
 0:40:01,699 --> 0:40:05,000
 odvysílání seriálu tedy producent a
 
-779
-0:40:05,000 --> 0:40:10,000
-zřejmě z nějakého ne japonského hnutí
+829
+0:40:05,000 --> 0:40:08,599
+zřejmě z nějakého ne japonského
 
-780
-0:40:10,000 --> 0:40:12,199
-mysli směrem k legraci a cynizmu
+830
+0:40:08,599 --> 0:40:12,199
+hnutí mysli směrem k legraci a cynizmu
 
-781
+831
 0:40:12,199 --> 0:40:15,400
 zažádal o tuto tuto subvenci Tady byla
 
-782
+832
 0:40:15,400 --> 0:40:15,900
 udělaná a
 
-783
+833
 0:40:17,699 --> 0:40:19,699
 následně když se ten úřad dozvěděl že
 
-784
+834
 0:40:19,699 --> 0:40:22,800
 tedy plánují live Action Tak znova
 
-785
+835
 0:40:22,800 --> 0:40:25,400
 peníze poslal proto je tato scéna
 
-786
+836
 0:40:25,400 --> 0:40:27,400
 jediná na kterou muselo být v tady
 
-787
+837
 0:40:27,400 --> 0:40:28,900
 prokázáno že budete pro cetky
 
-788
+838
 0:40:28,900 --> 0:40:31,199
 vynaloženy a je tam ta počítačová
 
-789
+839
 0:40:31,199 --> 0:40:32,500
 grafika že se tam kam se pohybuje
 
-790
+840
 0:40:32,500 --> 0:40:35,900
 velkou rychlostí a máte tam bullet-time
 
-791
-0:40:35,900 --> 0:40:40,199
-odpadávající oteklých Vršku vlastně
+841
+0:40:35,900 --> 0:40:38,500
+odpadávající oteklých Vršku
 
-792
-0:40:40,199 --> 0:40:43,500
-roste blíží a tak dále bohužel i přes
+842
+0:40:38,500 --> 0:40:42,000
+vlastně roste blíží a tak dále
 
-793
-0:40:43,500 --> 0:40:45,300
-tyto vládní program jak říkám
+843
+0:40:42,000 --> 0:40:45,000
+bohužel i přes tyto vládní program jak
 
-794
-0:40:45,300 --> 0:40:47,199
-Nepodařilo se mi zjistit že by došlo k
+844
+0:40:45,000 --> 0:40:46,800
+říkám Nepodařilo se mi zjistit že by
 
-795
-0:40:47,199 --> 0:40:49,900
-nějakému velkému odklonu že by mladí
+845
+0:40:46,800 --> 0:40:49,500
+došlo k nějakému velkému odklonu že by
 
-796
-0:40:49,900 --> 0:40:51,400
-lidé odcházeli na vesnice kde by se
+846
+0:40:49,500 --> 0:40:51,300
+mladí lidé odcházeli na vesnice kde by
 
-797
-0:40:51,400 --> 0:40:54,300
-tedy živili jakožto zemědělci jako
+847
+0:40:51,300 --> 0:40:54,300
+se tedy živili jakožto zemědělci jako
 
-798
+848
 0:40:54,300 --> 0:40:57,099
 perlička pak poslouží že ginosaji Avia
 
-799
+849
 0:40:57,099 --> 0:40:59,099
 Silver Spoon Kdo z vás viděl neviděl o
 
-800
+850
 0:40:59,099 --> 0:41:02,400
 hochovi který odjíždí názor řekněme
 
-801
+851
 0:41:02,400 --> 0:41:05,699
 Zemědělské učiliště z města nikdy
 
-802
+852
 0:41:05,699 --> 0:41:09,400
 podobnou dotaci nezískalo a dokonce
 
-803
+853
 0:41:09,400 --> 0:41:13,000
 autorka sklidila kritiku od jak si
 
-804
+854
 0:41:13,000 --> 0:41:16,099
 Agrární komory ve smyslu v tom smyslu
 
-805
+855
 0:41:16,099 --> 0:41:17,400
 že když se ten měsíc
 
-806
+856
 0:41:17,699 --> 0:41:20,099
 týpek baví s těmi balíkama jak si z
 
-807
+857
 0:41:20,099 --> 0:41:22,400
 venkova a oni si stěžují třeba na to že
 
-808
+858
 0:41:22,400 --> 0:41:24,099
 jim nikdo nikdy ne dovez pizzu prostě
 
-809
+859
 0:41:24,099 --> 0:41:26,000
 proto že žije mimo dosah donáškové
 
-810
+860
 0:41:26,000 --> 0:41:28,199
 služby a podobně Takže tím vlastně
 
-811
+861
 0:41:28,199 --> 0:41:31,400
 shazuje ten Život na vesnici a motivuje
 
-812
+862
 0:41:31,400 --> 0:41:34,300
 lidi k tomu aby tam odcházeli Nebyla to
 
-813
+863
 0:41:34,300 --> 0:41:36,800
 nějak důrazná nota ale sama autorka se
 
-814
+864
 0:41:36,800 --> 0:41:40,199
 tomu docela zasmál a Takže jak vidíte v
 
-815
+865
 0:41:40,199 --> 0:41:43,400
 Japonsku Vytoč metacity může podle
 
-816
+866
 0:41:43,400 --> 0:41:44,900
 některých propagovat Život na vesnici
 
-817
+867
 0:41:44,900 --> 0:41:47,300
 no Jdeme dál ty se v tomto ohledu
 
-818
-0:41:47,300 --> 0:41:52,000
-bohužel ovlivnění pšenice skrze anime
+868
+0:41:47,300 --> 0:41:51,000
+bohužel ovlivnění pšenice
 
-819
-0:41:52,000 --> 0:41:55,500
-zatím žádné ano národní hospodářství
+869
+0:41:51,000 --> 0:41:54,099
+skrze anime zatím žádné ano
 
-820
-0:41:55,500 --> 0:41:59,900
-efekt přeci jenom jsme jít na součást
+870
+0:41:54,099 --> 0:41:57,300
+národní hospodářství efekt přeci jenom
 
-821
-0:41:59,900 --> 0:42:01,500
-celkové společnosti je obyvatel
+871
+0:41:57,300 --> 0:42:00,900
+jsme jít na součást celkové společnosti
 
-822
-0:42:01,500 --> 0:42:04,199
-nějakého státu třeba Týnec Na Návsi
+872
+0:42:00,900 --> 0:42:03,900
+je obyvatel nějakého státu třeba Týnec
 
-823
-0:42:04,199 --> 0:42:07,900
-reagují ostatní nebo nějakým způsobem
+873
+0:42:03,900 --> 0:42:07,800
+Na Návsi reagují ostatní nebo nějakým
 
-824
-0:42:07,900 --> 0:42:10,500
-působíme na celý zbytek společnosti
+874
+0:42:07,800 --> 0:42:09,500
+způsobem působíme na celý zbytek
 
-825
-0:42:10,500 --> 0:42:13,400
-bysme mohli dokázat alespoň ovlivnit
+875
+0:42:09,500 --> 0:42:12,599
+společnosti bysme mohli dokázat alespoň
 
-826
-0:42:13,400 --> 0:42:15,000
-Třeba to že nějaký stát začne pěstovat
+876
+0:42:12,599 --> 0:42:14,699
+ovlivnit Třeba to že nějaký stát začne
 
-827
-0:42:15,000 --> 0:42:17,199
-pšenice víc z nějakého důvodu ať už
+877
+0:42:14,699 --> 0:42:16,300
+pěstovat pšenice víc z nějakého důvodu
 
-828
-0:42:17,199 --> 0:42:17,599
-třeba tím že
+878
+0:42:16,300 --> 0:42:17,599
+ať už třeba tím že
 
-829
+879
 0:42:17,699 --> 0:42:19,400
 chystám na třeba nepokoje v ulicích
 
-830
+880
 0:42:19,400 --> 0:42:23,000
 nebo nevím co přesně Takže jaký by byl
 
-831
+881
 0:42:23,000 --> 0:42:25,599
 vliv na národní hospodářství Takže
 
-832
-0:42:25,599 --> 0:42:31,000
-ano další
+882
+0:42:25,599 --> 0:42:30,099
+ano
 
-833
-0:42:31,000 --> 0:42:36,599
-například roce 2012 došlo v
+883
+0:42:30,099 --> 0:42:31,000
+další
 
-834
-0:42:36,599 --> 0:42:42,400
-Polsku úbytku pěstování pšenice na
+884
+0:42:31,000 --> 0:42:34,800
+například roce
 
-835
-0:42:42,400 --> 0:42:46,699
-úkor rozšíření pěstování kukuřice Ti z
+885
+0:42:34,800 --> 0:42:37,300
+2012 došlo v Polsku
 
-836
-0:42:46,699 --> 0:42:48,199
-vás kteří sledují trošku mezinárodní
+886
+0:42:37,300 --> 0:42:41,099
+úbytku pěstování pšenice
 
-837
-0:42:48,199 --> 0:42:50,900
-scénu v že rok 2012 byl pro polsky
+887
+0:42:41,099 --> 0:42:44,300
+na úkor rozšíření pěstování kukuřice
 
-838
-0:42:50,900 --> 0:42:52,500
-vydavatelský průmyslový přelomovým byl
+888
+0:42:44,300 --> 0:42:47,699
+Ti z vás kteří sledují trošku
 
-839
-0:42:52,500 --> 0:42:54,300
-to ten velké čisté v rámci
+889
+0:42:47,699 --> 0:42:50,199
+mezinárodní scénu v že rok 2012 byl pro
 
-840
-0:42:54,300 --> 0:42:56,800
-vydavatelských domů které vlastní
+890
+0:42:50,199 --> 0:42:51,800
+polsky vydavatelský průmyslový
 
-841
+891
+0:42:51,800 --> 0:42:54,000
+přelomovým byl to ten velké čisté v
+
+892
+0:42:54,000 --> 0:42:56,800
+rámci vydavatelských domů které vlastní
+
+893
 0:42:56,800 --> 0:43:00,000
 vydávali i mango a přežili dá se říct
 
-842
-0:43:00,000 --> 0:43:04,099
-jen ty které vydávají buchtovi a nebo
+894
+0:43:00,000 --> 0:43:02,400
+jen ty které vydávají buchtovi a
 
-843
-0:43:04,099 --> 0:43:07,400
-tedy nějakou regulérní a řekněme
+895
+0:43:02,400 --> 0:43:06,199
+nebo tedy nějakou regulérní a
 
-844
-0:43:07,400 --> 0:43:09,000
-průtokovou mangu jak to je Bleach a
+896
+0:43:06,199 --> 0:43:08,699
+řekněme průtokovou mangu jak to je
 
-845
-0:43:09,000 --> 0:43:09,300
-spol
+897
+0:43:08,699 --> 0:43:09,300
+Bleach a spol
 
-846
+898
 0:43:10,599 --> 0:43:13,400
 kdy se toho všimli otaku začala se
 
-847
+899
 0:43:13,400 --> 0:43:15,099
 hnedka spekulovat jestli tedy nějaký
 
-848
+900
 0:43:15,099 --> 0:43:18,000
 Řekni mi vládní úředník nepodlehli Ahoj
 
-849
+901
 0:43:18,000 --> 0:43:20,199
 nebo úřednice a tak dále Připomeň mi
 
-850
+902
 0:43:20,199 --> 0:43:22,300
 bylo vyhrožováno skrze já už aby tady
 
-851
+903
 0:43:22,300 --> 0:43:25,800
 kukuřice bylo více neprokázalo se to
 
-852
-0:43:25,800 --> 0:43:31,699
-další Slide jednalo se pouze o to že v
+904
+0:43:25,800 --> 0:43:26,900
+další Slide
 
-853
-0:43:31,699 --> 0:43:35,500
-rámci lobbistů v polském parlamentu
+905
+0:43:26,900 --> 0:43:30,800
+jednalo se pouze
 
-854
-0:43:35,500 --> 0:43:38,900
-došlo k tomu že se že jsi kukuřičná
+906
+0:43:30,800 --> 0:43:34,099
+o to že v rámci lobbistů v
 
-855
-0:43:38,900 --> 0:43:43,400
-sekce dokázala udržet z vlastně jakoby
+907
+0:43:34,099 --> 0:43:36,800
+polském parlamentu došlo k tomu že se
 
-856
+908
+0:43:36,800 --> 0:43:39,500
+že jsi kukuřičná sekce
+
+909
+0:43:39,500 --> 0:43:43,400
+dokázala udržet z vlastně jakoby
+
+910
 0:43:43,400 --> 0:43:47,400
 bezlimitní podporu na zasetou plodinu
 
-857
-0:43:47,400 --> 0:43:51,500
-Zatím jsou pšenice pro psa bylo vlastně
+911
+0:43:47,400 --> 0:43:50,900
+Zatím jsou pšenice pro psa bylo
 
-858
-0:43:51,500 --> 0:43:54,000
-zavedeno že od nějaké výměry už na
+912
+0:43:50,900 --> 0:43:53,800
+vlastně zavedeno že od nějaké výměry už
 
-859
-0:43:54,000 --> 0:43:56,800
-dotaci nemáte nárok logicky zemědělství
+913
+0:43:53,800 --> 0:43:56,300
+na dotaci nemáte nárok logicky
 
-860
-0:43:56,800 --> 0:43:59,300
-zareagovali Takže od výměna kterou
+914
+0:43:56,300 --> 0:43:59,000
+zemědělství zareagovali Takže od výměna
 
-861
-0:43:59,300 --> 0:44:01,800
-které neměly na dotaci na rok už jsme
+915
+0:43:59,000 --> 0:44:01,599
+kterou které neměly na dotaci na rok už
 
-862
-0:44:01,800 --> 0:44:04,300
-zaseli pšenici a zase vypnu přehnaná
+916
+0:44:01,599 --> 0:44:03,800
+jsme zaseli pšenici a zase vypnu
 
-863
-0:44:04,300 --> 0:44:07,300
-rok stále měla chilli kukuřici opravdu
+917
+0:44:03,800 --> 0:44:05,900
+přehnaná rok stále měla chilli kukuřici
 
-864
-0:44:07,300 --> 0:44:09,599
-jestli s tím nemají nic společného a
+918
+0:44:05,900 --> 0:44:08,800
+opravdu jestli s tím nemají nic
 
-865
-0:44:09,599 --> 0:44:10,500
-jsou v tomto tento
+919
+0:44:08,800 --> 0:44:10,500
+společného a jsou v tomto tento
 
-866
+920
 0:44:10,599 --> 0:44:11,599
  krát a nevině
 
-867
-0:44:13,199 --> 0:44:18,900
-další Slide Ano otázka Do
+921
+0:44:13,199 --> 0:44:15,300
+další Slide
 
-868
-0:44:18,900 --> 0:44:21,900
-publika pozná někdo z vás teď toho pána
+922
+0:44:15,300 --> 0:44:19,300
+Ano otázka Do publika
 
-869
-0:44:21,900 --> 0:44:25,400
-a tak říkajíc způsobili Japonsku
+923
+0:44:19,300 --> 0:44:23,199
+pozná někdo z vás teď toho pána a tak
 
-870
+924
+0:44:23,199 --> 0:44:25,400
+říkajíc způsobili Japonsku
+
+925
 0:44:25,400 --> 0:44:35,599
 Tak
 
-871
+926
 0:44:35,599 --> 0:44:35,900
 to zkuste
 
-872
+927
 0:44:35,900 --> 0:44:41,900
 Ano
 
-873
-0:44:41,900 --> 0:44:47,500
-ano ne ne promiň jsem zemědělský ale
+928
+0:44:41,900 --> 0:44:45,599
+ano ne ne
 
-874
-0:44:47,500 --> 0:44:49,500
-chtěli ho dostat na ministra průmyslu a
+929
+0:44:45,599 --> 0:44:47,900
+promiň jsem zemědělský ale chtěli ho
 
-875
-0:44:49,500 --> 0:44:49,599
-obchodu
+930
+0:44:47,900 --> 0:44:49,599
+dostat na ministra průmyslu a obchodu
 
-876
-0:44:51,900 --> 0:44:57,900
-i další ne dobrá Chápu je to trochu
+931
+0:44:51,900 --> 0:44:53,900
+i další
 
-877
-0:44:57,900 --> 0:45:02,099
-obskurní jméno pan den fujita je totiž
+932
+0:44:53,900 --> 0:44:57,900
+ne dobrá Chápu je to trochu
 
-878
-0:45:02,099 --> 0:45:05,699
-původně prodejce tkaniček do bot
+933
+0:44:57,900 --> 0:45:01,699
+obskurní jméno pan den fujita je
 
-879
+934
+0:45:01,699 --> 0:45:05,699
+totiž původně prodejce tkaniček do bot
+
+935
 0:45:05,699 --> 0:45:09,599
 později celé obuvi další Slide a
 
-880
-0:45:09,599 --> 0:45:14,099
-někdo dojet do Japonska přinesl
+936
+0:45:09,599 --> 0:45:13,500
+někdo dojet do Japonska
 
-881
-0:45:14,099 --> 0:45:19,300
-McDonald's je to ten člověk který
+937
+0:45:13,500 --> 0:45:15,199
+přinesl McDonald's
 
-882
-0:45:19,300 --> 0:45:21,300
-opravdu zakopl frančízu McDonald's a
+938
+0:45:15,199 --> 0:45:18,900
+je to ten člověk
 
-883
-0:45:21,300 --> 0:45:26,000
-nasadili Japonsku další Slide Ano Z
+939
+0:45:18,900 --> 0:45:20,500
+který opravdu zakopl frančízu
 
-884
-0:45:26,000 --> 0:45:31,800
-toho se kluci zase 81 A vezmeme s
+940
+0:45:20,500 --> 0:45:23,099
+McDonald's a nasadili Japonsku další
 
-885
-0:45:31,800 --> 0:45:33,599
-vezmeme-li si i z čeho jsou tvořeny
+941
+0:45:23,099 --> 0:45:26,000
+Slide Ano Z
 
-886
-0:45:33,599 --> 0:45:37,599
-Hlavní produkty nabídky McDonald Tak si
+942
+0:45:26,000 --> 0:45:28,800
+toho se kluci zase 81 A
 
-887
-0:45:37,599 --> 0:45:39,400
-musíme uvědomit že opravdu ve svých
+943
+0:45:28,800 --> 0:45:32,699
+vezmeme s vezmeme-li si i z
 
-888
-0:45:39,400 --> 0:45:42,300
-kuchyních pšenice využívají docela dost
+944
+0:45:32,699 --> 0:45:35,300
+čeho jsou tvořeny Hlavní produkty
 
-889
-0:45:42,300 --> 0:45:44,699
-podle některých nadbytek a celkově se
+945
+0:45:35,300 --> 0:45:38,000
+nabídky McDonald Tak si musíme uvědomit
 
-890
-0:45:44,699 --> 0:45:47,300
-tedy jedná o výrazného odběratele
+946
+0:45:38,000 --> 0:45:40,300
+že opravdu ve svých kuchyních pšenice
 
-891
-0:45:47,300 --> 0:45:49,500
-pšeničný výrobků co bys přišel do
+947
+0:45:40,300 --> 0:45:42,800
+využívají docela dost podle některých
 
-892
-0:45:49,500 --> 0:45:51,900
-Japonska takže asi nebudou chtít přeji
+948
+0:45:42,800 --> 0:45:45,300
+nadbytek a celkově se tedy jedná o
 
-893
+949
+0:45:45,300 --> 0:45:48,199
+výrazného odběratele pšeničný výrobků
+
+950
+0:45:48,199 --> 0:45:50,900
+co bys přišel do Japonska takže asi
+
+951
+0:45:50,900 --> 0:45:51,900
+nebudou chtít přeji
+
+952
 0:45:51,800 --> 0:45:54,300
 nebo ty že má dovážet i když zlí
 
-894
+953
 0:45:54,300 --> 0:45:56,500
 jazykové tvrdí že je žemle McDonald
 
-895
+954
 0:45:56,500 --> 0:45:58,000
 přežiji všechno nejsou zpracovány a
 
-896
-0:45:58,000 --> 0:46:02,300
-podány zákazníkovi takže jakým způsobem
+955
+0:45:58,000 --> 0:46:01,800
+podány zákazníkovi takže jakým
 
-897
-0:46:02,300 --> 0:46:04,800
-se vlastně tohle odrazilo ve vývoji
+956
+0:46:01,800 --> 0:46:04,300
+způsobem se vlastně tohle odrazilo ve
 
-898
-0:46:04,800 --> 0:46:07,699
-národního hospodářství japonská zvláště
+957
+0:46:04,300 --> 0:46:06,599
+vývoji národního hospodářství japonská
 
-899
-0:46:07,699 --> 0:46:12,099
-když uvedu jakou větou odstartoval
+958
+0:46:06,599 --> 0:46:10,400
+zvláště když uvedu jakou větou
 
-900
-0:46:12,099 --> 0:46:14,900
-svoji reklamní kampaň v tom roce 71
+959
+0:46:10,400 --> 0:46:13,699
+odstartoval svoji reklamní kampaň v tom
 
-901
-0:46:14,900 --> 0:46:19,000
-Japonci jsou v malý a žlutý protože ty
+960
+0:46:13,699 --> 0:46:17,699
+roce 71 Japonci jsou v malý a
 
-902
-0:46:19,000 --> 0:46:21,699
-tisíciletí děti pouze rýže a ryby další
+961
+0:46:17,699 --> 0:46:20,400
+žlutý protože ty tisíciletí děti pouze
 
-903
-0:46:21,699 --> 0:46:24,500
-Slide když budeme místo toho dalších
+962
+0:46:20,400 --> 0:46:23,699
+rýže a ryby další Slide když budeme
 
-904
-0:46:24,500 --> 0:46:27,000
-tisíc let jíst brambory a hranolky od
+963
+0:46:23,699 --> 0:46:25,599
+místo toho dalších tisíc let jíst
 
-905
-0:46:27,000 --> 0:46:30,699
-McDonalda naší Slide Tak konečně
+964
+0:46:25,599 --> 0:46:28,800
+brambory a hranolky od McDonalda naší
 
-906
-0:46:30,699 --> 0:46:33,000
-pořádně vyrosteme naše kůže bude bílá a
+965
+0:46:28,800 --> 0:46:31,699
+Slide Tak konečně pořádně vyrosteme
 
-907
-0:46:33,000 --> 0:46:34,099
-vlasy zezlátnou
+966
+0:46:31,699 --> 0:46:34,099
+naše kůže bude bílá a vlasy zezlátnou
 
-908
+967
 0:46:34,099 --> 0:46:42,199
 Mimochodem
 
-909
+968
 0:46:42,199 --> 0:46:45,699
 když jsem tohle zmiňoval některým otaku
 
-910
+969
 0:46:45,699 --> 0:46:47,400
 v Americe tak nevěřil že tohle v
 
-911
+970
 0:46:47,400 --> 0:46:48,500
 Japonsku mohlo projít jako regulérní
 
-912
+971
 0:46:48,500 --> 0:46:50,199
 kampaní protože už 70 letech v Americe
 
-913
+972
 0:46:50,199 --> 0:46:51,800
 by toho způsobilost strašně Choppera
 
-914
-0:46:51,800 --> 0:46:57,800
-ne trefil do černého Japonci
+973
+0:46:51,800 --> 0:46:55,599
+ne trefil do černého
 
-915
-0:46:57,800 --> 0:46:58,699
-na to slyšeli
+974
+0:46:55,599 --> 0:46:58,699
+Japonci na to slyšeli
 
-916
-0:47:00,300 --> 0:47:05,500
-a Ano díky tomu jak se McDonald's stal
+975
+0:47:00,300 --> 0:47:04,099
+a Ano díky tomu jak
 
-917
-0:47:05,500 --> 0:47:07,500
-v Japonsku oblíbené opravdu samotný
+976
+0:47:04,099 --> 0:47:06,400
+se McDonald's stal v Japonsku oblíbené
 
-918
-0:47:07,500 --> 0:47:10,199
-Japonsko zvýšil o produkci pšenice na
+977
+0:47:06,400 --> 0:47:08,800
+opravdu samotný Japonsko zvýšil o
 
-919
-0:47:10,199 --> 0:47:13,500
-svých polích A teď zpátky oslím Můstkem
+978
+0:47:08,800 --> 0:47:12,599
+produkci pšenice na svých polích A teď
 
-920
-0:47:13,500 --> 0:47:17,500
-k tomu anime jde o to že McDonald's
+979
+0:47:12,599 --> 0:47:15,800
+zpátky oslím Můstkem k tomu anime jde o
 
-921
-0:47:17,500 --> 0:47:21,599
-velmi rád a často používá od přibližně
+980
+0:47:15,800 --> 0:47:18,900
+to že McDonald's velmi rád a často
 
-922
-0:47:21,599 --> 0:47:26,000
-roku 76 anime jakožto reklamní vlastně
+981
+0:47:18,900 --> 0:47:22,800
+používá od přibližně roku 76
 
-923
+982
+0:47:22,800 --> 0:47:26,000
+anime jakožto reklamní vlastně
+
+983
 0:47:26,000 --> 0:47:27,800
 prostředek pro své výrobky nebo pro
 
-924
-0:47:27,800 --> 0:47:32,800
-svoji značku další Slide ještě
+984
+0:47:27,800 --> 0:47:31,099
+svoji značku další Slide
 
-925
-0:47:32,800 --> 0:47:38,199
-ještě kupodivu Dragon Ball
+985
+0:47:31,099 --> 0:47:34,599
+ještě ještě
 
-926
+986
+0:47:34,599 --> 0:47:38,199
+kupodivu Dragon Ball
+
+987
 0:47:38,199 --> 0:47:41,199
 nikdy nebyl využit k propagaci
 
-927
+988
 0:47:41,199 --> 0:47:44,199
 McDonalda Já od něj a po té větě jsem
 
-928
+989
 0:47:44,199 --> 0:47:46,199
 se cítil trošku jako zklamán že jsem
 
-929
+990
 0:47:46,199 --> 0:47:49,000
 nic podobného nenašel na druhou stranu
 
-930
+991
 0:47:49,000 --> 0:47:52,900
 naprosto brutálně McDonald's válcuje
 
-931
+992
 0:47:52,900 --> 0:47:56,699
 konkurenci Díky podpoře malého žánru a
 
-932
+993
 0:47:56,699 --> 0:47:58,400
 sportovních titulu pro děti
 
-933
+994
 0:48:00,199 --> 0:48:02,500
 proto že není nic krásnějšího než
 
-934
+995
 0:48:02,500 --> 0:48:05,500
 holčičky které se mění v čarodějky když
 
-935
+996
 0:48:05,500 --> 0:48:07,800
 se baví o tom jak je si koupí šperky
 
-936
+997
 0:48:07,800 --> 0:48:11,300
 cetky módu začnou řešit i to že by to
 
-937
+998
 0:48:11,300 --> 0:48:13,099
 tam do té modem zhubnout a pak do
 
-938
-0:48:13,099 --> 0:48:17,500
-McDonalda kde se dají něco zvlášť
+999
+0:48:13,099 --> 0:48:14,300
+McDonalda kde se dají něco
 
-939
-0:48:17,500 --> 0:48:20,400
-předposlední teďka sezóna precure u je
+1000
+0:48:14,300 --> 0:48:18,199
+zvlášť předposlední
 
-940
-0:48:20,400 --> 0:48:21,599
-tam vysloveně charakter který si
+1001
+0:48:18,199 --> 0:48:20,800
+teďka sezóna precure u je tam vysloveně
 
-941
-0:48:21,599 --> 0:48:23,099
-McDonald zaplatil je to jedna z
+1002
+0:48:20,800 --> 0:48:22,800
+charakter který si McDonald zaplatil je
 
-942
-0:48:23,099 --> 0:48:26,000
-hlavního Tria čerpadlo čtveřice která
+1003
+0:48:22,800 --> 0:48:24,900
+to jedna z hlavního Tria čerpadlo
 
-943
-0:48:26,000 --> 0:48:30,199
-přijde a každý vlastně díl kdy se ujede
+1004
+0:48:24,900 --> 0:48:28,099
+čtveřice která přijde a každý
 
-944
-0:48:30,199 --> 0:48:32,199
-McDonald uváděli novou edici do na to
+1005
+0:48:28,099 --> 0:48:30,599
+vlastně díl kdy se ujede McDonald
 
-945
-0:48:32,199 --> 0:48:34,800
-jakoby těch koblih Tak se těším na to
+1006
+0:48:30,599 --> 0:48:32,500
+uváděli novou edici do na to jakoby
 
-946
-0:48:34,800 --> 0:48:37,000
-že si dám nový Donat novou příchuť a
+1007
+0:48:32,500 --> 0:48:35,199
+těch koblih Tak se těším na to že si
 
-947
-0:48:37,000 --> 0:48:40,099
-tímto způsobem a to Ládví těm dětem
+1008
+0:48:35,199 --> 0:48:38,300
+dám nový Donat novou příchuť a tímto
 
-948
-0:48:40,099 --> 0:48:42,099
-tedy v ranních vysílacích slotech a
+1009
+0:48:38,300 --> 0:48:40,599
+způsobem a to Ládví těm dětem tedy v
 
-949
-0:48:42,099 --> 0:48:47,900
-toto je asi jediná věc o které jsem
+1010
+0:48:40,599 --> 0:48:44,300
+ranních vysílacích slotech a toto
 
-950
+1011
+0:48:44,300 --> 0:48:47,900
+je asi jediná věc o které jsem
+
+1012
 0:48:47,900 --> 0:48:50,500
 zjistil že dokáže tady ovlivnit
 
-951
-0:48:50,500 --> 0:48:54,599
-pěstování pšenice a tím pádem i Route
+1013
+0:48:50,500 --> 0:48:54,300
+pěstování pšenice a tím pádem i
 
-952
-0:48:54,599 --> 0:48:58,000
-to je to plodiny s ohledem na anime na
+1014
+0:48:54,300 --> 0:48:56,300
+Route to je to plodiny s ohledem na
 
-953
-0:48:58,000 --> 0:48:58,199
-čísla
+1015
+0:48:56,300 --> 0:48:58,199
+anime na čísla
 
-954
-0:49:00,199 --> 0:49:04,500
-Takže jako reklamní médium a to hlavně
+1016
+0:49:00,199 --> 0:49:04,199
+Takže jako reklamní médium a to
 
-955
-0:49:04,500 --> 0:49:08,199
-v rámci japonského trhu tak tahle ta
+1017
+0:49:04,199 --> 0:49:07,099
+hlavně v rámci japonského trhu tak
 
-956
-0:49:08,199 --> 0:49:11,500
-věc funguje co hůř to anim jako
+1018
+0:49:07,099 --> 0:49:10,900
+tahle ta věc funguje co hůř to
 
-957
-0:49:11,500 --> 0:49:13,599
-reklamní médium funguje v tomto ohledu
+1019
+0:49:10,900 --> 0:49:13,000
+anim jako reklamní médium funguje v
 
-958
-0:49:13,599 --> 0:49:16,199
-lépe na mne otaku komunitu nejsi nás
+1020
+0:49:13,000 --> 0:49:15,099
+tomto ohledu lépe na mne otaku komunitu
 
-959
-0:49:16,199 --> 0:49:18,800
-jakožto fanoušky opravdu s tímhle tím
+1021
+0:49:15,099 --> 0:49:18,500
+nejsi nás jakožto fanoušky opravdu s
 
-960
-0:49:18,800 --> 0:49:22,800
-armádu jí nejraději děti do 12 let a ty
+1022
+0:49:18,500 --> 0:49:21,599
+tímhle tím armádu jí nejraději děti do
 
-961
-0:49:22,800 --> 0:49:25,699
-nejdřív mezi 15 až 17 mm rokem života
+1023
+0:49:21,599 --> 0:49:25,199
+12 let a ty nejdřív mezi 15 až 17 mm
 
-962
-0:49:25,699 --> 0:49:28,500
-Takže pro ty děti jsou tam ty máš Už ho
+1024
+0:49:25,199 --> 0:49:28,000
+rokem života Takže pro ty děti jsou tam
 
-963
-0:49:28,500 --> 0:49:31,400
-a sportovní tituly pro teenagery To
+1025
+0:49:28,000 --> 0:49:29,900
+ty máš Už ho a sportovní tituly pro
 
-964
-0:49:31,400 --> 0:49:32,900
-jsou tedy některé z těch pozdějších
+1026
+0:49:29,900 --> 0:49:32,400
+teenagery To jsou tedy některé z těch
 
-965
-0:49:32,900 --> 0:49:35,099
-anime oblékat zaměřené na nějaké to
+1027
+0:49:32,400 --> 0:49:34,699
+pozdějších anime oblékat zaměřené na
 
-966
-0:49:35,099 --> 0:49:38,000
-Dark and Edge Takže v tomhle ohledu
+1028
+0:49:34,699 --> 0:49:37,900
+nějaké to Dark and Edge Takže v tomhle
 
-967
-0:49:38,000 --> 0:49:40,800
-výborná věc zlí jazykové dokonce tvrdí
+1029
+0:49:37,900 --> 0:49:40,500
+ohledu výborná věc zlí jazykové dokonce
 
-968
-0:49:40,800 --> 0:49:42,599
-že pokud to nějaká další řada Tokyo
+1030
+0:49:40,500 --> 0:49:42,300
+tvrdí že pokud to nějaká další řada
 
-969
-0:49:42,599 --> 0:49:43,900
-Ghoul Tak už jsme kdo nás brousí zuby
+1031
+0:49:42,300 --> 0:49:43,800
+Tokyo Ghoul Tak už jsme kdo nás brousí
 
-970
-0:49:43,900 --> 0:49:46,900
-takže možná nakonec Gollum Nebudou
+1032
+0:49:43,800 --> 0:49:46,900
+zuby takže možná nakonec Gollum Nebudou
 
-971
+1033
 0:49:46,900 --> 0:49:47,800
 vadit žemle
 
-972
-0:49:48,400 --> 0:49:53,800
-Takže tak a samozřejmě tedy tento vliv
+1034
+0:49:48,400 --> 0:49:49,900
+Takže tak a
 
-973
+1035
+0:49:49,900 --> 0:49:53,800
+samozřejmě tedy tento vliv
+
+1036
 0:49:53,800 --> 0:49:55,500
 může mít za následek změnu v množství
 
-974
+1037
 0:49:55,500 --> 0:49:57,099
 složení poptávaných potravin a tím
 
-975
+1038
 0:49:57,099 --> 0:49:58,699
 ovlivňovat nutnou Míru pěstování plodin
 
-976
+1039
 0:49:58,699 --> 0:50:01,500
 zvané pšenice Takže pokud jste se
 
-977
+1040
 0:50:01,500 --> 0:50:03,900
 chtěli dozvědět Jaký vliv má anime
 
-978
+1041
 0:50:03,900 --> 0:50:06,099
 narůst Všenice maximálně jakožto
 
-979
+1042
 0:50:06,099 --> 0:50:08,900
 reklamní prvek a pravdě podle toho use
 
-980
+1043
 0:50:08,900 --> 0:50:11,599
 tedy hlavně mezi ne otaku komunita u mi
 
-981
+1044
 0:50:11,599 --> 0:50:14,300
 jako o Tak co se týče nic nemáme jinou
 
-982
+1045
 0:50:14,300 --> 0:50:15,800
 možnost a to tedy pouštět si hlasitě
 
-983
+1046
 0:50:15,800 --> 0:50:17,099
 nějaké ty vhodné skladby když
 
-984
-0:50:17,099 --> 0:50:21,599
-Projíždíme všech jižním polem tak další
+1047
+0:50:17,099 --> 0:50:20,300
+Projíždíme všech jižním polem tak
 
-985
-0:50:21,599 --> 0:50:25,400
-Slide má někdo tomto nějaký dotaz
+1048
+0:50:20,300 --> 0:50:24,199
+další Slide má
 
-986
+1049
+0:50:24,199 --> 0:50:25,400
+někdo tomto nějaký dotaz
+
+1050
 0:50:25,400 --> 0:50:31,300
 Pokud
 
-987
+1051
 0:50:31,300 --> 0:50:34,099
 žádný není taková slušně požádat pro
 
-988
+1052
 0:50:34,099 --> 0:50:36,099
 hadici své telefony s v mp3 Wiki
 
-989
+1053
 0:50:36,099 --> 0:50:37,500
 projděte si vhodné playlist to je
 
-990
+1054
 0:50:37,500 --> 0:50:39,300
 vyzkoušet jako jsou sice se známými co
 
-991
+1055
 0:50:39,300 --> 0:50:42,400
 se hodí nehodí a popřeji vám tedy pěkný
 
-992
+1056
 0:50:42,400 --> 0:50:45,699
 zbytek akiconu a budu doufat že v
 
-993
+1057
 0:50:45,699 --> 0:50:48,000
 průběhu příštích let uslyším o tom že
 
-994
+1058
 0:50:48,000 --> 0:50:48,400
 česká rep
 
-995
+1059
 0:50:48,400 --> 0:50:51,099
  dostala pšeničnou velmocí nashledanou
 

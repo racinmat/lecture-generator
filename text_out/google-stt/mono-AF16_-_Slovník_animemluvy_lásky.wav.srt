@@ -1,18 +1,18 @@
 1
-0:00:00,100 --> 0:00:04,200
-já vás tu vítám na přednášce anime
+0:00:00,100 --> 0:00:02,399
+já vás tu vítám na přednášce
 
 2
-0:00:04,200 --> 0:00:06,700
-mluvil slovník ani nemluvil a Ski můj
+0:00:02,399 --> 0:00:05,799
+anime mluvil slovník ani nemluvil a Ski
 
 3
-0:00:06,700 --> 0:00:08,300
-nick je grek1 pro ty z vás kteří ještě
+0:00:05,799 --> 0:00:08,099
+můj nick je grek1 pro ty z vás kteří
 
 4
-0:00:08,300 --> 0:00:11,099
-neznají přednáším Už pár let a
+0:00:08,099 --> 0:00:11,099
+ještě neznají přednáším Už pár let a
 
 5
 0:00:11,099 --> 0:00:14,599
@@ -67,28 +67,28 @@ tak
 na této přednášce se tady mrkneme na to
 
 18
-0:00:50,500 --> 0:00:55,799
-jakým způsobem si zamilovaní v rámci
+0:00:50,500 --> 0:00:52,899
+jakým způsobem si
 
 19
-0:00:55,799 --> 0:00:58,600
-anime a mangy vyznávají ten
+0:00:52,899 --> 0:00:56,700
+zamilovaní v rámci anime a
 
 20
-0:00:58,600 --> 0:01:01,000
-nejkrásnější tyto kterém Generace
+0:00:56,700 --> 0:00:59,899
+mangy vyznávají ten nejkrásnější tyto
 
 21
-0:01:01,000 --> 0:01:03,399
-básníků psali generace autorů psali a
+0:00:59,899 --> 0:01:02,500
+kterém Generace básníků psali generace
 
 22
-0:01:03,399 --> 0:01:05,500
-nakonec to všechno zabili upíří romance
+0:01:02,500 --> 0:01:04,599
+autorů psali a nakonec to všechno
 
 23
-0:01:05,500 --> 0:01:06,400
-tak
+0:01:04,599 --> 0:01:06,400
+zabili upíří romance tak
 
 24
 0:01:08,099 --> 0:01:10,900
@@ -195,60 +195,60 @@ schválně tohle prostě musíš mít
  dobrá
 
 50
-0:02:09,699 --> 0:02:13,800
-další Slide ovšem pro ty z vás kteří
+0:02:09,699 --> 0:02:13,300
+další Slide ovšem pro ty z vás
 
 51
-0:02:13,800 --> 0:02:17,800
-četli anotaci dnes měla by se objevit
+0:02:13,300 --> 0:02:17,199
+kteří četli anotaci dnes měla
 
 52
-0:02:17,800 --> 0:02:21,199
-jistá skupina pisatele k které se
+0:02:17,199 --> 0:02:20,599
+by se objevit jistá skupina pisatele k
 
 53
-0:02:21,199 --> 0:02:24,000
-ozvali na email Mezi kterými je i ta
+0:02:20,599 --> 0:02:23,699
+které se ozvali na email Mezi kterými
 
 54
-0:02:24,000 --> 0:02:26,500
-jenž nechce být jmenována protože mi
+0:02:23,699 --> 0:02:25,900
+je i ta jenž nechce být jmenována
 
 55
-0:02:26,500 --> 0:02:28,599
-potom co jsem jí sdělil jak jsem byl
+0:02:25,900 --> 0:02:28,300
+protože mi potom co jsem jí sdělil jak
 
 56
-0:02:28,599 --> 0:02:31,599
-nucen v důsledku jejích rad upravit
+0:02:28,300 --> 0:02:31,000
+jsem byl nucen v důsledku jejích rad
 
 57
-0:02:31,599 --> 0:02:34,199
-prezentaci této přednášky zakázala
+0:02:31,000 --> 0:02:32,900
+upravit prezentaci této přednášky
 
 58
-0:02:34,199 --> 0:02:35,300
-jakkoliv měnit její Nick
+0:02:32,900 --> 0:02:35,300
+zakázala jakkoliv měnit její Nick
 
 59
-0:02:36,400 --> 0:02:40,900
-a bohužel jsem osoba čestná A tak nějak
+0:02:36,400 --> 0:02:39,400
+a bohužel jsem osoba čestná A
 
 60
-0:02:40,900 --> 0:02:42,699
-jsem zapomněl Do prezentace zahnutý
+0:02:39,400 --> 0:02:41,900
+tak nějak jsem zapomněl Do prezentace
 
 61
-0:02:42,699 --> 0:02:45,199
-email aby si také mohli psát takže tím
+0:02:41,900 --> 0:02:43,800
+zahnutý email aby si také mohli psát
 
 62
-0:02:45,199 --> 0:02:48,300
-pádem osoba jenž nechce být jmenován A
+0:02:43,800 --> 0:02:47,699
+takže tím pádem osoba jenž nechce být
 
 63
-0:02:48,300 --> 0:02:50,000
-co protože další Slide
+0:02:47,699 --> 0:02:50,000
+jmenován A co protože další Slide
 
 64
 0:02:51,199 --> 0:02:53,699
@@ -283,4234 +283,4426 @@ charakterů které fungují trošku jinak
 například ne umřu na otravu jídlem
 
 72
-0:03:11,400 --> 0:03:16,500
-Tak jdeme dál Ano tyto pisatelky mi
+0:03:11,400 --> 0:03:14,500
+Tak jdeme dál Ano
 
 73
-0:03:16,500 --> 0:03:18,900
-totiž v různých obměnách napsali toto
+0:03:14,500 --> 0:03:17,900
+tyto pisatelky mi totiž v různých
 
 74
-0:03:18,900 --> 0:03:20,599
-Proč je tvá anotace Tak
+0:03:17,900 --> 0:03:19,800
+obměnách napsali toto Proč je tvá
 
 75
-0:03:20,599 --> 0:03:23,300
-heteronormativní a zcela ignoruje ten
+0:03:19,800 --> 0:03:22,599
+anotace Tak heteronormativní a zcela
 
 76
-0:03:23,300 --> 0:03:27,300
-někdejší žánr ze všech ptát se vás na
+0:03:22,599 --> 0:03:25,400
+ignoruje ten někdejší žánr ze všech
 
 77
-0:03:27,300 --> 0:03:29,500
-to jaký žánr mají na mysli asi nemá
+0:03:25,400 --> 0:03:28,400
+ptát se vás na to jaký žánr mají na
 
 78
-0:03:29,500 --> 0:03:32,699
-smysl Je vám to doufám všem jasné Pokud
+0:03:28,400 --> 0:03:31,400
+mysli asi nemá smysl Je vám to doufám
 
 79
-0:03:32,699 --> 0:03:36,699
-ne kopněte osobu po vaší pravé straně
+0:03:31,400 --> 0:03:35,000
+všem jasné Pokud ne kopněte
 
 80
-0:03:36,699 --> 0:03:39,699
-do nohy a ten Výkřik který uslyšíte jen
+0:03:35,000 --> 0:03:37,300
+osobu po vaší pravé straně do nohy a
 
 81
-0:03:39,699 --> 0:03:42,500
-asi taky acronym názvu tohoto žánru
+0:03:37,300 --> 0:03:40,300
+ten Výkřik který uslyšíte jen asi taky
 
 82
-0:03:42,500 --> 0:03:48,199
-Takže prosím když jsem se ti
+0:03:40,300 --> 0:03:44,000
+acronym názvu tohoto žánru Takže
 
 83
-0:03:48,199 --> 0:03:50,500
-snažil vysvětlit když je jauvajs je
+0:03:44,000 --> 0:03:48,000
+prosím když jsem
 
 84
-0:03:50,500 --> 0:03:53,400
-podle mého názoru a pornografie a tím
+0:03:48,000 --> 0:03:49,900
+se ti snažil vysvětlit když je jauvajs
 
 85
-0:03:53,400 --> 0:03:55,500
-pádem neobsahuje elementy romantiky
+0:03:49,900 --> 0:03:53,199
+je podle mého názoru a pornografie a
 
 86
-0:03:55,500 --> 0:04:00,699
-bylo mi sděleno pouze jednou si to by
+0:03:53,199 --> 0:03:55,500
+tím pádem neobsahuje elementy romantiky
 
 87
-0:04:00,699 --> 0:04:02,300
-Satellite protože ty ostatní se zmohli
+0:03:55,500 --> 0:03:59,000
+bylo mi sděleno
 
 88
-0:04:02,300 --> 0:04:05,099
-tak na řekněme více či méně vulgárně
+0:03:59,000 --> 0:04:01,400
+pouze jednou si to by Satellite protože
 
 89
-0:04:05,099 --> 0:04:07,099
-odpovědět typu že sem někdo neznalý
+0:04:01,400 --> 0:04:03,000
+ty ostatní se zmohli tak na řekněme
 
 90
-0:04:07,099 --> 0:04:09,699
-nechápavý nerozumím kráse nerozumím
+0:04:03,000 --> 0:04:05,900
+více či méně vulgárně odpovědět typu že
 
 91
-0:04:09,699 --> 0:04:11,300
-romantici a tak dále tak na to je
+0:04:05,900 --> 0:04:08,800
+sem někdo neznalý nechápavý nerozumím
 
 92
+0:04:08,800 --> 0:04:10,500
+kráse nerozumím romantici a tak dále
+
+93
+0:04:10,500 --> 0:04:11,300
+tak na to je
+
+94
 0:04:11,300 --> 0:04:12,699
 já se mnou začala jezdit je Battle
 
-93
+95
 0:04:12,699 --> 0:04:16,399
 Nakonec jsme po téhle debatě museli
 
-94
+96
 0:04:16,399 --> 0:04:20,199
 dospět k nějaké definici romantiky a já
 
-95
-0:04:20,199 --> 0:04:25,199
-pak byl nucen uznat že i specifickým
-
-96
-0:04:25,199 --> 0:04:28,500
-způsobem ať už je to vůbec nebo Hentai
-
 97
-0:04:28,500 --> 0:04:30,899
-v nich ta romantika funguje
+0:04:20,199 --> 0:04:21,600
+pak byl nucen uznat že i
 
 98
+0:04:21,600 --> 0:04:25,399
+specifickým způsobem
+
+99
+0:04:25,399 --> 0:04:29,399
+ať už je to vůbec nebo Hentai v nich ta
+
+100
+0:04:29,399 --> 0:04:30,899
+romantika funguje
+
+101
 0:04:32,100 --> 0:04:35,600
 a proto o nich budeme i mluvit když
 
-99
+102
 0:04:35,600 --> 0:04:37,199
 jsem se ptal pořadatelů zdali je v
 
-100
+103
 0:04:37,199 --> 0:04:38,800
 pořádku a bych tohle zahrnul do své
 
-101
+104
 0:04:38,800 --> 0:04:41,399
 přednášky přišla mi briskní odpověď jo
 
-102
+105
 0:04:41,399 --> 0:04:44,000
 to musíš začínat takže jsem si zařídil
 
-103
+106
 0:04:44,000 --> 0:04:47,800
 podle jejich rád a bude to první body A
 
-104
+107
 0:04:47,800 --> 0:04:49,300
 teď budeme bavit když se budeme bavit
 
-105
+108
 0:04:49,300 --> 0:04:52,000
 tak já se ale první zkusím tady v
 
-106
+109
 0:04:52,000 --> 0:04:54,100
 publiku zeptat najdou se to odvážlivci
 
-107
+110
 0:04:54,100 --> 0:04:55,899
 kteří zkus definovat romantiku
 
-108
+111
 0:04:55,899 --> 0:04:57,500
 přihlašte se mi
 
-109
+112
 0:04:59,199 --> 0:04:59,800
  Ale no tak
 
-110
-0:05:03,199 --> 0:05:07,399
- platí se někdo takže po dám mikrofon
+113
+0:05:03,199 --> 0:05:07,199
+platí se někdo takže po dám
 
-111
+114
+0:05:07,199 --> 0:05:07,399
+mikrofon
+
+115
 0:05:08,699 --> 0:05:11,699
 asistentka calisto Ano to je za všechny
 
-112
+116
 0:05:11,699 --> 0:05:12,800
 ty roky odmítání těch přednášek
 
-113
+117
 0:05:15,699 --> 0:05:18,399
 nevím je za pět a p Takže zkuste to já
 
-114
+118
 0:05:18,399 --> 0:05:19,100
 si myslím že
 
-115
+119
 0:05:26,199 --> 0:05:28,899
 co chce ne to je řeka
 
-116
+120
 0:05:28,899 --> 0:05:42,000
 zkusíme
 
-117
+121
 0:05:42,000 --> 0:05:42,300
 někoho dalšího
 
-118
+122
 0:05:44,600 --> 0:05:47,199
 Annonce tady to přece romantika dobře
 
-119
+123
 0:05:47,199 --> 0:05:49,600
 tamhle vzadu vidím když tak počkejte na
 
-120
+124
 0:05:49,600 --> 0:05:52,899
 mikrofon aby i lidé na streamu měli
 
-121
+125
 0:05:52,899 --> 0:05:54,100
 Záznam jeho hlasu
 
-122
+126
 0:05:55,199 --> 0:05:57,100
 Říká se že co se škádlívá to se rádo
 
-123
+127
 0:05:57,100 --> 0:05:57,300
 mívá
 
-124
+128
 0:06:09,300 --> 0:06:11,899
  uspokojení Ano Pomsta je sladká
 
-125
+129
 0:06:18,500 --> 0:06:22,000
 duální a platonická část vztahu dvou
 
-126
-0:06:22,000 --> 0:06:26,800
-lidí která v obou někdy na jedné a
-
-127
-0:06:26,800 --> 0:06:28,699
-někdy na obou stranách ale vždycky je
-
-128
-0:06:28,699 --> 0:06:31,500
-to v důsledku jedné strany A projevuje
-
-129
-0:06:31,500 --> 0:06:35,699
-se to na druhé straně Bavíme se ještě o
-
 130
+0:06:22,000 --> 0:06:25,100
+lidí která v obou
+
+131
+0:06:25,100 --> 0:06:27,899
+někdy na jedné a někdy na obou stranách
+
+132
+0:06:27,899 --> 0:06:30,500
+ale vždycky je to v důsledku jedné
+
+133
+0:06:30,500 --> 0:06:32,199
+strany A projevuje se to na druhé
+
+134
+0:06:32,199 --> 0:06:35,699
+straně Bavíme se ještě o
+
+135
 0:06:35,699 --> 0:06:37,800
 romantice nebo už o potenciál
 
-131
+136
 0:06:37,800 --> 0:06:41,500
 elektrických nábojů ale v pořádku ne já
 
-132
-0:06:41,500 --> 0:06:46,600
-vím že pro někoho z romantika podobný
+137
+0:06:41,500 --> 0:06:44,199
+vím že pro někoho z
 
-133
-0:06:46,600 --> 0:06:48,100
-pocit jako elektrické náboje
+138
+0:06:44,199 --> 0:06:47,899
+romantika podobný pocit jako elektrické
 
-134
+139
+0:06:47,899 --> 0:06:48,100
+náboje
+
+140
 0:06:49,699 --> 0:06:52,000
 uznávám je sladkost pro tuto dámu
 
-135
+141
 0:06:52,000 --> 0:06:53,500
 protože romantiku jako elektrické
 
-136
+142
 0:06:53,500 --> 0:06:56,000
 náboje už se těším kolik matfyzáků bude
 
-137
-0:06:56,000 --> 0:07:00,100
-počítat náboj romantiky mezi párem
+143
+0:06:56,000 --> 0:06:59,600
+počítat náboj romantiky mezi
 
-138
+144
+0:06:59,600 --> 0:07:00,100
+párem
+
+145
 0:07:02,800 --> 0:07:05,500
  romantický v kloubech RC
 
-139
-0:07:07,199 --> 0:07:11,699
-dobrá Za pytlík Přesně tak takže něco
-
-140
-0:07:11,699 --> 0:07:14,800
-sladkého jsou to všude Hlavní medvídci
-
-141
-0:07:14,800 --> 0:07:17,600
-lepší se mi lepší cenu na přednášku o
-
-142
-0:07:17,600 --> 0:07:19,899
-romantice se mi nepovedlo vymyslet Tak
-
-143
-0:07:19,899 --> 0:07:23,500
-pořád požádám o další Slide protože
-
-144
-0:07:23,500 --> 0:07:26,399
-definice ke které jsme došli mi a to i
-
-145
-0:07:26,399 --> 0:07:30,500
-po zahrnutí květomluvy z roku 1910 je
-
 146
-0:07:30,500 --> 0:07:33,000
-že se jedná o nápadité nevšední
+0:07:07,199 --> 0:07:11,199
+dobrá Za pytlík Přesně tak
 
 147
-0:07:33,000 --> 0:07:36,000
-představy zahrnující je obvykle
+0:07:11,199 --> 0:07:13,899
+takže něco sladkého jsou to všude
 
 148
-0:07:36,000 --> 0:07:39,000
-estetické milostné či erotické vytržení
+0:07:13,899 --> 0:07:16,699
+Hlavní medvídci lepší se mi lepší cenu
 
 149
+0:07:16,699 --> 0:07:18,199
+na přednášku o romantice se mi
+
+150
+0:07:18,199 --> 0:07:21,600
+nepovedlo vymyslet Tak pořád
+
+151
+0:07:21,600 --> 0:07:23,899
+požádám o další Slide protože definice
+
+152
+0:07:23,899 --> 0:07:27,000
+ke které jsme došli mi a to i po
+
+153
+0:07:27,000 --> 0:07:30,699
+zahrnutí květomluvy z roku 1910 je že
+
+154
+0:07:30,699 --> 0:07:33,600
+se jedná o nápadité nevšední představy
+
+155
+0:07:33,600 --> 0:07:36,699
+zahrnující je obvykle estetické
+
+156
+0:07:36,699 --> 0:07:39,000
+milostné či erotické vytržení
+
+157
 0:07:40,000 --> 0:07:43,199
 jelikož mě ta osoba která nechtěla být
 
-150
+158
 0:07:43,199 --> 0:07:46,800
 jmenovaná zahltila úryvky některých
 
-151
+159
 0:07:46,800 --> 0:07:49,899
 věcí které také já jsem bohužel konci
 
-152
+160
 0:07:49,899 --> 0:07:53,800
 to nezapomenu musel jsem uznat že jsou
 
-153
+161
 0:07:53,800 --> 0:07:56,600
 jak anatomicky tak představil Tak to se
 
-154
+162
 0:07:56,600 --> 0:07:59,100
 představil se týče opravdu nevšední a
 
-155
+163
 0:07:59,100 --> 0:08:02,000
 tím jednoznačně splňuje definici je
 
-156
+164
 0:08:02,000 --> 0:08:04,399
 alespoň v některých částech takže
 
-157
+165
 0:08:04,399 --> 0:08:08,300
 požádám o další Slide první část se
 
-158
+166
 0:08:08,300 --> 0:08:10,300
 tedy bude jmenovat porno romantika
 
-159
+167
 0:08:10,800 --> 0:08:13,699
 klíčové slovo zaznělo už mi to nikdo
 
-160
+168
 0:08:13,699 --> 0:08:15,600
 neodpáře uvidí to jede na internetu je
 
-161
-0:08:15,600 --> 0:08:19,699
-to skvělé Tak s tímhle tím s tím se ani
+169
+0:08:15,600 --> 0:08:19,500
+to skvělé Tak s tímhle tím s tím se
 
-162
-0:08:19,699 --> 0:08:21,399
-nebudeme uvažovat že ano nečekejte
+170
+0:08:19,500 --> 0:08:21,399
+ani nebudeme uvažovat že ano nečekejte
 
-163
+171
 0:08:21,399 --> 0:08:24,199
 explicitní obrazovou dokumentaci není
 
-164
+172
 0:08:24,199 --> 0:08:27,600
 to možné a budeme se tedy spíš zabývat
 
-165
+173
 0:08:27,600 --> 0:08:30,500
 tím jakým způsobem teda teda ty věci
 
-166
+174
 0:08:30,500 --> 0:08:33,200
 příběhově fungují nebo nefungují v těch
 
-167
+175
 0:08:33,200 --> 0:08:35,299
 specifický žánr hrozně tom Já bych na
 
-168
+176
 0:08:35,299 --> 0:08:36,700
 ně samotné jak říkám hand Jak funguje
 
-169
+177
 0:08:36,700 --> 0:08:39,700
 úplně stejně Pokud by jste otevřeli
 
-170
+178
 0:08:39,700 --> 0:08:41,200
 libovolný jiný pornografický materiál
 
-171
+179
 0:08:41,200 --> 0:08:45,200
 dostal dočkáte se nejčastěji při
 
-172
+180
 0:08:45,200 --> 0:08:47,000
 postupu které optik teďka budu mluvit
 
-173
+181
 0:08:47,000 --> 0:08:48,600
 jedna z nich další Slide
 
-174
+182
 0:08:54,600 --> 0:08:58,000
 Pokud dnes vám někdo bude chválit boty
 
-175
+183
 0:08:58,000 --> 0:08:59,100
 nevěřte mu
 
-176
-0:09:01,299 --> 0:09:05,799
-pro ty z vás kteří vládnou angličtinou
-
-177
-0:09:05,799 --> 0:09:08,200
-asi ne musím překládat pro ty z vás
-
-178
-0:09:08,200 --> 0:09:11,100
-kteří nevládnou Řekněme že volný
-
-179
-0:09:11,100 --> 0:09:14,700
-překlad by zněl něco jako pěkné boty
-
-180
-0:09:14,700 --> 0:09:15,600
-nejdeme ke mně nahoru
-
-181
-0:09:16,799 --> 0:09:22,100
-tak pro ty kteří tento subtilní náznak
-
-182
-0:09:22,100 --> 0:09:26,700
-Elegance sbíječky nějakým způsobem
-
-183
-0:09:26,700 --> 0:09:29,600
-nepochopili mám další Slide takové
-
 184
-0:09:29,600 --> 0:09:30,200
-vysvětlení
+0:09:01,299 --> 0:09:05,000
+pro ty z vás kteří vládnou
 
 185
+0:09:05,000 --> 0:09:08,000
+angličtinou asi ne musím překládat pro
+
+186
+0:09:08,000 --> 0:09:10,600
+ty z vás kteří nevládnou Řekněme že
+
+187
+0:09:10,600 --> 0:09:14,399
+volný překlad by zněl něco jako pěkné
+
+188
+0:09:14,399 --> 0:09:15,600
+boty nejdeme ke mně nahoru
+
+189
+0:09:16,799 --> 0:09:19,899
+tak pro ty kteří tento
+
+190
+0:09:19,899 --> 0:09:23,899
+subtilní náznak Elegance sbíječky
+
+191
+0:09:23,899 --> 0:09:27,700
+nějakým způsobem nepochopili mám
+
+192
+0:09:27,700 --> 0:09:30,200
+další Slide takové vysvětlení
+
+193
 0:09:32,299 --> 0:09:34,700
 které už doufám nenechá nikoho na
 
-186
+194
 0:09:34,700 --> 0:09:36,600
 pochybách že se jedná o pozvání
 
-187
+195
 0:09:36,600 --> 0:09:38,100
 polštářové bitvy a tak
 
-188
-0:09:39,600 --> 0:09:44,799
-toto je asi řekněme
+196
+0:09:39,600 --> 0:09:41,799
+toto je asi
 
-189
+197
+0:09:41,799 --> 0:09:44,799
+řekněme
+
+198
 0:09:44,799 --> 0:09:47,600
 nejběžnější část v libovolném
 
-190
+199
 0:09:47,600 --> 0:09:51,500
 pornografické materiálu Jak dosáhnout
 
-191
+200
 0:09:51,500 --> 0:09:54,500
 bližšího interakce mezi protagonisty a
 
-192
+201
 0:09:54,500 --> 0:09:58,299
 zahrnuje prostě jenom prostě řešení
 
-193
+202
 0:09:59,500 --> 0:10:00,600
  a odpověď mělo
 
-194
-0:10:01,600 --> 0:10:05,899
-takže myslím že scenáristicky rozebírat
+203
+0:10:01,600 --> 0:10:05,100
+takže myslím že scenáristicky
 
-195
-0:10:05,899 --> 0:10:08,500
-tohle to úplně nemusím tak říkajíc
+204
+0:10:05,100 --> 0:10:08,200
+rozebírat tohle to úplně nemusím tak
 
-196
-0:10:08,500 --> 0:10:11,399
-většina čtenářů či diváků podobných
+205
+0:10:08,200 --> 0:10:11,000
+říkajíc většina čtenářů či diváků
 
-197
-0:10:11,399 --> 0:10:14,600
-titulů tuší Proč se na ně dívá a popírá
+206
+0:10:11,000 --> 0:10:13,500
+podobných titulů tuší Proč se na ně
 
-198
-0:10:14,600 --> 0:10:16,100
-samozřejmě to ze studijních důvodů pro
+207
+0:10:13,500 --> 0:10:15,399
+dívá a popírá samozřejmě to ze
 
-199
-0:10:16,100 --> 0:10:17,500
-kamaráda a tak dále známe to všichni
+208
+0:10:15,399 --> 0:10:16,799
+studijních důvodů pro kamaráda a tak
 
-200
-0:10:17,500 --> 0:10:22,000
-tak chápu že na podobnou otázku obvykle
+209
+0:10:16,799 --> 0:10:20,299
+dále známe to všichni tak chápu že na
 
-201
-0:10:22,000 --> 0:10:27,200
-druhá strana odpoví Kladně současné
+210
+0:10:20,299 --> 0:10:23,500
+podobnou otázku obvykle druhá strana
 
-202
+211
+0:10:23,500 --> 0:10:27,200
+odpoví Kladně současné
+
+212
 0:10:27,200 --> 0:10:30,500
 nějak nápadité scenáristicky to asi
 
-203
-0:10:30,500 --> 0:10:35,500
-zahrnuje takovéto rozhodování v h&m ale
+213
+0:10:30,500 --> 0:10:33,899
+zahrnuje takovéto rozhodování v h&m
 
-204
-0:10:35,500 --> 0:10:37,500
-mohla by mít černé spodní prádlo To
+214
+0:10:33,899 --> 0:10:37,500
+ale mohla by mít černé spodní prádlo To
 
-205
+215
 0:10:37,500 --> 0:10:39,000
 bude inovace oproti předchozímu dílu
 
-206
+216
 0:10:40,799 --> 0:10:41,700
  tak nějak tak
 
-207
+217
 0:10:42,899 --> 0:10:44,600
  požár model She's like
 
-208
+218
 0:10:46,100 --> 0:10:46,600
  ano
 
-209
+219
 0:10:48,000 --> 0:10:50,200
 Jmenuji se Helmut a jsem opravář
 
-210
+220
 0:10:50,200 --> 0:10:50,899
 televizí
 
-211
+221
 0:10:52,899 --> 0:10:56,799
 Zeptám se viděl tu snad někdo a přiznal
 
-212
+222
 0:10:56,799 --> 0:10:59,899
 se k tomu titul ve kterém tato věta
 
-213
+223
 0:10:59,899 --> 0:11:00,700
 zazněla
 
-214
+224
 0:11:06,000 --> 0:11:08,100
 dobrá já si roku zvedat nebudu ale
 
-215
+225
 0:11:08,100 --> 0:11:11,200
 budiž Ano hamburská produkce
 
-216
+226
 0:11:11,200 --> 0:11:15,000
 specifických filmu je známá různými
 
-217
+227
 0:11:15,000 --> 0:11:16,899
 ikonickými výroky A tenhle ten se
 
-218
+228
 0:11:16,899 --> 0:11:20,299
 zapsal jakožto takové uvození z
 
-219
+229
 0:11:20,299 --> 0:11:22,700
 analytického postupu zahrnující to že
 
-220
+230
 0:11:22,700 --> 0:11:25,600
 ano přijde mám instalatér A nabídne že
 
-221
+231
 0:11:25,600 --> 0:11:27,799
 vám protáhne trubky z nějakého důvodu
 
-222
+232
 0:11:27,799 --> 0:11:30,299
 je oblečen pouze v montérkách A z
 
-223
+233
 0:11:30,299 --> 0:11:32,399
 nějakého důvodu mu paní otvírá pouze ve
 
-224
+234
 0:11:32,399 --> 0:11:34,299
 spodním prádle A z nějakého důvodu se
 
-225
+235
 0:11:34,299 --> 0:11:36,399
 oba bavit o platbě za pro tažení trubek
 
-226
+236
 0:11:36,399 --> 0:11:38,000
 Ale co se stalo mezi tím nebudeme
 
-227
+237
 0:11:38,000 --> 0:11:39,700
 rozebírat tobě to nepřísluší této
 
-228
+238
 0:11:39,700 --> 0:11:42,000
 hodině tak já jsem tam použil jako
 
-229
+239
 0:11:42,000 --> 0:11:45,500
 dnešní obrázek nepadnou Kill La Kill
 
-230
+240
 0:11:45,500 --> 0:11:47,799
 protože neonové bradavky myslím že
 
-231
+241
 0:11:47,799 --> 0:11:50,000
 tohle to jasně jasně uvozují A co se
 
-232
+242
 0:11:50,000 --> 0:11:51,500
 může dít dál nechám na vaší fantazii
 
-233
-0:11:51,500 --> 0:11:55,799
-další Slide ovšem tahle ten postup není
+243
+0:11:51,500 --> 0:11:55,500
+další Slide ovšem tahle ten postup
 
-234
-0:11:55,799 --> 0:11:59,899
-zas tak mladý on se paradoxně objevuje
+244
+0:11:55,500 --> 0:11:58,299
+není zas tak mladý on se paradoxně
 
-235
-0:11:59,899 --> 0:12:02,000
-poprvé nějak jako zaznamenatelné už
+245
+0:11:58,299 --> 0:12:01,000
+objevuje poprvé nějak jako
 
-236
-0:12:02,000 --> 0:12:04,500
-vlastně v červené knihovně 18 století
+246
+0:12:01,000 --> 0:12:03,200
+zaznamenatelné už vlastně v červené
 
-237
+247
+0:12:03,200 --> 0:12:04,500
+knihovně 18 století
+
+248
 0:12:05,299 --> 0:12:09,000
 A to proto že je to jenom taková
 
-238
+249
 0:12:09,000 --> 0:12:10,899
 vulgárnější metoda
 
-239
-0:12:12,100 --> 0:12:16,200
-okatého pozvání kdy jedna strana dává
+250
+0:12:12,100 --> 0:12:15,799
+okatého pozvání kdy jedna strana
 
-240
-0:12:16,200 --> 0:12:20,600
-druhé šanci přijít k ní na mě že to
+251
+0:12:15,799 --> 0:12:19,700
+dává druhé šanci přijít k ní na
 
-241
-0:12:20,600 --> 0:12:23,299
-bylo večerní zdvořilou konverzaci
+252
+0:12:19,700 --> 0:12:22,700
+mě že to bylo večerní zdvořilou
 
-242
+253
+0:12:22,700 --> 0:12:23,299
+konverzaci
+
+254
 0:12:24,500 --> 0:12:27,399
 a druhá strana tedy toho nějaké to jsem
 
-243
+255
 0:12:27,399 --> 0:12:29,799
 využije přičemž platí krásné pravidlo
 
-244
+256
 0:12:29,799 --> 0:12:30,399
 další Slide
 
-245
+257
 0:12:31,600 --> 0:12:34,299
 Míra absurdnosti je i mírovka tosti
 
-246
+258
 0:12:34,299 --> 0:12:36,899
 aneb ano Pokud vám přijde Helmut je
 
-247
+259
 0:12:36,899 --> 0:12:40,399
 vcelku Jasné co se bude dít na druhou
 
-248
+260
 0:12:40,399 --> 0:12:42,399
 stranu Pokud by jste četli tu černou
 
-249
+261
 0:12:42,399 --> 0:12:45,500
 knihovnu 18 století tak se dostanete k
 
-250
+262
 0:12:45,500 --> 0:12:48,500
 takovým těm obligátní Vietnam že sličný
 
-251
+263
 0:12:48,500 --> 0:12:52,399
 Pierre se vyhoupl do okna spanilé
 
-252
+264
 0:12:52,399 --> 0:12:55,500
 Lissandra to protože ho zapomněla
 
-253
+265
 0:12:55,500 --> 0:12:58,100
 náhodou zavřít a okenice ani nevrazila
 
-254
+266
 0:12:58,100 --> 0:12:59,600
 protože dívka strávila celé dopoledne
 
-255
+267
 0:12:59,600 --> 0:13:01,500
 ji mazání aby to neprobudil panímámo
 
-256
-0:13:01,500 --> 0:13:07,200
-Takže tímhle tím způsobem je to je to
-
-257
-0:13:07,200 --> 0:13:10,000
-pro jeho pozvání k podobným aktivitám
-
-258
-0:13:10,000 --> 0:13:12,899
-polštářové pěkně bude používat nejen
-
-259
-0:13:12,899 --> 0:13:15,899
-eufemismus a je opravdu jenom na vás
-
-260
-0:13:15,899 --> 0:13:18,600
-jak to zvládnete Já bych u toho další
-
-261
-0:13:18,600 --> 0:13:22,200
-Slide bych vypíchl ještě právě co se
-
-262
-0:13:22,200 --> 0:13:24,000
-francouzské literatury speciální týče
-
-263
-0:13:24,000 --> 0:13:24,799
-facku
-
-264
-0:13:25,600 --> 0:13:31,100
-protože facka je podobným způsobem
-
-265
-0:13:31,100 --> 0:13:36,799
-vnímána je ten známý
-
-266
-0:13:36,799 --> 0:13:42,299
-vtip kdy Francouzská šlechtična při
-
-267
-0:13:42,299 --> 0:13:44,799
-koupeli je tedy obsluhována svým
-
 268
-0:13:44,799 --> 0:13:47,000
-komorníkem a ten to nevydrží a tak
+0:13:01,500 --> 0:13:04,500
+Takže tímhle tím způsobem
 
 269
-0:13:47,000 --> 0:13:50,500
-říkajíc přistoupí k ní jako muž k ženě
+0:13:04,500 --> 0:13:08,200
+je to je to pro jeho pozvání
 
 270
-0:13:50,500 --> 0:13:53,899
-ona se otočí vracím a co to mělo být
+0:13:08,200 --> 0:13:12,200
+k podobným aktivitám polštářové pěkně
 
 271
-0:13:53,899 --> 0:13:57,399
-Promiňte má paní mámo Ty do To ne ale
+0:13:12,200 --> 0:13:15,299
+bude používat nejen eufemismus a je
 
 272
-0:13:57,399 --> 0:13:57,899
-co to mělo být
+0:13:15,299 --> 0:13:16,799
+opravdu jenom na vás jak to zvládnete
 
 273
+0:13:16,799 --> 0:13:19,600
+Já bych u toho další Slide bych
+
+274
+0:13:19,600 --> 0:13:22,700
+vypíchl ještě právě co se francouzské
+
+275
+0:13:22,700 --> 0:13:24,799
+literatury speciální týče facku
+
+276
+0:13:25,600 --> 0:13:28,500
+protože facka je
+
+277
+0:13:28,500 --> 0:13:31,100
+podobným způsobem
+
+278
+0:13:31,100 --> 0:13:32,899
+vnímána je
+
+279
+0:13:32,899 --> 0:13:36,799
+ten známý
+
+280
+0:13:36,799 --> 0:13:39,500
+vtip kdy Francouzská šlechtična
+
+281
+0:13:39,500 --> 0:13:42,899
+při koupeli
+
+282
+0:13:42,899 --> 0:13:45,399
+je tedy obsluhována svým komorníkem a
+
+283
+0:13:45,399 --> 0:13:49,399
+ten to nevydrží a tak říkajíc přistoupí
+
+284
+0:13:49,399 --> 0:13:51,799
+k ní jako muž k ženě ona se otočí
+
+285
+0:13:51,799 --> 0:13:55,299
+vracím a co to mělo být Promiňte má
+
+286
+0:13:55,299 --> 0:13:57,700
+paní mámo Ty do To ne ale co to mělo
+
+287
+0:13:57,700 --> 0:13:57,899
+být
+
+288
 0:13:59,399 --> 0:14:03,299
 Takže tímhle tím způsobem a facka je
 
-274
-0:14:03,299 --> 0:14:08,799
-mnohdy to je chápána jakožto způsob jak
-
-275
-0:14:08,799 --> 0:14:10,299
-vyjádřit náklonnost nebo dokonce
-
-276
-0:14:10,299 --> 0:14:13,100
-pozvání polštářové bitvy pharella
-
-277
-0:14:13,100 --> 0:14:15,100
-saněmi je jasná dostaneme se k ní pak
-
-278
-0:14:15,100 --> 0:14:17,100
-hlouběji V pozdější části přednášky
-
-279
-0:14:17,100 --> 0:14:22,500
-další Slide Ano teď vás budou poslední
-
-280
-0:14:22,500 --> 0:14:25,100
-velmi častý narativní postupy tedy budu
-
-281
-0:14:25,100 --> 0:14:28,799
-zmiňovat mi byl pokřtěn takovým
-
-282
-0:14:28,799 --> 0:14:32,299
-speciálním způsobem osobou kterou
-
-283
-0:14:32,299 --> 0:14:34,799
-můžete potkat tady na animefestu taktéž
-
-284
-0:14:34,799 --> 0:14:38,299
-mi nedovolila abych jmenoval a řeknu
-
-285
-0:14:38,299 --> 0:14:40,600
-vám že to slovo mě když s tou dobou
-
-286
-0:14:40,600 --> 0:14:43,399
-budilo z nočních můr Takže vy kteří se
-
-287
-0:14:43,399 --> 0:14:46,799
-bojíte toho co se teď na vás Řekni mi
-
-288
-0:14:46,799 --> 0:14:50,399
-uvrhne tak prosím vás Zahrajte si na
-
 289
-0:14:50,399 --> 0:14:52,899
-tři hinduistické opičky zacpěte si uši
+0:14:03,299 --> 0:14:07,299
+mnohdy to je chápána jakožto
 
 290
+0:14:07,299 --> 0:14:10,100
+způsob jak vyjádřit náklonnost nebo
+
+291
+0:14:10,100 --> 0:14:11,399
+dokonce pozvání polštářové bitvy
+
+292
+0:14:11,399 --> 0:14:14,799
+pharella saněmi je jasná dostaneme se k
+
+293
+0:14:14,799 --> 0:14:16,799
+ní pak hlouběji V pozdější části
+
+294
+0:14:16,799 --> 0:14:20,799
+přednášky další Slide Ano teď vás budou
+
+295
+0:14:20,799 --> 0:14:24,600
+poslední velmi častý narativní postupy
+
+296
+0:14:24,600 --> 0:14:28,399
+tedy budu zmiňovat mi byl pokřtěn
+
+297
+0:14:28,399 --> 0:14:32,000
+takovým speciálním způsobem osobou
+
+298
+0:14:32,000 --> 0:14:34,500
+kterou můžete potkat tady na animefestu
+
+299
+0:14:34,500 --> 0:14:36,600
+taktéž mi nedovolila abych jmenoval a
+
+300
+0:14:36,600 --> 0:14:40,500
+řeknu vám že to slovo mě když s tou
+
+301
+0:14:40,500 --> 0:14:42,600
+dobou budilo z nočních můr Takže vy
+
+302
+0:14:42,600 --> 0:14:45,000
+kteří se bojíte toho co se teď na vás
+
+303
+0:14:45,000 --> 0:14:48,299
+Řekni mi uvrhne tak
+
+304
+0:14:48,299 --> 0:14:50,700
+prosím vás Zahrajte si na tři
+
+305
+0:14:50,700 --> 0:14:52,899
+hinduistické opičky zacpěte si uši
+
+306
 0:14:52,899 --> 0:14:56,000
 Zavřete oči a nemluvte takže nevidíte
 
-291
+307
 0:14:56,000 --> 0:14:59,000
 zlo neslyším zlo a nemluvíte ozvu My
 
-292
+308
 0:14:59,000 --> 0:14:59,200
 ostatní
 
-293
+309
 0:14:59,399 --> 0:15:01,000
 Vy už jste se Vrhli nebo Věříte své
 
-294
-0:15:01,000 --> 0:15:05,200
-opilosti máte možnost protože to o čem
+310
+0:15:01,000 --> 0:15:04,799
+opilosti máte možnost protože to o
 
-295
-0:15:05,200 --> 0:15:08,600
-se teď budeme bavit mi tato osoba
+311
+0:15:04,799 --> 0:15:08,600
+čem se teď budeme bavit mi tato osoba
 
-296
+312
 0:15:08,600 --> 0:15:10,500
 pokřtila jako další Slide
 
-297
+313
 0:15:13,000 --> 0:15:13,700
  řepíček
 
-298
+314
 0:15:15,899 --> 0:15:19,299
 Ano váš slovník byl obohacen o pohádce
 
-299
+315
 0:15:19,299 --> 0:15:21,200
 slovem které asi to někde chtěli znát
 
-300
-0:15:21,200 --> 0:15:26,299
-ale prosím z nějakého důvodu to má být
+316
+0:15:21,200 --> 0:15:25,200
+ale prosím z nějakého důvodu
 
-301
-0:15:26,299 --> 0:15:30,000
-prý strašně roztomilá podobně Já osobně
+317
+0:15:25,200 --> 0:15:28,600
+to má být prý strašně roztomilá podobně
 
-302
-0:15:30,000 --> 0:15:35,000
-tedy nevím co přesněji co přesně by na
+318
+0:15:28,600 --> 0:15:30,600
+Já osobně tedy
 
-303
-0:15:35,000 --> 0:15:36,299
-tom roztomilého být mělo ale
+319
+0:15:30,600 --> 0:15:34,299
+nevím co přesněji co
 
-304
-0:15:36,299 --> 0:15:39,899
-scenáristicky tento postup existuje je
+320
+0:15:34,299 --> 0:15:36,000
+přesně by na tom roztomilého být mělo
 
-305
-0:15:39,899 --> 0:15:44,399
-velmi široce užíván a paradoxně má
+321
+0:15:36,000 --> 0:15:39,700
+ale scenáristicky tento postup existuje
 
-306
-0:15:44,399 --> 0:15:46,799
-oporu v klasické literatuře
+322
+0:15:39,700 --> 0:15:42,100
+je velmi široce užíván a
 
-307
+323
+0:15:42,100 --> 0:15:45,399
+paradoxně má oporu v
+
+324
+0:15:45,399 --> 0:15:46,799
+klasické literatuře
+
+325
 0:15:48,100 --> 0:15:50,000
  tak další Slide
 
-308
-0:15:51,200 --> 0:15:57,000
-Ano vychází totiž z práce
+326
+0:15:51,200 --> 0:15:54,600
+Ano vychází totiž z
 
-309
-0:15:57,000 --> 0:16:00,200
-Markíza 10 a jeho dehonestace vlastně
+327
+0:15:54,600 --> 0:15:57,899
+práce Markíza 10 a
 
-310
-0:16:00,200 --> 0:16:03,399
-dohodnutých sňatku pokud někdo z vás
+328
+0:15:57,899 --> 0:16:00,799
+jeho dehonestace vlastně dohodnutých
 
-311
-0:16:03,399 --> 0:16:06,700
-jeho knihy nebo povídky spíše četl tak
+329
+0:16:00,799 --> 0:16:04,500
+sňatku pokud někdo z vás jeho knihy
 
-312
-0:16:06,700 --> 0:16:11,799
-byl přizván k slimani osudu o pět
+330
+0:16:04,500 --> 0:16:06,700
+nebo povídky spíše četl tak
 
-313
-0:16:11,799 --> 0:16:13,600
-nevinných dívek které jejich dohodnutí
+331
+0:16:06,700 --> 0:16:10,700
+byl přizván k
 
-314
-0:16:13,600 --> 0:16:16,500
-manžel a záhy poté co si tedy odvedli
+332
+0:16:10,700 --> 0:16:12,399
+slimani osudu o pět nevinných dívek
 
-315
-0:16:16,500 --> 0:16:20,000
-domů za pět let do toho jaké to je být
+333
+0:16:12,399 --> 0:16:14,700
+které jejich dohodnutí manžel a záhy
 
-316
-0:16:20,000 --> 0:16:22,299
-ženou je myslím že ten literární obrat
+334
+0:16:14,700 --> 0:16:18,700
+poté co si tedy odvedli domů za pět let
 
-317
-0:16:22,299 --> 0:16:26,100
-A tyto dívky postupně poznávají že
+335
+0:16:18,700 --> 0:16:20,700
+do toho jaké to je být ženou je myslím
 
-318
-0:16:26,100 --> 0:16:29,700
-vlastně se jim být ženou vlastně líbí a
+336
+0:16:20,700 --> 0:16:24,399
+že ten literární obrat A tyto dívky
 
-319
-0:16:29,700 --> 0:16:33,899
-celkově se pak nějakým svým způsobem do
+337
+0:16:24,399 --> 0:16:28,200
+postupně poznávají že vlastně se jim
 
-320
-0:16:33,899 --> 0:16:36,799
-svých útočníků řekněme zamilovávají
+338
+0:16:28,200 --> 0:16:32,000
+být ženou vlastně líbí a celkově se pak
 
-321
-0:16:36,799 --> 0:16:40,700
-Stockholmský syndrom hadr a tak dále Ti
+339
+0:16:32,000 --> 0:16:35,700
+nějakým svým způsobem do svých útočníků
 
-322
-0:16:40,700 --> 0:16:44,799
-z vás kteří viděli nějaké to Hentai Ano
+340
+0:16:35,700 --> 0:16:37,799
+řekněme zamilovávají Stockholmský
 
-323
+341
+0:16:37,799 --> 0:16:41,200
+syndrom hadr a tak dále Ti z vás kteří
+
+342
+0:16:41,200 --> 0:16:44,799
+viděli nějaké to Hentai Ano
+
+343
 0:16:44,799 --> 0:16:48,500
 typický Troup co se týče navození
 
-324
+344
 0:16:48,500 --> 0:16:50,399
 romantického
 
-325
-0:16:51,200 --> 0:16:57,100
-tahu mezi protagonisty pokud se snad
+345
+0:16:51,200 --> 0:16:53,500
+tahu mezi protagonisty
 
-326
-0:16:57,100 --> 0:16:58,600
-někdo z vás o to po tomhle tom trochu
+346
+0:16:53,500 --> 0:16:57,500
+pokud se snad někdo z vás
 
-327
-0:16:58,600 --> 0:17:00,000
-bude chtít bavit nějakou já vysokou
+347
+0:16:57,500 --> 0:16:59,100
+o to po tomhle tom trochu bude chtít
 
-328
-0:17:00,000 --> 0:17:02,399
-prosím opatrně Oni jsou opravdu do krve
+348
+0:16:59,100 --> 0:17:00,899
+bavit nějakou já vysokou prosím opatrně
 
-329
-0:17:02,399 --> 0:17:05,599
-schopné se vám hádat o tom že to že je
+349
+0:17:00,899 --> 0:17:03,200
+Oni jsou opravdu do krve schopné se vám
 
-330
-0:17:05,599 --> 0:17:08,500
-ten druhý nechtěl a to že je tím zničen
+350
+0:17:03,200 --> 0:17:05,900
+hádat o tom že to že je ten druhý
 
-331
-0:17:08,500 --> 0:17:10,599
-a že je vlastně zlomená je pošlapáno
+351
+0:17:05,900 --> 0:17:09,000
+nechtěl a to že je tím zničen a že je
 
-332
-0:17:10,599 --> 0:17:13,000
-jeho Ego že vlastně důkazem lásky a ať
+352
+0:17:09,000 --> 0:17:11,000
+vlastně zlomená je pošlapáno jeho Ego
 
-333
-0:17:13,000 --> 0:17:16,000
-je dva se hluboce miluji takže opravdu
+353
+0:17:11,000 --> 0:17:13,400
+že vlastně důkazem lásky a ať je dva se
 
-334
+354
+0:17:13,400 --> 0:17:16,000
+hluboce miluji takže opravdu
+
+355
 0:17:16,000 --> 0:17:20,000
 není to debata která vynesla nějaké to
 
-335
+356
 0:17:20,000 --> 0:17:23,299
 ovoce Jdeme dál
 
-336
-0:17:24,099 --> 0:17:28,799
-Ano dominuje a Hentai co se tady toho
+357
+0:17:24,099 --> 0:17:27,400
+Ano dominuje a Hentai
 
-337
-0:17:28,799 --> 0:17:30,900
-týče Byl jsem tím trošku překvapen ale
+358
+0:17:27,400 --> 0:17:29,799
+co se tady toho týče Byl jsem tím
 
-338
-0:17:30,900 --> 0:17:36,200
-právě spousta 10 zápletek řekni mi to
+359
+0:17:29,799 --> 0:17:33,200
+trošku překvapen ale právě spousta 10
 
-339
-0:17:36,200 --> 0:17:39,799
-tak to si našla cestu do regulérní
+360
+0:17:33,200 --> 0:17:36,400
+zápletek řekni mi to tak to
 
-340
+361
+0:17:36,400 --> 0:17:39,799
+si našla cestu do regulérní
+
+362
 0:17:39,799 --> 0:17:42,599
 romantické literatury určené převážně
 
-341
+363
 0:17:42,599 --> 0:17:43,700
 pro dívky a ženy
 
-342
+364
 0:17:45,099 --> 0:17:47,099
  dám další Slide
 
-343
+365
 0:17:48,900 --> 0:17:49,400
  ano
 
-344
-0:17:50,400 --> 0:17:55,099
-tak zvané romantické znásilnění Pokud
+366
+0:17:50,400 --> 0:17:53,200
+tak zvané romantické znásilnění
 
-345
-0:17:55,099 --> 0:17:58,200
-je někdo z vás četl libovolnou mango ve
+367
+0:17:53,200 --> 0:17:56,700
+Pokud je někdo z vás četl libovolnou
 
-346
-0:17:58,200 --> 0:18:01,000
-kterém pokud možno Piš jak poleno
+368
+0:17:56,700 --> 0:18:00,599
+mango ve kterém pokud možno Piš jak
 
-347
-0:18:01,000 --> 0:18:05,500
-subtilní dívku unese a následně jí jak
+369
+0:18:00,599 --> 0:18:04,400
+poleno subtilní dívku unese a
 
-348
-0:18:05,500 --> 0:18:07,099
-jsme se tu bavili vysvětlí Jaké je to
+370
+0:18:04,400 --> 0:18:05,900
+následně jí jak jsme se tu bavili
 
-349
-0:18:07,099 --> 0:18:10,700
-být ženou a ona mu pak propadne protože
+371
+0:18:05,900 --> 0:18:09,700
+vysvětlí Jaké je to být ženou a ona mu
 
-350
-0:18:10,700 --> 0:18:12,799
-přes tak úžasně sexy a je tak skvělý
+372
+0:18:09,700 --> 0:18:11,500
+pak propadne protože přes tak úžasně
 
-351
-0:18:12,799 --> 0:18:14,799
-protože jí unesl a vysvětli jak je to
+373
+0:18:11,500 --> 0:18:13,799
+sexy a je tak skvělý protože jí unesl a
 
-352
-0:18:14,799 --> 0:18:19,900
-píše No tak tento postup je opravdu
+374
+0:18:13,799 --> 0:18:15,900
+vysvětli jak je to píše No tak
 
-353
-0:18:19,900 --> 0:18:24,500
-hodně rozšířen u vozu takhle obrázek je
+375
+0:18:15,900 --> 0:18:19,900
+tento postup je opravdu
 
-354
-0:18:24,500 --> 0:18:28,700
-z mangy Akuma na Eros kterážto patří
+376
+0:18:19,900 --> 0:18:22,700
+hodně rozšířen u vozu takhle
 
-355
-0:18:28,700 --> 0:18:31,099
-pod jednu matku která v podstatě v
+377
+0:18:22,700 --> 0:18:25,700
+obrázek je z mangy Akuma na Eros
 
-356
-0:18:31,099 --> 0:18:34,700
-každé své práci má takhle tuto větu
+378
+0:18:25,700 --> 0:18:29,299
+kterážto patří pod
 
-357
-0:18:34,700 --> 0:18:36,700
-zápletku jak ten vztah mezi hlavní
+379
+0:18:29,299 --> 0:18:31,200
+jednu matku která v podstatě v každé
 
-358
+380
+0:18:31,200 --> 0:18:35,200
+své práci má takhle tuto větu zápletku
+
+381
+0:18:35,200 --> 0:18:36,700
+jak ten vztah mezi hlavní
+
+382
 0:18:36,700 --> 0:18:40,599
 protagonistkou a hrdinou vznikl co víc
 
-359
+383
 0:18:40,599 --> 0:18:44,000
 získala obrovské ocenění za a syn a
 
-360
-0:18:44,000 --> 0:18:49,200
-hnus nejhorší romantickou a mango
+384
+0:18:44,000 --> 0:18:46,200
+hnus nejhorší
 
-361
+385
+0:18:46,200 --> 0:18:49,200
+romantickou a mango
+
+386
 0:18:50,299 --> 0:18:52,000
 kterou jsem kdy četl ve které toto i
 
-362
+387
 0:18:52,000 --> 0:18:54,500
 otočila to znamená Byl to ten subtilní
 
-363
+388
 0:18:54,500 --> 0:18:57,900
 chlapec a ta řekněme trošku více
 
-364
+389
 0:18:57,900 --> 0:19:01,799
 agresivní vystupující dívka další Slide
 
-365
-0:19:01,799 --> 0:19:06,599
-Ano jmenuje se vším co mají v pořádku
+390
+0:19:01,799 --> 0:19:05,099
+Ano jmenuje se vším co mají v
 
-366
-0:19:06,599 --> 0:19:07,900
-nikdo tady nevytahuje telefonem by se
+391
+0:19:05,099 --> 0:19:07,700
+pořádku nikdo tady nevytahuje telefonem
 
-367
-0:19:07,900 --> 0:19:10,299
-to jméno poznamenal takže asi bude
+392
+0:19:07,700 --> 0:19:10,099
+by se to jméno poznamenal takže asi
 
-368
-0:19:10,299 --> 0:19:12,000
-doufat že ten záznam se pak někde
+393
+0:19:10,099 --> 0:19:12,000
+bude doufat že ten záznam se pak někde
 
-369
-0:19:12,000 --> 0:19:16,900
-objeví v pořádku Je to vaše volba chápu
+394
+0:19:12,000 --> 0:19:14,200
+objeví v pořádku Je to vaše volba
 
-370
-0:19:16,900 --> 0:19:16,900
-že
+395
+0:19:14,200 --> 0:19:16,900
+chápu že
 
-371
+396
 0:19:19,299 --> 0:19:21,799
 ne nechápu že se to některým dívkám
 
-372
+397
 0:19:21,799 --> 0:19:25,200
 může líbit a chápe vidět že tam vidět
 
-373
+398
 0:19:25,200 --> 0:19:27,099
 romantiku ale je to opravdu velmi
 
-374
+399
 0:19:27,099 --> 0:19:30,799
 populární co se tady toho týče stačí i
 
-375
+400
 0:19:30,799 --> 0:19:32,900
 tvorba různých románu třeba v rámci
 
-376
-0:19:32,900 --> 0:19:38,099
-Japonska oblíbený je tuším že ono se to
+401
+0:19:32,900 --> 0:19:36,000
+Japonska oblíbený je tuším že
 
-377
-0:19:38,099 --> 0:19:42,299
-jmenovalo byl tam nějaký zbohatlické
+402
+0:19:36,000 --> 0:19:39,900
+ono se to jmenovalo byl tam nějaký
 
-378
-0:19:42,299 --> 0:19:46,700
-parchanta Nekonečná láska jak to nějak
+403
+0:19:39,900 --> 0:19:43,799
+zbohatlické parchanta
 
-379
-0:19:46,700 --> 0:19:49,000
-tak bys kombinované dohromady který se
+404
+0:19:43,799 --> 0:19:46,900
+Nekonečná láska jak to nějak tak bys
 
-380
-0:19:49,000 --> 0:19:52,099
-zabývá tím že velmi bohatý mladý
+405
+0:19:46,900 --> 0:19:49,400
+kombinované dohromady který se zabývá
 
-381
-0:19:52,099 --> 0:19:54,299
-Chlapec se baví tím že si na nos
+406
+0:19:49,400 --> 0:19:52,799
+tím že velmi bohatý mladý Chlapec se
 
-382
-0:19:54,299 --> 0:19:56,799
-vyhlédne dívku tu odvleče do Boha do
+407
+0:19:52,799 --> 0:19:55,400
+baví tím že si na nos vyhlédne dívku tu
 
-383
-0:19:56,799 --> 0:19:59,200
-královské apartmá tam si sní celou noc
+408
+0:19:55,400 --> 0:19:57,900
+odvleče do Boha do královské apartmá
 
-384
-0:19:59,200 --> 0:20:01,799
-užívá a následně odejde a na dívku
+409
+0:19:57,900 --> 0:20:00,599
+tam si sní celou noc užívá a následně
 
-385
-0:20:01,799 --> 0:20:02,400
-zapomene
+410
+0:20:00,599 --> 0:20:02,400
+odejde a na dívku zapomene
 
-386
+411
 0:20:03,299 --> 0:20:06,000
 z nějakého důvodu se samozřejmě stane
 
-387
+412
 0:20:06,000 --> 0:20:07,500
 to že jakmile se mu do cesty připlete
 
-388
+413
 0:20:07,500 --> 0:20:10,400
 Hlavní protagonistka těchto románu a že
 
-389
+414
 0:20:10,400 --> 0:20:13,000
 je odvezena do pokoje je s ní provedeno
 
-390
+415
 0:20:13,000 --> 0:20:14,599
 to co s nimi bývá abych na provedenou
 
-391
+416
 0:20:14,599 --> 0:20:18,000
 ráno odjíždím a ona pokoji zůstává čeká
 
-392
+417
 0:20:18,000 --> 0:20:20,599
 na něj a čeká na ně každou noc a on se
 
-393
+418
 0:20:20,599 --> 0:20:22,400
 pravidelně vrací a takhle nějakým
 
-394
+419
 0:20:22,400 --> 0:20:25,000
 způsobem spolu začínají milostně tedy
 
-395
-0:20:25,000 --> 0:20:29,500
-interagovat osobně nechápu jednání to
+420
+0:20:25,000 --> 0:20:28,500
+interagovat osobně nechápu
 
-396
-0:20:29,500 --> 0:20:31,200
-je ti v kinech a v úplně jednání toho
+421
+0:20:28,500 --> 0:20:30,599
+jednání to je ti v kinech a v úplně
 
-397
-0:20:31,200 --> 0:20:33,799
-chlapce ale kde jsem to jsem já abych
+422
+0:20:30,599 --> 0:20:33,400
+jednání toho chlapce ale kde jsem to
 
-398
-0:20:33,799 --> 0:20:37,799
-soudil 2 miliony prodaných výtisků ten
+423
+0:20:33,400 --> 0:20:35,900
+jsem já abych soudil 2 miliony
 
-399
-0:20:37,799 --> 0:20:40,799
-Vlastně vydání knihy samo za sebe Takže
+424
+0:20:35,900 --> 0:20:38,799
+prodaných výtisků ten Vlastně vydání
 
-400
-0:20:40,799 --> 0:20:44,200
-v tomhle ohledu nevím co japonské dámy
+425
+0:20:38,799 --> 0:20:41,599
+knihy samo za sebe Takže v tomhle
 
-401
-0:20:44,200 --> 0:20:46,700
-na druhou stranu evropanky a pan Grey
+426
+0:20:41,599 --> 0:20:44,900
+ohledu nevím co japonské dámy na druhou
 
-402
-0:20:46,700 --> 0:20:48,799
-No nevím jestli máme právo je
+427
+0:20:44,900 --> 0:20:47,400
+stranu evropanky a pan Grey No nevím
 
-403
-0:20:48,799 --> 0:20:54,200
-kritizovat ale je to prý romantika je
+428
+0:20:47,400 --> 0:20:50,900
+jestli máme právo je kritizovat ale
 
-404
-0:20:54,200 --> 0:20:56,700
-tam nějaké to vytržení je tam nějaké to
+429
+0:20:50,900 --> 0:20:54,700
+je to prý romantika je tam nějaké
 
-405
+430
+0:20:54,700 --> 0:20:56,700
+to vytržení je tam nějaké to
+
+431
 0:20:57,900 --> 0:21:00,500
 nečekané překvapení ať už v rámci
 
-406
+432
 0:21:00,500 --> 0:21:02,200
 nepochopení logiky jednání charakteru
 
-407
+433
 0:21:02,200 --> 0:21:05,500
 nebo jiných věcí ale Bavme se o tom je
 
-408
+434
 0:21:05,500 --> 0:21:07,700
 to tedy jakýsi taky jak jakýs takýs
 
-409
+435
 0:21:07,700 --> 0:21:10,599
 regulérní analytický postup v rámci pro
 
-410
-0:21:10,599 --> 0:21:15,400
-romantiky tak tím máme tu zvrhlou část
+436
+0:21:10,599 --> 0:21:14,400
+romantiky tak tím máme tu
 
-411
-0:21:15,400 --> 0:21:18,200
-za námi Což znamená že teď přijde nuda
+437
+0:21:14,400 --> 0:21:17,700
+zvrhlou část za námi Což znamená že teď
 
-412
-0:21:18,200 --> 0:21:20,299
-Kdo z vás se může odejít Pokud ne tak
+438
+0:21:17,700 --> 0:21:19,500
+přijde nuda Kdo z vás se může odejít
 
-413
-0:21:20,299 --> 0:21:24,099
-nás čeká další sál Romantica chutná
+439
+0:21:19,500 --> 0:21:21,700
+Pokud ne tak nás čeká další sál
 
-414
-0:21:25,200 --> 0:21:29,799
-ilustrační obrázek asi tušíte že první
+440
+0:21:21,700 --> 0:21:24,099
+Romantica chutná
 
-415
-0:21:29,799 --> 0:21:33,599
-Po čem sáhneme další Slide je odvěká
+441
+0:21:25,200 --> 0:21:28,900
+ilustrační obrázek asi tušíte že
 
-416
-0:21:33,599 --> 0:21:35,799
-pravda láska prochází žaludkem
+442
+0:21:28,900 --> 0:21:32,400
+první Po čem sáhneme další Slide
 
-417
+443
+0:21:32,400 --> 0:21:35,400
+je odvěká pravda láska prochází
+
+444
+0:21:35,400 --> 0:21:35,799
+žaludkem
+
+445
 0:21:37,099 --> 0:21:40,299
 v rámci anime rýže dívčí věc protože
 
-418
+446
 0:21:40,299 --> 0:21:42,700
 pokud snad vaří chlapec tak to znamená
 
-419
-0:21:42,700 --> 0:21:47,400
-že má body řekněme k jeho využitelnosti
+447
+0:21:42,700 --> 0:21:46,599
+že má body řekněme k jeho
 
-420
-0:21:47,400 --> 0:21:50,599
-navíc ale v základu moto nepřidá žádnou
+448
+0:21:46,599 --> 0:21:49,599
+využitelnosti navíc ale v základu moto
 
-421
-0:21:50,599 --> 0:21:53,400
-možnost jak oslnit dívku svého srdce
+449
+0:21:49,599 --> 0:21:53,000
+nepřidá žádnou možnost jak oslnit dívku
 
-422
-0:21:53,400 --> 0:21:56,700
-dokonce ani s tituly které se opravdu
+450
+0:21:53,000 --> 0:21:56,200
+svého srdce dokonce ani s tituly které
 
-423
-0:21:56,700 --> 0:21:59,599
-zaměřují na vaření tak Nevěřím tomu že
+451
+0:21:56,200 --> 0:21:58,299
+se opravdu zaměřují na vaření tak
 
-424
-0:21:59,599 --> 0:22:02,400
-do komise Díky koleni zamilovávají
+452
+0:21:58,299 --> 0:22:01,799
+Nevěřím tomu že do komise Díky koleni
 
-425
-0:22:02,400 --> 0:22:05,200
-protože tak skvěle vaří stejně tak
+453
+0:22:01,799 --> 0:22:03,400
+zamilovávají protože tak skvěle vaří
 
-426
-0:22:05,200 --> 0:22:07,900
-Nevěřím tomu že autokey různé hodinu se
+454
+0:22:03,400 --> 0:22:07,000
+stejně tak Nevěřím tomu že autokey
 
-427
-0:22:07,900 --> 0:22:09,900
-zamilovávají do jeho jsem pak teď na
+455
+0:22:07,000 --> 0:22:08,900
+různé hodinu se zamilovávají do jeho
 
-428
-0:22:09,900 --> 0:22:12,299
-sebe a big nosí jenom apron protože
+456
+0:22:08,900 --> 0:22:10,700
+jsem pak teď na sebe a big nosí jenom
 
-429
-0:22:12,299 --> 0:22:14,599
-taky skvěle Takže v tomhle ohledu
+457
+0:22:10,700 --> 0:22:14,200
+apron protože taky skvěle Takže v
 
-430
-0:22:14,599 --> 0:22:18,200
-klučičí vaření nemá romantický
+458
+0:22:14,200 --> 0:22:17,599
+tomhle ohledu klučičí vaření nemá
 
-431
-0:22:18,200 --> 0:22:21,000
-potenciál to dívčí Ano je tam ale jedno
+459
+0:22:17,599 --> 0:22:20,400
+romantický potenciál to dívčí Ano je
 
-432
-0:22:21,000 --> 0:22:22,900
-velké ale další Slide
+460
+0:22:20,400 --> 0:22:22,900
+tam ale jedno velké ale další Slide
 
-433
-0:22:23,599 --> 0:22:27,700
-jde o to že čím hůře se dívka vede tím
+461
+0:22:23,599 --> 0:22:26,799
+jde o to že čím hůře se dívka vede
 
-434
-0:22:27,700 --> 0:22:30,700
-větší šanci na úspěch u daného chlapcem
+462
+0:22:26,799 --> 0:22:30,099
+tím větší šanci na úspěch u daného
 
-435
-0:22:30,700 --> 0:22:32,500
-a protože opravdu není nic
+463
+0:22:30,099 --> 0:22:32,500
+chlapcem a protože opravdu není nic
 
-436
+464
 0:22:32,500 --> 0:22:34,700
 romantičtějšího než když když by ses
 
-437
+465
 0:22:34,700 --> 0:22:37,000
 víte na zemi bolesti v rámci záchvatu
 
-438
+466
 0:22:37,000 --> 0:22:40,000
 otravy žaludku a dívka na 2 mi steaky
 
-439
+467
 0:22:41,700 --> 0:22:44,099
  je tak úžasné a miluje mě
 
-440
+468
 0:22:45,200 --> 0:22:47,099
 ano asi miluje protože jestli je tam
 
-441
+469
 0:22:47,099 --> 0:22:49,599
 jediná Tak vlastně můžu můžete jenom vy
 
-442
+470
 0:22:49,599 --> 0:22:51,299
 zavolat pomoc ono to dávají se svým
 
-443
+471
 0:22:51,299 --> 0:22:54,700
 způsobem smysl ale k tomu ještě dojdeme
 
-444
-0:22:54,700 --> 0:22:59,200
-takže otrava jídlem vcelku úspěšná věc
+472
+0:22:54,700 --> 0:22:58,400
+takže otrava jídlem vcelku
 
-445
-0:22:59,200 --> 0:23:02,099
-Dívka která se mu chlapci vaří získává
+473
+0:22:58,400 --> 0:23:00,799
+úspěšná věc Dívka která se mu chlapci
 
-446
-0:23:02,099 --> 0:23:06,200
-automaticky přibližně 35 procent šanci
+474
+0:23:00,799 --> 0:23:04,000
+vaří získává automaticky přibližně
 
-447
-0:23:06,200 --> 0:23:08,099
-že bude na konci tou vybranou
+475
+0:23:04,000 --> 0:23:07,500
+35 procent šanci že bude na konci tou
 
-448
+476
+0:23:07,500 --> 0:23:08,099
+vybranou
+
+477
 0:23:09,200 --> 0:23:12,700
 Pokud vaří mizerně ještě lépe Pokud
 
-449
+478
 0:23:12,700 --> 0:23:16,599
 její jídlo dokáže rozpouštět domácí na
 
-450
+479
 0:23:16,599 --> 0:23:19,299
 domácí potřeby a nádobí ve kterém je
 
-451
+480
 0:23:19,299 --> 0:23:21,799
 připravováno můžete přidat z fleku
 
-452
+481
 0:23:21,799 --> 0:23:24,700
 dalších 15 Takže už jsme na poloviční
 
-453
+482
 0:23:24,700 --> 0:23:24,900
 šance
 
-454
+483
 0:23:26,400 --> 0:23:30,200
 Znáte to trocha sýry chloru Ono to
 
-455
+484
 0:23:30,200 --> 0:23:32,099
 nějak půjde jehlikova žít s pryč
 
-456
+485
 0:23:32,099 --> 0:23:33,599
 výborně nádraží
 
-457
+486
 0:23:35,700 --> 0:23:37,299
 důležité je mít teflonové nádobí
 
-458
+487
 0:23:37,299 --> 0:23:39,900
 telefon to jistí ani lučavka královská
 
-459
+488
 0:23:39,900 --> 0:23:42,400
 s tím nic neudělá Takže v tomhle ohledu
 
-460
+489
 0:23:42,400 --> 0:23:45,799
 láska prochází žaludkem a tady doslova
 
-461
+490
 0:23:45,799 --> 0:23:48,400
 protože pokud je to jídlo a polibek
 
-462
+491
 0:23:48,400 --> 0:23:50,799
 vetřelce tak věřím tomu že si to cestu
 
-463
+492
 0:23:50,799 --> 0:23:52,799
 na druhou stranu opravdu najde další
 
-464
+493
 0:23:52,799 --> 0:23:53,400
 Slide
 
-465
+494
 0:23:54,400 --> 0:23:57,700
 tady Manga nisekoi pro ty z vás kteří
 
-466
+495
 0:23:57,700 --> 0:24:00,500
 by chtěli tipovat O co že se k tobě
 
-467
+496
 0:24:00,500 --> 0:24:02,599
 pokoušela když vznikla rovnoměrná
 
-468
+497
 0:24:02,599 --> 0:24:04,799
 krychle Byl to pokus o omeletu
 
-469
+498
 0:24:07,000 --> 0:24:09,799
 a dosáhla toho do té přes nedodržením
 
-470
+499
 0:24:09,799 --> 0:24:12,400
 receptu nevíme jakého ale dokázala to
 
-471
-0:24:14,099 --> 0:24:18,799
-najdu pod tím vidíte láskyplný pohled
+500
+0:24:14,099 --> 0:24:17,099
+najdu pod tím vidíte
 
-472
-0:24:18,799 --> 0:24:20,599
-který věnuje svému milému když mu dává
+501
+0:24:17,099 --> 0:24:19,700
+láskyplný pohled který věnuje svému
 
-473
-0:24:20,599 --> 0:24:25,000
-sousto je to takové romantické že já
+502
+0:24:19,700 --> 0:24:22,299
+milému když mu dává sousto je to takové
 
-474
-0:24:25,000 --> 0:24:26,500
-bych to viděl Já bych to asi taky jsem
+503
+0:24:22,299 --> 0:24:25,599
+romantické že já bych to viděl Já bych
 
-475
-0:24:26,500 --> 0:24:29,400
-se díval a takhle ale v pořádku tak
+504
+0:24:25,599 --> 0:24:27,200
+to asi taky jsem se díval a takhle ale
 
-476
-0:24:29,400 --> 0:24:32,000
-jsem na romantika v rámci vaření Ano
+505
+0:24:27,200 --> 0:24:31,000
+v pořádku tak jsem na romantika v
 
-477
-0:24:32,000 --> 0:24:34,000
-láska prochází žaludkem mnohdy Doslova
+506
+0:24:31,000 --> 0:24:32,799
+rámci vaření Ano láska prochází
 
-478
-0:24:34,000 --> 0:24:37,200
-a pokud se vám to povede až 50% Šance
+507
+0:24:32,799 --> 0:24:35,299
+žaludkem mnohdy Doslova a pokud se vám
 
-479
-0:24:37,200 --> 0:24:38,599
-na to že se vás Ten chlapec na konci
+508
+0:24:35,299 --> 0:24:37,799
+to povede až 50% Šance na to že se vás
 
-480
-0:24:38,599 --> 0:24:41,599
-vybere neptejte se mě proč ale je tomu
+509
+0:24:37,799 --> 0:24:40,200
+Ten chlapec na konci vybere neptejte se
 
-481
-0:24:41,599 --> 0:24:43,200
-tak jdeme dál
+510
+0:24:40,200 --> 0:24:43,200
+mě proč ale je tomu tak jdeme dál
 
-482
+511
 0:24:45,200 --> 0:24:48,299
 co na romantika Ano a někteří z Vás
 
-483
+512
 0:24:48,299 --> 0:24:50,299
 mohou namítnout že zrovna Mirai Nikki
 
-484
+513
 0:24:50,299 --> 0:24:54,000
 sudden romantiky moc není ale je to asi
 
-485
+514
 0:24:54,000 --> 0:24:57,299
 nejlepší uvození dalšího obligátního
 
-486
+515
 0:24:57,299 --> 0:24:59,400
 troubu jak na vlastně dávají lidé
 
-487
+516
 0:24:59,400 --> 0:25:01,299
 najevo svojí náklonnost v rámci Manga
 
-488
+517
 0:25:01,299 --> 0:25:04,700
 anime a ten jsem si Přejmenoval tak to
 
-489
+518
 0:25:04,700 --> 0:25:05,500
 další Slide
 
-490
+519
 0:25:09,099 --> 0:25:10,000
  Já tě vidím
 
-491
-0:25:11,200 --> 0:25:15,400
-Ano protože v rámci libovolné tvorby
+520
+0:25:11,200 --> 0:25:15,000
+Ano protože v rámci libovolné
 
-492
-0:25:15,400 --> 0:25:19,000
-Pokud ukážete že jedna strana věnuje
+521
+0:25:15,000 --> 0:25:18,500
+tvorby Pokud ukážete že jedna strana
 
-493
-0:25:19,000 --> 0:25:22,000
-zvýšenou pozornost druhé tak samozřejmě
+522
+0:25:18,500 --> 0:25:21,500
+věnuje zvýšenou pozornost druhé tak
 
-494
-0:25:22,000 --> 0:25:24,500
-i průměrně inteligentnímu divákovi to
+523
+0:25:21,500 --> 0:25:23,700
+samozřejmě i průměrně inteligentnímu
 
-495
-0:25:24,500 --> 0:25:27,700
-víte že chlapec a se na dívku podívá
+524
+0:25:23,700 --> 0:25:26,400
+divákovi to víte že chlapec a se na
 
-496
-0:25:27,700 --> 0:25:32,000
-stále protože by k nim možná mohl něco
+525
+0:25:26,400 --> 0:25:28,799
+dívku podívá stále
 
-497
-0:25:32,000 --> 0:25:34,500
-cítit těžko bude obdivovat její účes
+526
+0:25:28,799 --> 0:25:32,599
+protože by k nim možná mohl něco cítit
 
-498
+527
+0:25:32,599 --> 0:25:34,500
+těžko bude obdivovat její účes
+
+528
 0:25:35,500 --> 0:25:36,400
  a tak dále
 
-499
+529
 0:25:37,500 --> 0:25:40,000
 na druhou stranu Pokud dívka věnuje
 
-500
+530
 0:25:40,000 --> 0:25:43,000
 velkou pozornost Chlapci a tak i tam je
 
-501
+531
 0:25:43,000 --> 0:25:45,400
 vcelku nasnadě co že bys tam vlastně
 
-502
+532
 0:25:45,400 --> 0:25:49,400
 mohlo mohlo dít další Slide Ano jak
 
-503
+533
 0:25:49,400 --> 0:25:51,599
 vidíme tento praktický postup se týká
 
-504
+534
 0:25:51,599 --> 0:25:54,599
 rovnoměrně obou pohlaví další Slide
 
-505
+535
 0:25:56,000 --> 0:25:57,400
  Přesně tak a ještě jeden
 
-506
+536
 0:25:58,700 --> 0:26:02,500
 a tady mám místo na další otázku jestli
 
-507
+537
 0:26:02,500 --> 0:26:04,099
 mi dokážete vysvětlit tuhle úžasnou
 
-508
+538
 0:26:04,099 --> 0:26:07,599
 jednou konstrukci A to že dívka si musí
 
-509
+539
 0:26:07,599 --> 0:26:09,500
 všímat ovšem i nikoli věnovat pozornost
 
-510
+540
 0:26:09,500 --> 0:26:13,200
 Chlapec si naopak nesmí vůbec všímat
 
-511
+541
 0:26:13,200 --> 0:26:15,400
 ale vino ale věnovat pozvat musí
 
-512
+542
 0:26:15,400 --> 0:26:15,599
 neustále
 
-513
+543
 0:26:17,099 --> 0:26:19,099
 Najde se někdo kdo se pokusí tak na
 
-514
+544
 0:26:19,099 --> 0:26:21,299
 tuhle tu konstrukci rozklíčovat
 
-515
+545
 0:26:22,099 --> 0:26:23,299
  Zašová v bonbóny
 
-516
+546
 0:26:25,299 --> 0:26:26,000
  Zkuste to
 
-517
+547
 0:26:28,000 --> 0:26:30,099
  No tak by tě teprve sobota no výborně
 
-518
+548
 0:26:32,000 --> 0:26:34,500
 tak já bych to řekl asi tak že všímat
 
-519
+549
 0:26:34,500 --> 0:26:36,299
 znamená že si všímám nějakých detailů
 
-520
+550
 0:26:36,299 --> 0:26:38,400
 nějakých jako malých věci které se dějí
 
-521
+551
 0:26:38,400 --> 0:26:40,799
 jakože třeba OK má naložené vlasy nebo
 
-522
+552
 0:26:40,799 --> 0:26:42,799
 Ok a teď mi něco vypadlo jako z kapsy a
 
-523
+553
 0:26:42,799 --> 0:26:45,500
 tak a naopak pozornost i takové že se
 
-524
+554
 0:26:45,500 --> 0:26:46,900
 kolem toho člověka fakt očima nějak
 
-525
+555
 0:26:46,900 --> 0:26:49,599
 aktivně bych jako chtěl už trochu jako
 
-526
+556
 0:26:49,599 --> 0:26:51,700
 zasáhnout nebo jako opravdu Sleduji co
 
-527
+557
 0:26:51,700 --> 0:26:54,299
 dělá celou dobu a je to na mě opravdu
 
-528
+558
 0:26:54,299 --> 0:26:57,200
 vidět jako z první No přesně tak
 
-529
+559
 0:26:57,200 --> 0:26:58,900
 požádám o předání sladké odměny
 
-530
+560
 0:27:00,700 --> 0:27:01,900
  v základu
 
-531
+561
 0:27:03,700 --> 0:27:06,500
 Elsa klidu platí v to že dívka je
 
-532
+562
 0:27:06,500 --> 0:27:10,299
 Chlapci a chlapi se přijímá ale neumím
 
-533
+563
 0:27:10,299 --> 0:27:12,900
 pozornost To znamená že průměrný
 
-534
+564
 0:27:12,900 --> 0:27:15,599
 průměrně inteligentní hrdina anime
 
-535
+565
 0:27:15,599 --> 0:27:18,599
 naprosto netuší která bije když dívka
 
-536
+566
 0:27:18,599 --> 0:27:21,500
 přijde Možná jsem toho moc na Vem si do
 
-537
+567
 0:27:21,500 --> 0:27:24,700
 proč to bude chutnat Ne to je Tempura
 
-538
+568
 0:27:24,700 --> 0:27:26,500
 moje oblíbené jídlo jak jsi to věděla
 
-539
+569
 0:27:26,500 --> 0:27:27,400
 to tipla jsem si
 
-540
+570
 0:27:29,299 --> 0:27:32,900
 případně to zkoušel jsem ples tady máš
 
-541
+571
 0:27:32,900 --> 0:27:35,599
 navíc Petr Ne moje oblíbená barva jak
 
-542
+572
 0:27:35,599 --> 0:27:38,299
 jsi to věděla co byla to byla to jediná
 
-543
+573
 0:27:38,299 --> 0:27:40,599
 vlna ve slevě takže musela projít celé
 
-544
+574
 0:27:40,599 --> 0:27:42,500
 mě to vykopla klubko správné barvy to
 
-545
+575
 0:27:42,500 --> 0:27:46,000
 už se tam neukáže Takže ano dívka není
 
-546
+576
 0:27:46,000 --> 0:27:48,599
 znát že by věnovala pozornost ale Všímá
 
-547
+577
 0:27:48,599 --> 0:27:51,000
 si detailů je připravena v jistých
 
-548
+578
 0:27:51,000 --> 0:27:52,900
 specifických titulek je připravena tak
 
-549
+579
 0:27:52,900 --> 0:27:56,000
 že mám projde odpadky zjistí i možná
 
-550
+580
 0:27:56,000 --> 0:27:57,799
 jako máte kvalitu stolice ale to už
 
-551
+581
 0:27:57,799 --> 0:27:59,799
 nechám na některých specifických
 
-552
+582
 0:27:59,799 --> 0:28:03,599
 žánrech naopak chlapec je právě ten
 
-553
-0:28:03,599 --> 0:28:08,200
-idiot To znamená a obligátní balení
+583
+0:28:03,599 --> 0:28:07,299
+idiot To znamená a obligátní
 
-554
-0:28:08,200 --> 0:28:11,799
-dívek ve školce aneb co to je skvělá
+584
+0:28:07,299 --> 0:28:11,299
+balení dívek ve školce aneb co to
 
-555
-0:28:11,799 --> 0:28:12,700
-věc může za ně tahat
+585
+0:28:11,299 --> 0:28:12,700
+je skvělá věc může za ně tahat
 
-556
+586
 0:28:13,700 --> 0:28:16,400
 A proč to dělá pořád a jenom u té jedné
 
-557
+587
 0:28:16,400 --> 0:28:18,500
 dívky ostatní jsem ukradené Protože
 
-558
+588
 0:28:18,500 --> 0:28:20,500
 samozřejmě strašně nesnáší a chce a
 
-559
+589
 0:28:20,500 --> 0:28:22,299
 chce aby aby aby na něj křičela
 
-560
-0:28:22,299 --> 0:28:26,799
-případně typické tak tak sedím v té
+590
+0:28:22,299 --> 0:28:26,299
+případně typické tak tak
 
-561
-0:28:26,799 --> 0:28:29,700
-třídě a hledím tím jedním směrem Azimut
+591
+0:28:26,299 --> 0:28:28,599
+sedím v té třídě a hledím tím jedním
 
-562
-0:28:29,700 --> 0:28:34,500
-35 stupňů a hledím hledím se ti tam ta
+592
+0:28:28,599 --> 0:28:32,299
+směrem Azimut 35 stupňů a hledím
 
-563
-0:28:34,500 --> 0:28:37,200
-naše předsedkyně ale vůbec nic necítím
+593
+0:28:32,299 --> 0:28:35,299
+hledím se ti tam ta naše předsedkyně
 
-564
-0:28:37,200 --> 0:28:38,700
-samozřejmě a ona si toho nevšímá
+594
+0:28:35,299 --> 0:28:38,000
+ale vůbec nic necítím samozřejmě a ona
 
-565
-0:28:38,700 --> 0:28:41,799
-nedejbože že by přišla a zeptala se mě
+595
+0:28:38,000 --> 0:28:40,500
+si toho nevšímá nedejbože že by přišla
 
-566
-0:28:41,799 --> 0:28:42,900
-jestli na ní něco nového
+596
+0:28:40,500 --> 0:28:42,500
+a zeptala se mě jestli na ní něco
 
-567
+597
+0:28:42,500 --> 0:28:42,900
+nového
+
+598
 0:28:44,299 --> 0:28:44,799
  Vím já
 
-568
-0:28:46,400 --> 0:28:50,500
-mám nový culík Aha ale sleduji celou
+599
+0:28:46,400 --> 0:28:50,200
+mám nový culík Aha ale sleduji
 
-569
-0:28:50,500 --> 0:28:53,599
-dobu ale aby si všimnul normální chlap
+600
+0:28:50,200 --> 0:28:53,299
+celou dobu ale aby si všimnul normální
 
-570
+601
+0:28:53,299 --> 0:28:53,599
+chlap
+
+602
 0:28:54,400 --> 0:28:56,900
 Takže v tomto ohledu chlapci opravdu
 
-571
+603
 0:28:56,900 --> 0:28:59,799
 aby ukázali zájem musí věnovat
 
-572
+604
 0:28:59,799 --> 0:29:02,500
 pozornost ale nesmí si všímat Takže
 
-573
+605
 0:29:02,500 --> 0:29:06,400
 pokud některá z vás Dámy zjistí že tedy
 
-574
+606
 0:29:06,400 --> 0:29:08,799
 na ně jakým úhlem 45 stupňů chladí
 
-575
+607
 0:29:08,799 --> 0:29:10,700
 nějaký chlapec První se ho zeptejte
 
-576
+608
 0:29:10,700 --> 0:29:12,000
 zdali náhodou nemá problém s krční
 
-577
+609
 0:29:12,000 --> 0:29:13,599
 páteří protože ona opravdu všímáte
 
-578
+610
 0:29:13,599 --> 0:29:15,599
 zaseklou blbě se vám hlava otáčí
 
-579
+611
 0:29:15,599 --> 0:29:18,700
 případně v rámci conu jestli to není
 
-580
+612
 0:29:18,700 --> 0:29:20,500
 náhodou jeho druhá probdělá noc nebo
 
-581
+613
 0:29:20,500 --> 0:29:22,000
 druhý pro celý den takže to tím stylem
 
-582
+614
 0:29:25,500 --> 0:29:29,500
 Ale pokud Náhodou ne A z nějakého
 
-583
+615
 0:29:29,500 --> 0:29:31,500
 důvodu si nevzal poučení a zkouší dobrá
 
-584
+616
 0:29:31,500 --> 0:29:35,400
 mém životě Možná má o vás zájem co se
 
-585
+617
 0:29:35,400 --> 0:29:39,200
 vás ostatní chlapců co se týče Pokud
 
-586
+618
 0:29:39,200 --> 0:29:40,700
 vám nějaká dívka je schopná říct vaši
 
-587
+619
 0:29:40,700 --> 0:29:42,299
 anamnézu včetně antibiotik která právě
 
-588
+620
 0:29:42,299 --> 0:29:44,599
 aktuálně berete utíkejte
 
-589
+621
 0:29:47,200 --> 0:29:49,799
  asi tak jdeme dál
 
-590
-0:29:51,900 --> 0:29:57,299
-Ano tohle ten troubě řekněme
+622
+0:29:51,900 --> 0:29:55,500
+Ano tohle ten troubě
 
-591
-0:29:57,299 --> 0:30:00,700
-velmi starý a zase je součástí nejenom
+623
+0:29:55,500 --> 0:29:58,599
+řekněme velmi starý a
 
-592
-0:30:00,700 --> 0:30:02,500
-anime a mangy vyskyt a si jako Lidé
+624
+0:29:58,599 --> 0:30:01,400
+zase je součástí nejenom anime a mangy
 
-593
-0:30:02,500 --> 0:30:06,400
-literatuře a dá se jednoduše označit na
+625
+0:30:01,400 --> 0:30:05,200
+vyskyt a si jako Lidé literatuře a dá
 
-594
-0:30:06,400 --> 0:30:07,000
-další Slide
+626
+0:30:05,200 --> 0:30:07,000
+se jednoduše označit na další Slide
 
-595
+627
 0:30:08,599 --> 0:30:10,799
 Kdo dřív přijde ten dřív mele v
 
-596
+628
 0:30:10,799 --> 0:30:14,599
 podstatě jde o to kdo je dříve v
 
-597
+629
 0:30:14,599 --> 0:30:17,599
 seriálu představen hrdinka představena
 
-598
+630
 0:30:17,599 --> 0:30:20,200
 jako první divákovi a ještě lépe
 
-599
+631
 0:30:20,200 --> 0:30:22,599
 divákovi a hlavnímu protagonistovi nebo
 
-600
+632
 0:30:22,599 --> 0:30:24,099
 1 hrdina představení Hlavní
 
-601
+633
 0:30:24,099 --> 0:30:26,799
 protagonisté Pokud je to obráceně harem
 
-602
+634
 0:30:26,799 --> 0:30:30,299
 má obvykle největší šanci na to aby se
 
-603
+635
 0:30:30,299 --> 0:30:31,500
 stalo tím hlavním
 
-604
+636
 0:30:32,599 --> 0:30:35,400
 je to jednoduché vychází to sprosté
 
-605
+637
 0:30:35,400 --> 0:30:39,099
 psychologie autorů scénářů knih příběhu
 
-606
+638
 0:30:39,099 --> 0:30:40,000
 a tak dále další Slide
 
-607
+639
 0:30:41,400 --> 0:30:44,200
 Jo pardon to ještě další to proto že
 
-608
+640
 0:30:44,200 --> 0:30:47,900
 podvědomě pokud má už auto rozhodnuto
 
-609
+641
 0:30:47,900 --> 0:30:50,400
 která dívka nebo který chlapec bude ten
 
-610
+642
 0:30:50,400 --> 0:30:52,700
 hlavní tak Obvykle se mu snaží
 
-611
+643
 0:30:52,700 --> 0:30:54,900
 podvědomě dát nějakým způsobem více
 
-612
+644
 0:30:54,900 --> 0:30:57,299
 prostoru ve svém díle A obvykle taky je
 
-613
+645
 0:30:57,299 --> 0:30:59,000
 to také ten jeho Hlavní záměr proto je
 
-614
+646
 0:30:59,000 --> 0:31:02,400
 uveden jako první tenhle ten Troup se
 
-615
+647
 0:31:02,400 --> 0:31:05,200
 používá v anime už také od jeho od jeho
 
-616
+648
 0:31:05,200 --> 0:31:08,799
 samého začátku dost často od nějakých
 
-617
+649
 0:31:08,799 --> 0:31:11,000
 90 let už se s ním i autoři dokážou
 
-618
+650
 0:31:11,000 --> 0:31:13,200
 hrát takže klidně představí hrdinku
 
-619
+651
 0:31:13,200 --> 0:31:14,599
 která nakonec nemá žádnou šanci jako
 
-620
+652
 0:31:14,599 --> 0:31:17,599
 první a podobně na druhou stranu stále
 
-621
+653
 0:31:17,599 --> 0:31:20,000
 platí jedno dobré pravidlo A to že
 
-622
+654
 0:31:20,000 --> 0:31:23,200
 pokud vám nějakou hrdinku první než ji
 
-623
+655
 0:31:23,200 --> 0:31:24,799
 vidíte interagovat s rodinou přesto jí
 
-624
+656
 0:31:24,799 --> 0:31:26,599
 v flashbacků jakože hrdina No to mi
 
-625
+657
 0:31:26,599 --> 0:31:29,599
 připomíná to mojí kamarádku už jsem i
 
-626
+658
 0:31:29,599 --> 0:31:31,900
 pár let neviděl flashback
 
-627
+659
 0:31:32,599 --> 0:31:34,900
 No a teď Kdyby se tu objevil Ano já
 
-628
+660
 0:31:34,900 --> 0:31:37,200
 nevím já už nevím co bych snad s ní
 
-629
+661
 0:31:37,200 --> 0:31:39,799
 mohl dělat protože jako opravdu jako
 
-630
+662
 0:31:39,799 --> 0:31:42,599
 neviděli tak dlouho mě v 5:00 se to ne
 
-631
+663
 0:31:42,599 --> 0:31:45,400
 tohle to ta Dívka má útrum nemá šanci
 
-632
+664
 0:31:45,400 --> 0:31:47,400
 pokud jste již v pondělí podle toho
 
-633
+665
 0:31:47,400 --> 0:31:50,299
 flashbacků asi nemá smysl to ani ne pro
 
-634
+666
 0:31:50,299 --> 0:31:52,200
 vás sledovat Pokud jak vám jde jenom o
 
-635
+667
 0:31:52,200 --> 0:31:54,500
 tu romanci protože ta vaše nebude nikdy
 
-636
+668
 0:31:54,500 --> 0:31:58,500
 naplněná a vrhněte se na Plešivci Ptám
 
-637
+669
 0:31:58,500 --> 0:32:01,799
 se dokáže naplnit cokoli Takže v tomhle
 
-638
+670
 0:32:01,799 --> 0:32:04,500
 ohledu Kdo dřív přijde ten dřív mele
 
-639
+671
 0:32:04,500 --> 0:32:07,700
 stále a stále aktivní stále používaný
 
-640
+672
 0:32:07,700 --> 0:32:10,099
 trouba je potřeba vědět kdy a jak se
 
-641
+673
 0:32:10,099 --> 0:32:12,000
 použít Kdy a jak se použije a je to
 
-642
+674
 0:32:12,000 --> 0:32:14,599
 jedna z hlavních indikací Jdeme dál
 
-643
+675
 0:32:15,900 --> 0:32:16,299
  ano
 
-644
+676
 0:32:18,400 --> 0:32:21,599
 tak jak asi tušíte teď právě přijdou na
 
-645
+677
 0:32:21,599 --> 0:32:22,599
 řadu další Slide
 
-646
+678
 0:32:23,799 --> 0:32:27,500
 Kamarádi z dětství přičemž Tenhle ten
 
-647
+679
 0:32:27,500 --> 0:32:29,900
 to ten postup se dá rozdělit na dva
 
-648
-0:32:29,900 --> 0:32:34,700
-druhy podle jednoho klíčového atributu
+680
+0:32:29,900 --> 0:32:33,400
+druhy podle jednoho klíčového
 
-649
-0:32:34,700 --> 0:32:37,599
-Já se zeptám Je tu někdo z vás kdo tuší
+681
+0:32:33,400 --> 0:32:36,799
+atributu Já se zeptám Je tu někdo z vás
 
-650
-0:32:37,599 --> 0:32:41,299
-Jak se od sebe liší kamarád z dětství a
+682
+0:32:36,799 --> 0:32:40,799
+kdo tuší Jak se od sebe liší kamarád z
 
-651
-0:32:41,299 --> 0:32:42,700
-a kamarádky s PP
+683
+0:32:40,799 --> 0:32:42,700
+dětství a a kamarádky s PP
 
-652
+684
 0:32:44,799 --> 0:32:45,700
  takže támhle
 
-653
+685
 0:32:56,299 --> 0:32:59,900
 požádá vás abyste mi nikdy
 
-654
+686
 0:32:59,900 --> 0:33:01,700
 nedoporučoval tituly které Čtete
 
-655
-0:33:04,000 --> 0:33:09,200
-dobře támhle bylo další a ano víš že se
+687
+0:33:04,000 --> 0:33:07,900
+dobře támhle bylo další a ano
 
-656
-0:33:09,200 --> 0:33:09,700
-tě to kamarádství
+688
+0:33:07,900 --> 0:33:09,700
+víš že se tě to kamarádství
 
-657
+689
 0:33:14,599 --> 0:33:15,799
  také Čtete dobré věci
 
-658
+690
 0:33:17,200 --> 0:33:19,400
 Já jsem představu jak by to fungovalo
 
-659
+691
 0:33:19,400 --> 0:33:23,400
 jako Promiňte slečno A my se známe No
 
-660
+692
 0:33:23,400 --> 0:33:26,299
 já jsem Petr a Vyrůstali jsme spolu od
 
-661
+693
 0:33:26,299 --> 0:33:27,700
 sedmi jsme spolu naprosto řádili v
 
-662
+694
 0:33:27,700 --> 0:33:30,900
 ulici Ale já se na vás vůbec ne protože
 
-663
+695
 0:33:30,900 --> 0:33:32,299
 jsem tě mlátila do hlavy cihlou
 
-664
+696
 0:33:34,799 --> 0:33:38,099
 ani toto nebude
 
-665
-0:33:38,099 --> 0:33:43,799
-No já si myslím že to bude právě buď
+697
+0:33:38,099 --> 0:33:41,900
+No já si
 
-666
-0:33:43,799 --> 0:33:46,099
-ten kamarád který byl opravdu kamarád
+698
+0:33:41,900 --> 0:33:44,500
+myslím že to bude právě buď ten kamarád
 
-667
-0:33:46,099 --> 0:33:48,599
-byl jako nejlepší přátelé a nebo to
+699
+0:33:44,500 --> 0:33:46,500
+který byl opravdu kamarád byl jako
 
-668
-0:33:48,599 --> 0:33:50,500
-bude ten kamarád si vytáhl za ty kapky
+700
+0:33:46,500 --> 0:33:48,900
+nejlepší přátelé a nebo to bude ten
 
-669
-0:33:50,500 --> 0:33:54,000
-v té v té školce a někdo to bohužel
+701
+0:33:48,900 --> 0:33:51,400
+kamarád si vytáhl za ty kapky v té v té
 
-670
-0:33:54,000 --> 0:33:56,900
-není jinak ale děkuji Je zajímavé že
+702
+0:33:51,400 --> 0:33:55,000
+školce a někdo to bohužel není jinak
 
-671
-0:33:56,900 --> 0:33:59,200
-vždycky tu Dívka která pronesl to je to
+703
+0:33:55,000 --> 0:33:57,500
+ale děkuji Je zajímavé že vždycky tu
 
-672
-0:33:59,200 --> 0:34:00,799
-kamarád jako kamarád a nebude to
+704
+0:33:57,500 --> 0:33:59,700
+Dívka která pronesl to je to kamarád
 
-673
-0:34:00,799 --> 0:34:03,599
-kamarád jako ten tvůj tahal z té školce
+705
+0:33:59,700 --> 0:34:01,500
+jako kamarád a nebude to kamarád jako
 
-674
-0:34:03,599 --> 0:34:06,900
-to je vždycky to nejhorší a žebříky Ano
+706
+0:34:01,500 --> 0:34:05,099
+ten tvůj tahal z té školce to je
 
-675
+707
+0:34:05,099 --> 0:34:06,900
+vždycky to nejhorší a žebříky Ano
+
+708
 0:34:06,900 --> 0:34:09,599
 Friendzone The Friendzone ale jenom
 
-676
+709
 0:34:09,599 --> 0:34:11,000
 jeden jeden z nich jenom jeden z nich
 
-677
+710
 0:34:11,000 --> 0:34:13,000
 vede k cíli A jak chlap neví který v
 
-678
+711
 0:34:13,000 --> 0:34:16,500
 pořádku zkusit ještě někdo další tady
 
-679
+712
 0:34:16,500 --> 0:34:16,800
 mlady
 
-680
+713
 0:34:16,800 --> 0:34:24,000
 výborně
 
-681
+714
 0:34:24,000 --> 0:34:26,900
 pořád nemocná jí sladké odměny
 
-682
-0:34:28,800 --> 0:34:34,800
-tak přesně tak je to totiž v
+715
+0:34:28,800 --> 0:34:32,500
+tak
 
-683
-0:34:34,800 --> 0:34:37,000
-tom zdali jsou kamarádi z dětství tak
+716
+0:34:32,500 --> 0:34:36,000
+přesně tak je to totiž v tom zdali jsou
 
-684
-0:34:37,000 --> 0:34:39,699
-říkajíc kontinuálně to znamená vědí o
+717
+0:34:36,000 --> 0:34:37,300
+kamarádi z dětství tak říkajíc
 
-685
-0:34:39,699 --> 0:34:41,699
-sve první poslední a nebo došlo k tomu
+718
+0:34:37,300 --> 0:34:40,099
+kontinuálně to znamená vědí o sve první
 
-686
-0:34:41,699 --> 0:34:44,900
-velmi klíčovém okamžiku loučení kdy se
+719
+0:34:40,099 --> 0:34:42,800
+poslední a nebo došlo k tomu velmi
 
-687
-0:34:44,900 --> 0:34:46,500
-třeba rodiči na chvíli odstěhovali je
+720
+0:34:42,800 --> 0:34:45,199
+klíčovém okamžiku loučení kdy se třeba
 
-688
-0:34:46,500 --> 0:34:48,500
-nám ani se těch několik let neviděli
+721
+0:34:45,199 --> 0:34:46,900
+rodiči na chvíli odstěhovali je nám ani
 
-689
-0:34:48,500 --> 0:34:51,800
-mezitím se nesmí mu to chlapec dorostl
+722
+0:34:46,900 --> 0:34:49,699
+se těch několik let neviděli mezitím se
 
-690
-0:34:51,800 --> 0:34:55,500
-DO ramen a řekněme svaloviny na hrudi a
+723
+0:34:49,699 --> 0:34:53,199
+nesmí mu to chlapec dorostl DO ramen a
 
-691
-0:34:55,500 --> 0:34:58,699
-dívka do ne Takových ramena slonoviny
+724
+0:34:53,199 --> 0:34:56,599
+řekněme svaloviny na hrudi a dívka do
 
-692
-0:34:58,699 --> 0:35:02,000
-na hrudi případně pokud někdo zásady
+725
+0:34:56,599 --> 0:34:59,000
+ne Takových ramena slonoviny na hrudi
 
-693
-0:35:02,000 --> 0:35:03,500
-teďka pak kontakt kubatury hrudníku
+726
+0:34:59,000 --> 0:35:02,300
+případně pokud někdo zásady teďka pak
 
-694
-0:35:03,500 --> 0:35:07,300
-Takže v tomhle tom ohledu jde právě o
+727
+0:35:02,300 --> 0:35:05,000
+kontakt kubatury hrudníku Takže v
 
-695
-0:35:07,300 --> 0:35:08,800
-toto rozdělení další Slide
+728
+0:35:05,000 --> 0:35:07,500
+tomhle tom ohledu jde právě o toto
 
-696
+729
+0:35:07,500 --> 0:35:08,800
+rozdělení další Slide
+
+730
 0:35:10,199 --> 0:35:12,900
 takže to jsou právě první ty jež se
 
-697
+731
 0:35:12,900 --> 0:35:15,900
 byli vlastně spolu celou dobu od nějaké
 
-698
+732
 0:35:15,900 --> 0:35:18,900
 školky až na tu střední On si na ní
 
-699
+733
 0:35:18,900 --> 0:35:21,000
 myslí nebo ona si myslím na něj pak se
 
-700
+734
 0:35:21,000 --> 0:35:22,599
 kolem objeví spousta těch parazitů
 
-701
+735
 0:35:22,599 --> 0:35:26,099
 kteří přijdou i když
 
-702
-0:35:26,099 --> 0:35:31,900
-najdu třetí třetina něj řve
+736
+0:35:26,099 --> 0:35:29,500
+najdu
 
-703
-0:35:31,900 --> 0:35:34,400
-protože je to Inge oa4 je tatrám
+737
+0:35:29,500 --> 0:35:32,400
+třetí třetina něj řve protože je to
 
-704
-0:35:34,400 --> 0:35:36,500
-ostentativně Ne vůbec ale vůbec žádnou
+738
+0:35:32,400 --> 0:35:35,000
+Inge oa4 je tatrám ostentativně Ne
 
-705
-0:35:36,500 --> 0:35:41,199
-pozornost Tak pokud se jedná o tenhle
+739
+0:35:35,000 --> 0:35:37,900
+vůbec ale vůbec žádnou pozornost Tak
 
-706
-0:35:41,199 --> 0:35:43,400
-ten druh kamarádů z dětství tak další
+740
+0:35:37,900 --> 0:35:41,599
+pokud se jedná o tenhle ten druh
 
-707
-0:35:43,400 --> 0:35:43,699
-Slide
+741
+0:35:41,599 --> 0:35:43,699
+kamarádů z dětství tak další Slide
 
-708
+742
 0:35:45,900 --> 0:35:49,300
 je to mají těžké jako opravdu těžké z
 
-709
+743
 0:35:49,300 --> 0:35:53,300
 nějakého důvodu jsou to právě tihle
 
-710
-0:35:53,300 --> 0:35:57,900
-kteří velmi často končí na té lavici
+744
+0:35:53,300 --> 0:35:56,400
+kteří velmi často končí na té
 
-711
-0:35:57,900 --> 0:36:00,500
-těch přátel kteří mě tahali za co ty
+745
+0:35:56,400 --> 0:36:00,300
+lavici těch přátel kteří mě tahali za
 
-712
-0:36:00,500 --> 0:36:03,699
-abych použil ten eufemismus Jinými
+746
+0:36:00,300 --> 0:36:02,199
+co ty abych použil ten eufemismus
 
-713
-0:36:03,699 --> 0:36:07,300
-slovy Friendzone jako vyšitý a i kdyby
+747
+0:36:02,199 --> 0:36:05,800
+Jinými slovy Friendzone jako vyšitý a
 
-714
-0:36:07,300 --> 0:36:09,500
-se na hlavu stavěli nic s tím neudělají
+748
+0:36:05,800 --> 0:36:08,599
+i kdyby se na hlavu stavěli nic s tím
 
-715
-0:36:09,500 --> 0:36:13,800
-tedy od roku 2005 když jsem s pomocí
+749
+0:36:08,599 --> 0:36:11,699
+neudělají tedy od roku 2005
 
-716
-0:36:13,800 --> 0:36:17,500
-Ariana dělal rešerši pomocí fanoušků
+750
+0:36:11,699 --> 0:36:14,900
+když jsem s pomocí Ariana dělal rešerši
 
-717
-0:36:17,500 --> 0:36:18,699
-kteří následovali spoustu romantických
+751
+0:36:14,900 --> 0:36:18,199
+pomocí fanoušků kteří následovali
 
-718
-0:36:18,699 --> 0:36:21,900
-letech od roku 2000 do roku 2016 a
+752
+0:36:18,199 --> 0:36:20,199
+spoustu romantických letech od roku
 
-719
-0:36:21,900 --> 0:36:25,000
-počítali Který typ vyhrál nevyhráli
+753
+0:36:20,199 --> 0:36:23,900
+2000 do roku 2016 a počítali Který typ
 
-720
-0:36:25,000 --> 0:36:27,000
-jste byla remíza a podobně tak od roku
+754
+0:36:23,900 --> 0:36:25,699
+vyhrál nevyhráli jste byla remíza a
 
-721
-0:36:27,000 --> 0:36:30,400
-2005 dochází k otáčení tady toho poměru
+755
+0:36:25,699 --> 0:36:28,099
+podobně tak od roku 2005 dochází k
 
-722
-0:36:30,400 --> 0:36:33,500
-že i tyhle že tihle ti mohou uspět ale
+756
+0:36:28,099 --> 0:36:31,500
+otáčení tady toho poměru že i tyhle že
 
-723
-0:36:33,500 --> 0:36:36,000
-je to obvyklé způsobené tím že prostě
+757
+0:36:31,500 --> 0:36:34,800
+tihle ti mohou uspět ale je to obvyklé
 
-724
-0:36:36,000 --> 0:36:38,099
-autor chtěl být originální Takže si
+758
+0:36:34,800 --> 0:36:36,900
+způsobené tím že prostě autor chtěl být
 
-725
-0:36:38,099 --> 0:36:40,099
-řekl že Hele to by nikoho nenapadlo že
+759
+0:36:36,900 --> 0:36:39,199
+originální Takže si řekl že Hele to by
 
-726
-0:36:40,099 --> 0:36:41,900
-by toho tendru kamaráda z dětství mohu
+760
+0:36:39,199 --> 0:36:40,800
+nikoho nenapadlo že by toho tendru
 
-727
-0:36:41,900 --> 0:36:43,800
-zpět tak jo takhle shoduje Takže tímhle
+761
+0:36:40,800 --> 0:36:42,500
+kamaráda z dětství mohu zpět tak jo
 
-728
-0:36:43,800 --> 0:36:44,500
-tím způsobem
+762
+0:36:42,500 --> 0:36:43,900
+takhle shoduje Takže tímhle tím
 
-729
+763
+0:36:43,900 --> 0:36:44,500
+způsobem
+
+764
 0:36:45,800 --> 0:36:48,300
 už to teď trošku řekněme vyrovnává ale
 
-730
-0:36:48,300 --> 0:36:52,500
-stále je bezpečné tvrdit že pokud je to
+765
+0:36:48,300 --> 0:36:52,300
+stále je bezpečné tvrdit že pokud
 
-731
-0:36:52,500 --> 0:36:53,900
-kamarád dětství toho tady toho typu
+766
+0:36:52,300 --> 0:36:53,699
+je to kamarád dětství toho tady toho
 
-732
-0:36:53,900 --> 0:36:57,000
-nedávejte mu šanci opravdu v rámci toho
+767
+0:36:53,699 --> 0:36:56,900
+typu nedávejte mu šanci opravdu v rámci
 
-733
-0:36:57,000 --> 0:37:00,000
-samotného anime Ne jdeme dál
+768
+0:36:56,900 --> 0:37:00,000
+toho samotného anime Ne jdeme dál
 
-734
+769
 0:37:01,300 --> 0:37:03,500
 2 skupina To jsou ti kteří se právě se
 
-735
+770
 0:37:03,500 --> 0:37:06,400
 právě rozešli a pak se potkávají další
 
-736
+771
 0:37:06,400 --> 0:37:06,699
 Slide
 
-737
+772
 0:37:07,800 --> 0:37:10,500
 a ti samozřejmě Mají tu šanci větší
 
-738
+773
 0:37:10,500 --> 0:37:14,199
 kupodivu má tohle to oporu a v Praze
 
-739
+774
 0:37:14,199 --> 0:37:16,199
 vlastně sexuologů a sociologů kteří
 
-740
+775
 0:37:16,199 --> 0:37:18,300
 vlastně říkají že pokud vás nějaká
 
-741
+776
 0:37:18,300 --> 0:37:21,000
 osoba provází Od raného dětství je
 
-742
+777
 0:37:21,000 --> 0:37:24,699
 velmi těžké si k ní vybudovat vědomou
 
-743
+778
 0:37:24,699 --> 0:37:26,500
 sexuální náklonnost prostě protože ji
 
-744
+779
 0:37:26,500 --> 0:37:28,500
 vnímáte spíš jako okolí své rodiny
 
-745
+780
 0:37:28,500 --> 0:37:31,000
 Nikoli jako možného milostného pan
 
-746
+781
 0:37:31,000 --> 0:37:32,900
 partnera Pokud dojde k takovému
 
-747
+782
 0:37:32,900 --> 0:37:35,400
 rozdělení Obvykle se Tenhle ten Vlastně
 
-748
+783
 0:37:35,400 --> 0:37:38,300
 pocit nevytvoří a tím pádem máte jakoby
 
-749
+784
 0:37:38,300 --> 0:37:40,900
 i regulerně v Šanci Jak moc je to
 
-750
-0:37:40,900 --> 0:37:45,199
-pravda prosím nezkoušejte nechám na
+785
+0:37:40,900 --> 0:37:43,000
+pravda prosím nezkoušejte
 
-751
-0:37:45,199 --> 0:37:47,000
-vašem posouzení zda li se vrhnete na
+786
+0:37:43,000 --> 0:37:46,500
+nechám na vašem posouzení zda li se
 
-752
-0:37:47,000 --> 0:37:49,099
-studium sociologie a sexuologie nebo
+787
+0:37:46,500 --> 0:37:48,000
+vrhnete na studium sociologie a
 
-753
-0:37:49,099 --> 0:37:50,599
-nějakým způsobem budete procházet
+788
+0:37:48,000 --> 0:37:50,000
+sexuologie nebo nějakým způsobem budete
 
-754
-0:37:50,599 --> 0:37:53,000
-statistiky i jak si to chodí v rámci
+789
+0:37:50,000 --> 0:37:52,300
+procházet statistiky i jak si to chodí
 
-755
-0:37:53,000 --> 0:37:55,900
-anime popsal jsem typ a většinou Smolík
+790
+0:37:52,300 --> 0:37:54,699
+v rámci anime popsal jsem typ a
 
-756
-0:37:55,900 --> 0:37:58,599
-typ B většinou máme být větší šanci že
+791
+0:37:54,699 --> 0:37:58,099
+většinou Smolík typ B většinou máme být
 
-757
-0:37:58,599 --> 0:38:00,199
-uspěje jdeme dál
+792
+0:37:58,099 --> 0:38:00,199
+větší šanci že uspěje jdeme dál
 
-758
-0:38:01,300 --> 0:38:05,599
-Ano co víc pokud do toho zahrnete pocit
+793
+0:38:01,300 --> 0:38:05,099
+Ano co víc pokud do toho zahrnete
 
-759
-0:38:05,599 --> 0:38:09,300
-viny tak má tenhle ten téměř
+794
+0:38:05,099 --> 0:38:08,800
+pocit viny tak má tenhle ten
 
-760
-0:38:09,300 --> 0:38:11,500
-stoprocentně vyhráno Jestliže to
+795
+0:38:08,800 --> 0:38:11,500
+téměř stoprocentně vyhráno Jestliže to
 
-761
+796
 0:38:11,500 --> 0:38:13,199
 kamarád že si toho druhého typu má tu
 
-762
+797
 0:38:13,199 --> 0:38:16,199
 pěkně 45% šance že uspěje pokud je v
 
-763
+798
 0:38:16,199 --> 0:38:18,699
 tom pocit viny nebo ještě lépe trauma a
 
-764
-0:38:18,699 --> 0:38:23,599
-pocit viny můžete dát 95% a prostě to
+799
+0:38:18,699 --> 0:38:22,699
+pocit viny můžete dát 95% a
 
-765
-0:38:23,599 --> 0:38:25,099
-je ten Hot dvaceti stěnkou a pokud
+800
+0:38:22,699 --> 0:38:24,800
+prostě to je ten Hot dvaceti stěnkou a
 
-766
-0:38:25,099 --> 0:38:26,800
-padne jako jednička tak jenom jenom
+801
+0:38:24,800 --> 0:38:26,400
+pokud padne jako jednička tak jenom
 
-767
-0:38:26,800 --> 0:38:28,300
-tehdy technicky neúspěch tak jako to
+802
+0:38:26,400 --> 0:38:28,199
+jenom tehdy technicky neúspěch tak jako
 
-768
-0:38:28,300 --> 0:38:30,099
-nedá jinak Jaký jakékoliv číslo znamená
+803
+0:38:28,199 --> 0:38:29,800
+to nedá jinak Jaký jakékoliv číslo
 
-769
-0:38:30,099 --> 0:38:33,199
-zásah láska šťastní šťastní spolu až do
+804
+0:38:29,800 --> 0:38:32,099
+znamená zásah láska šťastní šťastní
 
-770
-0:38:33,199 --> 0:38:34,500
-smrti a je úplně jedno že mají společné
+805
+0:38:32,099 --> 0:38:34,300
+spolu až do smrti a je úplně jedno že
 
-771
-0:38:34,500 --> 0:38:36,099
-trauma protože mě to už nějak se konají
+806
+0:38:34,300 --> 0:38:35,500
+mají společné trauma protože mě to už
 
-772
-0:38:36,099 --> 0:38:38,699
-a nebo nepřekonají ale to už je věc
+807
+0:38:35,500 --> 0:38:38,199
+nějak se konají a nebo nepřekonají ale
 
-773
-0:38:38,699 --> 0:38:41,699
-jiná celkově Japonci v tomhle tom mají
+808
+0:38:38,199 --> 0:38:41,000
+to už je věc jiná celkově Japonci v
 
-774
-0:38:41,699 --> 0:38:45,599
-k pocitu viny až použito slovo
+809
+0:38:41,000 --> 0:38:43,500
+tomhle tom mají k pocitu viny až
 
-775
-0:38:45,599 --> 0:38:48,000
-perverzní divný vztah ve svých
+810
+0:38:43,500 --> 0:38:47,500
+použito slovo perverzní divný vztah
 
-776
-0:38:48,000 --> 0:38:50,199
-scénářích v tom smyslu že pocit viny
+811
+0:38:47,500 --> 0:38:49,300
+ve svých scénářích v tom smyslu že
 
-777
-0:38:50,199 --> 0:38:52,000
-nějakým způsobem lidi hodně sbližuje
+812
+0:38:49,300 --> 0:38:51,500
+pocit viny nějakým způsobem lidi hodně
 
-778
+813
+0:38:51,500 --> 0:38:52,000
+sbližuje
+
+814
 0:38:53,099 --> 0:38:56,000
 je to asi takové víš jak jsme v létě
 
-779
+815
 0:38:56,000 --> 0:38:59,500
 zabili tvého spolužáka novým Hele já ti
 
-780
+816
 0:38:59,500 --> 0:39:01,599
 to musím něco říct a co já ti od té
 
-781
+817
 0:39:01,599 --> 0:39:03,800
 doby strašně miluji já tebe taky
 
-782
+818
 0:39:05,400 --> 0:39:09,400
 prostě hrůza hrůzoucí na druhou stranu
 
-783
+819
 0:39:09,400 --> 0:39:11,500
 ten pocit viny a to trauma to musíme
 
-784
+820
 0:39:11,500 --> 0:39:12,900
 dává ten důvod proč by se měly v
 
-785
+821
 0:39:12,900 --> 0:39:14,400
 dětství rozejít a pak se to stalo si
 
-786
+822
 0:39:14,400 --> 0:39:17,000
 třeba potkat Takže je to taková pěkná
 
-787
+823
 0:39:17,000 --> 0:39:18,000
 budeme dál
 
-788
+824
 0:39:18,900 --> 0:39:19,400
  ano
 
-789
+825
 0:39:20,199 --> 0:39:23,400
 Co na romantika možná někteří z Vás
 
-790
+826
 0:39:23,400 --> 0:39:26,300
 budou dumat nad tím proč zrovna tyhle
 
-791
+827
 0:39:26,300 --> 0:39:29,699
 obrázky a název cudná romantika ano
 
-792
+828
 0:39:29,699 --> 0:39:32,800
 protože i nemravné chování a nemravné
 
-793
+829
 0:39:32,800 --> 0:39:35,500
 choutky jsou součástí řekněme
 
-794
+830
 0:39:35,500 --> 0:39:37,900
 romantický postupu nebo nerad i v jeho
 
-795
+831
 0:39:37,900 --> 0:39:41,199
 přístupu k vyprávění romance to protože
 
-796
+832
 0:39:41,199 --> 0:39:42,000
 další Slide
 
-797
+833
 0:39:43,400 --> 0:39:47,300
 pro mužské charaktery pokud jsou
 
-798
-0:39:47,300 --> 0:39:52,900
-úchylný nemravní nějakým způsobem až
+834
+0:39:47,300 --> 0:39:50,800
+úchylný nemravní nějakým způsobem
 
-799
-0:39:52,900 --> 0:39:56,599
-patologičtí papavero patologicky
+835
+0:39:50,800 --> 0:39:54,099
+až patologičtí
 
-800
-0:39:56,599 --> 0:40:00,400
-fixování na některé části ženského těla
+836
+0:39:54,099 --> 0:39:58,099
+papavero patologicky fixování na
 
-801
-0:40:00,400 --> 0:40:03,000
-tak mají vyhráno
+837
+0:39:58,099 --> 0:40:01,599
+některé části ženského těla tak
 
-802
+838
+0:40:01,599 --> 0:40:03,000
+mají vyhráno
+
+839
 0:40:04,000 --> 0:40:06,699
 jakého důvodu je mají prostě scénáristé
 
-803
+840
 0:40:06,699 --> 0:40:09,699
 rádi a tak jim prostě dopřávají tu
 
-804
+841
 0:40:09,699 --> 0:40:12,099
 možnost uspět i tam kde by normálně
 
-805
-0:40:12,099 --> 0:40:16,599
-uspět neměli Díky tomu můžete mít tuny
+842
+0:40:12,099 --> 0:40:16,099
+uspět neměli Díky tomu můžete
 
-806
-0:40:16,599 --> 0:40:19,199
-příběhů o chlapcích jako je právě
+843
+0:40:16,099 --> 0:40:19,099
+mít tuny příběhů o chlapcích jako je
 
-807
-0:40:19,199 --> 0:40:21,500
-hrdina d x d případně jiných sérii
+844
+0:40:19,099 --> 0:40:21,099
+právě hrdina d x d případně jiných
 
-808
-0:40:21,500 --> 0:40:24,099
-který v podstatě opakuje jedno oplzlost
+845
+0:40:21,099 --> 0:40:23,500
+sérii který v podstatě opakuje jedno
 
-809
-0:40:24,099 --> 0:40:26,500
-za druhou a dívku stejně tak skvělý
+846
+0:40:23,500 --> 0:40:26,000
+oplzlost za druhou a dívku stejně tak
 
-810
+847
+0:40:26,000 --> 0:40:26,500
+skvělý
+
+848
 0:40:29,800 --> 0:40:33,099
 znovu varuji vše o čem hovořím
 
-811
+849
 0:40:33,099 --> 0:40:35,599
 nezkoušejte v reálu nejsem si jistý
 
-812
+850
 0:40:35,599 --> 0:40:38,199
 zdali zvlášť české dívky které jsou
 
-813
+851
 0:40:38,199 --> 0:40:40,199
 známé tím že si jen tak nedají by
 
-814
-0:40:40,199 --> 0:40:44,300
-zahlcení podobným slovním v levém jsme
+852
+0:40:40,199 --> 0:40:43,400
+zahlcení podobným slovním v levém
 
-815
-0:40:44,300 --> 0:40:46,300
-s tím že řeknou Ahoj ty jsi tak skvělý
+853
+0:40:43,400 --> 0:40:45,900
+jsme s tím že řeknou Ahoj ty jsi tak
 
-816
-0:40:46,300 --> 0:40:47,900
-A nebo vás píše skopu do kuličky jo
+854
+0:40:45,900 --> 0:40:47,800
+skvělý A nebo vás píše skopu do kuličky
 
-817
-0:40:47,900 --> 0:40:51,400
-takže opatrně V tomto neriskovat
+855
+0:40:47,800 --> 0:40:51,400
+jo takže opatrně V tomto neriskovat
 
-818
+856
 0:40:51,400 --> 0:40:54,099
 nevěřím že by tohle to mělo brát nějaké
 
-819
+857
 0:40:54,099 --> 0:40:56,300
 výraznější úspěch naší Slide
 
-820
-0:41:00,400 --> 0:41:04,599
-Ano naopak pokud je nemravná dívka tak
+858
+0:41:00,400 --> 0:41:04,000
+Ano naopak pokud je nemravná dívka
 
-821
-0:41:04,599 --> 0:41:05,199
-do konečná
+859
+0:41:04,000 --> 0:41:05,199
+tak do konečná
 
-822
+860
 0:41:06,699 --> 0:41:10,699
 nemravné dívky nemáme rádi prostě ne
 
-823
+861
 0:41:10,699 --> 0:41:13,400
 Dívka která by měla vlastní hlavu A
 
-824
+862
 0:41:13,400 --> 0:41:15,300
 nějakým způsobem vlastní představy o
 
-825
+863
 0:41:15,300 --> 0:41:17,199
 tom co by s námi chtěli při
 
-826
+864
 0:41:17,199 --> 0:41:20,699
 polštářových bitvách dělat to prostě je
 
-827
+865
 0:41:20,699 --> 0:41:24,199
 pro nás jako anime chlapi nemá šanci
 
-828
+866
 0:41:24,199 --> 0:41:26,500
 jako kdo by to chtěl jako co by se s
 
-829
+867
 0:41:26,500 --> 0:41:28,199
 tím dalo dělat Prosím vás jako nic
 
-830
-0:41:28,199 --> 0:41:32,500
-takového jako promiň sbohem jako tahle
+868
+0:41:28,199 --> 0:41:32,199
+takového jako promiň sbohem jako
 
-831
-0:41:32,500 --> 0:41:34,199
-mám svojí cudnou to je lepší Takže jako
+869
+0:41:32,199 --> 0:41:33,599
+tahle mám svojí cudnou to je lepší
 
-832
-0:41:34,199 --> 0:41:36,400
-nemravné dívky opravdu to je
+870
+0:41:33,599 --> 0:41:36,400
+Takže jako nemravné dívky opravdu to je
 
-833
+871
 0:41:36,400 --> 0:41:38,900
 nejrychlejší Konečná poté nemáte šanci
 
-834
+872
 0:41:38,900 --> 0:41:42,300
 existuje jen málo titulu abych No jsou
 
-835
+873
 0:41:42,300 --> 0:41:44,500
 postavené na tom všechny postavy takhle
 
-836
+874
 0:41:44,500 --> 0:41:46,800
 ulítlé Takže ta jedna prostě už se tam
 
-837
+875
 0:41:46,800 --> 0:41:49,500
 ztratí že nějakým způsobem mají alespoň
 
-838
+876
 0:41:49,500 --> 0:41:51,300
 trochu šanci uspět ale to je věčně
 
-839
+877
 0:41:51,300 --> 0:41:53,800
 ostatní nemravná dívka Konečná
 
-840
+878
 0:41:54,400 --> 0:41:57,699
 nemá šanci neuspěje maximálně se stane
 
-841
+879
 0:41:57,699 --> 0:41:59,500
 tím vaším Opel Zlín kamarádem
 
-842
+880
 0:42:00,800 --> 0:42:04,099
 Takže končívá s tím hrdinou sama v jeho
 
-843
+881
 0:42:04,099 --> 0:42:06,699
 pokoji a list o jeho sbírkou specifické
 
-844
+882
 0:42:06,699 --> 0:42:09,300
 literatury její se nad tím rozebírají
 
-845
+883
 0:42:09,300 --> 0:42:11,900
 co by kdyby a to je všechno
 
-846
+884
 0:42:14,000 --> 0:42:16,099
 Ano Jak moc je tohoto reálná situace
 
-847
+885
 0:42:16,099 --> 0:42:19,300
 nechám zase zkusit na vás moc bych tomu
 
-848
+886
 0:42:19,300 --> 0:42:22,099
 nevěřil Ale jak říkám je to Anime a
 
-849
+887
 0:42:22,099 --> 0:42:25,500
 pokud se to teďka to udělá končí Jdeme
 
-850
+888
 0:42:25,500 --> 0:42:25,800
 dál
 
-851
+889
 0:42:26,800 --> 0:42:30,500
 Ano navíc pokud autor chce aby hlavní
 
-852
+890
 0:42:30,500 --> 0:42:33,300
 hrdina nebyl nenáviděný nejlépe
 
-853
+891
 0:42:33,300 --> 0:42:35,500
 ženskými čtenářkami protože a do
 
-854
+892
 0:42:35,500 --> 0:42:37,699
 spoustu harémové k jakožto klasických
 
-855
+893
 0:42:37,699 --> 0:42:41,300
 jsou dívky a ženy tak udělá hrdinu
 
-856
+894
 0:42:41,300 --> 0:42:43,699
 který není nemravní sám o sobě ale má
 
-857
-0:42:43,699 --> 0:42:47,800
-to necudné štěstí to znamená ať už padá
+895
+0:42:43,699 --> 0:42:47,599
+to necudné štěstí to znamená ať už
 
-858
-0:42:47,800 --> 0:42:50,199
-Jakkoli z jakéhokoli úhlu v jakékoli
+896
+0:42:47,599 --> 0:42:49,800
+padá Jakkoli z jakéhokoli úhlu v
 
-859
-0:42:50,199 --> 0:42:52,500
-rychlosti tak přistane Buďto v rozkroku
+897
+0:42:49,800 --> 0:42:52,199
+jakékoli rychlosti tak přistane Buďto v
 
-860
-0:42:52,500 --> 0:42:55,300
-nebo na prsou teď fky to jako ti mohl
+898
+0:42:52,199 --> 0:42:55,099
+rozkroku nebo na prsou teď fky to jako
 
-861
-0:42:55,300 --> 0:42:56,699
-být 5 metrů daleko ale s nějakou dobu
+899
+0:42:55,099 --> 0:42:56,300
+ti mohl být 5 metrů daleko ale s
 
-862
-0:42:56,699 --> 0:42:59,800
-se přítel podvod přímo pod něj stejně
+900
+0:42:56,300 --> 0:42:57,599
+nějakou dobu se přítel podvod přímo pod
 
-863
-0:42:59,800 --> 0:43:03,500
-tak z nějakého důvodu zámky libovolných
+901
+0:42:57,599 --> 0:43:01,099
+něj stejně tak z nějakého důvodu
 
-864
-0:43:03,500 --> 0:43:06,099
-dveřích na záchod do koupelny a tak
+902
+0:43:01,099 --> 0:43:05,000
+zámky libovolných dveřích na záchod do
 
-865
-0:43:06,099 --> 0:43:08,199
-dále přestávají vy ho v jeho blízkosti
+903
+0:43:05,000 --> 0:43:07,900
+koupelny a tak dále přestávají vy ho v
 
-866
-0:43:08,199 --> 0:43:09,800
-fungovat nebo z automatické otevírají
+904
+0:43:07,900 --> 0:43:08,900
+jeho blízkosti fungovat nebo z
 
-867
+905
+0:43:08,900 --> 0:43:09,800
+automatické otevírají
+
+906
 0:43:11,500 --> 0:43:13,599
 a samozřejmě pro ty z vás kteří chtějí
 
-868
+907
 0:43:13,599 --> 0:43:16,599
 Mistral necudné štěstí Tak ju kirito
 
-869
-0:43:16,599 --> 0:43:21,000
-série to love-ru to je ultimátum prostě
+908
+0:43:16,599 --> 0:43:19,900
+série to love-ru to je
 
-870
-0:43:21,000 --> 0:43:23,199
-chlap a ty dokáže upadnout a během pádu
+909
+0:43:19,900 --> 0:43:22,099
+ultimátum prostě chlap a ty dokáže
 
-871
-0:43:23,199 --> 0:43:26,500
-Děkuji svléknout a zároveň se do těch
+910
+0:43:22,099 --> 0:43:25,000
+upadnout a během pádu Děkuji svléknout
 
-872
-0:43:26,500 --> 0:43:28,500
-jejich svršku tak zamotat že k tobě
+911
+0:43:25,000 --> 0:43:27,500
+a zároveň se do těch jejich svršku tak
 
-873
-0:43:28,500 --> 0:43:32,800
-přiváže je myslím že Expert kterého by
+912
+0:43:27,500 --> 0:43:30,199
+zamotat že k tobě přiváže je myslím že
 
-874
-0:43:32,800 --> 0:43:35,300
-obdivovali hodiny prostě protože jako
+913
+0:43:30,199 --> 0:43:34,000
+Expert kterého by obdivovali hodiny
 
-875
-0:43:35,300 --> 0:43:37,300
-tohle dokázal během pádu to jako
+914
+0:43:34,000 --> 0:43:36,400
+prostě protože jako tohle dokázal během
 
-876
+915
+0:43:36,400 --> 0:43:37,300
+pádu to jako
+
+916
 0:43:38,599 --> 0:43:39,599
 nikdy mě zajímalo
 
-877
+917
 0:43:39,599 --> 0:43:45,900
 někdy
 
-878
+918
 0:43:45,900 --> 0:43:47,500
 by mě zajímalo jak udělat opravu scénář
 
-879
+919
 0:43:47,500 --> 0:43:49,300
 kdyby chlapec měl tuhle tu skutečně
 
-880
+920
 0:43:49,300 --> 0:43:52,099
 schopnost a bylo by to nejlépe 24fps
 
-881
-0:43:52,099 --> 0:43:57,099
-animovano v tom zpomaleném záběru full
+921
+0:43:52,099 --> 0:43:56,000
+animovano v tom zpomaleném záběru
 
-882
-0:43:57,099 --> 0:44:00,800
-Motion jak prostě tohle to provádí
+922
+0:43:56,000 --> 0:44:00,000
+full Motion jak prostě tohle to
 
-883
-0:44:00,800 --> 0:44:03,800
-myslím že by to byla zajímavá animační
+923
+0:44:00,000 --> 0:44:03,000
+provádí myslím že by to byla zajímavá
 
-884
-0:44:03,800 --> 0:44:05,699
-studia a doufám že takže to budu že to
+924
+0:44:03,000 --> 0:44:05,199
+animační studia a doufám že takže to
 
-885
-0:44:05,699 --> 0:44:07,599
-budou dělat častěji protože ty pak do
+925
+0:44:05,199 --> 0:44:07,099
+budu že to budou dělat častěji protože
 
-886
-0:44:07,599 --> 0:44:09,099
-toho dokázali dostat puk dalších věcí
+926
+0:44:07,099 --> 0:44:08,500
+ty pak do toho dokázali dostat puk
 
-887
-0:44:09,099 --> 0:44:12,800
-takže v tomhle tom ohledu necudný
+927
+0:44:08,500 --> 0:44:11,099
+dalších věcí takže v tomhle tom ohledu
 
-888
-0:44:12,800 --> 0:44:15,300
-neštěstí opravdu ultimátní výhoda a
+928
+0:44:11,099 --> 0:44:14,800
+necudný neštěstí opravdu ultimátní
 
-889
-0:44:15,300 --> 0:44:17,500
-pokud jí chlapec má tak je to totální
+929
+0:44:14,800 --> 0:44:17,000
+výhoda a pokud jí chlapec má tak je to
 
-890
-0:44:17,500 --> 0:44:20,300
-lamač protože přece není více sexy
+930
+0:44:17,000 --> 0:44:20,000
+totální lamač protože přece není více
 
-891
-0:44:20,300 --> 0:44:21,900
-chlap než ten který vás svlékla pak na
+931
+0:44:20,000 --> 0:44:21,599
+sexy chlap než ten který vás svlékla
 
-892
-0:44:21,900 --> 0:44:22,199
-vás ležel
+932
+0:44:21,599 --> 0:44:22,199
+pak na vás ležel
 
-893
+933
 0:44:24,900 --> 0:44:27,500
  takže tak jdeme dál
 
-894
+934
 0:44:28,699 --> 0:44:32,500
 Ano chutná romantika teď přicházíme k
 
-895
+935
 0:44:32,500 --> 0:44:35,000
 těm nejúspěšnějším technikám jak
 
-896
+936
 0:44:35,000 --> 0:44:37,599
 druhému říci že ho máte rádi akorát s
 
-897
+937
 0:44:37,599 --> 0:44:40,599
 Mariánem takže další Slide
 
-898
+938
 0:44:41,800 --> 0:44:43,800
 Ano už to tu někde padlo myslím že
 
-899
+939
 0:44:43,800 --> 0:44:45,699
 támhle Co se škádlívá to se rádo mívá
 
-900
-0:44:45,699 --> 0:44:50,300
-anime samozřejmě musí být přes 9000
+940
+0:44:45,699 --> 0:44:49,699
+anime samozřejmě musí být
 
-901
-0:44:50,300 --> 0:44:55,199
-protože platí že čím více fyzického
+941
+0:44:49,699 --> 0:44:53,000
+přes 9000 protože platí že
 
-902
-0:44:55,199 --> 0:44:59,000
-násilí využívá dívka vůči chlapci tím
+942
+0:44:53,000 --> 0:44:55,300
+čím více fyzického násilí
 
-903
-0:44:59,000 --> 0:44:59,699
-více ho miluje
+943
+0:44:55,300 --> 0:44:59,300
+využívá dívka vůči chlapci tím více ho
 
-904
-0:45:02,900 --> 0:45:07,400
-Takže pokud jste opravdu zažili ten vás
+944
+0:44:59,300 --> 0:44:59,699
+miluje
 
-905
-0:45:07,400 --> 0:45:09,199
-vaše kamarádka z dětství mlátila cihlou
+945
+0:45:02,900 --> 0:45:06,199
+Takže pokud jste opravdu zažili ten
 
-906
-0:45:09,199 --> 0:45:11,500
-až do hlavy až to na něj zapomněl tak
+946
+0:45:06,199 --> 0:45:08,900
+vás vaše kamarádka z dětství mlátila
 
-907
-0:45:11,500 --> 0:45:12,699
-vás má opravdu ráda
+947
+0:45:08,900 --> 0:45:10,400
+cihlou až do hlavy až to na něj
 
-908
+948
+0:45:10,400 --> 0:45:12,699
+zapomněl tak vás má opravdu ráda
+
+949
 0:45:14,300 --> 0:45:17,599
 anime v reálu Prosím vyhledejte pomoc
 
-909
+950
 0:45:17,599 --> 0:45:19,300
 policii a nejlépe ještě neurologu
 
-910
+951
 0:45:19,300 --> 0:45:21,900
 protože bude potřeba vyřešit jak ti jak
 
-911
+952
 0:45:21,900 --> 0:45:23,699
 trestní stíhání tak možné ošetření
 
-912
-0:45:23,699 --> 0:45:28,000
-později Pokud snad uznáte že vás taková
+953
+0:45:23,699 --> 0:45:27,699
+později Pokud snad uznáte že vás
 
-913
-0:45:28,000 --> 0:45:29,900
-dívka v reálu miluje vyhledejte pomoc
+954
+0:45:27,699 --> 0:45:29,800
+taková dívka v reálu miluje vyhledejte
 
-914
-0:45:29,900 --> 0:45:31,400
-neurologu protože bude potřeba
+955
+0:45:29,800 --> 0:45:31,400
+pomoc neurologu protože bude potřeba
 
-915
+956
 0:45:31,400 --> 0:45:33,300
 hloubkově ji řešit váš váš problém
 
-916
+957
 0:45:33,300 --> 0:45:36,500
 kognitivních funkcí takže tak to jdeme
 
-917
+958
 0:45:36,500 --> 0:45:36,800
 dál
 
-918
-0:45:38,000 --> 0:45:42,099
-Ano u chlapce naopak je vyžadováno to
+959
+0:45:38,000 --> 0:45:41,900
+Ano u chlapce naopak je vyžadováno
 
-919
-0:45:42,099 --> 0:45:45,699
-nejhnusnější možné chování které
+960
+0:45:41,900 --> 0:45:45,699
+to nejhnusnější možné chování které
 
-920
+961
 0:45:45,699 --> 0:45:48,300
 nezahrne a přímo fyzické násilí ale
 
-921
+962
 0:45:48,300 --> 0:45:50,300
 musí být ty dívce kterou má rád opravdu
 
-922
+963
 0:45:50,300 --> 0:45:53,099
 hnusné nejlépe asi dojít na tu hranu
 
-923
+964
 0:45:53,099 --> 0:45:56,400
 psychického teroru prostě to že na Vás
 
-924
+965
 0:45:56,400 --> 0:45:59,800
 zve to že si vás dobírá to že není den
 
-925
+966
 0:45:59,800 --> 0:46:02,400
 kdy by jsi neudělal ten čas a ne se od
 
-926
+967
 0:46:02,400 --> 0:46:04,599
 hlavy k patě znamená že vás miluje
 
-927
+968
 0:46:07,300 --> 0:46:10,699
 Simi 114 znamená že vlastně Pohlreich
 
-928
+969
 0:46:10,699 --> 0:46:13,099
 vyznává lásku všem kuchařům kteří tak
 
-929
+970
 0:46:13,099 --> 0:46:14,900
 seřvala ve svém pořadu
 
-930
+971
 0:46:14,900 --> 0:46:21,500
 No
 
-931
+972
 0:46:21,500 --> 0:46:24,300
 možná jsem teď přispěl do lesa fanfikcí
 
-932
+973
 0:46:24,300 --> 0:46:26,500
 dalším polínkem uvidíme co se bude dít
 
-933
+974
 0:46:27,699 --> 0:46:30,699
 Ti z vás kteří mají radši zahraniční
 
-934
+975
 0:46:30,699 --> 0:46:32,400
 Luhy a háje Tak samozřejmě Gordon
 
-935
+976
 0:46:32,400 --> 0:46:36,199
 Ramsay asi jasná volba též tak ano
 
-936
+977
 0:46:36,199 --> 0:46:38,400
 chlapci který vás se řvou a prostě
 
-937
+978
 0:46:38,400 --> 0:46:41,199
 nedají nedopřál pokoje vás strašně
 
-938
+979
 0:46:41,199 --> 0:46:42,300
 žerou Jdeme dál
 
-939
-0:46:43,500 --> 0:46:47,599
-Ano tahle tan through jinak fyzické
+980
+0:46:43,500 --> 0:46:46,900
+Ano tahle tan through jinak
 
-940
-0:46:47,599 --> 0:46:49,400
-násilí se pohybuje na 80 procentech
+981
+0:46:46,900 --> 0:46:49,000
+fyzické násilí se pohybuje na 80
 
-941
-0:46:49,400 --> 0:46:52,699
-úspěšnosti čím horší tím lepší pokud se
+982
+0:46:49,000 --> 0:46:51,800
+procentech úspěšnosti čím horší tím
 
-942
-0:46:52,699 --> 0:46:55,699
-vám povede dostat dva tedy chlapce do
+983
+0:46:51,800 --> 0:46:54,000
+lepší pokud se vám povede dostat dva
 
-943
-0:46:55,699 --> 0:46:58,400
-nemocnice na chirurgii a dívku do
+984
+0:46:54,000 --> 0:46:57,300
+tedy chlapce do nemocnice na chirurgii
 
-944
-0:46:58,400 --> 0:47:00,800
-nemocnice na psychologickou pojedu
+985
+0:46:57,300 --> 0:47:00,500
+a dívku do nemocnice na psychologickou
 
-945
-0:47:00,800 --> 0:47:02,099
-psychologické poradny nebo na
+986
+0:47:00,500 --> 0:47:02,099
+pojedu psychologické poradny nebo na
 
-946
+987
 0:47:02,099 --> 0:47:04,699
 neurologii Tak máte vyhráno jsou vaše
 
-947
+988
 0:47:05,599 --> 0:47:07,699
 nevím jestli to Díky V Aleji které se
 
-948
+989
 0:47:07,699 --> 0:47:10,199
 na obou odděleních pohybuje ale je to
 
-949
+990
 0:47:10,199 --> 0:47:13,099
 možné 2. možnost a ta už je
 
-950
+991
 0:47:13,099 --> 0:47:16,800
 devadesátiprocentní tak to je stará
 
-951
-0:47:16,800 --> 0:47:21,199
-dobrá záchrana ale pozor liší se mezi
+992
+0:47:16,800 --> 0:47:20,500
+dobrá záchrana ale pozor liší se
 
-952
-0:47:21,199 --> 0:47:23,000
-Chlapci a dívkami Jdeme dál
+993
+0:47:20,500 --> 0:47:23,000
+mezi Chlapci a dívkami Jdeme dál
 
-953
+994
 0:47:24,599 --> 0:47:26,199
  Přesně tak dál
 
-954
+995
 0:47:27,900 --> 0:47:31,599
 protože dívky aby vám podlehli musíte
 
-955
+996
 0:47:31,599 --> 0:47:33,000
 zachránit před vnějším nebezpečím
 
-956
+997
 0:47:33,000 --> 0:47:36,800
 musíte zachránit od zlého draka musíte
 
-957
+998
 0:47:36,800 --> 0:47:39,099
 zachránit od zlého x Musíte je
 
-958
+999
 0:47:39,099 --> 0:47:42,199
 zachránit od šesti svých zkušeností
 
-959
+1000
 0:47:42,199 --> 0:47:44,900
 zničil měsíc a nepojmenovaný
 
-960
+1001
 0:47:44,900 --> 0:47:47,400
 nejmenovaný komiksový film a tak dále
 
-961
+1002
 0:47:47,400 --> 0:47:50,300
 případně je musíte zachránit před otcem
 
-962
+1003
 0:47:50,300 --> 0:47:52,800
 který schovává v noci pod polštářem
 
-963
+1004
 0:47:52,800 --> 0:47:54,800
 brokovnici a Odehnal všechny milé od
 
-964
+1005
 0:47:54,800 --> 0:47:57,800
 své drahé dcerušky A podobně naopak
 
-965
+1006
 0:47:57,800 --> 0:48:01,300
 dívky pokud chcete sbalit záchranou
 
-966
+1007
 0:48:01,300 --> 0:48:03,000
 vašeho chlapce tak je potřeba ho
 
-967
+1008
 0:48:03,000 --> 0:48:04,900
 zachránit před ním samotným
 
-968
+1009
 0:48:07,000 --> 0:48:09,099
 přiznejme si to pokud je ochoten s vámi
 
-969
+1010
 0:48:09,099 --> 0:48:10,599
 chodit i když toho byla do hlavy cihlou
 
-970
+1011
 0:48:10,599 --> 0:48:12,500
 tak jestli něco v nepořádku je potřeba
 
-971
+1012
 0:48:12,500 --> 0:48:15,400
 zachránit jinak v rámci anime
 
-972
+1013
 0:48:15,400 --> 0:48:17,900
 standardní věc chlapec má trauma ze
 
-973
+1014
 0:48:17,900 --> 0:48:20,699
 kterého se musí vzpamatovala chlapec má
 
-974
+1015
 0:48:20,699 --> 0:48:22,500
 závislost a které se musí vzpamatovat
 
-975
-0:48:22,500 --> 0:48:27,800
-případně pokud jsme u těch panu graue a
+1016
+0:48:22,500 --> 0:48:25,500
+případně pokud jsme u těch
 
-976
-0:48:27,800 --> 0:48:30,099
-podobných je to zbohatlické nafrněný v
+1017
+0:48:25,500 --> 0:48:28,900
+panu graue a podobných je to
 
-977
-0:48:30,099 --> 0:48:32,199
-pračce který neví co s životem neví co
+1018
+0:48:28,900 --> 0:48:30,800
+zbohatlické nafrněný v pračce který
 
-978
-0:48:32,199 --> 0:48:34,300
-s penězma a tak nějak je na cestě do
+1019
+0:48:30,800 --> 0:48:32,900
+neví co s životem neví co s penězma a
 
-979
-0:48:34,300 --> 0:48:38,000
-řekne k sebezničení Ale ne vy ho
+1020
+0:48:32,900 --> 0:48:36,000
+tak nějak je na cestě do řekne k
 
-980
-0:48:38,000 --> 0:48:40,099
-zastaví ten mu ukážete že láska k jedné
+1021
+0:48:36,000 --> 0:48:38,800
+sebezničení Ale ne vy ho zastaví ten mu
 
-981
-0:48:40,099 --> 0:48:44,599
-ženy je to pravé vyměnit a to je to
+1022
+0:48:38,800 --> 0:48:41,199
+ukážete že láska k jedné ženy je to
 
-982
-0:48:44,599 --> 0:48:47,699
-hlavní vám se ho povede předělat a tím
+1023
+0:48:41,199 --> 0:48:44,699
+pravé vyměnit a to je to hlavní
 
-983
+1024
+0:48:44,699 --> 0:48:47,699
+vám se ho povede předělat a tím
+
+1025
 0:48:47,699 --> 0:48:49,300
 způsobem je to ultimátní romance
 
-984
+1026
 0:48:50,500 --> 0:48:53,599
 a ano Pokud se vám tohle to povede my
 
-985
+1027
 0:48:53,599 --> 0:48:56,199
 chlapi zbrocený krví a vydal jsem se z
 
-986
+1028
 0:48:56,199 --> 0:48:58,800
 dračí jeskyně v napadnete kolem krku
 
-987
+1029
 0:48:58,800 --> 0:49:00,599
 milujete nás tam je to naprosto skvělé
 
-988
+1030
 0:49:00,599 --> 0:49:04,599
 vy ženy naopak on se probere z
 
-989
+1031
 0:49:04,599 --> 0:49:07,699
 drogového opojení a prohlásí kvůli tobě
 
-990
+1032
 0:49:07,699 --> 0:49:10,800
 s tím přestanu Ty seš tak skvělý
 
-991
-0:49:11,900 --> 0:49:16,800
-ty můj malý květináč Takže tímhle tím
+1033
+0:49:11,900 --> 0:49:15,500
+ty můj malý květináč Takže
 
-992
-0:49:16,800 --> 0:49:21,900
-způsobem samozřejmě nemusí se jednat
+1034
+0:49:15,500 --> 0:49:17,500
+tímhle tím způsobem
 
-993
-0:49:21,900 --> 0:49:24,300
-jenom o závislosti na návykových
+1035
+0:49:17,500 --> 0:49:21,199
+samozřejmě
 
-994
-0:49:24,300 --> 0:49:26,400
-látkách jak jste viděli u starších
+1036
+0:49:21,199 --> 0:49:23,199
+nemusí se jednat jenom o závislosti na
 
-995
-0:49:26,400 --> 0:49:29,000
-obrázky sagara a jeho závislost na
+1037
+0:49:23,199 --> 0:49:26,000
+návykových látkách jak jste viděli u
 
-996
-0:49:29,000 --> 0:49:31,500
-vojenském řešení libovolného sociálního
+1038
+0:49:26,000 --> 0:49:28,000
+starších obrázky sagara a jeho
 
-997
-0:49:31,500 --> 0:49:34,000
-problémů je jistým způsobem nutnost
+1039
+0:49:28,000 --> 0:49:30,300
+závislost na vojenském řešení
 
-998
-0:49:34,000 --> 0:49:37,900
-korigovat a před sebou samotným je
+1040
+0:49:30,300 --> 0:49:32,500
+libovolného sociálního problémů je
 
-999
-0:49:37,900 --> 0:49:41,800
-jasná a Factory používá je dvojitá
+1041
+0:49:32,500 --> 0:49:36,000
+jistým způsobem nutnost korigovat a
 
-1000
-0:49:41,800 --> 0:49:44,000
-Jasná informace o tom s tím že má
+1042
+0:49:36,000 --> 0:49:40,000
+před sebou samotným je jasná a Factory
 
-1001
-0:49:44,000 --> 0:49:47,099
-skončit Ona mu prostě z hlavy to fajn
+1043
+0:49:40,000 --> 0:49:43,199
+používá je dvojitá Jasná informace o
 
-1002
-0:49:47,099 --> 0:49:49,599
-vymlátí a sebe mu tam mlátí Takže jako
+1044
+0:49:43,199 --> 0:49:45,800
+tom s tím že má skončit Ona mu prostě z
 
-1003
-0:49:49,599 --> 0:49:53,099
-Tom a Tom ohledu není problém tak co se
+1045
+0:49:45,800 --> 0:49:48,500
+hlavy to fajn vymlátí a sebe mu tam
 
-1004
-0:49:53,099 --> 0:49:55,300
-týče toho druhého Ano Ti z vás dřímají
+1046
+0:49:48,500 --> 0:49:51,000
+mlátí Takže jako Tom a Tom ohledu není
 
-1005
-0:49:55,300 --> 0:49:57,000
-Naruto dokoukat nebo nebo dočteno vědí
+1047
+0:49:51,000 --> 0:49:54,400
+problém tak co se týče toho druhého Ano
 
-1006
-0:49:57,000 --> 0:49:59,599
-že to byla mylná informace ale i tak a
+1048
+0:49:54,400 --> 0:49:56,099
+Ti z vás dřímají Naruto dokoukat nebo
 
-1007
-0:49:59,599 --> 0:50:02,099
-víme že Sakura dlouhou dobu řešila a
+1049
+0:49:56,099 --> 0:49:57,900
+nebo dočteno vědí že to byla mylná
 
-1008
-0:50:02,099 --> 0:50:06,099
-nebo onen Zachránil mě oba jo Tak jdeme
+1050
+0:49:57,900 --> 0:50:00,800
+informace ale i tak a víme že Sakura
 
-1009
-0:50:06,099 --> 0:50:06,300
-dál
+1051
+0:50:00,800 --> 0:50:03,400
+dlouhou dobu řešila a nebo onen
 
-1010
-0:50:08,199 --> 0:50:12,900
-Ano a nejúspěšnější metoda jak druhého
+1052
+0:50:03,400 --> 0:50:06,300
+Zachránil mě oba jo Tak jdeme dál
 
-1011
-0:50:12,900 --> 0:50:15,699
-sbalit v rámci mangy a anime je zemřít
+1053
+0:50:08,199 --> 0:50:12,199
+Ano a nejúspěšnější metoda jak
 
-1012
-0:50:15,699 --> 0:50:16,599
-modrá náručí
+1054
+0:50:12,199 --> 0:50:15,500
+druhého sbalit v rámci mangy a anime je
 
-1013
+1055
+0:50:15,500 --> 0:50:16,599
+zemřít modrá náručí
+
+1056
 0:50:17,500 --> 0:50:20,599
 Ano dámy a pánové pokud chcete
 
-1014
+1057
 0:50:20,599 --> 0:50:24,099
 nehynoucí lásku tak paradoxně musíte
 
-1015
+1058
 0:50:24,099 --> 0:50:24,500
 svinout
 
-1016
+1059
 0:50:27,400 --> 0:50:31,400
 protože v okamžiku kdy se vám povede
 
-1017
+1060
 0:50:31,400 --> 0:50:35,400
 zemřít v náručí nebo alespoň na dohled
 
-1018
-0:50:35,400 --> 0:50:41,199
-svého milého máte vyhráno Je to 99,9%
+1061
+0:50:35,400 --> 0:50:39,300
+svého milého máte vyhráno
 
-1019
-0:50:41,199 --> 0:50:45,699
-prostě úspěšné romance on na vás nikdy
+1062
+0:50:39,300 --> 0:50:42,900
+Je to 99,9% prostě
 
-1020
+1063
+0:50:42,900 --> 0:50:45,699
+úspěšné romance on na vás nikdy
+
+1064
 0:50:45,699 --> 0:50:48,500
 nezapomene ona na vás nikdy nezapomene
 
-1021
+1065
 0:50:48,500 --> 0:50:51,000
 co víc budou vás nosit věčně ve svém
 
-1022
+1066
 0:50:51,000 --> 0:50:52,599
 srdci a vy tak budete věčně žít
 
-1023
+1067
 0:50:53,699 --> 0:50:54,699
  není to romantické
 
-1024
+1068
 0:50:56,699 --> 0:50:57,900
  další Slide
 
-1025
+1069
 0:50:59,599 --> 0:51:03,400
 Ano pokud chcete místo 99,9% mít
 
-1026
+1070
 0:51:03,400 --> 0:51:04,800
 jistotu tak další Slide
 
-1027
+1071
 0:51:06,000 --> 0:51:06,400
  ano
 
-1028
+1072
 0:51:07,400 --> 0:51:09,300
 je potřeba aby s tím posledním dechem
 
-1029
+1073
 0:51:09,300 --> 0:51:11,599
 bylo víš ale vlastně jsem tě vždycky
 
-1030
+1074
 0:51:11,599 --> 0:51:12,300
 miloval
 
-1031
+1075
 0:51:13,099 --> 0:51:15,900
 nebo chtěla jsem aby jsi abys nás bylo
 
-1032
+1076
 0:51:15,900 --> 0:51:18,000
 něco víc ale už na to není čas
 
-1033
+1077
 0:51:20,099 --> 0:51:23,400
 v tu chvíli je to jasné dva stany
 
-1034
+1078
 0:51:23,400 --> 0:51:27,199
 ztracená a prostě nemá šanci Jak se
 
-1035
+1079
 0:51:27,199 --> 0:51:30,199
 vyvázat z lásky která je přikovala na
 
-1036
+1080
 0:51:30,199 --> 0:51:32,500
 věky věků co víc v rámci a ne to
 
-1037
+1081
 0:51:32,500 --> 0:51:33,900
 opravdu může být láska na věky věků
 
-1038
+1082
 0:51:33,900 --> 0:51:36,300
 nejlépe ještě tak abyste v různých
 
-1039
+1083
 0:51:36,300 --> 0:51:37,900
 interakci umírali v náručí tak jako na
 
-1040
+1084
 0:51:37,900 --> 0:51:40,400
 střídačku a tím to bylo jasný dokonce
 
-1041
+1085
 0:51:40,400 --> 0:51:42,900
 prostě reinkarnační od cyklu než
 
-1042
+1086
 0:51:42,900 --> 0:51:45,699
 dosáhnete mě dva dny jste si souzeni na
 
-1043
+1087
 0:51:45,699 --> 0:51:49,300
 věky věků jako někde je možné že jako
 
-1044
+1088
 0:51:49,300 --> 0:51:51,000
 ty hrdinové Nedělej tu věc že uvidí
 
-1045
+1089
 0:51:51,000 --> 0:51:53,199
 reinkarnace svého druhého já nebo svého
 
-1046
+1090
 0:51:53,199 --> 0:51:55,199
 vyvoleného a neutíkají vítězů od něj
 
-1047
+1091
 0:51:55,199 --> 0:51:57,599
 protože tuší že buďto zemře on nebo oni
 
-1048
+1092
 0:51:58,099 --> 0:52:01,099
 a znáte to když ty se stydíš třeba ve
 
-1049
+1093
 0:52:01,099 --> 0:52:02,900
 45 na přesně víte pamatujete si ještě
 
-1050
+1094
 0:52:02,900 --> 0:52:04,300
 jak je score jestli tam na řadě vy nebo
 
-1051
+1095
 0:52:04,300 --> 0:52:04,500
 on
 
-1052
+1096
 0:52:05,900 --> 0:52:08,000
  co víc bude to vždycky pravidelné
 
-1053
+1097
 0:52:10,099 --> 0:52:12,500
 Takže jako opravdu opatrně s ním v
 
-1054
+1098
 0:52:12,500 --> 0:52:16,500
 rámci úmrtí v náručí naprostá bomba
 
-1055
+1099
 0:52:16,500 --> 0:52:19,400
 pecka jako skvěle a proto ještě Opakuji
 
-1056
+1100
 0:52:19,400 --> 0:52:21,400
 teď v reálu prosím vás
 
-1057
+1101
 0:52:24,599 --> 0:52:25,599
  Jdeme dál
 
-1058
+1102
 0:52:26,800 --> 0:52:30,500
 jak je tedy z toho plyne poučení Je to
 
-1059
+1103
 0:52:30,500 --> 0:52:33,199
 jednoduché pokud chcete v rámci anime
 
-1060
+1104
 0:52:33,199 --> 0:52:37,000
 zažít ultimátní romanci tak je potřeba
 
-1061
-0:52:37,000 --> 0:52:41,300
-aby to byli přátelé z dětství kteří
+1105
+0:52:37,000 --> 0:52:39,599
+aby to byli přátelé z dětství
 
-1062
-0:52:41,300 --> 0:52:43,000
-samozřejmě prožít nějaké společné
+1106
+0:52:39,599 --> 0:52:43,000
+kteří samozřejmě prožít nějaké společné
 
-1063
+1107
 0:52:43,000 --> 0:52:46,000
 trauma který je rozdělí aby se po
 
-1064
+1108
 0:52:46,000 --> 0:52:48,699
 letech sešli on pokud možno kvůli
 
-1065
+1109
 0:52:48,699 --> 0:52:52,099
 traumatu jako drogově závislý ona kvůli
 
-1066
+1110
 0:52:52,099 --> 0:52:53,800
 traumatu samozřejmě v topila do armády
 
-1067
+1111
 0:52:53,800 --> 0:52:55,599
 a má za sebou v sivicích mosadu
 
-1068
+1112
 0:52:56,800 --> 0:53:00,800
 Potkají se začnou své trauma řešit tím
 
-1069
+1113
 0:53:00,800 --> 0:53:03,800
 způsobem že ona s ní vymlátí drogy a on
 
-1070
+1114
 0:53:03,800 --> 0:53:05,599
 na ni bude tak hnusný ale ona se nedá
 
-1071
+1115
 0:53:05,599 --> 0:53:09,500
 padnout si kolem kolem sebe a kolem
 
-1072
+1116
 0:53:09,500 --> 0:53:12,699
 krku v náručí a zemřou zřejmě vyčerpání
 
-1073
-0:53:12,699 --> 0:53:16,900
-v tu chvíli máte ultimátní romanci A
+1117
+0:53:12,699 --> 0:53:16,400
+v tu chvíli máte ultimátní
 
-1074
+1118
+0:53:16,400 --> 0:53:16,900
+romanci A
+
+1119
 0:53:16,900 --> 0:53:24,099
 jak
 
-1075
+1120
 0:53:24,099 --> 0:53:25,599
 už mám ještě tři minuty tak se zeptám
 
-1076
+1121
 0:53:25,599 --> 0:53:27,099
 si nějaké otázky na tohle to téma
 
-1077
+1122
 0:53:28,300 --> 0:53:28,800
  ano
 
-1078
+1123
 0:53:41,699 --> 0:53:44,400
 ano protože Jen je rozdíl mezi tím
 
-1079
+1124
 0:53:44,400 --> 0:53:47,199
 ukázat slib a představení v flashbacků
 
-1080
+1125
 0:53:47,199 --> 0:53:49,800
 Pokud totiž tu hrdinku představíte
 
-1081
+1126
 0:53:49,800 --> 0:53:52,199
 takže se s hlínou setká v rámci toho že
 
-1082
+1127
 0:53:52,199 --> 0:53:55,199
 se nejprve setkají a poznává protože je
 
-1083
+1128
 0:53:55,199 --> 0:53:58,300
 to po letech a tak dále A ona mu
 
-1084
+1129
 0:53:58,300 --> 0:54:01,000
 připomene sysly a pak se teprve objeví
 
-1085
+1130
 0:54:01,000 --> 0:54:03,300
 flashback je to v pořádku Ale jak říkám
 
-1086
+1131
 0:54:03,300 --> 0:54:04,900
 pokud by to probíhalo stylem že já se
 
-1087
+1132
 0:54:04,900 --> 0:54:07,000
 baví s jinou dívkou víš To mi připomíná
 
-1088
+1133
 0:54:07,000 --> 0:54:08,699
 mojí kamarádku z dětství a flashback
 
-1089
+1134
 0:54:08,699 --> 0:54:10,599
 klidně slibem nemá šanci
 
-1090
+1135
 0:54:12,099 --> 0:54:12,699
  je mi líto
 
-1091
+1136
 0:54:15,099 --> 0:54:16,199
  když někdo už otázku
 
-1092
-0:54:19,000 --> 0:54:23,500
-tyhle ty postupy knižně jelikož mě už
+1137
+0:54:19,000 --> 0:54:22,400
+tyhle ty postupy knižně
 
-1093
-0:54:23,500 --> 0:54:25,099
-zastoupila Celá řada jiných autorů
+1138
+0:54:22,400 --> 0:54:24,500
+jelikož mě už zastoupila Celá řada
 
-1094
+1139
+0:54:24,500 --> 0:54:25,099
+jiných autorů
+
+1140
 0:54:26,400 --> 0:54:29,599
 tak věřím tomu tak věřím tomu že
 
-1095
+1141
 0:54:29,599 --> 0:54:31,900
 spoustu knížek na to jak psát anime
 
-1096
+1142
 0:54:31,900 --> 0:54:34,900
 podle tendenčních postupu najdete na
 
-1097
+1143
 0:54:34,900 --> 0:54:37,599
 internetu k dispozici ve velkém
 
-1098
+1144
 0:54:37,599 --> 0:54:37,699
 množství
 
-1099
+1145
 0:54:38,900 --> 0:54:40,400
  nebo jsem to špatně pochopil otázku
 
-1100
+1146
 0:54:42,099 --> 0:54:44,300
 Kdepak to správně Dobrá tak to mockrát
 
-1101
+1147
 0:54:44,300 --> 0:54:47,699
 děkuji ještě někdo a No mě by zajímalo
 
-1102
-0:54:47,699 --> 0:54:52,500
-romance s Ježíšem nevím
+1148
+0:54:47,699 --> 0:54:51,500
+romance s
 
-1103
-0:54:54,800 --> 0:55:00,400
-ale je pravdou že vlastně Máří
+1149
+0:54:51,500 --> 0:54:52,500
+Ježíšem nevím
 
-1104
-0:55:00,400 --> 0:55:03,599
-magdaléně den s konal v náruč Ona jenom
+1150
+0:54:54,800 --> 0:54:58,599
+ale je
 
-1105
-0:55:03,599 --> 0:55:05,599
-ukládala jeho tělo A pak z mrtvých
+1151
+0:54:58,599 --> 0:55:02,400
+pravdou že vlastně Máří magdaléně den s
 
-1106
-0:55:05,599 --> 0:55:06,400
-vstal to se nepočítá
+1152
+0:55:02,400 --> 0:55:04,199
+konal v náruč Ona jenom ukládala jeho
 
-1107
+1153
+0:55:04,199 --> 0:55:06,199
+tělo A pak z mrtvých vstal to se
+
+1154
+0:55:06,199 --> 0:55:06,400
+nepočítá
+
+1155
 0:55:08,300 --> 0:55:10,400
 Mě by zajímalo jak je to s dopisem a
 
-1108
+1156
 0:55:10,400 --> 0:55:11,900
 jestli je nějaký návod jak správně
 
-1109
+1157
 0:55:11,900 --> 0:55:13,599
 napsat milostný dopis aby se zvedly
 
-1110
+1158
 0:55:13,599 --> 0:55:16,699
 procenta úspěšnosti samozřejmě napište
 
-1111
+1159
 0:55:16,699 --> 0:55:19,699
 ho tak aby průměrně inteligentní anime
 
-1112
+1160
 0:55:19,699 --> 0:55:21,699
 hrdina to znamená naprostý idiot
 
-1113
+1161
 0:55:21,699 --> 0:55:25,099
 nechápající text se mohl splést a tento
 
-1114
+1162
 0:55:25,099 --> 0:55:26,800
 dopis si vyložit úplně jinak než jako
 
-1115
+1163
 0:55:26,800 --> 0:55:28,300
 milostný dopis nebo ještě lépe si
 
-1116
+1164
 0:55:28,300 --> 0:55:31,000
 spletl dívku která mu ho podepsala
 
-1117
+1165
 0:55:34,199 --> 0:55:34,900
  ano
 
-1118
-0:55:39,199 --> 0:55:43,300
-ano to je správný hrdina A v tomhle tom
+1166
+0:55:39,199 --> 0:55:43,099
+ano to je správný hrdina A v tomhle
 
-1119
-0:55:43,300 --> 0:55:45,599
-případě hrdinka správný dopis protože
+1167
+0:55:43,099 --> 0:55:45,300
+tom případě hrdinka správný dopis
 
-1120
-0:55:45,599 --> 0:55:47,500
-tam udělala to už je hodně a nepochopil
+1168
+0:55:45,300 --> 0:55:46,900
+protože tam udělala to už je hodně a
 
-1121
-0:55:47,500 --> 0:55:48,699
-a proto asi vyhraje
+1169
+0:55:46,900 --> 0:55:48,699
+nepochopil a proto asi vyhraje
 
-1122
+1170
 0:55:51,199 --> 0:55:53,599
 takže tak pokud je tohle to všechno Já
 
-1123
+1171
 0:55:53,599 --> 0:55:55,500
 se s vámi loučím a přeji Vám samozřejmě
 
-1124
+1172
 0:55:55,500 --> 0:55:57,699
 možná nejkrásnější prožití zbytku
 
-1125
+1173
 0:55:57,699 --> 0:55:59,300
 animefestu Doufám že s vámi přednáška
 
-1126
+1174
 0:55:59,300 --> 0:56:02,099
 líbila a Neváhejte prosím poskytování
 
-1127
+1175
 0:56:02,099 --> 0:56:04,699
 jaké feedback ať už byl kladný a nebo
 
-1128
+1176
 0:56:04,699 --> 0:56:06,099
 ten záporný Protože pokud ne nic nevíte
 
-1129
+1177
 0:56:06,099 --> 0:56:08,400
 nic nezlepší mějte se na shledanou
 
