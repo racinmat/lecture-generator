@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: AF15 - Scenáristické podivnosti na školní půdě.mp4
-Video File: AF15 - Scenáristické podivnosti na školní půdě.mp4
+Audio File: ../../audio_in/video-na-titulky/AF15 - Scenáristické podivnosti na školní půdě.mp4
+Video File: ../../audio_in/video-na-titulky/AF15 - Scenáristické podivnosti na školní půdě.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 392
-Active Line: 419
-Video Position: 30793
+Video Zoom Percent: 0.250000
+Scroll Position: 925
+Active Line: 959
+Video Position: 66495
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,14 +31,14 @@ Dialogue: 0,0:00:10.01,0:00:11.01,Default,,0,0,0,,Bude to taková
 Dialogue: 0,0:00:11.01,0:00:13.01,Default,,0,0,0,,přestávka na oběd, abych tak řekl.
 Dialogue: 0,0:00:13.73,0:00:15.78,Default,,0,0,0,,A samozřejmě
 Dialogue: 0,0:00:15.78,0:00:17.50,Default,,0,0,0,, pro ty z vás, kteří mě ještě neznají,
-Dialogue: 0,0:00:17.50,0:00:19.22,Default,,0,0,0,,můj nick je Grek1 
+Dialogue: 0,0:00:17.50,0:00:19.22,Default,,0,0,0,,můj nick je Grek1
 Dialogue: 0,0:00:19.26,0:00:20.60,Default,,0,0,0,,a budu Vám
 Dialogue: 0,0:00:20.65,0:00:22.42,Default,,0,0,0,,se snažit přiblížit něco
 Dialogue: 0,0:00:22.45,0:00:25.24,Default,,0,0,0,,z "Scénáristických podivností na školní půdě".
-Dialogue: 0,0:00:25.77,0:00:27.58,Default,,0,0,0,,Jelikož 
+Dialogue: 0,0:00:25.77,0:00:27.58,Default,,0,0,0,,Jelikož
 Dialogue: 0,0:00:27.58,0:00:31.53,Default,,0,0,0,,zde probíhá souboj mezi delikventy a šprty,
 Dialogue: 0,0:00:31.65,0:00:34.81,Default,,0,0,0,,požádám Vás, pokud mi budete na některé otázky
-Dialogue: 0,0:00:35.01,0:00:36.00,Default,,0,0,0,,odpovídat, 
+Dialogue: 0,0:00:35.01,0:00:36.00,Default,,0,0,0,,odpovídat,
 Dialogue: 0,0:00:36.18,0:00:38.14,Default,,0,0,0,,tak abyste mi vždycky před
 Dialogue: 0,0:00:38.13,0:00:40.22,Default,,0,0,0,,odpovědí nahlásili, zda-li jste
 Dialogue: 0,0:00:40.40,0:00:42.30,Default,,0,0,0,, delikvent modrý,
@@ -59,25 +59,25 @@ Dialogue: 0,0:01:24.64,0:01:25.44,Default,,0,0,0,,Promiňte.
 Dialogue: 0,0:01:26.68,0:01:27.26,Default,,0,0,0,,Tak.
 Dialogue: 0,0:01:28.09,0:01:30.89,Default,,0,0,0,,Je to takový můj obvyklý statistický dotaz,
 Dialogue: 0,0:01:30.89,0:01:31.80,Default,,0,0,0,,požádá vás,
-Dialogue: 0,0:01:31.85,0:01:33.86,Default,,0,0,0,,zvedněte mi ruku vy, kteří jste 
+Dialogue: 0,0:01:31.85,0:01:33.86,Default,,0,0,0,,zvedněte mi ruku vy, kteří jste
 Dialogue: 0,0:01:33.86,0:01:36.81,Default,,0,0,0,,se opravdu namáhali tím, že jste opravdu četli anotace na tuto přednášku.
 Dialogue: 0,0:01:38.20,0:01:41.18,Default,,0,0,0,,Páni. Výborně.
-Dialogue: 0,0:01:41.49,0:01:42.92,Default,,0,0,0,,To já jen jestli 
+Dialogue: 0,0:01:41.49,0:01:42.92,Default,,0,0,0,,To já jen jestli
 Dialogue: 0,0:01:42.93,0:01:47.58,Default,,0,0,0,,organizátoři animefestu mají stále ještě utrácet za tiskaře a tyhle ty věci pro vás dále dělat
-Dialogue: 0,0:01:47.86,0:01:50.20,Default,,0,0,0,,Takže výborně tím pádem budu předpokládat, 
+Dialogue: 0,0:01:47.86,0:01:50.20,Default,,0,0,0,,Takže výborně tím pádem budu předpokládat,
 Dialogue: 0,0:01:50.37,0:01:52.02,Default,,0,0,0,,že většina sálu ví, co je tedy
 Dialogue: 0,0:01:52.34,0:01:54.21,Default,,0,0,0,,čeká a nejsou tady jen omylem,
 Dialogue: 0,0:01:54.25,0:01:56.93,Default,,0,0,0,,nebo jenom aby zabili čas do Cosplay soutěže, ták.
 Dialogue: 0,0:02:00.00,0:02:02.40,Default,,0,0,0,,Tak proč vlastně zvolit takovéhle téma?
 Dialogue: 0,0:02:02.74,0:02:05.78,Default,,0,0,0,,To protože tenhle letošní animefest je
-Dialogue: 0,0:02:05.78,0:02:07.78,Default,,0,0,0,,prvním, ve kterém mě 
-Dialogue: 0,0:02:07.96,0:02:10.04,Default,,0,0,0,,organizátoři požádali vysloveně připravit něco 
+Dialogue: 0,0:02:05.78,0:02:07.78,Default,,0,0,0,,prvním, ve kterém mě
+Dialogue: 0,0:02:07.96,0:02:10.04,Default,,0,0,0,,organizátoři požádali vysloveně připravit něco
 Dialogue: 0,0:02:10.04,0:02:13.08,Default,,0,0,0,,k tématu, které se právě dotýká škol
-Dialogue: 0,0:02:13.48,0:02:17.57,Default,,0,0,0,,a s ohledem na celkový divácký zájem různých porovnání 
+Dialogue: 0,0:02:13.48,0:02:17.57,Default,,0,0,0,,a s ohledem na celkový divácký zájem různých porovnání
 Dialogue: 0,0:02:17.57,0:02:20.25,Default,,0,0,0,,smutné reality a barevného anime života.
 Dialogue: 0,0:02:20.98,0:02:23.80,Default,,0,0,0,,Jsem se měl soustředit právě na to, jaké
 Dialogue: 0,0:02:23.85,0:02:27.13,Default,,0,0,0,,zpodobnění školního života se v anime k vám obvykle dostává
-Dialogue: 0,0:02:27.26,0:02:30.42,Default,,0,0,0,,a velmi často selhává, řekne v porovnání, 
+Dialogue: 0,0:02:27.26,0:02:30.42,Default,,0,0,0,,a velmi často selhává, řekne v porovnání,
 Dialogue: 0,0:02:30.42,0:02:34.06,Default,,0,0,0,,s realitou japonského školství.
 Dialogue: 0,0:02:34.50,0:02:37.22,Default,,0,0,0,,Tak pardon. Tak
 Dialogue: 0,0:02:37.76,0:02:40.05,Default,,0,0,0,,První část se bude týkat tzv.
@@ -85,15 +85,15 @@ Dialogue: 0,0:02:40.17,0:02:42.78,Default,,0,0,0,,"podivností ztracených {\i1}
 Dialogue: 0,0:02:43.46,0:02:45.80,Default,,0,0,0,,Ti z vás, kteří se s tímhle tím pojmem ještě nesetkali.
 Dialogue: 0,0:02:45.80,0:02:47.97,Default,,0,0,0,,Jde o to, že
 Dialogue: 0,0:02:47.97,0:02:50.48,Default,,0,0,0,, i v samotném anime, pro řekněme
-Dialogue: 0,0:02:50.48,0:02:52.30,Default,,0,0,0,, zdůraznění některých věcí, 
-Dialogue: 0,0:02:52.46,0:02:55.08,Default,,0,0,0,,byly používány prvky, které jsou i 
+Dialogue: 0,0:02:50.48,0:02:52.30,Default,,0,0,0,, zdůraznění některých věcí,
+Dialogue: 0,0:02:52.46,0:02:55.08,Default,,0,0,0,,byly používány prvky, které jsou i
 Dialogue: 0,0:02:55.12,0:02:58.81,Default,,0,0,0,,rodilému Japonci divné, že takhle to ve škole nechodí.
 Dialogue: 0,0:02:59.21,0:03:01.93,Default,,0,0,0,,Problém je samozřejmě ten, že i když ten titul
 Dialogue: 0,0:03:02.00,0:03:03.90,Default,,0,0,0,,i schopní subeři chytnou,
 Dialogue: 0,0:03:04.02,0:03:06.56,Default,,0,0,0,, přeloží a pošlu na západ,
 Dialogue: 0,0:03:06.66,0:03:10.10,Default,,0,0,0,,tak ten kulturní kontext z těhle těch věcí postupně vymizí.
 Dialogue: 0,0:03:10.30,0:03:14.00,Default,,0,0,0,,A tady vám vlastně ukážu hnedle několik, u kterých
-Dialogue: 0,0:03:14.38,0:03:17.34,Default,,0,0,0,, jsem dokázal najít i vcelku bizarní věci 
+Dialogue: 0,0:03:14.38,0:03:17.34,Default,,0,0,0,, jsem dokázal najít i vcelku bizarní věci
 Dialogue: 0,0:03:17.34,0:03:19.77,Default,,0,0,0,,spojené s realitou Japonska,
 Dialogue: 0,0:03:19.80,0:03:22.17,Default,,0,0,0,,jak moc by tyto věci, řekněme, nemohli fungovat.
 Dialogue: 0,0:03:23.73,0:03:25.89,Default,,0,0,0,,Tak první. Ano.
@@ -137,9 +137,9 @@ Dialogue: 0,0:05:15.82,0:05:19.20,Default,,0,0,0,,vrátila na Císařský dvůr 
 Dialogue: 0,0:05:19.30,0:05:22.56,Default,,0,0,0,,Šlo i o celkovou transformaci japonské společnosti
 Dialogue: 0,0:05:22.70,0:05:26.70,Default,,0,0,0,,a ta se projevovala tím, že byl zrušen do té doby platný kastovní systém.
 Dialogue: 0,0:05:27.62,0:05:30.19,Default,,0,0,0,,A jedním z příznaků kastovního systému je to,
-Dialogue: 0,0:05:30.19,0:05:32.06,Default,,0,0,0,,že ten bohatý 
+Dialogue: 0,0:05:30.19,0:05:32.06,Default,,0,0,0,,že ten bohatý
 Dialogue: 0,0:05:32.06,0:05:35.09,Default,,0,0,0,,šlechtic, nebo ten někdo s vyšším postavením
-Dialogue: 0,0:05:35.58,0:05:37.54,Default,,0,0,0,,užíval nosítek, či vozů, 
+Dialogue: 0,0:05:35.58,0:05:37.54,Default,,0,0,0,,užíval nosítek, či vozů,
 Dialogue: 0,0:05:37.54,0:05:40.00,Default,,0,0,0,,které táhli ti podřízení.
 Dialogue: 0,0:05:40.54,0:05:42.96,Default,,0,0,0,,A jelikož Japonci, když se do něčeho pustí
 Dialogue: 0,0:05:43.02,0:05:44.86,Default,,0,0,0,,a řeknou, že něco reformují,
@@ -147,24 +147,24 @@ Dialogue: 0,0:05:45.12,0:05:47.65,Default,,0,0,0,,tak to dělají po Japonsku, t
 Dialogue: 0,0:05:47.72,0:05:50.65,Default,,0,0,0,,a pokud možno všeobecným nařízení, bez ohledu na to, co to udělá,
 Dialogue: 0,0:05:50.96,0:05:53.48,Default,,0,0,0,,tak zakázali veškeré projevy,
 Dialogue: 0,0:05:54.00,0:05:56.68,Default,,0,0,0,,vlastně tady toho kastovního rozdělení.
-Dialogue: 0,0:05:57.08,0:05:58.24,Default,,0,0,0,,Včetně 
+Dialogue: 0,0:05:57.08,0:05:58.24,Default,,0,0,0,,Včetně
 Dialogue: 0,0:05:58.24,0:06:02.33,Default,,0,0,0,,používání vozu tažených lidmi, nosítek a věcí kolem. Ano?
 Dialogue: 0,0:06:05.70,0:06:09.00,Default,,0,0,0,,{\i1}(otázka){\i0}
 Dialogue: 0,0:06:09.68,0:06:13.57,Default,,0,0,0,,Právě začátek "Taišó" byl spíše uvolňování od některých těhletěch pravidel.
-Dialogue: 0,0:06:14.84,0:06:17.77,Default,,0,0,0,,Z jednoho prostého důvodu. On Císař Taišó, 
+Dialogue: 0,0:06:14.84,0:06:17.77,Default,,0,0,0,,Z jednoho prostého důvodu. On Císař Taišó,
 Dialogue: 0,0:06:17.77,0:06:19.34,Default,,0,0,0,,neříká se to...
 Dialogue: 0,0:06:19.34,0:06:22.98,Default,,0,0,0,,Hmm.. tak nemluví se o tom, ale císař Taišó patřil mezi
 Dialogue: 0,0:06:22.98,0:06:25.18,Default,,0,0,0,, císaře, kteří projevovali
-Dialogue: 0,0:06:25.52,0:06:29.04,Default,,0,0,0,,minimální zájem o fungování státu 
+Dialogue: 0,0:06:25.52,0:06:29.04,Default,,0,0,0,,minimální zájem o fungování státu
 Dialogue: 0,0:06:29.04,0:06:31.04,Default,,0,0,0,,zřejmě v důsledku jistých
-Dialogue: 0,0:06:32.81,0:06:36.02,Default,,0,0,0,,"dispozic nervového systému" takto píšeme. 
+Dialogue: 0,0:06:32.81,0:06:36.02,Default,,0,0,0,,"dispozic nervového systému" takto píšeme.
 Dialogue: 0,0:06:36.28,0:06:38.62,Default,,0,0,0,,A díky tomu je období Tajšó,
 Dialogue: 0,0:06:38.62,0:06:41.30,Default,,0,0,0,, ač se mu Japonci pohříchu málo věnují,
 Dialogue: 0,0:06:41.41,0:06:44.30,Default,,0,0,0,,jedním z mála období, ve kterém v Japonsku docela kvetla
 Dialogue: 0,0:06:44.30,0:06:48.68,Default,,0,0,0,, i občanská společnost, než se to vlastně zase zvrhlo v tu převahu armády.
 Dialogue: 0,0:06:48.68,0:06:50.56,Default,,0,0,0,,Takže je to právě i jeden z důvodů,
 Dialogue: 0,0:06:50.50,0:06:52.93,Default,,0,0,0,,proč se i rušili do té doby docela
-Dialogue: 0,0:06:52.89,0:06:56.70,Default,,0,0,0,,posvátné nařízení o něch z otců zakladatelů, 
+Dialogue: 0,0:06:52.89,0:06:56.70,Default,,0,0,0,,posvátné nařízení o něch z otců zakladatelů,
 Dialogue: 0,0:06:56.70,0:06:59.32,Default,,0,0,0,,otců revoluce, tyhlety pravidla.
 Dialogue: 0,0:06:59.50,0:07:03.08,Default,,0,0,0,,Takže jak říkám tedy, je to takový dozvuk.
 Dialogue: 0,0:07:03.12,0:07:06.49,Default,,0,0,0,,Prostě když to do těch lidí hustíte 50 let, tak to v nich zůstává.
@@ -172,37 +172,37 @@ Dialogue: 0,0:07:07.18,0:07:09.89,Default,,0,0,0,,A to dokonce i po několik zas
 Dialogue: 0,0:07:10.32,0:07:14.24,Default,,0,0,0,,Takže do školy, že byste se v Japonsku svezli se svým vozem, neexistuje.
 Dialogue: 0,0:07:14.46,0:07:18.16,Default,,0,0,0,,Já k tomu mám dokonce výtažek ze školních
 Dialogue: 0,0:07:18.26,0:07:19.88,Default,,0,0,0,,ze školního řádu.
-Dialogue: 0,0:07:20.41,0:07:23.85,Default,,0,0,0,,Jednalo by se totiž o pošlapání kolektivního ducha 
+Dialogue: 0,0:07:20.41,0:07:23.85,Default,,0,0,0,,Jednalo by se totiž o pošlapání kolektivního ducha
 Dialogue: 0,0:07:23.85,0:07:27.42,Default,,0,0,0,,žactva a odklonu od výchovy k samostatnosti.
 Dialogue: 0,0:07:28.40,0:07:29.72,Default,,0,0,0,,To protože
 Dialogue: 0,0:07:29.94,0:07:34.48,Default,,0,0,0,, v Japonsku existuje přesvědčení, že tím, že to děcko, které skončilo tu školku
 Dialogue: 0,0:07:34.66,0:07:36.96,Default,,0,0,0,,a už jde na tu základku třeba dál od domova,
 Dialogue: 0,0:07:37.18,0:07:41.05,Default,,0,0,0,,pošlete městskou hromadnou dopravou, tak ho vychováváte k samostatnosti.
-Dialogue: 0,0:07:41.84,0:07:45.80,Default,,0,0,0,,Nevím, co přesně to svědčí o kvalitě japonské hromadné dopravy 
+Dialogue: 0,0:07:41.84,0:07:45.80,Default,,0,0,0,,Nevím, co přesně to svědčí o kvalitě japonské hromadné dopravy
 Dialogue: 0,0:07:46.02,0:07:49.16,Default,,0,0,0,,či naopak kvalitě japonského studentstva,
 Dialogue: 0,0:07:49.92,0:07:52.81,Default,,0,0,0,,ale je to takové podivné přesvědčení.
-Dialogue: 0,0:07:53.33,0:07:57.25,Default,,0,0,0,,A co se týče kolektivního ducha žactva, tak většině z vás asi 
+Dialogue: 0,0:07:53.33,0:07:57.25,Default,,0,0,0,,A co se týče kolektivního ducha žactva, tak většině z vás asi
 Dialogue: 0,0:07:57.26,0:07:58.68,Default,,0,0,0,,nemusím vysvětlovat,
 Dialogue: 0,0:07:58.70,0:08:00.66,Default,,0,0,0,,že japonský systém:
 Dialogue: 0,0:08:00.66,0:08:04.20,Default,,0,0,0,,tlačíme tak, aby žádný hřebík nekoukal z řady,
 Dialogue: 0,0:08:04.22,0:08:07.80,Default,,0,0,0,,pokud možno kolektivně zpracovávat, co možná nejvíce věcí
-Dialogue: 0,0:08:07.80,0:08:10.45,Default,,0,0,0,,a státi se těmi platnými členy společnosti, je opravdu 
+Dialogue: 0,0:08:07.80,0:08:10.45,Default,,0,0,0,,a státi se těmi platnými členy společnosti, je opravdu
 Dialogue: 0,0:08:10.45,0:08:12.45,Default,,0,0,0,,doktrína, podle které jedou, už
 Dialogue: 0,0:08:12.90,0:08:16.44,Default,,0,0,0,,vlastně od velké transformace školství podle německého modelu, takže
 Dialogue: 0,0:08:16.62,0:08:17.81,Default,,0,0,0,,v tuhletu chvíli
 Dialogue: 0,0:08:17.81,0:08:20.60,Default,,0,0,0,,není důvod o téhleté věci pochybovat.
 Dialogue: 0,0:08:20.80,0:08:22.70,Default,,0,0,0,,Navíc přesně tahle ta věta
-Dialogue: 0,0:08:22.89,0:08:25.46,Default,,0,0,0,, se objevila i ve zdůvodnění 
+Dialogue: 0,0:08:22.89,0:08:25.46,Default,,0,0,0,, se objevila i ve zdůvodnění
 Dialogue: 0,0:08:25.46,0:08:29.32,Default,,0,0,0,,několika incidentů, které se mi povedlo v tomhletom dohledat. Reálných incidentů.
 Dialogue: 0,0:08:31.50,0:08:32.09,Default,,0,0,0,,Ano.
 Dialogue: 0,0:08:32.10,0:08:34.10,Default,,0,0,0,,Obchodník z USA,
 Dialogue: 0,0:08:34.10,0:08:38.18,Default,,0,0,0,,který v 70. letech začal v Japonsku vlastně řídit svoji filiálku.
 Dialogue: 0,0:08:38.62,0:08:42.89,Default,,0,0,0,,Svého synka byl ve státech zvyklý do školy vozit.
-Dialogue: 0,0:08:43.10,0:08:44.44,Default,,0,0,0,,Prostě, že ho ráno naložil, 
+Dialogue: 0,0:08:43.10,0:08:44.44,Default,,0,0,0,,Prostě, že ho ráno naložil,
 Dialogue: 0,0:08:44.45,0:08:46.70,Default,,0,0,0,,hodil ho do školy, dojel si do práce, tam to vyřídil,
 Dialogue: 0,0:08:46.81,0:08:49.34,Default,,0,0,0,,jel z práce, synka naložil, hodilo ho domů.
 Dialogue: 0,0:08:50.10,0:08:51.90,Default,,0,0,0,,V Japonsku to provedl jenom jednou.
-Dialogue: 0,0:08:52.44,0:08:55.37,Default,,0,0,0,,Synek byl na měsíc podmínečně vyloučen 
+Dialogue: 0,0:08:52.44,0:08:55.37,Default,,0,0,0,,Synek byl na měsíc podmínečně vyloučen
 Dialogue: 0,0:08:55.37,0:08:57.37,Default,,0,0,0,,a hrozilo mu vyloučení kompletní.
 Dialogue: 0,0:08:58.04,0:09:00.29,Default,,0,0,0,,Právě na základě tohoto odůvodnění.
 Dialogue: 0,0:09:02.50,0:09:04.06,Default,,0,0,0,,Co se týče
@@ -213,7 +213,7 @@ Dialogue: 0,0:09:13.42,0:09:15.33,Default,,0,0,0,,pořídil jak ten vůz, tak to
 Dialogue: 0,0:09:15.88,0:09:18.68,Default,,0,0,0,,Zase. Do školy dojela jenom jednou, byla vyloučena.
 Dialogue: 0,0:09:19.40,0:09:23.20,Default,,0,0,0,,Bez debat, bez omluvy, bez vrácení školného.
 Dialogue: 0,0:09:24.60,0:09:25.76,Default,,0,0,0,,Takže takto.
-Dialogue: 0,0:09:27.25,0:09:28.78,Default,,0,0,0,,Je zajímavé, že 
+Dialogue: 0,0:09:27.25,0:09:28.78,Default,,0,0,0,,Je zajímavé, že
 Dialogue: 0,0:09:28.78,0:09:30.45,Default,,0,0,0,,je několik
 Dialogue: 0,0:09:30.45,0:09:33.85,Default,,0,0,0,, výjimek, které vám v tomhle tom mohou přeci jenom pomoci.
 Dialogue: 0,0:09:34.68,0:09:35.84,Default,,0,0,0,,1.
@@ -226,8 +226,8 @@ Dialogue: 0,0:09:55.00,0:09:58.62,Default,,0,0,0,,Nebo je vám vysloveně doporu
 Dialogue: 0,0:09:58.62,0:10:00.62,Default,,0,0,0,, jiného vzdělávacího systému.
 Dialogue: 0,0:10:02.65,0:10:06.14,Default,,0,0,0,,Jak se tohleto přeložíte a ohledně japonské společnosti, už nechám na vašich hlavách.
 Dialogue: 0,0:10:06.92,0:10:09.70,Default,,0,0,0,,2. výjimkou jsou bicykly.
-Dialogue: 0,0:10:10.44,0:10:13.45,Default,,0,0,0,,Kolo se stalo totiž někdy 
-Dialogue: 0,0:10:13.45,0:10:14.94,Default,,0,0,0,,okolo přelomu 
+Dialogue: 0,0:10:10.44,0:10:13.45,Default,,0,0,0,,Kolo se stalo totiž někdy
+Dialogue: 0,0:10:13.45,0:10:14.94,Default,,0,0,0,,okolo přelomu
 Dialogue: 0,0:10:14.94,0:10:18.66,Default,,0,0,0,,75., 76. roku takovou
 Dialogue: 0,0:10:19.04,0:10:20.58,Default,,0,0,0,,Jak to říct.
 Dialogue: 0,0:10:20.60,0:10:24.68,Default,,0,0,0,,Ztělesněním teenage snu v Japonsku,
@@ -246,10 +246,10 @@ Dialogue: 0,0:10:57.21,0:10:59.46,Default,,0,0,0,,Dokonce to vedlo k tomu, že s
 Dialogue: 0,0:10:59.68,0:11:01.24,Default,,0,0,0,,jedna móda.
 Dialogue: 0,0:11:01.44,0:11:04.10,Default,,0,0,0,,Existuje pro to pomenování "itaša",
 Dialogue: 0,0:11:04.14,0:11:07.12,Default,,0,0,0,,které se dnes používá pro pojmenování otaku aut.
-Dialogue: 0,0:11:07.80,0:11:08.60,Default,,0,0,0,,Takové ty, 
+Dialogue: 0,0:11:07.80,0:11:08.60,Default,,0,0,0,,Takové ty,
 Dialogue: 0,0:11:08.60,0:11:12.16,Default,,0,0,0,,na kterých je nakreslená Saber, či jiné lolitky, nebo
 Dialogue: 0,0:11:12.25,0:11:15.38,Default,,0,0,0,,odhalení bishouneni atd., všechno tohleto.
-Dialogue: 0,0:11:15.57,0:11:18.58,Default,,0,0,0,,Tak původně se tím označovala kola, 
+Dialogue: 0,0:11:15.57,0:11:18.58,Default,,0,0,0,,Tak původně se tím označovala kola,
 Dialogue: 0,0:11:18.58,0:11:20.58,Default,,0,0,0,,která se ti studenti
 Dialogue: 0,0:11:20.78,0:11:23.40,Default,,0,0,0,,zvláště pokud se jedná o delikventy.
 Dialogue: 0,0:11:23.44,0:11:26.48,Default,,0,0,0,,Tady to berte jako takovouu dobrou radu, vy kteří máte modré pásky.
@@ -271,7 +271,7 @@ Dialogue: 0,0:12:11.70,0:12:14.90,Default,,0,0,0,,Takže dojíždění do školy
 Dialogue: 0,0:12:15.00,0:12:18.78,Default,,0,0,0,,není v Japonsku nic, co by jste tam opravdu dělo
 Dialogue: 0,0:12:18.96,0:12:22.44,Default,,0,0,0,,a tedy důvod, proč se to začalo objevovat v anime
 Dialogue: 0,0:12:23.10,0:12:24.49,Default,,0,0,0,,je následující.
-Dialogue: 0,0:12:24.72,0:12:26.16,Default,,0,0,0,,Právě proto, že 
+Dialogue: 0,0:12:24.72,0:12:26.16,Default,,0,0,0,,Právě proto, že
 Dialogue: 0,0:12:26.16,0:12:29.10,Default,,0,0,0,,nejezdili, neměli jak jezdit tím autem do školy nebo
 Dialogue: 0,0:12:29.10,0:12:31.09,Default,,0,0,0,,prostě je to něco cizího.
 Dialogue: 0,0:12:31.21,0:12:34.09,Default,,0,0,0,,Tak to můžete využít k ukázání právě cizosti settingu.
@@ -279,7 +279,7 @@ Dialogue: 0,0:12:34.42,0:12:38.36,Default,,0,0,0,,Tohle je třeba screen z půvo
 Dialogue: 0,0:12:38.64,0:12:41.62,Default,,0,0,0,,Hlavní hrdina Amuro Ray, který takto dojíždí do školy
 Dialogue: 0,0:12:41.64,0:12:43.92,Default,,0,0,0,,ve svém voze, pravda,
 Dialogue: 0,0:12:43.92,0:12:46.56,Default,,0,0,0,,že na orbitální stanici a proto si to může dovolit,
-Dialogue: 0,0:12:46.56,0:12:48.57,Default,,0,0,0,,protože to není náš svět. Je to někde daleko, 
+Dialogue: 0,0:12:46.56,0:12:48.57,Default,,0,0,0,,protože to není náš svět. Je to někde daleko,
 Dialogue: 0,0:12:48.60,0:12:50.26,Default,,0,0,0,,je to budounost, je to něco cizího.
 Dialogue: 0,0:12:50.37,0:12:52.60,Default,,0,0,0,,Něco co prostě není tenhle ten svět.
 Dialogue: 0,0:12:52.60,0:12:55.41,Default,,0,0,0,,A tímhle tím to jenom podtrhneme, protože tam
@@ -294,7 +294,7 @@ Dialogue: 0,0:13:16.89,0:13:19.29,Default,,0,0,0,,{\i1}(Existuje vzdálenost od 
 Dialogue: 0,0:13:19.29,0:13:22.96,Default,,0,0,0,,Ne. Protože vzdálenost od školy vám přeci řeší autobus.
 Dialogue: 0,0:13:23.00,0:13:25.80,Default,,0,0,0,,{\i1}(Když by vás rodiče vyhodili za rohem){\i0}
 Dialogue: 0,0:13:25.88,0:13:28.24,Default,,0,0,0,,{\i1}(smích){\i0}
-Dialogue: 0,0:13:29.04,0:13:31.96,Default,,0,0,0,,Samozřejmě. Někteří lidé 
+Dialogue: 0,0:13:29.04,0:13:31.96,Default,,0,0,0,,Samozřejmě. Někteří lidé
 Dialogue: 0,0:13:32.00,0:13:34.09,Default,,0,0,0,,tohle zkoušeli. Pravda jednalo se hlavně o cizince.
 Dialogue: 0,0:13:34.30,0:13:37.77,Default,,0,0,0,,Velmi rychle narazili na jednu základní problematiku.
 Dialogue: 0,0:13:38.32,0:13:41.45,Default,,0,0,0,,Japonci si velmi rádi všímají věcí.
@@ -316,11 +316,11 @@ Dialogue: 0,0:14:27.60,0:14:30.12,Default,,0,0,0,,Tak si ho nezavolá z toho dů
 Dialogue: 0,0:14:30.54,0:14:33.20,Default,,0,0,0,,Protože pokud vás odveze taxík,
 Dialogue: 0,0:14:33.20,0:14:35.10,Default,,0,0,0,, ten taxikář to má jak nahlásit.
 Dialogue: 0,0:14:35.10,0:14:36.72,Default,,0,0,0,,Nezapomínejte, že v Japonsku
-Dialogue: 0,0:14:36.97,0:14:40.49,Default,,0,0,0,,jsou to právě žáci základních až středních škol, 
+Dialogue: 0,0:14:36.97,0:14:40.49,Default,,0,0,0,,jsou to právě žáci základních až středních škol,
 Dialogue: 0,0:14:40.81,0:14:43.89,Default,,0,0,0,,kteří jsou vlastně jediný vybavení v podstatě občankou,
 Dialogue: 0,0:14:44.76,0:14:47.14,Default,,0,0,0,,protože jako jediný občané Japonska
 Dialogue: 0,0:14:47.18,0:14:50.70,Default,,0,0,0,,mají jasnou legitimaci, kde je uvedené
-Dialogue: 0,0:14:50.70,0:14:53.38,Default,,0,0,0,,bydliště, adresa školy 
+Dialogue: 0,0:14:50.70,0:14:53.38,Default,,0,0,0,,bydliště, adresa školy
 Dialogue: 0,0:14:53.60,0:14:57.69,Default,,0,0,0,,a další informace k tomu, aby mohli být identifikováni, třeba když jsou za školou.
 Dialogue: 0,0:14:59.50,0:15:00.42,Default,,0,0,0,,Takže pozor.
 Dialogue: 0,0:15:02.53,0:15:04.64,Default,,0,0,0,,Takže jak jsem říkal poprvé,
@@ -332,7 +332,7 @@ Dialogue: 0,0:15:13.78,0:15:17.20,Default,,0,0,0,,i tam se mnohokrát zmiňovalo
 Dialogue: 0,0:15:17.25,0:15:20.21,Default,,0,0,0,,na svých motorkách nebo něčem podobném prostě proto, že to byla
 Dialogue: 0,0:15:20.24,0:15:22.22,Default,,0,0,0,,tak vzdálená budoucnost, že už to přece bylo možné.
 Dialogue: 0,0:15:24.42,0:15:25.58,Default,,0,0,0,,...tady je přijímač...
-Dialogue: 0,0:15:26.12,0:15:28.88,Default,,0,0,0,,Ano. Na počátku 80. let pak přichází 
+Dialogue: 0,0:15:26.12,0:15:28.88,Default,,0,0,0,,Ano. Na počátku 80. let pak přichází
 Dialogue: 0,0:15:29.02,0:15:30.88,Default,,0,0,0,,bohatá cizinka.
 Dialogue: 0,0:15:31.46,0:15:33.89,Default,,0,0,0,,Protože pokud máte bohatou cizinku
 Dialogue: 0,0:15:34.04,0:15:35.85,Default,,0,0,0,,a chcete ukázat i tomu
@@ -350,46 +350,46 @@ Dialogue: 0,0:16:05.32,0:16:08.26,Default,,0,0,0,,necelých 5 let poté přichá
 Dialogue: 0,0:16:08.48,0:16:10.96,Default,,0,0,0,,princ se značkovým vozem.
 Dialogue: 0,0:16:11.32,0:16:14.60,Default,,0,0,0,,přiznejme si to dámy, kobyly už netáhnou.
 Dialogue: 0,0:16:14.65,0:16:18.10,Default,,0,0,0,,Ono přeci jenom, musí se po tom uklízet a takové ty věci
-Dialogue: 0,0:16:17.96,0:16:21.33,Default,,0,0,0,,a ona ta lesklá zbroj se vejde do kufru, 
+Dialogue: 0,0:16:17.96,0:16:21.33,Default,,0,0,0,,a ona ta lesklá zbroj se vejde do kufru,
 Dialogue: 0,0:16:22.00,0:16:25.82,Default,,0,0,0,,místo toho si vytáhnete nažehlený oblek a máte vyšitého prince z vašich snů.
 Dialogue: 0,0:16:26.92,0:16:31.04,Default,,0,0,0,,Tady vidíte vlastně tedy už starší Live Action Ouranu,
 Dialogue: 0,0:16:31.12,0:16:33.84,Default,,0,0,0,,který vlastně tady můžete na animefestu vidět,
-Dialogue: 0,0:16:34.00,0:16:37.90,Default,,0,0,0,,Takto si poradili s onou známou scénu, kdy se před 
+Dialogue: 0,0:16:34.00,0:16:37.90,Default,,0,0,0,,Takto si poradili s onou známou scénu, kdy se před
 Dialogue: 0,0:16:38.10,0:16:40.00,Default,,0,0,0,,ubohým bytem na předměstí
 Dialogue: 0,0:16:40.00,0:16:42.28,Default,,0,0,0,,najednou zastaví Rolls-Royce, Mercedes a
 Dialogue: 0,0:16:42.32,0:16:44.84,Default,,0,0,0,,já nevím jaká další limuzína našich milých hochů.
-Dialogue: 0,0:16:45.12,0:16:47.66,Default,,0,0,0,,Tak tady je přijeli navštívit v tomhletom 
+Dialogue: 0,0:16:45.12,0:16:47.66,Default,,0,0,0,,Tak tady je přijeli navštívit v tomhletom
 Dialogue: 0,0:16:48.50,0:16:52.50,Default,,0,0,0,,zřejmě Hummerem inspirovaném limuzínské monstru.
 Dialogue: 0,0:16:52.66,0:16:56.38,Default,,0,0,0,,Takže ano. Princ s vozem správné značky,
 Dialogue: 0,0:16:56.42,0:16:59.70,Default,,0,0,0,, dámy jednoznačně pro vás. Má správné konto,
-Dialogue: 0,0:16:59.70,0:17:01.10,Default,,0,0,0,,má správně vystupování, 
+Dialogue: 0,0:16:59.70,0:17:01.10,Default,,0,0,0,,má správně vystupování,
 Dialogue: 0,0:17:01.10,0:17:05.00,Default,,0,0,0,,má úžasné způsoby. Protože v těch 85. ještě nebylo zvykem,
 Dialogue: 0,0:17:05.00,0:17:08.56,Default,,0,0,0,,aby měl svůj červený salón v něm důtky a želízka.
 Dialogue: 0,0:17:09.20,0:17:10.42,Default,,0,0,0,,Tak.
 Dialogue: 0,0:17:11.42,0:17:13.92,Default,,0,0,0,,A samozřejmě, jestliže máte tyhlety použití,
-Dialogue: 0,0:17:13.97,0:17:15.22,Default,,0,0,0,, tak do dneška, 
+Dialogue: 0,0:17:13.97,0:17:15.22,Default,,0,0,0,, tak do dneška,
 Dialogue: 0,0:17:15.26,0:17:18.46,Default,,0,0,0,,když se podíváte na různá anime, která řeší střední školy a
 Dialogue: 0,0:17:18.54,0:17:21.20,Default,,0,0,0,,objeví se tam charakter, který tam dojíždí prostě tím,
 Dialogue: 0,0:17:21.29,0:17:23.89,Default,,0,0,0,, že vozem, řidičem nebo nějakým způsobem
 Dialogue: 0,0:17:23.89,0:17:27.20,Default,,0,0,0,, je tam vlastně dodáván takto.
 Dialogue: 0,0:17:27.94,0:17:32.22,Default,,0,0,0,,Jedná se o charakter, který je nějakým způsobem silně vytržen z běžných konvencí.
-Dialogue: 0,0:17:33.05,0:17:34.12,Default,,0,0,0,,Ať už je to ta 
+Dialogue: 0,0:17:33.05,0:17:34.12,Default,,0,0,0,,Ať už je to ta
 Dialogue: 0,0:17:34.20,0:17:35.58,Default,,0,0,0,,velmi mocná prezidentka...
 Dialogue: 0,0:17:35.78,0:17:40.22,Default,,0,0,0,, předsedkyně studentské rady nebo nějakým způsobem syn yakuzáka,
-Dialogue: 0,0:17:40.30,0:17:42.82,Default,,0,0,0,,dcera bohatého obchodníka, 
+Dialogue: 0,0:17:40.30,0:17:42.82,Default,,0,0,0,,dcera bohatého obchodníka,
 Dialogue: 0,0:17:43.04,0:17:45.50,Default,,0,0,0,,dcera majitele školy a podobných věcí,
-Dialogue: 0,0:17:45.82,0:17:48.81,Default,,0,0,0,,vždycky se bude jednat o osobu, která je nějakým způsobem 
+Dialogue: 0,0:17:45.82,0:17:48.81,Default,,0,0,0,,vždycky se bude jednat o osobu, která je nějakým způsobem
 Dialogue: 0,0:17:47.79,0:17:50.29,Default,,0,0,0,,vytržená z toho kontextu
-Dialogue: 0,0:17:50.29,0:17:51.98,Default,,0,0,0,,řekněme japonských způsobů. 
-Dialogue: 0,0:17:52.13,0:17:53.72,Default,,0,0,0,,A tímhle tím to jenom podtrhujete. 
+Dialogue: 0,0:17:50.29,0:17:51.98,Default,,0,0,0,,řekněme japonských způsobů.
+Dialogue: 0,0:17:52.13,0:17:53.72,Default,,0,0,0,,A tímhle tím to jenom podtrhujete.
 Dialogue: 0,0:17:53.94,0:17:56.32,Default,,0,0,0,,Takže jak říkám, ztraceno v nepřekladu.
 Dialogue: 0,0:17:57.36,0:17:59.88,Default,,0,0,0,,A můžeme přejít k dalšímu.
 Dialogue: 0,0:18:01.84,0:18:02.84,Default,,0,0,0,,To je... Ano?
 Dialogue: 0,0:18:03.64,0:18:05.02,Default,,0,0,0,,{\i1}(Jak to mají profesoři?){\i0}
 Dialogue: 0,0:18:05.78,0:18:07.09,Default,,0,0,0,,Tak co se profesorů týče, tak ti
 Dialogue: 0,0:18:07.12,0:18:09.49,Default,,0,0,0,,naštěstí již těží z toho, že jsou dospělí.
-Dialogue: 0,0:18:09.62,0:18:12.12,Default,,0,0,0,, To znamená, že ti 
-Dialogue: 0,0:18:12.17,0:18:14.94,Default,,0,0,0,,musí řešit pouze tu věc, aby 
+Dialogue: 0,0:18:09.62,0:18:12.12,Default,,0,0,0,, To znamená, že ti
+Dialogue: 0,0:18:12.17,0:18:14.94,Default,,0,0,0,,musí řešit pouze tu věc, aby
 Dialogue: 0,0:18:15.08,0:18:18.81,Default,,0,0,0,,žádným způsobem neohrozili dobré jméno svého ústavu.
 Dialogue: 0,0:18:18.92,0:18:20.40,Default,,0,0,0,,Čemuž dojíždění vlastním vozem
 Dialogue: 0,0:18:20.40,0:18:24.13,Default,,0,0,0,,samozřejmě jaksi nějak neuškodí nebo nepomůže, takže
@@ -468,17 +468,17 @@ Dialogue: 0,0:21:29.70,0:21:33.04,Default,,0,0,0,,vlastně proč ztraceno v nep�
 Dialogue: 0,0:21:33.04,0:21:35.42,Default,,0,0,0,,Všichni z vás znáte takové ty anime,
 Dialogue: 0,0:21:35.54,0:21:36.16,Default,,0,0,0,,ve kterých
 Dialogue: 0,0:21:36.37,0:21:38.16,Default,,0,0,0,,vlastně skutečnou moc
-Dialogue: 0,0:21:38.78,0:21:42.25,Default,,0,0,0,,na pedagogickém ústavu nedrží pedagogický sbor, 
+Dialogue: 0,0:21:38.78,0:21:42.25,Default,,0,0,0,,na pedagogickém ústavu nedrží pedagogický sbor,
 Dialogue: 0,0:21:42.42,0:21:45.18,Default,,0,0,0,,ale studentská rada. Studentská rada, která dokáže říct
-Dialogue: 0,0:21:45.40,0:21:48.29,Default,,0,0,0,, profesorovi: "Hmm, vy se nám nelíbíte. Vy už tu učit nebudete." 
+Dialogue: 0,0:21:45.40,0:21:48.29,Default,,0,0,0,, profesorovi: "Hmm, vy se nám nelíbíte. Vy už tu učit nebudete."
 Dialogue: 0,0:21:48.49,0:21:52.28,Default,,0,0,0,,nebo studentska rada, která přijde: "Hmm, ty se nám nelíbíš, ty už tu studovat nebudeš" apod.
-Dialogue: 0,0:21:54.57,0:21:55.82,Default,,0,0,0,,Je otázka... Takhle 
+Dialogue: 0,0:21:54.57,0:21:55.82,Default,,0,0,0,,Je otázka... Takhle
 Dialogue: 0,0:21:55.85,0:21:59.77,Default,,0,0,0,,Je to dost užívaná věc a tady se podíváme na to, kde
 Dialogue: 0,0:21:59.77,0:22:01.93,Default,,0,0,0,,a proč vlastně vznikla, v jakém kontextu?
 Dialogue: 0,0:22:02.28,0:22:03.92,Default,,0,0,0,,Zase ztraceno v nepřekladu.
 Dialogue: 0,0:22:04.08,0:22:06.44,Default,,0,0,0,,Protože asi málokdo bude hrabat do
 Dialogue: 0,0:22:06.73,0:22:08.02,Default,,0,0,0,,80. let
-Dialogue: 0,0:22:09.72,0:22:11.62,Default,,0,0,0,,protože 
+Dialogue: 0,0:22:09.72,0:22:11.62,Default,,0,0,0,,protože
 Dialogue: 0,0:22:11.81,0:22:16.02,Default,,0,0,0,,Japonsko mělo dlouhou dobu silně rigidní školní systém.
 Dialogue: 0,0:22:16.81,0:22:18.65,Default,,0,0,0,,dokonce ani americká
 Dialogue: 0,0:22:18.66,0:22:21.49,Default,,0,0,0,,vlastně americký vliv po 2. světové válce
@@ -492,17 +492,17 @@ Dialogue: 0,0:22:38.64,0:22:40.50,Default,,0,0,0,,A v 80. letech
 Dialogue: 0,0:22:40.50,0:22:43.92,Default,,0,0,0,,se začaly silně medializovat sebevraždy studentů.
 Dialogue: 0,0:22:44.56,0:22:47.85,Default,,0,0,0,,Studentů, u kterých se obvykle udávalo, že se
 Dialogue: 0,0:22:47.84,0:22:52.01,Default,,0,0,0,,že sebevraždu vlastně spáchali vlivem tlaku na vyšší výkon,
-Dialogue: 0,0:22:52.05,0:22:53.29,Default,,0,0,0,,lepší školní výsledky 
-Dialogue: 0,0:22:53.50,0:22:55.82,Default,,0,0,0,,případně nějakou formu šikany 
+Dialogue: 0,0:22:52.05,0:22:53.29,Default,,0,0,0,,lepší školní výsledky
+Dialogue: 0,0:22:53.50,0:22:55.82,Default,,0,0,0,,případně nějakou formu šikany
 Dialogue: 0,0:22:57.45,0:23:01.25,Default,,0,0,0,,ze strany školy nebo studentstva, které škola neřešila.
-Dialogue: 0,0:23:02.80,0:23:06.26,Default,,0,0,0,,A jelikož společnost začala přeci jenom tyhle ty věci 
-Dialogue: 0,0:23:06.44,0:23:08.82,Default,,0,0,0,,trochu reflektovat, a protože jsou to Japonci, kteří 
+Dialogue: 0,0:23:02.80,0:23:06.26,Default,,0,0,0,,A jelikož společnost začala přeci jenom tyhle ty věci
+Dialogue: 0,0:23:06.44,0:23:08.82,Default,,0,0,0,,trochu reflektovat, a protože jsou to Japonci, kteří
 Dialogue: 0,0:23:08.85,0:23:11.78,Default,,0,0,0,,když něco reflektují, tak to dělají velmi divným způsobem.
 Dialogue: 0,0:23:13.20,0:23:13.81,Default,,0,0,0,,Tak.
 Dialogue: 0,0:23:15.29,0:23:18.76,Default,,0,0,0,,se snažili, řekněme, ten problém zahrát do autu.
 Dialogue: 0,0:23:19.42,0:23:23.78,Default,,0,0,0,,Protože japonská strategie pro řešení většiny problémů ve společnosti spočívá spíše v tom, že
 Dialogue: 0,0:23:24.12,0:23:25.42,Default,,0,0,0,,že víme-li, že máme problém,
-Dialogue: 0,0:23:25.82,0:23:27.76,Default,,0,0,0,,tak o něm jako nebudeme mluvit 
+Dialogue: 0,0:23:25.82,0:23:27.76,Default,,0,0,0,,tak o něm jako nebudeme mluvit
 Dialogue: 0,0:23:28.10,0:23:29.13,Default,,0,0,0,,a on zmizí.
 Dialogue: 0,0:23:29.58,0:23:32.74,Default,,0,0,0,,Teprve když přečká tuhle tu jako první fázy,
 Dialogue: 0,0:23:32.77,0:23:35.44,Default,,0,0,0,, Že jako o něm nemluvíme a on stejně trvá.
@@ -517,19 +517,19 @@ Dialogue: 0,0:23:51.00,0:23:54.49,Default,,0,0,0,,a zkusíme vypracovat těch as
 Dialogue: 0,0:23:54.50,0:23:56.25,Default,,0,0,0,,na to, co s nimi dělat.
 Dialogue: 0,0:23:57.18,0:23:57.86,Default,,0,0,0,,Takže tak.
 Dialogue: 0,0:23:58.94,0:24:01.02,Default,,0,0,0,,No a jak si nejlépe poradit?
-Dialogue: 0,0:24:01.17,0:24:03.76,Default,,0,0,0,,ne že tady to zkusit tutlat, ale 
+Dialogue: 0,0:24:01.17,0:24:03.76,Default,,0,0,0,,ne že tady to zkusit tutlat, ale
 Dialogue: 0,0:24:04.36,0:24:08.40,Default,,0,0,0,,autorská mysl je v tomhle tom trošku záludná, zvláště když řeší
 Dialogue: 0,0:24:08.50,0:24:09.56,Default,,0,0,0,,taky nějaký problém.
 Dialogue: 0,0:24:10.32,0:24:11.72,Default,,0,0,0,, jednalo se hlavně o
 Dialogue: 0,0:24:11.77,0:24:14.56,Default,,0,0,0,, velmi bobtnající tituly pro dívky.
 Dialogue: 0,0:24:16.06,0:24:17.94,Default,,0,0,0,,Protože romantické mangy řešily
-Dialogue: 0,0:24:18.12,0:24:19.56,Default,,0,0,0,,jakým způsobem 
+Dialogue: 0,0:24:18.12,0:24:19.56,Default,,0,0,0,,jakým způsobem
 Dialogue: 0,0:24:19.86,0:24:22.33,Default,,0,0,0,,ozvláštnit tz. popelkovské schéma.
 Dialogue: 0,0:24:22.85,0:24:24.09,Default,,0,0,0,,Já se zeptám, tady v sále.
 Dialogue: 0,0:24:24.18,0:24:26.60,Default,,0,0,0,,Zkusí mi někdo říct, co je to popelkovské schéma?
 Dialogue: 0,0:24:26.60,0:24:28.60,Default,,0,0,0,,
 Dialogue: 0,0:24:30.54,0:24:30.85,Default,,0,0,0,,A.
-Dialogue: 0,0:24:32.52,0:24:33.25,Default,,0,0,0,,Jinak 
+Dialogue: 0,0:24:32.52,0:24:33.25,Default,,0,0,0,,Jinak
 Dialogue: 0,0:24:34.04,0:24:35.17,Default,,0,0,0,,šprt nebo...
 Dialogue: 0,0:24:36.34,0:24:38.38,Default,,0,0,0,,Á, šprt do toho.
 Dialogue: 0,0:24:49.89,0:24:50.58,Default,,0,0,0,,Ano.
@@ -541,19 +541,19 @@ Dialogue: 0,0:25:02.50,0:25:06.40,Default,,0,0,0,,Já
 Dialogue: 0,0:25:05.92,0:25:08.25,Default,,0,0,0,,Já jen doplním,, že součástí tohoto
 Dialogue: 0,0:25:08.30,0:25:10.50,Default,,0,0,0,,jsou právě i ony zlé sestry a macecha.
 Dialogue: 0,0:25:10.50,0:25:12.09,Default,,0,0,0,,To znamená ta dívka musí
-Dialogue: 0,0:25:12.77,0:25:15.29,Default,,0,0,0,,řekněme, nečelit tomu, že je neatraktivní, 
+Dialogue: 0,0:25:12.77,0:25:15.29,Default,,0,0,0,,řekněme, nečelit tomu, že je neatraktivní,
 Dialogue: 0,0:25:15.54,0:25:18.78,Default,,0,0,0,,ale musí tam být nějaké aktivní prvek ostrakizace, něco
 Dialogue: 0,0:25:18.97,0:25:21.68,Default,,0,0,0,,co jí aktivně prostě se snaží dělat ze života peklo.
 Dialogue: 0,0:25:23.94,0:25:24.76,Default,,0,0,0,,Když už jako,
 Dialogue: 0,0:25:25.05,0:25:26.37,Default,,0,0,0,,v těch 80. letech, jako
-Dialogue: 0,0:25:26.69,0:25:28.45,Default,,0,0,0,,Boucháme to jako Baťa cvičky, že jo. 
+Dialogue: 0,0:25:26.69,0:25:28.45,Default,,0,0,0,,Boucháme to jako Baťa cvičky, že jo.
 Dialogue: 0,0:25:28.45,0:25:31.77,Default,,0,0,0,,Holky to rádi čtou, ale už nám jako choděj ty dopisy, tehdy ještě,
 Dialogue: 0,0:25:32.81,0:25:35.32,Default,,0,0,0,,který říkají: "Hele jako, mohlo by to být něco jinýho".
 Dialogue: 0,0:25:35.78,0:25:38.69,Default,,0,0,0,,A vidíme tohle a jako nemáme o tom mluvit, hmm.
 Dialogue: 0,0:25:39.34,0:25:39.84,Default,,0,0,0,,Hele.
-Dialogue: 0,0:25:40.05,0:25:42.96,Default,,0,0,0,,Co kdyby jí takjako třeba týrali na tý škole? 
+Dialogue: 0,0:25:40.05,0:25:42.96,Default,,0,0,0,,Co kdyby jí takjako třeba týrali na tý škole?
 Dialogue: 0,0:25:43.21,0:25:44.28,Default,,0,0,0,,Jako proč, no?
-Dialogue: 0,0:25:45.33,0:25:46.77,Default,,0,0,0,,Tak je to Popelka. 
+Dialogue: 0,0:25:45.33,0:25:46.77,Default,,0,0,0,,Tak je to Popelka.
 Dialogue: 0,0:25:46.85,0:25:50.54,Default,,0,0,0,,Ale co kdyby se dostala na školu, na kterou by jako normálně nemohla?
 Dialogue: 0,0:25:51.22,0:25:52.29,Default,,0,0,0,,Hele, to je dobrej nápad.
 Dialogue: 0,0:25:52.93,0:25:55.97,Default,,0,0,0,,Ale jako když ji necháme týrat učitelema, to nám nedovolej vydat.
@@ -564,7 +564,7 @@ Dialogue: 0,0:26:06.56,0:26:09.40,Default,,0,0,0,,Protože pokud se nám hrdinka
 Dialogue: 0,0:26:09.41,0:26:11.53,Default,,0,0,0,,na které nějakým způsobem nemá.
 Dialogue: 0,0:26:12.01,0:26:12.66,Default,,0,0,0,,Ať už
 Dialogue: 0,0:26:13.58,0:26:16.02,Default,,0,0,0,,akademicky, společensky, penězi,
-Dialogue: 0,0:26:16.02,0:26:18.02,Default,,0,0,0,,vzhledem, něčím 
+Dialogue: 0,0:26:16.02,0:26:18.02,Default,,0,0,0,,vzhledem, něčím
 Dialogue: 0,0:26:18.30,0:26:22.26,Default,,0,0,0,,Nebo se hned první den nějak znelíbí, protože naruší ty pořádky,
 Dialogue: 0,0:26:22.26,0:26:25.89,Default,,0,0,0,,které tam ta samozřejmě drsná školní rada praktikuje.
 Dialogue: 0,0:26:26.62,0:26:27.21,Default,,0,0,0,,Tak
@@ -588,26 +588,26 @@ Dialogue: 0,0:27:13.29,0:27:13.96,Default,,0,0,0,,Ano.
 Dialogue: 0,0:27:14.42,0:27:16.57,Default,,0,0,0,,Ano a vytvořily nám nového antagonistu,
 Dialogue: 0,0:27:16.57,0:27:18.45,Default,,0,0,0,,mocnou studentskou radu.
 Dialogue: 0,0:27:19.78,0:27:20.33,Default,,0,0,0,,Ano.
-Dialogue: 0,0:27:21.70,0:27:23.96,Default,,0,0,0,,Navíc díky tomu, že máte už 
+Dialogue: 0,0:27:21.70,0:27:23.96,Default,,0,0,0,,Navíc díky tomu, že máte už
 Dialogue: 0,0:27:24.04,0:27:26.14,Default,,0,0,0,,studentskou radu, která má nějaké zázemí,
-Dialogue: 0,0:27:26.24,0:27:27.97,Default,,0,0,0,,můžete být silně kreativní v tom, 
+Dialogue: 0,0:27:26.24,0:27:27.97,Default,,0,0,0,,můžete být silně kreativní v tom,
 Dialogue: 0,0:27:27.96,0:27:31.22,Default,,0,0,0,,jakým způsobem budete hrdince dělat ze života peklo, protože
-Dialogue: 0,0:27:31.37,0:27:32.58,Default,,0,0,0,,přiznejme si to, 
+Dialogue: 0,0:27:31.37,0:27:32.58,Default,,0,0,0,,přiznejme si to,
 Dialogue: 0,0:27:32.62,0:27:34.12,Default,,0,0,0,,se samotným vývojem hrdinky
 Dialogue: 0,0:27:34.16,0:27:37.20,Default,,0,0,0,, už toho až tolik nového udělat nemůžete.
 Dialogue: 0,0:27:37.30,0:27:38.82,Default,,0,0,0,,Ale v tom jak ji týrat,
 Dialogue: 0,0:27:38.90,0:27:40.78,Default,,0,0,0,,no v tom můžete být kreativní jako nikdy.
-Dialogue: 0,0:27:42.77,0:27:44.65,Default,,0,0,0,,takže dáme té radě ty 
+Dialogue: 0,0:27:42.77,0:27:44.65,Default,,0,0,0,,takže dáme té radě ty
 Dialogue: 0,0:27:44.78,0:27:46.70,Default,,0,0,0,,veškeré společenské prostředky
 Dialogue: 0,0:27:46.86,0:27:48.72,Default,,0,0,0,, a už ani neřeším to, že
 Dialogue: 0,0:27:48.72,0:27:51.77,Default,,0,0,0,,Počkej, ale jako dyť tady ji nechali zmlátit.
 Dialogue: 0,0:27:51.89,0:27:53.74,Default,,0,0,0,,To je trestný čin.  To se ututlá.
 Dialogue: 0,0:27:54.14,0:27:55.32,Default,,0,0,0,,Jak ututlá?
 Dialogue: 0,0:27:55.44,0:27:57.86,Default,,0,0,0,,Je to výběrová akademie, jako ta bude někde chybět.
-Dialogue: 0,0:27:59.13,0:28:00.17,Default,,0,0,0,,Rada to ututlá! 
+Dialogue: 0,0:27:59.13,0:28:00.17,Default,,0,0,0,,Rada to ututlá!
 Dialogue: 0,0:28:00.17,0:28:01.70,Default,,0,0,0,,Jak? A co učitelský sbor?
 Dialogue: 0,0:28:01.80,0:28:03.62,Default,,0,0,0,,Rada ututlá učitelský sbor.
-Dialogue: 0,0:28:04.48,0:28:05.30,Default,,0,0,0,,No tak dobře. 
+Dialogue: 0,0:28:04.48,0:28:05.30,Default,,0,0,0,,No tak dobře.
 Dialogue: 0,0:28:05.34,0:28:06.53,Default,,0,0,0,,A hle, ono to fungovalo.
 Dialogue: 0,0:28:08.00,0:28:11.22,Default,,0,0,0,,Ano, prostě čím větší útisk,
 Dialogue: 0,0:28:11.37,0:28:11.98,Default,,0,0,0,,tím víc hrdinky...
@@ -619,7 +619,7 @@ Dialogue: 0,0:28:18.48,0:28:22.00,Default,,0,0,0,,On nakonec se polepší, on bu
 Dialogue: 0,0:28:22.06,0:28:24.08,Default,,0,0,0,,A oni to pochopí, že tě má rád.
 Dialogue: 0,0:28:24.45,0:28:25.89,Default,,0,0,0,,Ty dojdeš svého štěstí.
 Dialogue: 0,0:28:28.00,0:28:29.68,Default,,0,0,0,,Máme to tam úžasně ukázáno.
-Dialogue: 0,0:28:29.90,0:28:31.77,Default,,0,0,0,,Zlý jazykové tedy tvrdí, že 
+Dialogue: 0,0:28:29.90,0:28:31.77,Default,,0,0,0,,Zlý jazykové tedy tvrdí, že
 Dialogue: 0,0:28:32.20,0:28:34.33,Default,,0,0,0,,dívky tyto věci čtou hlavně proto, aby si říkaly
 Dialogue: 0,0:28:34.33,0:28:35.65,Default,,0,0,0,,Haha, je na tom hůř než já! Ale
 Dialogue: 0,0:28:35.92,0:28:37.10,Default,,0,0,0,,tomu nebudeme...
@@ -631,19 +631,19 @@ Dialogue: 0,0:28:46.20,0:28:49.04,Default,,0,0,0,,buďto společenská nebo akad
 Dialogue: 0,0:28:49.08,0:28:50.58,Default,,0,0,0,,Ti z vás, kteří sledují
 Dialogue: 0,0:28:50.58,0:28:51.97,Default,,0,0,0,,vlastně předchozí sezóny
 Dialogue: 0,0:28:51.98,0:28:54.33,Default,,0,0,0,,Ansatsu Kyoushitsu aneb Assassination Classroom,
-Dialogue: 0,0:28:54.38,0:28:55.74,Default,,0,0,0,,tak mohou vlastně tohle to vědět, 
+Dialogue: 0,0:28:54.38,0:28:55.74,Default,,0,0,0,,tak mohou vlastně tohle to vědět,
 Dialogue: 0,0:28:55.77,0:28:57.45,Default,,0,0,0,,protože škola, která funguje na základě
 Dialogue: 0,0:28:57.54,0:28:59.12,Default,,0,0,0,,segregace podle výsledků,
-Dialogue: 0,0:28:59.45,0:29:01.09,Default,,0,0,0,, s tím že ti, kteří mají nejhorší, 
-Dialogue: 0,0:29:01.10,0:29:02.60,Default,,0,0,0,,vlastně nemají nárok na regulérní 
+Dialogue: 0,0:28:59.45,0:29:01.09,Default,,0,0,0,, s tím že ti, kteří mají nejhorší,
+Dialogue: 0,0:29:01.10,0:29:02.60,Default,,0,0,0,,vlastně nemají nárok na regulérní
 Dialogue: 0,0:29:04.21,0:29:05.22,Default,,0,0,0,,školní výchovu.
 Dialogue: 0,0:29:06.06,0:29:08.81,Default,,0,0,0,,Stejně tak různé ty příběhy, kdy
 Dialogue: 0,0:29:08.89,0:29:11.64,Default,,0,0,0,,dívka, protože její otec, který zemřel,
-Dialogue: 0,0:29:11.66,0:29:14.90,Default,,0,0,0,,zachránil život nějakému bohatému člověku, 
-Dialogue: 0,0:29:14.93,0:29:18.01,Default,,0,0,0,,tak ten jí odkázal to, že může chodit na výběrovou akademii, 
+Dialogue: 0,0:29:11.66,0:29:14.90,Default,,0,0,0,,zachránil život nějakému bohatému člověku,
+Dialogue: 0,0:29:14.93,0:29:18.01,Default,,0,0,0,,tak ten jí odkázal to, že může chodit na výběrovou akademii,
 Dialogue: 0,0:29:18.05,0:29:20.30,Default,,0,0,0,,Což jí má samozřejmě zvednout šance v životě,
 Dialogue: 0,0:29:20.41,0:29:21.94,Default,,0,0,0,,aby tam došla a všichni se na ní...
-Dialogue: 0,0:29:22.08,0:29:23.34,Default,,0,0,0,, si  všichni z ní utahovali, 
+Dialogue: 0,0:29:22.08,0:29:23.34,Default,,0,0,0,, si  všichni z ní utahovali,
 Dialogue: 0,0:29:23.38,0:29:25.98,Default,,0,0,0,,ukazovali jaký je to společenský plebs a podobně.
 Dialogue: 0,0:29:26.34,0:29:27.73,Default,,0,0,0,,Případně oblíbenější:
 Dialogue: 0,0:29:27.73,0:29:28.98,Default,,0,0,0,,Dívka přijde na školu,
@@ -651,7 +651,7 @@ Dialogue: 0,0:29:29.06,0:29:32.66,Default,,0,0,0,,Nějakým záhadným způsobem
 Dialogue: 0,0:29:32.70,0:29:34.26,Default,,0,0,0,,na škole, který za ní pádí.
 Dialogue: 0,0:29:34.26,0:29:36.42,Default,,0,0,0,,Přestože předtím sklátil, co se jen dalo.
 Dialogue: 0,0:29:37.16,0:29:38.36,Default,,0,0,0,,Ale k této dívce...
-Dialogue: 0,0:29:38.42,0:29:41.53,Default,,0,0,0,,Ale k této dívce náhled cítí ty pravé city. 
+Dialogue: 0,0:29:38.42,0:29:41.53,Default,,0,0,0,,Ale k této dívce náhled cítí ty pravé city.
 Dialogue: 0,0:29:42.13,0:29:45.29,Default,,0,0,0,,A tak jí to ostatní holky dávají sežrat, jak jen to jde atd.
 Dialogue: 0,0:29:45.41,0:29:46.58,Default,,0,0,0,,Všechno tohle
 Dialogue: 0,0:29:46.62,0:29:47.53,Default,,0,0,0,,spadá do
@@ -671,9 +671,9 @@ Dialogue: 0,0:30:21.44,0:30:22.64,Default,,0,0,0,,oni to dokáží.
 Dialogue: 0,0:30:23.00,0:30:24.92,Default,,0,0,0,,Je to všemocná zlá studentská rada.
 Dialogue: 0,0:30:26.62,0:30:27.58,Default,,0,0,0,, Ano tady...
 Dialogue: 0,0:30:28.41,0:30:30.56,Default,,0,0,0,,Nepodařilo se mi najít výstižnější,
-Dialogue: 0,0:30:30.97,0:30:33.20,Default,,0,0,0,,vlastně obrázek než-li Genda v jeho 
-Dialogue: 0,0:30:33.96,0:30:35.48,Default,,0,0,0,,"Gendo pose ™" 
-Dialogue: 0,0:30:35.81,0:30:37.46,Default,,0,0,0,,Aneb postoj, ve kterém 
+Dialogue: 0,0:30:30.97,0:30:33.20,Default,,0,0,0,,vlastně obrázek než-li Genda v jeho
+Dialogue: 0,0:30:33.96,0:30:35.48,Default,,0,0,0,,"Gendo pose ™"
+Dialogue: 0,0:30:35.81,0:30:37.46,Default,,0,0,0,,Aneb postoj, ve kterém
 Dialogue: 0,0:30:37.60,0:30:40.58,Default,,0,0,0,,není naprosto čitelný a pokud možno plánuje libovolnou intriku.
 Dialogue: 0,0:30:41.21,0:30:42.05,Default,,0,0,0,,Takže.
 Dialogue: 0,0:30:42.89,0:30:46.49,Default,,0,0,0,,Studentské rady velmi rychle získaly díky tomu, že už jim dali takovou moc,
@@ -682,7 +682,7 @@ Dialogue: 0,0:30:48.33,0:30:50.70,Default,,0,0,0,,Takže existují tituly, ve kt
 Dialogue: 0,0:30:50.70,0:30:52.50,Default,,0,0,0,,nepotřebujete ilumináty.
 Dialogue: 0,0:30:52.53,0:30:53.73,Default,,0,0,0,,Studentská rada!
 Dialogue: 0,0:30:55.00,0:30:57.26,Default,,0,0,0,,Nepotřebujete Bilderberg, nepotřebujete Vatikán.
-Dialogue: 0,0:30:57.26,0:30:58.69,Default,,0,0,0,,Studentská rada! 
+Dialogue: 0,0:30:57.26,0:30:58.69,Default,,0,0,0,,Studentská rada!
 Dialogue: 0,0:30:58.69,0:31:00.01,Default,,0,0,0,,Oni vás vidí!
 Dialogue: 0,0:31:02.89,0:31:04.20,Default,,0,0,0,,Takže opravdu...
 Dialogue: 0,0:31:05.09,0:31:05.82,Default,,0,0,0,,Nebyla..
@@ -710,23 +710,23 @@ Dialogue: 0,0:32:06.28,0:32:08.49,Default,,0,0,0,,Prostě parodiím se taktéž 
 Dialogue: 0,0:32:10.69,0:32:11.20,Default,,0,0,0,,Tak.
 Dialogue: 0,0:32:12.05,0:32:12.45,Default,,0,0,0,,Ano.
 Dialogue: 0,0:32:14.22,0:32:16.49,Default,,0,0,0,,Teď ta smutná realita dneška.
-Dialogue: 0,0:32:17.17,0:32:17.66,Default,,0,0,0,,Ano. 
+Dialogue: 0,0:32:17.17,0:32:17.66,Default,,0,0,0,,Ano.
 Dialogue: 0,0:32:17.92,0:32:20.18,Default,,0,0,0,,Pokud jste totiž součástí studentské rady,
 Dialogue: 0,0:32:20.29,0:32:23.44,Default,,0,0,0,,tak pokud se hlásíte po vyšší střední na vysokou.
 Dialogue: 0,0:32:23.44,0:32:26.02,Default,,0,0,0,,máte lepší hodnocení.
-Dialogue: 0,0:32:26.64,0:32:29.18,Default,,0,0,0,,To protože jste ty 3 případně 6 
+Dialogue: 0,0:32:26.64,0:32:29.18,Default,,0,0,0,,To protože jste ty 3 případně 6
 Dialogue: 0,0:32:29.40,0:32:31.09,Default,,0,0,0,,Pokud jste na akademické...
 Dialogue: 0,0:32:31.13,0:32:33.25,Default,,0,0,0,,Pokud jste na škole stylu výtahu.
 Dialogue: 0,0:32:33.25,0:32:34.64,Default,,0,0,0,,Možná i těch
-Dialogue: 0,0:32:34.85,0:32:37.59,Default,,0,0,0,, 12 let dělali otroka 
-Dialogue: 0,0:32:37.78,0:32:39.41,Default,,0,0,0,,pedagogickém sboru, 
-Dialogue: 0,0:32:39.41,0:32:42.66,Default,,0,0,0,,tak za to vám náleží lepší hodnocení pro 
+Dialogue: 0,0:32:34.85,0:32:37.59,Default,,0,0,0,, 12 let dělali otroka
+Dialogue: 0,0:32:37.78,0:32:39.41,Default,,0,0,0,,pedagogickém sboru,
+Dialogue: 0,0:32:39.41,0:32:42.66,Default,,0,0,0,,tak za to vám náleží lepší hodnocení pro
 Dialogue: 0,0:32:42.81,0:32:44.44,Default,,0,0,0,,přihlášku na vysokou školu.
-Dialogue: 0,0:32:44.85,0:32:46.33,Default,,0,0,0,,Tak ani to 
+Dialogue: 0,0:32:44.85,0:32:46.33,Default,,0,0,0,,Tak ani to
 Dialogue: 0,0:32:46.44,0:32:47.54,Default,,0,0,0,,už dneska
 Dialogue: 0,0:32:47.58,0:32:51.14,Default,,0,0,0,,ty lidi k tomu, aby trávili svůj čas ve škole, v klubu,
 Dialogue: 0,0:32:51.25,0:32:54.09,Default,,0,0,0,,ve studentské radě, ve večerní škole,
-Dialogue: 0,0:32:54.14,0:32:56.70,Default,,0,0,0,,pak nějak padli vyčerpáním a druhý den znova 
+Dialogue: 0,0:32:54.14,0:32:56.70,Default,,0,0,0,,pak nějak padli vyčerpáním a druhý den znova
 Dialogue: 0,0:32:56.77,0:33:00.48,Default,,0,0,0,,nemotivuje zrovna k tomu, aby tam tu studentskou radu se snažili jako nějakým způsobem narvat.
 Dialogue: 0,0:33:03.52,0:33:04.40,Default,,0,0,0,,Odhad.
 Dialogue: 0,0:33:05.53,0:33:10.02,Default,,0,0,0,,Dokonce z jedné statistiky vypracované přímo ministerstvem školství Japonska
@@ -736,7 +736,7 @@ Dialogue: 0,0:33:14.70,0:33:16.33,Default,,0,0,0,,zřejmě nemá funkční
 Dialogue: 0,0:33:16.84,0:33:17.85,Default,,0,0,0,,školní radu.
 Dialogue: 0,0:33:18.28,0:33:19.28,Default,,0,0,0,,To z toho důvodu,
 Dialogue: 0,0:33:19.58,0:33:21.81,Default,,0,0,0,,že školní rada dle
-Dialogue: 0,0:33:21.88,0:33:24.16,Default,,0,0,0,, právě školních řádů 
+Dialogue: 0,0:33:21.88,0:33:24.16,Default,,0,0,0,, právě školních řádů
 Dialogue: 0,0:33:24.60,0:33:28.06,Default,,0,0,0,,A specificky jedné klauzule, musí být zvolena.
 Dialogue: 0,0:33:28.98,0:33:31.49,Default,,0,0,0,,Nevím jestli někdo z vás už chodí na vysokou školu a
 Dialogue: 0,0:33:31.54,0:33:34.24,Default,,0,0,0,,podílel se třeba na volbách do studentského senátu?
@@ -757,7 +757,7 @@ Dialogue: 0,0:34:07.17,0:34:10.40,Default,,0,0,0,,klasickou inčo, která podle 
 Dialogue: 0,0:34:10.40,0:34:13.25,Default,,0,0,0,,Vztyk. Pozor. Sednout
 Dialogue: 0,0:34:13.36,0:34:13.96,Default,,0,0,0,,Tak
 Dialogue: 0,0:34:14.28,0:34:17.02,Default,,0,0,0,,tohoto člověka může nominovat, jmenovat
-Dialogue: 0,0:34:17.06,0:34:18.93,Default,,0,0,0,,ten třídní učitel, ale 
+Dialogue: 0,0:34:17.06,0:34:18.93,Default,,0,0,0,,ten třídní učitel, ale
 Dialogue: 0,0:34:18.97,0:34:21.89,Default,,0,0,0,,studentská rada jako taková, musí být zvolena.
 Dialogue: 0,0:34:22.26,0:34:25.25,Default,,0,0,0,,Na těch 8% škol to právě řeší tím,
 Dialogue: 0,0:34:25.84,0:34:27.97,Default,,0,0,0,,že z těhle těch
@@ -790,26 +790,26 @@ Dialogue: 0,0:35:36.00,0:35:37.02,Default,,0,0,0,,Ták...
 Dialogue: 0,0:35:37.98,0:35:39.78,Default,,0,0,0,,řekněme odkaz z tohoto díla
 Dialogue: 0,0:35:39.80,0:35:42.49,Default,,0,0,0,,je stále živý a spousta autorů ho přejímá.
 Dialogue: 0,0:35:43.17,0:35:46.24,Default,,0,0,0,,Přejímá ho bez toho aniž bysme my západní publikum
-Dialogue: 0,0:35:46.28,0:35:48.06,Default,,0,0,0,,to taky nějak kriticky hodnotili. 
+Dialogue: 0,0:35:46.28,0:35:48.06,Default,,0,0,0,,to taky nějak kriticky hodnotili.
 Dialogue: 0,0:35:48.08,0:35:50.68,Default,,0,0,0,,A dochází pak k tomu, že mnozí
 Dialogue: 0,0:35:50.73,0:35:53.00,Default,,0,0,0,,otakové. Pardon, otaku.
-Dialogue: 0,0:35:53.08,0:35:54.88,Default,,0,0,0,,Odmítám používat tohoto skloňování. 
+Dialogue: 0,0:35:53.08,0:35:54.88,Default,,0,0,0,,Odmítám používat tohoto skloňování.
 Dialogue: 0,0:35:56.40,0:35:59.69,Default,,0,0,0,,Při návštěvě Japonska zažívají nemilá překvapení.
 Dialogue: 0,0:36:01.00,0:36:03.76,Default,,0,0,0,,Například co se týče školních festivalů.
 Dialogue: 0,0:36:04.62,0:36:08.00,Default,,0,0,0,,Kdo z vás očekává, že v Japonsku, když přijedete do školy,
 Dialogue: 0,0:36:08.29,0:36:12.45,Default,,0,0,0,,a je tam právě školní festival, tak tam máte všechny tyhlety alegorické stánky
 Dialogue: 0,0:36:12.52,0:36:15.84,Default,,0,0,0,,Pokud možno 4 krát se tam dělá nějaká tempura,
-Dialogue: 0,0:36:15.86,0:36:17.40,Default,,0,0,0,, 2 krát soba nudle 
-Dialogue: 0,0:36:17.52,0:36:19.65,Default,,0,0,0,,3 krát se vaří ramen 
+Dialogue: 0,0:36:15.86,0:36:17.40,Default,,0,0,0,, 2 krát soba nudle
+Dialogue: 0,0:36:17.52,0:36:19.65,Default,,0,0,0,,3 krát se vaří ramen
 Dialogue: 0,0:36:19.77,0:36:21.77,Default,,0,0,0,,a je tam dům hrůzy a maido kafé?
 Dialogue: 0,0:36:25.74,0:36:28.21,Default,,0,0,0,,Buď to jsou tu realisté, nebo už vám usly ruce.
 Dialogue: 0,0:36:28.37,0:36:31.41,Default,,0,0,0,,Řeknu to takto, opravdu nečekejte to.
 Dialogue: 0,0:36:33.24,0:36:37.44,Default,,0,0,0,,to proto, že jen asi 2% všech škol, tj. jak státních, tak soukromých,
-Dialogue: 0,0:36:37.54,0:36:38.74,Default,,0,0,0,,v Japonsku 
-Dialogue: 0,0:36:38.74,0:36:40.41,Default,,0,0,0,,má nějakým způsobem 
+Dialogue: 0,0:36:37.54,0:36:38.74,Default,,0,0,0,,v Japonsku
+Dialogue: 0,0:36:38.74,0:36:40.41,Default,,0,0,0,,má nějakým způsobem
 Dialogue: 0,0:36:40.70,0:36:44.42,Default,,0,0,0,,oddělení školního festivalu jakožto separátní
 Dialogue: 0,0:36:44.50,0:36:45.98,Default,,0,0,0,,akce během roku.
-Dialogue: 0,0:36:46.86,0:36:48.74,Default,,0,0,0,,Ty 2% obvykle 
+Dialogue: 0,0:36:46.86,0:36:48.74,Default,,0,0,0,,Ty 2% obvykle
 Dialogue: 0,0:36:48.92,0:36:49.96,Default,,0,0,0,,jsou školy
 Dialogue: 0,0:36:49.96,0:36:53.46,Default,,0,0,0,,ve kterých je tohle spojeno s nějakým místním svátkem,
 Dialogue: 0,0:36:54.00,0:36:55.32,Default,,0,0,0,,s nějakým výročím,
@@ -817,14 +817,14 @@ Dialogue: 0,0:36:56.52,0:36:58.37,Default,,0,0,0,,oslavou nějakého místního
 Dialogue: 0,0:36:58.41,0:37:01.97,Default,,0,0,0,,kamiho, božstva případě nějakého výročí něčeho zvláštního.
 Dialogue: 0,0:37:03.77,0:37:06.88,Default,,0,0,0,,To v tom případě je tam tedy i nějaký ten školní festival,
 Dialogue: 0,0:37:06.88,0:37:08.50,Default,,0,0,0,,ale obvykle probíhá dost
-Dialogue: 0,0:37:08.81,0:37:11.13,Default,,0,0,0,, oficiální formou spočívající v tom že 
+Dialogue: 0,0:37:08.81,0:37:11.13,Default,,0,0,0,, oficiální formou spočívající v tom že
 Dialogue: 0,0:37:11.26,0:37:14.45,Default,,0,0,0,,milý studenti se baví tím, že jim je nařízeno někde nastoupit,
 Dialogue: 0,0:37:14.64,0:37:18.46,Default,,0,0,0,,pokud možno něco sborově odříkat, zazpívat, anebo být přítomni toho, jak tam řeční
 Dialogue: 0,0:37:18.48,0:37:20.21,Default,,0,0,0,,pan ředitel a možná pan starosta.
 Dialogue: 0,0:37:20.21,0:37:21.09,Default,,0,0,0,,Takže
 Dialogue: 0,0:37:21.09,0:37:24.25,Default,,0,0,0,, umíte si představit, jak záživné to asi může být pro cizího studenta.
-Dialogue: 0,0:37:27.18,0:37:27.65,Default,,0,0,0,,Tak 
-Dialogue: 0,0:37:29.14,0:37:30.53,Default,,0,0,0,,co se týče zbytku, tak 
+Dialogue: 0,0:37:27.18,0:37:27.65,Default,,0,0,0,,Tak
+Dialogue: 0,0:37:29.14,0:37:30.53,Default,,0,0,0,,co se týče zbytku, tak
 Dialogue: 0,0:37:30.54,0:37:33.96,Default,,0,0,0,,právě obvyklejší spojení je, že nemáte separátní sportovní den
 Dialogue: 0,0:37:33.96,0:37:36.70,Default,,0,0,0,,a nějaký ten festival, ale prostě máte ten sportovní den.
 Dialogue: 0,0:37:36.82,0:37:39.08,Default,,0,0,0,,To znamená vyženete děcka k tomu, aby
@@ -853,7 +853,7 @@ Dialogue: 0,0:38:41.09,0:38:42.57,Default,,0,0,0,,než-li je ukázáno v anime.
 Dialogue: 0,0:38:44.33,0:38:47.29,Default,,0,0,0,,Většina škol je nikdy nedělala.
 Dialogue: 0,0:38:48.12,0:38:51.00,Default,,0,0,0,,Žádné zdravotnické prohlídky,
 Dialogue: 0,0:38:51.01,0:38:53.24,Default,,0,0,0,,prostě proto, že když má dítě problém,
-Dialogue: 0,0:38:53.28,0:38:55.00,Default,,0,0,0,,dojde si ke svému doktorovi, 
+Dialogue: 0,0:38:53.28,0:38:55.00,Default,,0,0,0,,dojde si ke svému doktorovi,
 Dialogue: 0,0:38:55.34,0:38:57.41,Default,,0,0,0,,a proč by se tím škola měla zabývat.
 Dialogue: 0,0:38:57.69,0:39:00.12,Default,,0,0,0,,Naopak má-li dítě problém,
 Dialogue: 0,0:39:00.29,0:39:04.08,Default,,0,0,0,,ve většině případů ten personál, který je vyhrazen v ošetřovně
@@ -880,32 +880,32 @@ Dialogue: 0,0:39:55.72,0:39:56.32,Default,,0,0,0,,Vidím.
 Dialogue: 0,0:39:56.57,0:39:57.93,Default,,0,0,0,,Slyšíte mě?
 Dialogue: 0,0:39:58.09,0:39:59.18,Default,,0,0,0,,Slyším.
 Dialogue: 0,0:40:01.41,0:40:02.48,Default,,0,0,0,,250 korun.
-Dialogue: 0,0:40:04.59,0:40:05.72,Default,,0,0,0,,takže asi tak 
+Dialogue: 0,0:40:04.59,0:40:05.72,Default,,0,0,0,,takže asi tak
 Dialogue: 0,0:40:06.33,0:40:08.96,Default,,0,0,0,,Stejně způsobem očekávejte práci v Japonsku
 Dialogue: 0,0:40:09.85,0:40:12.61,Default,,0,0,0,,A samozřejmě pokud jde o sportovně zaměřené školy,
 Dialogue: 0,0:40:12.80,0:40:15.32,Default,,0,0,0,,tak ty jsou jedny z mála, které měly
 Dialogue: 0,0:40:15.37,0:40:16.40,Default,,0,0,0,,v průběhu roku
 Dialogue: 0,0:40:16.44,0:40:18.18,Default,,0,0,0,, nebo mohou mít nějaké, řekněme,
-Dialogue: 0,0:40:18.16,0:40:19.86,Default,,0,0,0,,nějaké vyšetření soustředěná na 
-Dialogue: 0,0:40:19.90,0:40:21.59,Default,,0,0,0,,zdravý vývoj jedince, 
+Dialogue: 0,0:40:18.16,0:40:19.86,Default,,0,0,0,,nějaké vyšetření soustředěná na
+Dialogue: 0,0:40:19.90,0:40:21.59,Default,,0,0,0,,zdravý vývoj jedince,
 Dialogue: 0,0:40:21.59,0:40:25.58,Default,,0,0,0,,ale zdravý vývoj jedince opravdu neznamená to, že ženskému ansámblu vašeho žatstva
-Dialogue: 0,0:40:25.65,0:40:27.05,Default,,0,0,0,,vezmete tři míry, které pak 
+Dialogue: 0,0:40:25.65,0:40:27.05,Default,,0,0,0,,vezmete tři míry, které pak
 Dialogue: 0,0:40:27.05,0:40:29.60,Default,,0,0,0,,budou moci kluci ukrást z nějakého zamčeného sejfu.
 Dialogue: 0,0:40:29.94,0:40:30.81,Default,,0,0,0,,Ne.
 Dialogue: 0,0:40:30.89,0:40:32.70,Default,,0,0,0,,Zahrnuje to to, že možná tak
-Dialogue: 0,0:40:33.38,0:40:35.05,Default,,0,0,0,,dívky i chlapce zvážíte, 
-Dialogue: 0,0:40:35.04,0:40:37.26,Default,,0,0,0,,nějakým způsobem změříte 
+Dialogue: 0,0:40:33.38,0:40:35.05,Default,,0,0,0,,dívky i chlapce zvážíte,
+Dialogue: 0,0:40:35.04,0:40:37.26,Default,,0,0,0,,nějakým způsobem změříte
 Dialogue: 0,0:40:37.66,0:40:39.42,Default,,0,0,0,,výšku a pak
 Dialogue: 0,0:40:39.41,0:40:41.96,Default,,0,0,0,,možná třeba poměr tuku
-Dialogue: 0,0:40:41.98,0:40:43.25,Default,,0,0,0,,či svaloviny 
+Dialogue: 0,0:40:41.98,0:40:43.25,Default,,0,0,0,,či svaloviny
 Dialogue: 0,0:40:43.26,0:40:46.28,Default,,0,0,0,,s ohledem na věk a zaměření.. a sportovní zaměření.
-Dialogue: 0,0:40:46.30,0:40:47.33,Default,,0,0,0,,Prostě proto, že 
+Dialogue: 0,0:40:46.30,0:40:47.33,Default,,0,0,0,,Prostě proto, že
 Dialogue: 0,0:40:47.89,0:40:51.64,Default,,0,0,0,,například takový sumista asi bude mít trošku jiné poměry než třeba sportovní plavec.
 Dialogue: 0,0:40:54.10,0:40:55.53,Default,,0,0,0,,Tak. Ano.
 Dialogue: 0,0:40:55.96,0:40:58.02,Default,,0,0,0,,Ztřeštěné školní kluby.
 Dialogue: 0,0:40:58.57,0:41:02.22,Default,,0,0,0,,Asi jedna z věcí, za kterou  může anime Go Nagaiovi poděkovat, protože
-Dialogue: 0,0:41:02.28,0:41:04.29,Default,,0,0,0,,jestli, jak nám Kalisto ráno řekla, 
-Dialogue: 0,0:41:04.28,0:41:08.36,Default,,0,0,0,,Hello Kitty generuje 7 miliard dolarů obratu ročně bez reklamy 
+Dialogue: 0,0:41:02.28,0:41:04.29,Default,,0,0,0,,jestli, jak nám Kalisto ráno řekla,
+Dialogue: 0,0:41:04.28,0:41:08.36,Default,,0,0,0,,Hello Kitty generuje 7 miliard dolarů obratu ročně bez reklamy
 Dialogue: 0,0:41:08.41,0:41:12.09,Default,,0,0,0,,věřím tomu, že ztřeštěné školní kluby generují podobnou částku.
 Dialogue: 0,0:41:12.84,0:41:15.14,Default,,0,0,0,,To z toho důvodu, že prostě
 Dialogue: 0,0:41:15.33,0:41:19.17,Default,,0,0,0,,Školní klub je pro mnoho japonců nutné zlo
@@ -926,33 +926,33 @@ Dialogue: 0,0:41:52.33,0:41:54.28,Default,,0,0,0,,Kdo z nás by si zvolil tu prv
 Dialogue: 0,0:41:55.44,0:41:56.84,Default,,0,0,0,,Přiznejme si to,
 Dialogue: 0,0:41:57.02,0:42:00.73,Default,,0,0,0,,ta první je opravdu lákavější, a proto se o ní spíše píše, a proto je to fikce.
 Dialogue: 0,0:42:02.28,0:42:03.05,Default,,0,0,0,,Ano.
-Dialogue: 0,0:42:03.88,0:42:06.76,Default,,0,0,0,,Přestože 80% všech škol, tj. zase jak soukromých tak 
-Dialogue: 0,0:42:06.77,0:42:09.16,Default,,0,0,0,,státních, má účast žáků v klubech povinnou, 
+Dialogue: 0,0:42:03.88,0:42:06.76,Default,,0,0,0,,Přestože 80% všech škol, tj. zase jak soukromých tak
+Dialogue: 0,0:42:06.77,0:42:09.16,Default,,0,0,0,,státních, má účast žáků v klubech povinnou,
 Dialogue: 0,0:42:09.24,0:42:11.57,Default,,0,0,0,,stále více roste počet tzv. mrtvých duší.
 Dialogue: 0,0:42:11.94,0:42:14.58,Default,,0,0,0,,Někdy se jim také říká
 Dialogue: 0,0:42:14.69,0:42:18.54,Default,,0,0,0,,znouzectnost, případně vznešení členové.
 Dialogue: 0,0:42:19.29,0:42:22.29,Default,,0,0,0,,To proto, že to je takový ten člověk, který "Hmm
-Dialogue: 0,0:42:22.38,0:42:23.77,Default,,0,0,0,,musím se zapsat do klubu. 
+Dialogue: 0,0:42:22.38,0:42:23.77,Default,,0,0,0,,musím se zapsat do klubu.
 Dialogue: 0,0:42:24.12,0:42:24.72,Default,,0,0,0,,Hele,
 Dialogue: 0,0:42:26.32,0:42:27.97,Default,,0,0,0,,milá Sakuro kam jdeš?"
 Dialogue: 0,0:42:28.21,0:42:30.04,Default,,0,0,0,,"Do atletického klubu."
-Dialogue: 0,0:42:30.13,0:42:31.17,Default,,0,0,0,,"Budeš tam běhat?" 
+Dialogue: 0,0:42:30.13,0:42:31.17,Default,,0,0,0,,"Budeš tam běhat?"
 Dialogue: 0,0:42:31.17,0:42:32.93,Default,,0,0,0,,"Ne, jen se tam jdu zapsat."
 Dialogue: 0,0:42:33.01,0:42:34.37,Default,,0,0,0,,"Tak jo, tak já půjdu s tebou."
 Dialogue: 0,0:42:36.30,0:42:38.78,Default,,0,0,0,,A dojde tedy k tomu, že na listině
 Dialogue: 0,0:42:38.81,0:42:41.18,Default,,0,0,0,, náš třeba milý Taiči figuruje, ale v
-Dialogue: 0,0:42:41.21,0:42:42.77,Default,,0,0,0,,v podstatě se tam ukázal 
+Dialogue: 0,0:42:41.21,0:42:42.77,Default,,0,0,0,,v podstatě se tam ukázal
 Dialogue: 0,0:42:42.93,0:42:44.65,Default,,0,0,0,,na začátku školního roku,
 Dialogue: 0,0:42:44.77,0:42:47.04,Default,,0,0,0,,pak když bylo oznámeno, že bude nějaká
 Dialogue: 0,0:42:46.00,0:42:48.59,Default,,0,0,0,,inspekce z vyšších míst, takže
 Dialogue: 0,0:42:48.59,0:42:50.02,Default,,0,0,0,,tam teda musel být,
 Dialogue: 0,0:42:50.18,0:42:52.89,Default,,0,0,0,,A možná den předtím hledal druhý cvičební úbor
 Dialogue: 0,0:42:53.05,0:42:54.65,Default,,0,0,0,, a na konci školního roku,
-Dialogue: 0,0:42:54.65,0:42:57.09,Default,,0,0,0,,kdy je potřeba tedy nějakým způsobem tedy 
+Dialogue: 0,0:42:54.65,0:42:57.09,Default,,0,0,0,,kdy je potřeba tedy nějakým způsobem tedy
 Dialogue: 0,0:42:57.12,0:42:59.62,Default,,0,0,0,,zase zapsat, že jakoby to absolvoval.
-Dialogue: 0,0:43:01.76,0:43:02.90,Default,,0,0,0,,Paradoxem je, 
-Dialogue: 0,0:43:02.90,0:43:05.94,Default,,0,0,0,,že hospodaření asi 20% všech klubů 
-Dialogue: 0,0:43:05.94,0:43:07.06,Default,,0,0,0,,na státních školách 
+Dialogue: 0,0:43:01.76,0:43:02.90,Default,,0,0,0,,Paradoxem je,
+Dialogue: 0,0:43:02.90,0:43:05.94,Default,,0,0,0,,že hospodaření asi 20% všech klubů
+Dialogue: 0,0:43:05.94,0:43:07.06,Default,,0,0,0,,na státních školách
 Dialogue: 0,0:43:07.21,0:43:09.33,Default,,0,0,0,,je závislých na těhle těch
 Dialogue: 0,0:43:09.33,0:43:11.20,Default,,0,0,0,,vlastně mrtvých duších.
 Dialogue: 0,0:43:11.42,0:43:13.13,Default,,0,0,0,,Z jednoho prostého důvodu.
@@ -966,10 +966,10 @@ Dialogue: 0,0:43:27.78,0:43:29.93,Default,,0,0,0,,Zase tedy částkou na hlavu.
 Dialogue: 0,0:43:30.24,0:43:32.32,Default,,0,0,0,,A teď si představte, že máte ten klub,
 Dialogue: 0,0:43:32.54,0:43:35.16,Default,,0,0,0,, ve kterém máte oficiálně 40 dětí,
 Dialogue: 0,0:43:35.93,0:43:37.40,Default,,0,0,0,,prakticky jich dochází 10,
-Dialogue: 0,0:43:38.02,0:43:39.46,Default,,0,0,0,,ale peníze máte za 40. 
+Dialogue: 0,0:43:38.02,0:43:39.46,Default,,0,0,0,,ale peníze máte za 40.
 Dialogue: 0,0:43:40.17,0:43:40.85,Default,,0,0,0,,Co víc?
 Dialogue: 0,0:43:41.56,0:43:44.94,Default,,0,0,0,,Jen těch 10 se účastní třeba nějakých poznávacích výletů.
-Dialogue: 0,0:43:45.10,0:43:45.80,Default,,0,0,0,,Nějakých 
+Dialogue: 0,0:43:45.10,0:43:45.80,Default,,0,0,0,,Nějakých
 Dialogue: 0,0:43:46.42,0:43:48.73,Default,,0,0,0,,akcí, kdy si pronajímáte sportoviště například
 Dialogue: 0,0:43:48.86,0:43:52.04,Default,,0,0,0,,pokud vaše škola nemá plavecký bazén, ale má plavecký klub,
 Dialogue: 0,0:43:52.05,0:43:54.29,Default,,0,0,0,,tak ten plavecký klub si musí nějak pronajímat sportoviště
@@ -984,7 +984,7 @@ Dialogue: 0,0:44:12.04,0:44:14.49,Default,,0,0,0,,30 z nich vám bude dávat oka
 Dialogue: 0,0:44:14.53,0:44:15.58,Default,,0,0,0,, tedy ne
 Dialogue: 0,0:44:15.64,0:44:16.58,Default,,0,0,0,,jsou to Japonci,
 Dialogue: 0,0:44:16.58,0:44:18.62,Default,,0,0,0,,takže neokatě najevo,
-Dialogue: 0,0:44:19.80,0:44:20.73,Default,,0,0,0,,že
+Dialogue: 0,0:44:19.80,0:44:22.50,Default,,0,0,0,,že tu nechtějí být
 Dialogue: 0,0:44:23.04,0:44:24.86,Default,,0,0,0,,ale vy za ně ten čas a věc...
 Dialogue: 0,0:44:24.88,0:44:27.54,Default,,0,0,0,,vy jim musíte věnovat ten čas a musíte za ně platit náklady.
 Dialogue: 0,0:44:30.05,0:44:32.42,Default,,0,0,0,,Co vás k tomu bude opravdu motivovat?
@@ -992,19 +992,19 @@ Dialogue: 0,0:44:32.56,0:44:35.90,Default,,0,0,0,,Budete se snažit nějak řeš
 Dialogue: 0,0:44:36.53,0:44:39.32,Default,,0,0,0,,A nebo spíš využijte toho, že máte víc prostředků pro těch 10,
 Dialogue: 0,0:44:39.45,0:44:40.38,Default,,0,0,0,,kteří o to zajímají mají?
 Dialogue: 0,0:44:41.61,0:44:44.86,Default,,0,0,0,,Zase prostá setrvačnost a řekněme
-Dialogue: 0,0:44:45.06,0:44:46.36,Default,,0,0,0,,metoda nejmenšího odporu. 
+Dialogue: 0,0:44:45.06,0:44:46.36,Default,,0,0,0,,metoda nejmenšího odporu.
 Dialogue: 0,0:44:47.30,0:44:48.89,Default,,0,0,0,,Je to smutné, ale je to tak.
 Dialogue: 0,0:44:51.10,0:44:51.65,Default,,0,0,0,,Ano.
 Dialogue: 0,0:44:52.13,0:44:55.57,Default,,0,0,0,,A přicházíme k poslední části téhleté přednášky,
 Dialogue: 0,0:44:55.89,0:44:58.88,Default,,0,0,0,,kterou jsem nazval: Japonsko je zvláštní země
 Dialogue: 0,0:45:00.30,0:45:02.34,Default,,0,0,0,,Kyary Pamyu Pamyu je myslím, že v tomhletom
 Dialogue: 0,0:45:02.37,0:45:04.98,Default,,0,0,0,,ambasadorka zvláštnosti Japonska.
-Dialogue: 0,0:45:05.77,0:45:07.30,Default,,0,0,0,,Takže 
-Dialogue: 0,0:45:07.48,0:45:10.42,Default,,0,0,0,,co bychom probrali v téhle té věci? 
+Dialogue: 0,0:45:05.77,0:45:07.30,Default,,0,0,0,,Takže
+Dialogue: 0,0:45:07.48,0:45:10.42,Default,,0,0,0,,co bychom probrali v téhle té věci?
 Dialogue: 0,0:45:09.28,0:45:10.41,Default,,0,0,0,,No řekněme, že
-Dialogue: 0,0:45:10.41,0:45:12.62,Default,,0,0,0,,možná z nás někteří teďka získali dojem, že 
+Dialogue: 0,0:45:10.41,0:45:12.62,Default,,0,0,0,,možná z nás někteří teďka získali dojem, že
 Dialogue: 0,0:45:12.72,0:45:14.13,Default,,0,0,0,,všechno, co jste v anime viděli,
-Dialogue: 0,0:45:14.13,0:45:17.76,Default,,0,0,0,,se nezakládá na pravdě nebo nějaký způsobem to školství tam vypadá úplně jinak, 
+Dialogue: 0,0:45:14.13,0:45:17.76,Default,,0,0,0,,se nezakládá na pravdě nebo nějaký způsobem to školství tam vypadá úplně jinak,
 Dialogue: 0,0:45:18.09,0:45:18.98,Default,,0,0,0,,což je pravda.
 Dialogue: 0,0:45:19.69,0:45:20.94,Default,,0,0,0,,Na druhou stranu
 Dialogue: 0,0:45:20.97,0:45:24.22,Default,,0,0,0,, některé věci, které jste možná mohli vidět v anime,
@@ -1020,7 +1020,7 @@ Dialogue: 0,0:45:49.65,0:45:50.12,Default,,0,0,0,,"Ne."
 Dialogue: 0,0:45:50.93,0:45:51.88,Default,,0,0,0,,"Otočit."
 Dialogue: 0,0:45:53.16,0:45:55.04,Default,,0,0,0,,"Dnešek máš neomluvený. Budeš si ho nahrazovat"
 Dialogue: 0,0:45:55.13,0:45:56.59,Default,,0,0,0,,Nebo odpoledne po škole.
-Dialogue: 0,0:45:57.25,0:45:58.22,Default,,0,0,0,,Případně: 
+Dialogue: 0,0:45:57.25,0:45:58.22,Default,,0,0,0,,Případně:
 Dialogue: 0,0:45:58.56,0:45:59.90,Default,,0,0,0,,"Máš špatný účes."
 Dialogue: 0,0:46:00.54,0:46:02.98,Default,,0,0,0,,"Mašle nejsou dovolené na téhleté škole" a podobně.
 Dialogue: 0,0:46:04.30,0:46:05.13,Default,,0,0,0,,Tato věc
@@ -1044,18 +1044,18 @@ Dialogue: 0,0:46:51.04,0:46:53.30,Default,,0,0,0,,a první věc kterou se dozví
 Dialogue: 0,0:46:53.42,0:46:54.28,Default,,0,0,0,,"Ne, Kenži"
 Dialogue: 0,0:46:54.58,0:46:55.40,Default,,0,0,0,,"2 tejdny."
 Dialogue: 0,0:46:55.40,0:46:56.06,Default,,0,0,0,,"Co 2 tejdny?"
-Dialogue: 0,0:46:56.64,0:46:57.40,Default,,0,0,0,,"Vyloučení." 
+Dialogue: 0,0:46:56.64,0:46:57.40,Default,,0,0,0,,"Vyloučení."
 Dialogue: 0,0:46:57.69,0:46:58.48,Default,,0,0,0,,"Za co?"
-Dialogue: 0,0:46:59.08,0:47:01.16,Default,,0,0,0,,"Dneska není 13. dubna. 
+Dialogue: 0,0:46:59.08,0:47:01.16,Default,,0,0,0,,"Dneska není 13. dubna.
 Dialogue: 0,0:47:01.40,0:47:02.90,Default,,0,0,0,,Dneska teprve 12. dubna"
 Dialogue: 0,0:47:04.57,0:47:05.74,Default,,0,0,0,,"Ale pane profesor...
 Dialogue: 0,0:47:07.50,0:47:08.77,Default,,0,0,0,,Rozumím, pane profesore."
 Dialogue: 0,0:47:11.24,0:47:11.66,Default,,0,0,0,,Ne.
 Dialogue: 0,0:47:12.01,0:47:13.78,Default,,0,0,0,,Prostě za podobné věci
 Dialogue: 0,0:47:13.81,0:47:16.88,Default,,0,0,0,,při prvních dvou přečinech až na dva týdny.
-Dialogue: 0,0:47:17.16,0:47:18.24,Default,,0,0,0,,Co se týče 
+Dialogue: 0,0:47:17.16,0:47:18.24,Default,,0,0,0,,Co se týče
 Dialogue: 0,0:47:18.46,0:47:19.66,Default,,0,0,0,,třetího porušení,
-Dialogue: 0,0:47:19.78,0:47:20.72,Default,,0,0,0,,většina škol 
+Dialogue: 0,0:47:19.78,0:47:20.72,Default,,0,0,0,,většina škol
 Dialogue: 0,0:47:21.28,0:47:23.17,Default,,0,0,0,,pak nechává buďto
 Dialogue: 0,0:47:23.57,0:47:26.36,Default,,0,0,0,,nějakým způsobem projednat řešení s rodiči,
 Dialogue: 0,0:47:26.61,0:47:30.54,Default,,0,0,0,,a u těch přísnějších následuje vyloučení přímo z pedagogického ústavu.
@@ -1064,16 +1064,16 @@ Dialogue: 0,0:47:32.44,0:47:34.00,Default,,0,0,0,,Je to drsné a
 Dialogue: 0,0:47:34.00,0:47:36.14,Default,,0,0,0,,tato norma odpovídá, řekněme,
 Dialogue: 0,0:47:36.14,0:47:37.81,Default,,0,0,0,,třem čtvrtinám většiny škol,
 Dialogue: 0,0:47:37.90,0:47:39.90,Default,,0,0,0,,na těch soukromých bývá přísnější.
-Dialogue: 0,0:47:39.92,0:47:42.69,Default,,0,0,0,,Hlavně proto že ty bývají dost často i 
+Dialogue: 0,0:47:39.92,0:47:42.69,Default,,0,0,0,,Hlavně proto že ty bývají dost často i
 Dialogue: 0,0:47:42.73,0:47:45.56,Default,,0,0,0,,omezené tom, že se třeba i děvčata nesmí v líčit vůbec.
 Dialogue: 0,0:47:45.94,0:47:49.73,Default,,0,0,0,,A jak u děvčat tak u chlapců jsou stále ještě předepsané povolené délky vlasů
-Dialogue: 0,0:47:50.04,0:47:51.12,Default,,0,0,0,,a podobné věci. 
+Dialogue: 0,0:47:50.04,0:47:51.12,Default,,0,0,0,,a podobné věci.
 Dialogue: 0,0:47:51.66,0:47:52.89,Default,,0,0,0,,Takže opatrně s tím.
 Dialogue: 0,0:47:54.13,0:47:55.00,Default,,0,0,0,,Ano.
 Dialogue: 0,0:47:57.09,0:48:05.57,Default,,0,0,0,,{\i1}(otázka){\i0}
-Dialogue: 0,0:48:06.52,0:48:08.38,Default,,0,0,0,,Pak jste měla volat školu 
+Dialogue: 0,0:48:06.52,0:48:08.38,Default,,0,0,0,,Pak jste měla volat školu
 Dialogue: 0,0:48:08.42,0:48:10.44,Default,,0,0,0,,a konzultovat s nimi zdali náhodou
-Dialogue: 0,0:48:10.48,0:48:12.60,Default,,0,0,0,, s ohledem navnější atmosférické podmínky 
+Dialogue: 0,0:48:10.48,0:48:12.60,Default,,0,0,0,, s ohledem navnější atmosférické podmínky
 Dialogue: 0,0:48:12.66,0:48:15.02,Default,,0,0,0,,nedošlo k tomu, že by změnili datum.
 Dialogue: 0,0:48:15.38,0:48:17.60,Default,,0,0,0,,Pokud vám bylo odpovězeno negativně,
 Dialogue: 0,0:48:17.66,0:48:19.36,Default,,0,0,0,,pak je potřeba zatnout zuby
@@ -1095,16 +1095,16 @@ Dialogue: 0,0:49:02.76,0:49:05.42,Default,,0,0,0,, velmi blízkou úroveň tělu
 Dialogue: 0,0:49:06.53,0:49:07.74,Default,,0,0,0,,A
 Dialogue: 0,0:49:08.10,0:49:10.24,Default,,0,0,0,,k mému zděšení
 Dialogue: 0,0:49:10.72,0:49:11.81,Default,,0,0,0,,je
-Dialogue: 0,0:49:11.90,0:49:14.68,Default,,0,0,0,,pravděpodobné, nemohu vám dát 100% jistotu, 
-Dialogue: 0,0:49:14.68,0:49:15.96,Default,,0,0,0,,ale je pravděpodobné, 
+Dialogue: 0,0:49:11.90,0:49:14.68,Default,,0,0,0,,pravděpodobné, nemohu vám dát 100% jistotu,
+Dialogue: 0,0:49:14.68,0:49:15.96,Default,,0,0,0,,ale je pravděpodobné,
 Dialogue: 0,0:49:16.16,0:49:18.16,Default,,0,0,0,,že minimálně do,
 Dialogue: 0,0:49:18.48,0:49:20.68,Default,,0,0,0,,řekněme, začátku 80. let
 Dialogue: 0,0:49:21.16,0:49:23.12,Default,,0,0,0,,školy v Tokiu a Kjótu
 Dialogue: 0,0:49:23.16,0:49:24.21,Default,,0,0,0,,toto praktikovaly.
-Dialogue: 0,0:49:26.58,0:49:27.82,Default,,0,0,0,,Existují o tom 
-Dialogue: 0,0:49:27.82,0:49:30.29,Default,,0,0,0,,nepotvrzené zprávy, ty školy o tom mlčí 
-Dialogue: 0,0:49:30.29,0:49:31.56,Default,,0,0,0,,a existuje 
-Dialogue: 0,0:49:31.61,0:49:33.77,Default,,0,0,0,,uniklá směrnice 
+Dialogue: 0,0:49:26.58,0:49:27.82,Default,,0,0,0,,Existují o tom
+Dialogue: 0,0:49:27.82,0:49:30.29,Default,,0,0,0,,nepotvrzené zprávy, ty školy o tom mlčí
+Dialogue: 0,0:49:30.29,0:49:31.56,Default,,0,0,0,,a existuje
+Dialogue: 0,0:49:31.61,0:49:33.77,Default,,0,0,0,,uniklá směrnice
 Dialogue: 0,0:49:33.77,0:49:36.09,Default,,0,0,0,,regulující kontrolu
 Dialogue: 0,0:49:36.16,0:49:38.78,Default,,0,0,0,,odívání na školní půdě,
 Dialogue: 0,0:49:39.53,0:49:42.38,Default,,0,0,0,,ve které jsou tyto kontroly zmíněny.
@@ -1113,13 +1113,13 @@ Dialogue: 0,0:49:45.22,0:49:46.70,Default,,0,0,0,,zahrnovaly samozřejmě jak
 Dialogue: 0,0:49:46.82,0:49:48.62,Default,,0,0,0,,dívky, tak chlapce.
 Dialogue: 0,0:49:50.06,0:49:52.10,Default,,0,0,0,,S ohledem na to, že to jsou Japonci,
 Dialogue: 0,0:49:52.10,0:49:52.50,Default,,0,0,0,,tak
-Dialogue: 0,0:49:52.93,0:49:54.88,Default,,0,0,0,,samozřejmě i dívky měla 
+Dialogue: 0,0:49:52.93,0:49:54.88,Default,,0,0,0,,samozřejmě i dívky měla
 Dialogue: 0,0:49:54.90,0:49:58.06,Default,,0,0,0,,kontrolovat učitelka, chlapce učitel.
 Dialogue: 0,0:49:58.89,0:50:00.49,Default,,0,0,0,,Nevím jak moc
 Dialogue: 0,0:50:00.49,0:50:03.29,Default,,0,0,0,, je tohle to slučitelné řekněme
 Dialogue: 0,0:50:03.33,0:50:06.89,Default,,0,0,0,,s etickým kodexem pedagoga, ale Japonci to neřešili.
 Dialogue: 0,0:50:07.00,0:50:09.70,Default,,0,0,0,,Bylo to nařízeno a tedy bylo to zřejmě prováděno.
-Dialogue: 0,0:50:10.37,0:50:13.70,Default,,0,0,0,,Konec nastal po tom, co několik zahraničních studentek 
+Dialogue: 0,0:50:10.37,0:50:13.70,Default,,0,0,0,,Konec nastal po tom, co několik zahraničních studentek
 Dialogue: 0,0:50:13.84,0:50:15.96,Default,,0,0,0,,se ohradilo vůči téhleté praxi.
 Dialogue: 0,0:50:16.08,0:50:19.53,Default,,0,0,0,,Nahlásilo ji rodičům a rodiče jasně školám řekli, že jako
 Dialogue: 0,0:50:19.97,0:50:21.88,Default,,0,0,0,,s jejich dcerami chtějí provádět něco podobného,
@@ -1132,7 +1132,7 @@ Dialogue: 0,0:50:37.46,0:50:40.76,Default,,0,0,0,,nebo může pro ni znamenat ve
 Dialogue: 0,0:50:40.78,0:50:43.14,Default,,0,0,0,,jakožto kvality studenta, které se na ní hlásí,
 Dialogue: 0,0:50:43.26,0:50:44.68,Default,,0,0,0,,a případné její zavření.
 Dialogue: 0,0:50:44.68,0:50:45.54,Default,,0,0,0,,Takže
-Dialogue: 0,0:50:45.58,0:50:47.04,Default,,0,0,0,,Není to žádná sranda 
+Dialogue: 0,0:50:45.58,0:50:47.04,Default,,0,0,0,,Není to žádná sranda
 Dialogue: 0,0:50:47.04,0:50:49.49,Default,,0,0,0,,a zároveň to bohužel vede k tomu, že jak jsem říkal,
 Dialogue: 0,0:50:49.58,0:50:51.18,Default,,0,0,0,,japonská první reakce
 Dialogue: 0,0:50:51.18,0:50:53.77,Default,,0,0,0,, na problém je: mlčíme o něm,
@@ -1144,8 +1144,8 @@ Dialogue: 0,0:51:08.28,0:51:11.33,Default,,0,0,0,,Co se týče té směrnice tak
 Dialogue: 0,0:51:11.34,0:51:12.64,Default,,0,0,0,,...takovým drobným...
 Dialogue: 0,0:51:13.08,0:51:15.01,Default,,0,0,0,,Je tam takový drobný detail, který,
 Dialogue: 0,0:51:17.00,0:51:18.22,Default,,0,0,0,,řekněme některé
-Dialogue: 0,0:51:18.26,0:51:20.16,Default,,0,0,0,,právníky, by možná překvapil, 
-Dialogue: 0,0:51:20.44,0:51:21.81,Default,,0,0,0,,a to ten, že jak jsem říkal, 
+Dialogue: 0,0:51:18.26,0:51:20.16,Default,,0,0,0,,právníky, by možná překvapil,
+Dialogue: 0,0:51:20.44,0:51:21.81,Default,,0,0,0,,a to ten, že jak jsem říkal,
 Dialogue: 0,0:51:22.05,0:51:22.86,Default,,0,0,0,,dívky
 Dialogue: 0,0:51:24.38,0:51:27.97,Default,,0,0,0,,kontrolovala učitelka, chlapce kontroloval učitel,
 Dialogue: 0,0:51:28.38,0:51:30.40,Default,,0,0,0,, S jedinou výjimkou a to je třídní.
@@ -1159,7 +1159,7 @@ Dialogue: 0,0:51:43.88,0:51:47.69,Default,,0,0,0,,A už nespecifikoval, zdali t�
 Dialogue: 0,0:51:47.77,0:51:51.41,Default,,0,0,0,, zdali to je učitel, který kontroluje dívku, nebo učitelka,která kontroluje chlapce.
 Dialogue: 0,0:51:53.25,0:51:54.26,Default,,0,0,0,,Takže.
 Dialogue: 0,0:51:55.20,0:51:57.32,Default,,0,0,0,,Viva la Japan, abych tak řekl.
-Dialogue: 0,0:51:57.52,0:51:59.28,Default,,0,0,0,,Kontroly spodního prádla 
+Dialogue: 0,0:51:57.52,0:51:59.28,Default,,0,0,0,,Kontroly spodního prádla
 Dialogue: 0,0:51:59.33,0:52:01.42,Default,,0,0,0,,pravděpodobně se odehrávaly
 Dialogue: 0,0:52:01.60,0:52:04.25,Default,,0,0,0,,přibližně do počátku 80.let.
 Dialogue: 0,0:52:05.29,0:52:06.16,Default,,0,0,0,,Ano?
@@ -1200,10 +1200,10 @@ Dialogue: 0,0:53:49.81,0:53:52.58,Default,,0,0,0,,běžnou střechu, tak na ni o
 Dialogue: 0,0:53:53.44,0:53:54.24,Default,,0,0,0,,Je mi líto.
 Dialogue: 0,0:53:54.92,0:53:55.53,Default,,0,0,0,,Ano?
 Dialogue: 0,0:54:04.73,0:54:06.44,Default,,0,0,0,,Co se týče studentek,
-Dialogue: 0,0:54:06.46,0:54:06.82,Default,,0,0,0,, Pokud 
+Dialogue: 0,0:54:06.46,0:54:06.82,Default,,0,0,0,, Pokud
 Dialogue: 0,0:54:07.61,0:54:09.18,Default,,0,0,0,,dojde ke změně nějakého...
 Dialogue: 0,0:54:09.21,0:54:10.89,Default,,0,0,0,,nějakých pravidel odívání,
-Dialogue: 0,0:54:11.21,0:54:13.45,Default,,0,0,0,,tak jste o ní informování, je stanoveno datum 
+Dialogue: 0,0:54:11.21,0:54:13.45,Default,,0,0,0,,tak jste o ní informování, je stanoveno datum
 Dialogue: 0,0:54:13.45,0:54:14.76,Default,,0,0,0,,do kterého musíte
 Dialogue: 0,0:54:14.80,0:54:17.38,Default,,0,0,0,,tyhle ty změny zapracovat do své uniformy
 Dialogue: 0,0:54:17.45,0:54:19.70,Default,,0,0,0,,a obvykle je vám doporučen obchod,
@@ -1224,9 +1224,9 @@ Dialogue: 0,0:54:57.62,0:55:00.22,Default,,0,0,0,,Pokud tak učiníte a snaží 
 Dialogue: 0,0:55:00.21,0:55:03.25,Default,,0,0,0,,obvykle hlavně zahraniční studenti, kteří jsou zvyklí na trošku jiné zacházení.
 Dialogue: 0,0:55:03.58,0:55:05.29,Default,,0,0,0,,Ve většině případů
 Dialogue: 0,0:55:05.78,0:55:08.90,Default,,0,0,0,,narazí a jsou nějakým způsobem donuceni.
-Dialogue: 0,0:55:09.02,0:55:09.98,Default,,0,0,0,,nebo 
+Dialogue: 0,0:55:09.02,0:55:09.98,Default,,0,0,0,,nebo
 Dialogue: 0,0:55:09.98,0:55:14.00,Default,,0,0,0,,tedy škola ustoupí, ale jen v případě zahraničního studenta, protože přiznejme si to,
-Dialogue: 0,0:55:14.22,0:55:15.41,Default,,0,0,0,,pokud máte 
+Dialogue: 0,0:55:14.22,0:55:15.41,Default,,0,0,0,,pokud máte
 Dialogue: 0,0:55:15.46,0:55:17.40,Default,,0,0,0,,ten hřebík koukající z řady,
 Dialogue: 0,0:55:17.44,0:55:19.68,Default,,0,0,0,,ale je to rezavý hřebík nebo
 Dialogue: 0,0:55:19.82,0:55:21.33,Default,,0,0,0,, jinak barevný hřebík,
@@ -1256,8 +1256,8 @@ Dialogue: 0,0:56:22.65,0:56:25.72,Default,,0,0,0,,Obvykle ti, kteří jsou v ně
 Dialogue: 0,0:56:25.74,0:56:27.44,Default,,0,0,0,,Takže jako ti teda s vámi půjdou.
 Dialogue: 0,0:56:27.52,0:56:30.09,Default,,0,0,0,,Ale spousta jiných může použít obligátní
 Dialogue: 0,0:56:30.12,0:56:33.44,Default,,0,0,0,,výmluvu a to je jedna zase z těch, které hrají proto
-Dialogue: 0,0:56:33.58,0:56:34.93,Default,,0,0,0,,proč být tím, 
-Dialogue: 0,0:56:35.34,0:56:37.64,Default,,0,0,0,,řekněme, členem klubu jenom na papíře, 
+Dialogue: 0,0:56:33.58,0:56:34.93,Default,,0,0,0,,proč být tím,
+Dialogue: 0,0:56:35.34,0:56:37.64,Default,,0,0,0,,řekněme, členem klubu jenom na papíře,
 Dialogue: 0,0:56:37.73,0:56:39.80,Default,,0,0,0,,protože když jste tím členem klubu na papíře,
 Dialogue: 0,0:56:39.80,0:56:41.28,Default,,0,0,0,, a i když tam nechodíte, můžete říct:
 Dialogue: 0,0:56:41.37,0:56:44.30,Default,,0,0,0,,"Jó, promiňte, úklid hřiště? Sorry, já mám plavání."
@@ -1280,7 +1280,7 @@ Dialogue: 0,0:57:35.78,0:57:36.37,Default,,0,0,0,,Ano?
 Dialogue: 0,0:57:48.41,0:57:50.97,Default,,0,0,0,,Barvení vlasů barvení vlasů je skoro globálně
 Dialogue: 0,0:57:51.00,0:57:52.60,Default,,0,0,0,,na školách zakázáno.
 Dialogue: 0,0:57:52.77,0:57:54.85,Default,,0,0,0,,Dokonce jdou najít blogy
-Dialogue: 0,0:57:54.93,0:57:57.17,Default,,0,0,0,,lidi, kteří právě jakožto 
+Dialogue: 0,0:57:54.93,0:57:57.17,Default,,0,0,0,,lidi, kteří právě jakožto
 Dialogue: 0,0:57:57.17,0:57:59.74,Default,,0,0,0,, děti ze smíšených manželství v Japonsku vyrůstaly,
 Dialogue: 0,0:58:00.12,0:58:01.69,Default,,0,0,0,,a není to pěkné čtení
 Dialogue: 0,0:58:01.89,0:58:03.25,Default,,0,0,0,,Protože když jste ta
@@ -1329,8 +1329,8 @@ Dialogue: 0,1:00:05.54,1:00:07.57,Default,,0,0,0,,činžovními domy kdy bylo ur
 Dialogue: 0,1:00:07.65,1:00:10.90,Default,,0,0,0,,dnes myje schody Nováková, zejtra Petrák,
 Dialogue: 0,1:00:10.93,1:00:13.05,Default,,0,0,0,,pozejtří Braum a podobně.
 Dialogue: 0,1:00:13.30,1:00:15.49,Default,,0,0,0,,Tak podobným způsobem prostě máte
-Dialogue: 0,1:00:15.66,1:00:17.00,Default,,0,0,0,,rozpis studentů 
-Dialogue: 0,1:00:17.00,1:00:20.16,Default,,0,0,0,,a každý z nich má prostě v nějaký den službu, kdy musí 
+Dialogue: 0,1:00:15.66,1:00:17.00,Default,,0,0,0,,rozpis studentů
+Dialogue: 0,1:00:17.00,1:00:20.16,Default,,0,0,0,,a každý z nich má prostě v nějaký den službu, kdy musí
 Dialogue: 0,1:00:20.18,1:00:21.70,Default,,0,0,0,,uklidit třídu nakonec.
 Dialogue: 0,1:00:21.98,1:00:25.37,Default,,0,0,0,,Nebývá sám většinou to bývá skupina dvou až tří studentů
 Dialogue: 0,1:00:25.70,1:00:26.77,Default,,0,0,0,,podle rozměrů třídy.
@@ -1345,10 +1345,10 @@ Dialogue: 0,1:00:47.80,1:00:50.06,Default,,0,0,0,,Co je horší ten půlden si m
 Dialogue: 0,1:00:51.34,1:00:53.33,Default,,0,0,0,,Děkuji, děkuji.
 Dialogue: 0,1:00:53.56,1:00:56.00,Default,,0,0,0,,Plha se hlásí a tím pádem já vás...
 Dialogue: 0,1:00:56.50,1:00:58.09,Default,,0,0,0,,tu se tedy s vámi rozloučím.
-Dialogue: 0,1:00:58.21,1:01:01.40,Default,,0,0,0,,Připomenu jen, že pokud některý z vašich známých, tuhletu přednášku neměl 
+Dialogue: 0,1:00:58.21,1:01:01.40,Default,,0,0,0,,Připomenu jen, že pokud některý z vašich známých, tuhletu přednášku neměl
 Dialogue: 0,1:01:01.45,1:01:03.54,Default,,0,0,0,,šanci stihnout, že volil jiný program,
 Dialogue: 0,1:01:03.56,1:01:04.89,Default,,0,0,0,,byl právě někde jinde,
-Dialogue: 0,1:01:04.98,1:01:07.52,Default,,0,0,0,,zítra v áčku v 9:00 ráno 
+Dialogue: 0,1:01:04.98,1:01:07.52,Default,,0,0,0,,zítra v áčku v 9:00 ráno
 Dialogue: 0,1:01:07.53,1:01:09.90,Default,,0,0,0,,proběhne živé opakování téhleté přednášky.
 Dialogue: 0,1:01:09.98,1:01:12.29,Default,,0,0,0,,Takže pokud tu bude zájem
 Dialogue: 0,1:01:12.28,1:01:14.60,Default,,0,0,0,, můžete přjít. Děkuji vám
