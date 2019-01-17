@@ -15,9 +15,9 @@ Video File: ../../audio_in/video-na-titulky/AF15 - Scenáristické podivnosti na
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 925
-Active Line: 959
-Video Position: 66495
+Scroll Position: 181
+Active Line: 197
+Video Position: 14817
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,8 +62,8 @@ Dialogue: 0,0:01:30.89,0:01:31.80,Default,,0,0,0,,požádá vás,
 Dialogue: 0,0:01:31.85,0:01:33.86,Default,,0,0,0,,zvedněte mi ruku vy, kteří jste
 Dialogue: 0,0:01:33.86,0:01:36.81,Default,,0,0,0,,se opravdu namáhali tím, že jste opravdu četli anotace na tuto přednášku.
 Dialogue: 0,0:01:38.20,0:01:41.18,Default,,0,0,0,,Páni. Výborně.
-Dialogue: 0,0:01:41.49,0:01:42.92,Default,,0,0,0,,To já jen jestli
-Dialogue: 0,0:01:42.93,0:01:47.58,Default,,0,0,0,,organizátoři animefestu mají stále ještě utrácet za tiskaře a tyhle ty věci pro vás dále dělat
+Dialogue: 0,0:01:41.49,0:01:45.58,Default,,0,0,0,,To já jen jestli organizátoři animefestu mají stále ještě utrácet za tiskaře
+Dialogue: 0,0:01:45.58,0:01:47.58,Default,,0,0,0,, a tyhle ty věci pro vás dále dělat
 Dialogue: 0,0:01:47.86,0:01:50.20,Default,,0,0,0,,Takže výborně tím pádem budu předpokládat,
 Dialogue: 0,0:01:50.37,0:01:52.02,Default,,0,0,0,,že většina sálu ví, co je tedy
 Dialogue: 0,0:01:52.34,0:01:54.21,Default,,0,0,0,,čeká a nejsou tady jen omylem,
@@ -175,7 +175,7 @@ Dialogue: 0,0:07:18.26,0:07:19.88,Default,,0,0,0,,ze školního řádu.
 Dialogue: 0,0:07:20.41,0:07:23.85,Default,,0,0,0,,Jednalo by se totiž o pošlapání kolektivního ducha
 Dialogue: 0,0:07:23.85,0:07:27.42,Default,,0,0,0,,žactva a odklonu od výchovy k samostatnosti.
 Dialogue: 0,0:07:28.40,0:07:29.72,Default,,0,0,0,,To protože
-Dialogue: 0,0:07:29.94,0:07:34.48,Default,,0,0,0,, v Japonsku existuje přesvědčení, že tím, že to děcko, které skončilo tu školku
+Dialogue: 0,0:07:29.94,0:07:34.22,Default,,0,0,0,, v Japonsku existuje přesvědčení, že tím, že to děcko, které skončilo tu školku
 Dialogue: 0,0:07:34.66,0:07:36.96,Default,,0,0,0,,a už jde na tu základku třeba dál od domova,
 Dialogue: 0,0:07:37.18,0:07:41.05,Default,,0,0,0,,pošlete městskou hromadnou dopravou, tak ho vychováváte k samostatnosti.
 Dialogue: 0,0:07:41.84,0:07:45.80,Default,,0,0,0,,Nevím, co přesně to svědčí o kvalitě japonské hromadné dopravy
@@ -221,7 +221,8 @@ Dialogue: 0,0:09:35.84,0:09:39.54,Default,,0,0,0,,Pokud jste opravdu silně těl
 Dialogue: 0,0:09:40.30,0:09:42.96,Default,,0,0,0,,A to znamená nejen,
 Dialogue: 0,0:09:42.98,0:09:45.68,Default,,0,0,0,,promiňte, že to použiju takto, "pouhý vozíčkář".
 Dialogue: 0,0:09:45.70,0:09:47.68,Default,,0,0,0,,Ale musí k tomu být ještě něco dalšího,
-Dialogue: 0,0:09:47.72,0:09:52.72,Default,,0,0,0,,abyste tedy nebyli schopni na vozíčku skrze MHD nebo zkrze pomoc ostatních dojet do školy.
+Dialogue: 0,0:09:47.72,0:09:49.50,Default,,0,0,0,,abyste tedy nebyli schopni na vozíčku
+Dialogue: 0,0:09:49.51,0:09:52.72,Default,,0,0,0,,skrze MHD nebo zkrze pomoc ostatních dojet do školy.
 Dialogue: 0,0:09:55.00,0:09:58.62,Default,,0,0,0,,Nebo je vám vysloveně doporučeno užívat
 Dialogue: 0,0:09:58.62,0:10:00.62,Default,,0,0,0,, jiného vzdělávacího systému.
 Dialogue: 0,0:10:02.65,0:10:06.14,Default,,0,0,0,,Jak se tohleto přeložíte a ohledně japonské společnosti, už nechám na vašich hlavách.
