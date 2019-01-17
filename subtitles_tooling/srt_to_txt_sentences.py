@@ -18,12 +18,15 @@ def merge_sentences_together(sentences):
             # not end of sentence
             print('merging together', sentence, next_sentence)
             sentence = f"{sentence} {next_sentence}".replace('  ', ' ')  # merge with double space replace
-            yield sentence
+            sentences[i] = sentence
+            del sentences[i + 1]
+            # yield sentence
             i += 1
         else:
-            yield sentence
+            # yield sentence
+            pass
         i += 1
-
+    return sentences
 
 def srt_to_sentences(filename):
     print('parsing file', filename)
