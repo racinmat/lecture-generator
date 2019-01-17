@@ -7,3 +7,4 @@
 - subtitle should start and end when speaker starts and ends talking, even when it makes them less readable
 - filler sounds should not be transcribed (ehm)
 - filler world, when said whole, should be transcribed
+- every subtitle should be only one line
