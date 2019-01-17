@@ -1,5 +1,5 @@
 from sys import argv
-from datetime import timedelta
+import os.path as osp
 from utils import load_srt_file, srt_files_in_dir
 
 
@@ -9,7 +9,23 @@ def extract_dir(directory):
         srt_to_sentences(file_path)
 
 
-def srt_to_sentences(filename, max_seconds=4.5):
+def merge_sentences_together(sentences):
+    i = 0
+    while i < len(sentences) - 1:
+        sentence = sentences[i]
+        next_sentence = sentences[i + 1]
+        if sentence[-1] not in ['.', '!', '?'] and next_sentence[0].islower():
+            # not end of sentence
+            print('merging together', sentence, next_sentence)
+            sentence = f"{sentence} {next_sentence}".replace('  ', ' ')  # merge with double space replace
+            yield sentence
+            i += 1
+        else:
+            yield sentence
+        i += 1
+
+
+def srt_to_sentences(filename):
     print('parsing file', filename)
     records = load_srt_file(filename)
 
@@ -20,17 +36,12 @@ def srt_to_sentences(filename, max_seconds=4.5):
             continue
         sentences.append(record.text)
 
-    prev_sentence = sentences[0]
-    for i, sentence in list(enumerate(sentences))[1:]:
-        if prev_sentence[-1] not in ['.', '!', '?'] and sentence[0].islower():
-            # not end of sentence
-            print('merging together', prev_sentence, sentence)
-            sentence = f"{prev_sentence} {sentence}".replace('  ', ' ')  # merge with double space replace
-            del sentences[i - 1]
-            sentences[i] = sentence
-        prev_sentence = sentence
+    merged_sentences = list(merge_sentences_together(sentences))
     # merging parts of sentences into sentences
-    print(sentences)
+    basename = osp.splitext(osp.basename(filename))[0]
+    with open(osp.join('..', 'pure_text_dataset', basename+'.txt'), mode='w+', encoding='utf-8') as f:
+        for sentence in merged_sentences:
+            f.write(sentence+'\n')
 
 
 if __name__ == '__main__':
