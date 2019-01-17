@@ -20,12 +20,8 @@ def merge_sentences_together(sentences):
             sentence = f"{sentence} {next_sentence}".replace('  ', ' ')  # merge with double space replace
             sentences[i] = sentence
             del sentences[i + 1]
-            # yield sentence
-            # i += 1
         else:
-            # yield sentence
-            pass
-        i += 1
+            i += 1
     return sentences
 
 def srt_to_sentences(filename):
