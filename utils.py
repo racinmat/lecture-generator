@@ -1,6 +1,7 @@
 import re
 import os
 import os.path as osp
+from datetime import timedelta
 
 
 def srt_files_in_dir(directory):
@@ -9,6 +10,23 @@ def srt_files_in_dir(directory):
             continue
         file_path = osp.join(directory, file)
         yield file_path
+
+
+class Record(object):
+    def __init__(self, line_number: int, seconds_start: float, seconds_end: float, text: str):
+        self.line_number = line_number
+        self.seconds_start = seconds_start
+        self.seconds_end = seconds_end
+        self.text = text
+
+    def start_timedelta(self):
+        return timedelta(seconds=self.seconds_start)
+
+    def end_timedelta(self):
+        return timedelta(seconds=self.seconds_end)
+
+    def seconds_diff(self):
+        return self.seconds_end - self.seconds_start
 
 
 def load_srt_file(filename):
@@ -28,11 +46,9 @@ def load_srt_file(filename):
                 line = next(lines).replace('\n', '')
                 text = line
                 next(lines)
-                records.append({
-                    's_start': seconds_start,
-                    's_end': seconds_end,
-                    'text': text
-                })
+                if text == '':
+                    continue    # skipping empty subtitle
+                records.append(Record(line_number, seconds_start, seconds_end, text))
             except StopIteration as e:
                 break
     return records
