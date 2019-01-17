@@ -14,7 +14,7 @@ def merge_sentences_together(sentences):
     while i < len(sentences) - 1:
         sentence = sentences[i]
         next_sentence = sentences[i + 1]
-        if sentence[-1] not in ['.', '!', '?'] and next_sentence[0].islower():
+        if sentence[-1] not in ['.', '!', '?'] and next_sentence[0].islower() and not sentence.endswith('tzv.'):
             # not end of sentence
             print('merging together', sentence, next_sentence)
             sentence = f"{sentence} {next_sentence}".replace('  ', ' ')  # merge with double space replace
