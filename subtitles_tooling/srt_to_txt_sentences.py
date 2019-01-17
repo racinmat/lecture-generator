@@ -21,7 +21,7 @@ def merge_sentences_together(sentences):
             sentences[i] = sentence
             del sentences[i + 1]
             # yield sentence
-            i += 1
+            # i += 1
         else:
             # yield sentence
             pass
