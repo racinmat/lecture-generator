@@ -1,1 +1,1 @@
-asstosrt -e utf-8 -o E:\Projects\lecture_generator\text_out\corrected E:\Projects\lecture_generator\text_out\corrected\Prepis1AF15_Spnsp.ass
+asstosrt -e utf-8 -o E:\Projects\lecture_generator\text_out\corrected E:\Projects\lecture_generator\text_out\corrected\Prepis2AF15_Spnsp.ass

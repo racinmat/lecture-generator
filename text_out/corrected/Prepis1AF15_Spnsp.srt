@@ -1,0 +1,4880 @@
+1
+00:00:00,000 --> 00:00:02,890
+...
+
+2
+00:00:07,890 --> 00:00:09,400
+...vítám na Animefestu.
+
+3
+00:00:09,500 --> 00:00:12,690
+Bude to taková přestávka na oběd, abych tak řekl.
+
+4
+00:00:13,500 --> 00:00:17,500
+A samozřejmě pro ty z vás, kteří mě ještě neznají,
+
+5
+00:00:17,500 --> 00:00:20,100
+můj nick je Grek1 a budu Vám
+
+6
+00:00:20,100 --> 00:00:22,100
+se snažit přiblížit něco
+
+7
+00:00:22,100 --> 00:00:25,100
+z "Scénáristických podivností na školní půdě".
+
+8
+00:00:25,890 --> 00:00:28,600
+Jelikož zde probíhá
+
+9
+00:00:28,600 --> 00:00:32,290
+souboj mezi delikventy a šprty,
+
+10
+00:00:32,290 --> 00:00:34,200
+požádám Vás, pokud mi budete na některé otázky
+
+11
+00:00:34,200 --> 00:00:38,000
+odpovídat, tak abyste mi vždycky
+
+12
+00:00:38,000 --> 00:00:41,000
+před odpovědí nahlásili, zda-li jste delikvent
+
+13
+00:00:41,000 --> 00:00:45,000
+modrý anebo šprt bílý.
+
+14
+00:00:45,000 --> 00:00:46,200
+Ano?
+
+15
+00:00:49,100 --> 00:00:51,890
+Ano, díky těm páskám tu teďka před Vámi
+
+16
+00:00:51,890 --> 00:00:53,390
+stojím asi jako nějaký reformovaný delikvent,
+
+17
+00:00:53,390 --> 00:00:58,790
+ protože jinak by to zřejmě nepřednášel a nebyl součástí pedagogického sboru této školy.
+
+18
+00:00:58,790 --> 00:01:00,000
+Takže takto.
+
+19
+00:01:07,000 --> 00:01:10,000
+Výborně, ještě někteří docházejí?
+
+20
+00:01:12,600 --> 00:01:16,000
+A rozumím, v tom případě
+
+21
+00:01:16,290 --> 00:01:19,500
+nechme ještě usadit, ty které tu máme a
+
+22
+00:01:19,500 --> 00:01:23,500
+Já... Ano? Á to byly komentáře támhle
+
+23
+00:01:23,500 --> 00:01:25,090
+v rozhovoru, v pořádku. Promiňte.
+
+24
+00:01:26,500 --> 00:01:32,000
+Tak. Je to takový můj obvyklý statistický dotaz, požádá Vás
+
+25
+00:01:32,000 --> 00:01:38,200
+zvedněte mi ruku vy, kteří jste se opravdu namáhali tím, že jste opravdu četli anotace na tuto přednášku.
+
+26
+00:01:38,200 --> 00:01:42,000
+Páni. Výborně.
+
+27
+00:01:42,000 --> 00:01:48,090
+To já jen jestli organizátoři animefestu mají stále ještě utrácet za tiskaře a tyhle ty věci pro vás dále dělat, takže
+
+28
+00:01:48,090 --> 00:01:50,200
+Výborně tím pádem budu předpokládat, že
+
+29
+00:01:50,200 --> 00:01:52,500
+většina sálu ví, co je tedy čeká
+
+30
+00:01:52,500 --> 00:01:54,590
+a nejsou tady jen omylem nebo jenom
+
+31
+00:01:54,590 --> 00:01:56,700
+aby zabili čas do Cosplay soutěže, ták.
+
+32
+00:02:00,000 --> 00:02:02,290
+Tak proč vlastně zvolit takovéhle téma?
+
+33
+00:02:02,290 --> 00:02:08,690
+To protože tenhle letošní animefest je prvním, ve kterém mě organizátoři
+
+34
+00:02:08,690 --> 00:02:14,300
+požádali vysloveně připravit něco k tématu, které se právě dotýká škol
+
+35
+00:02:14,300 --> 00:02:21,000
+a s ohledem na celkový divácký zájem různých porovnání smutné reality a barevného anime života.
+
+36
+00:02:21,000 --> 00:02:23,000
+Jsem se měl soustředit právě na to,
+
+37
+00:02:23,000 --> 00:02:28,000
+jaké zpodobnění školního života se v anime k vám obvykle dostává
+
+38
+00:02:28,000 --> 00:02:33,600
+a velmi často selhává, řekne v porovnání, s realitou japonského školství.
+
+39
+00:02:33,700 --> 00:02:37,690
+Tak pardon. Tak první.
+
+40
+00:02:37,690 --> 00:02:39,800
+První část se bude týkat tzv.
+
+41
+00:02:39,800 --> 00:02:43,800
+"podivností ztracených v nepřekladu"
+
+42
+00:02:43,800 --> 00:02:45,800
+Ti z vás, kteří se s tímhle tím pojmem ještě nesetkali.
+
+43
+00:02:45,800 --> 00:02:52,900
+Jde o to, že i v samotném anime, pro řekněme zdůraznění některých věcí, byly
+
+44
+00:02:52,900 --> 00:02:55,500
+používány prvky, které jsou i rodilému
+
+45
+00:02:55,500 --> 00:02:59,100
+Japonci divné, že takhle to ve škole nechodí.
+
+46
+00:02:59,500 --> 00:03:03,090
+Problém je samozřejmě ten, že když ten titul i schopní subeři
+
+47
+00:03:03,090 --> 00:03:06,900
+chytnou, přeloží a pošlu na západ,
+
+48
+00:03:06,900 --> 00:03:10,300
+tak ten kulturní kontext z těhle těch věcí postupně vymizí.
+
+49
+00:03:10,300 --> 00:03:14,000
+A tady Vám vlastně ukážu hnedle několik,
+
+50
+00:03:14,000 --> 00:03:19,800
+u kterých jsem dokázal najít i vcelku bizarní věci spojené s realitou Japonska,
+
+51
+00:03:19,800 --> 00:03:23,000
+jak moc by tyto věci, řekněme, nemohli fungovat.
+
+52
+00:03:23,500 --> 00:03:27,190
+Tak první. Ano.
+
+53
+00:03:27,190 --> 00:03:30,500
+Dojíždění vlastním vozem či dovážka do školy.
+
+54
+00:03:30,500 --> 00:03:33,690
+Pro ty z Vás, kteří si libují v jistých žánrech.
+
+55
+00:03:33,690 --> 00:03:38,400
+"dovážka do školy" myslím tím celého živého studenta ke studiu,
+
+56
+00:03:38,400 --> 00:03:40,690
+ nikoli žádných jeho části, či upravených věcí,
+
+57
+00:03:40,690 --> 00:03:44,000
+nebo snad jako surovinu pro školní jídelnu.
+
+58
+00:03:44,100 --> 00:03:46,000
+Nic takového.
+
+59
+00:03:46,000 --> 00:03:49,500
+Dovážení celých živých studentů připravených ke studiu.
+
+60
+00:03:49,500 --> 00:03:52,190
+ To jak dobrovolně, jak ochotně už je věc žánrů.
+
+61
+00:03:52,190 --> 00:03:57,800
+Ale jak říkám, v době předání školní orgánům jsou živí a zdraví.
+
+62
+00:03:57,800 --> 00:03:59,000
+Fyzicky.
+
+63
+00:04:01,690 --> 00:04:02,590
+Ano.
+
+64
+00:04:03,000 --> 00:04:07,300
+V Japonsku neexistuje, že byste do školy a
+
+65
+00:04:07,300 --> 00:04:13,000
+to dokonce i na univerzitu, kde je to o něco volnější,
+
+66
+00:04:13,000 --> 00:04:16,390
+jste si mohli dojet vlastním vozem, nebo že vás dovezl rodič,
+
+67
+00:04:16,390 --> 00:04:19,890
+nebo nějakým způsobem vám zaplatil
+
+68
+00:04:19,890 --> 00:04:24,000
+šoféra, který vás v limuzíně do školy doveze.
+
+69
+00:04:24,100 --> 00:04:25,390
+Je to nepředstavitelné.
+
+70
+00:04:26,140 --> 00:04:28,390
+Je to dáno tím, že se...
+
+71
+00:04:28,390 --> 00:04:33,890
+Pravda můžu už se rovnou zeptat i na první otázku.
+
+72
+00:04:34,000 --> 00:04:35,800
+Kdo mi tu v sále odpoví na to,
+
+73
+00:04:35,800 --> 00:04:41,300
+co byla tzv. "restaurace Meidži" nebo "vzpoura Meidži".
+
+74
+00:04:41,400 --> 00:04:44,000
+Prosím. Šprt nebo delikvent?
+
+75
+00:04:45,300 --> 00:04:46,500
+Šprt :) Ví přesně, ano.
+
+76
+00:04:47,000 --> 00:04:57,000
+(odpověď)
+
+77
+00:04:57,600 --> 00:05:00,300
+Výborně. Jednička s hvězdičkou.
+
+78
+00:05:00,300 --> 00:05:04,420
+Požádám sličnou Kalisto, aby zaznamenala.
+
+79
+00:05:04,880 --> 00:05:06,820
+Takže šprti bodují.
+
+80
+00:05:06,860 --> 00:05:07,800
+(potlesk)
+
+81
+00:05:07,800 --> 00:05:08,500
+Ano
+
+82
+00:05:08,500 --> 00:05:13,300
+(potlesk)
+
+83
+00:05:13,300 --> 00:05:15,690
+...nešlo jenom o to že se, tak říkajíc moc
+
+84
+00:05:15,690 --> 00:05:19,440
+vrátila na Císařský dvůr a byl tedy svržen šógun.
+
+85
+00:05:19,460 --> 00:05:22,560
+Šlo i o celkovou transformaci japonské společnosti a
+
+86
+00:05:22,700 --> 00:05:27,520
+ta se projevovala tím, že byl zrušen do té doby platný kastovní systém.
+
+87
+00:05:27,620 --> 00:05:30,190
+A jedním z příznaků kastovního systému je to,
+
+88
+00:05:30,190 --> 00:05:35,540
+že ten bohatý šlechtic nebo ten někdo s vyšším postavením
+
+89
+00:05:35,580 --> 00:05:40,460
+užíval nosítek, či vozů, které táhli ti podřízení.
+
+90
+00:05:40,540 --> 00:05:42,800
+A jelikož Japonci, když se do něčeho pustí
+
+91
+00:05:42,800 --> 00:05:45,390
+a řeknou, že něco reformují, tak to
+
+92
+00:05:45,390 --> 00:05:47,100
+dělají po Japonsku, tzn. z gruntu znova
+
+93
+00:05:47,100 --> 00:05:48,800
+a pokud možno všeobecným nařízení,
+
+94
+00:05:48,800 --> 00:05:51,100
+bez ohledu na to, co to udělá,
+
+95
+00:05:51,100 --> 00:05:53,100
+ tak zakázali veškeré projevy,
+
+96
+00:05:54,000 --> 00:05:57,100
+vlastně tady toho kastovního rozdělení.
+
+97
+00:05:57,240 --> 00:06:03,060
+včetně používání vozu tažených lidmi, nosítek a věcí kolem. Ano?
+
+98
+00:06:05,700 --> 00:06:09,000
+(otázka)
+
+99
+00:06:09,020 --> 00:06:14,980
+Právě začátek "Taišó" byl spíše uvolňování od některých těhletěch pravidel.
+
+100
+00:06:15,040 --> 00:06:19,320
+Z jednoho prostého důvodu. On Císař Taišó, neříká se to...
+
+101
+00:06:19,340 --> 00:06:25,520
+Hmm.. tak nemluví se o tom, ale císař Taišó  patřil mezi císaře, kteří projevovali
+
+102
+00:06:25,520 --> 00:06:31,600
+minimální zájem o fungování státu zřejmě v důsledku jistých
+
+103
+00:06:31,890 --> 00:06:35,390
+"dispozic nervového systému" takto píšeme. ._.
+
+104
+00:06:35,390 --> 00:06:40,890
+a díky tomu je období Tajšó, ač se mu Japonci pohříchu málo věnují,
+
+105
+00:06:40,890 --> 00:06:45,890
+jedním z mála období, ve kterém v Japonsku docela kvetla i občanská společnost,
+
+106
+00:06:45,890 --> 00:06:48,680
+než se to vlastně zase zvrhlo v tu převahu armády.
+
+107
+00:06:48,680 --> 00:06:50,500
+Takže je to právě i jeden z důvodů,
+
+108
+00:06:50,500 --> 00:06:52,890
+proč se i rušili do té doby docela
+
+109
+00:06:52,890 --> 00:06:59,480
+posvátné nařízení o něch z otců zakladatelů, otců revoluce, tyhlety pravidla.
+
+110
+00:06:59,500 --> 00:07:03,080
+Takže jak říkám tedy, je to takový dozvuk.
+
+111
+00:07:03,120 --> 00:07:07,160
+Prostě když to do těch lidí hustíte 50 let, tak to v nich zůstává.
+
+112
+00:07:07,180 --> 00:07:10,380
+A to dokonce i po několik zas dalších desetiletích.
+
+113
+00:07:10,400 --> 00:07:14,400
+Takže že byste se do školi v Japonsku svezli se svým vozem, neexistuje.
+
+114
+00:07:14,460 --> 00:07:20,020
+Já k tomu mám dokonce výtažek ze školního řádu.
+
+115
+00:07:20,190 --> 00:07:28,440
+Jednalo by se totiž o pošlapání kolektivního ducha žactva a  odklonu od výchovy k samostatnosti.
+
+116
+00:07:29,390 --> 00:07:34,600
+To protože v Japonsku existuje přesvědčení, že tím, že to děcko, které skončilo tu školku a
+
+117
+00:07:34,660 --> 00:07:37,180
+ už jde na tu základku třeba dál od domova,
+
+118
+00:07:37,180 --> 00:07:42,040
+pošlete městskou hromadnou dopravou, tak ho vychováváte k samostatnosti.
+
+119
+00:07:42,100 --> 00:07:47,390
+Nevím, co přesně to svědčí o kvalitě japonské hromadné dopravy či
+
+120
+00:07:47,390 --> 00:07:49,880
+naopak kvalitě japonského studentstva,
+
+121
+00:07:49,920 --> 00:07:53,420
+ ale je to takové podivné přesvědčení.
+
+122
+00:07:53,480 --> 00:07:59,400
+A co se týče kolektivního ducha žactva, tak asi většině z vás nemusím vysvětlovat,
+
+123
+00:07:59,460 --> 00:08:05,060
+že japonský systém - tlačíme tak, aby žádné hřebík nekoukal z řady,
+
+124
+00:08:05,120 --> 00:08:07,800
+pokud možno kolektivně zpracovávat, co možná nejvíce věcí a
+
+125
+00:08:07,800 --> 00:08:12,860
+státi se těmi platnými členy společnosti, je opravdu doktrína, podle které jedou.
+
+126
+00:08:12,900 --> 00:08:16,440
+ Už vlastně od velké transformace  školství podle německého modelu.
+
+127
+00:08:16,620 --> 00:08:20,780
+Takže v tuhle tu chvíli není důvod od téhle té věci pochybovat.
+
+128
+00:08:20,800 --> 00:08:23,800
+Navíc přesně tahle ta věta se objevila
+
+129
+00:08:23,800 --> 00:08:26,600
+i ve zdůvodnění několika incidentů,
+
+130
+00:08:26,600 --> 00:08:31,600
+které se mi povedlo v tomhletom dohledat. Reálných incidentů.
+
+131
+00:08:31,620 --> 00:08:34,600
+Ano, obchodník z USA, který
+
+132
+00:08:34,600 --> 00:08:38,620
+v 70. letech začal v Japonsku vlastně řídit svoji filiálku.
+
+133
+00:08:38,620 --> 00:08:42,890
+Svého synka byl ve státech zvyklý do školy vozit.
+
+134
+00:08:42,890 --> 00:08:44,700
+Prostě, že ho ráno naložil, hodil ho do školy,
+
+135
+00:08:44,700 --> 00:08:46,500
+dojel si do práce, tam to vyřídil,
+
+136
+00:08:46,500 --> 00:08:50,180
+jel z práce, synka naložil, hodilo ho domů.
+
+137
+00:08:50,180 --> 00:08:52,440
+V Japonsku to provedl jenom jednou.
+
+138
+00:08:52,440 --> 00:08:58,040
+Synek byl na měsíc podmínečně vyloučen a hrozilo mu vyloučení kompletní.
+
+139
+00:08:58,040 --> 00:09:00,290
+Právě na základě tohoto odůvodnění.
+
+140
+00:09:02,500 --> 00:09:03,500
+Co se týče
+
+141
+00:09:04,890 --> 00:09:09,390
+jistého francouzského obchodníka s rovnátky a zubními preparáty,
+
+142
+00:09:09,390 --> 00:09:12,390
+tak ten už takové štěstí neměl.
+
+143
+00:09:12,390 --> 00:09:15,800
+Neb své dcerušce pořídil jak ten vůz, tak toho řidiče .
+
+144
+00:09:15,880 --> 00:09:19,540
+Zase. Do školy dojela jenom jednou, byla vyloučena.
+
+145
+00:09:19,600 --> 00:09:24,420
+Bez debat, bez omluvy, bez vrácení školného.
+
+146
+00:09:24,600 --> 00:09:27,320
+Takže takto.
+
+147
+00:09:27,360 --> 00:09:32,000
+Je zajímavé, že je několik výjimek, které vám
+
+148
+00:09:32,000 --> 00:09:35,100
+v tomhle tom mohou přeci jenom pomoci.
+
+149
+00:09:35,100 --> 00:09:40,140
+1. Pokud jste opravdu silně tělesně postižení.
+
+150
+00:09:40,300 --> 00:09:42,960
+A to znamená nejen,
+
+151
+00:09:42,980 --> 00:09:45,680
+promiňte, že to použiju takto, "pouhý vozíčkář".
+
+152
+00:09:45,700 --> 00:09:47,680
+Ale musí k tomu být ještě něco dalšího,
+
+153
+00:09:47,720 --> 00:09:53,900
+abyste tedy nebyli schopni na vozíčku skrze MHD nebo zkrze pomoc ostatních dojet do školy.
+
+154
+00:09:54,790 --> 00:10:01,540
+Nebo je vám vysloveně doporučeno užívat jiného vzdělávacího systému.
+
+155
+00:10:01,820 --> 00:10:06,900
+Jak se tohleto přeložíte a ohledně japonské společnosti, už nechám na vašich hlavách.
+
+156
+00:10:06,920 --> 00:10:10,440
+2. výjimkou jsou bicykly
+
+157
+00:10:10,440 --> 00:10:19,000
+Kolo se stalo totiž někdy okolo přelomu 75., 76. roku takovou
+
+158
+00:10:19,040 --> 00:10:20,580
+Jak to říct.
+
+159
+00:10:20,600 --> 00:10:25,520
+Ztělesněním teenage snu v Japonsku,
+
+160
+00:10:25,580 --> 00:10:27,600
+protože když jste měli to kolo
+
+161
+00:10:27,600 --> 00:10:30,200
+a mohli jsme vyrazit za to město,
+
+162
+00:10:30,200 --> 00:10:32,600
+mohli jste v tom minimum volného času,
+
+163
+00:10:32,600 --> 00:10:37,700
+ které od té základky, přes ty střední stupně až do té univerzity máte,
+
+164
+00:10:37,700 --> 00:10:40,720
+vlastně využít k tomu, že ste si někam vyrazili s přáteli atd.
+
+165
+00:10:40,740 --> 00:10:42,600
+Tak jste byl king.
+
+166
+00:10:42,640 --> 00:10:47,620
+Co víc, školy pochopily, že místo toho, aby
+
+167
+00:10:47,600 --> 00:10:50,500
+vám tohle zakazovali, když stejně pak budete odpoledne někde řádit.
+
+168
+00:10:50,520 --> 00:10:54,600
+Tak vám radši ten stojan ke škole postavěj a tedy kolo se bere,
+
+169
+00:10:54,700 --> 00:10:56,980
+že na něm do školy dojíždět můžete.
+
+170
+00:10:57,500 --> 00:11:01,420
+ Dokonce to vedlo k tomu, že se objevila jedna móda
+
+171
+00:11:01,440 --> 00:11:04,000
+Existuje pro to pomenování "itaša",
+
+172
+00:11:04,020 --> 00:11:07,820
+které se dnes používá pro pojmenování otaku aut.
+
+173
+00:11:07,840 --> 00:11:11,790
+Takové ty, na kterých je nakreslená Saber či jiné lolitky
+
+174
+00:11:11,790 --> 00:11:15,540
+nebo odhalení bishouneni atd., všechno tohleto.
+
+175
+00:11:15,540 --> 00:11:20,740
+Tak původně se tím označovala kola, která se ti studenti
+
+176
+00:11:20,780 --> 00:11:23,520
+zvláště pokud se jedná o delikventy.
+
+177
+00:11:23,540 --> 00:11:26,900
+Tady to berte jako takovouu dobrou radu, vy kteří máte modré pásky.
+
+178
+00:11:26,900 --> 00:11:31,000
+Mohli si jakýmkoli způsobem zdobit,
+
+179
+00:11:31,000 --> 00:11:33,100
+dokud to bylo nějak kolo.
+
+180
+00:11:33,100 --> 00:11:35,740
+Vedlo to k tomu, že existovaly itaša gangy.
+
+181
+00:11:35,800 --> 00:11:40,300
+Představte si, že jste se vzhlédnul v tom americkém filmu, v nějakém drsnym motorkáři ,
+
+182
+00:11:40,360 --> 00:11:43,420
+Nojo, jenže vy, jakožto japonský student nejenomže motorku nemáte,
+
+183
+00:11:43,420 --> 00:11:45,360
+ale do školy s ní jezdit nemůžete.
+
+184
+00:11:45,420 --> 00:11:48,720
+ No tak si to kolo upravim tak, že jako posunu šlapky,
+
+185
+00:11:48,740 --> 00:11:51,540
+tady jako říznu ten rám, navařím další,
+
+186
+00:11:51,560 --> 00:11:53,840
+No a prostě ty řidítka natáhnu, ne?
+
+187
+00:11:53,860 --> 00:11:54,700
+ A pak jsem king.
+
+188
+00:11:54,700 --> 00:11:59,600
+Protože sice, mám kolo na kterym se strašně blbě jezdí, ale vypadá jako Harley.
+
+189
+00:12:01,000 --> 00:12:03,700
+Dodneška pokud se podíváte na různé
+
+190
+00:12:03,700 --> 00:12:07,980
+filmy z téhle té doby, jako hrané japonské filmy, tak tam tyhle věci najdete.
+
+191
+00:12:08,100 --> 00:12:11,140
+Pro opravdu kolový gang.
+
+192
+00:12:11,500 --> 00:12:14,900
+Takže dojíždění do školy
+
+193
+00:12:15,000 --> 00:12:18,780
+není v Japonsku nic, co by jste tam opravdu dělo
+
+194
+00:12:18,800 --> 00:12:23,020
+a tedy důvod, proč se to začalo objevovat v anime
+
+195
+00:12:23,100 --> 00:12:24,680
+je následující.
+
+196
+00:12:24,720 --> 00:12:26,160
+Právě proto, že nejezdili,
+
+197
+00:12:26,160 --> 00:12:29,100
+neměli jak jezdit tím autem do školy nebo
+
+198
+00:12:29,100 --> 00:12:31,600
+prostě je to něco cizího.
+
+199
+00:12:31,600 --> 00:12:34,380
+Tak to můžete využít k ukázání právě cizosti settingu.
+
+200
+00:12:34,420 --> 00:12:38,620
+Tohle je třeba screen z původního prvního Gundamu,
+
+201
+00:12:38,640 --> 00:12:41,620
+hlavní hrdina Amuro Ray, který takto dojíždí do školy
+
+202
+00:12:41,640 --> 00:12:44,600
+ve svém voze, pravda, že na orbitální stanici
+
+203
+00:12:44,600 --> 00:12:46,200
+a proto si to může dovolit,
+
+204
+00:12:46,200 --> 00:12:48,100
+protože to není náš svět.
+
+205
+00:12:48,100 --> 00:12:50,000
+Je to někde daleko, je to budounost, je to něco cizího.
+
+206
+00:12:50,000 --> 00:12:52,600
+Něco co prostě není tenhle ten svět.
+
+207
+00:12:52,600 --> 00:12:55,100
+A tímhle tím to jenom podtrhneme, protože
+
+208
+00:12:55,100 --> 00:12:58,100
+tam děti jezdí do školy svým autem.
+
+209
+00:12:59,500 --> 00:13:00,000
+Ano?
+
+210
+00:13:00,000 --> 00:13:02,000
+(otázka)
+
+211
+00:13:03,790 --> 00:13:06,600
+Totéž.
+
+212
+00:13:06,800 --> 00:13:11,290
+Zase pošlapal byste ducha jednoty žactva,
+
+213
+00:13:11,290 --> 00:13:14,140
+protože ten někdo by měl to privilegium
+
+214
+00:13:14,180 --> 00:13:15,320
+být odvezen.
+
+215
+00:13:16,890 --> 00:13:19,290
+(Existuje vzdálenost od školy kde už tohle...?)
+
+216
+00:13:19,290 --> 00:13:22,960
+Ne. Protože vzdálenost od školy vám přeci řeší autobus.
+
+217
+00:13:23,000 --> 00:13:25,800
+(Když by vás rodiče vyhodili za rohem)
+
+218
+00:13:25,880 --> 00:13:28,240
+(smích)
+
+219
+00:13:29,500 --> 00:13:33,000
+Samozřejmě. Někteří lidé tohle zkoušeli.
+
+220
+00:13:33,000 --> 00:13:34,790
+Pravda jednalo se hlavně o cizince.
+
+221
+00:13:34,790 --> 00:13:38,300
+Velmi rychle narazili na jednu základní problematiku.
+
+222
+00:13:38,320 --> 00:13:41,680
+Japonci si velmi rádi všímají věcí.
+
+223
+00:13:41,700 --> 00:13:46,700
+ Ne, že by to spolu řešili stylem. Pošlu anonymní udání.
+
+224
+00:13:46,700 --> 00:13:50,740
+Ale všímají si věcí a pak podle toho k vám přistupují.
+
+225
+00:13:50,800 --> 00:13:54,980
+A on už se nějaký zástupný důvod, proč vaše dítko vyloučit,
+
+226
+00:13:55,140 --> 00:13:59,280
+protože vy jste nepochopil něco, co vám nebylo řečeno,
+
+227
+00:13:59,380 --> 00:14:00,720
+se najde.
+
+228
+00:14:00,890 --> 00:14:01,620
+Ano?
+
+229
+00:14:01,720 --> 00:14:09,480
+(...to dítko ani ve vzdálenosti 200 m od školy si nesmí zavolat taxíka)
+
+230
+00:14:12,600 --> 00:14:15,890
+Správně a co víc, kdyby se tak stalo
+
+231
+00:14:15,890 --> 00:14:20,640
+třeba jako je tomu u nás, i v nějakém pohruženějším stavu,
+
+232
+00:14:20,780 --> 00:14:22,640
+Rozhodně si to taxi...
+
+233
+00:14:22,640 --> 00:14:27,560
+a uchovalo si to dítě ještě nějakou schopnost myslet racionálně.
+
+234
+00:14:27,600 --> 00:14:30,500
+Tak si ho nezavolá z toho důvodu, že je to větší průser.
+
+235
+00:14:30,540 --> 00:14:35,080
+Protože pokud vás odveze taxík, ten taxikář to má jak nahlásit.
+
+236
+00:14:35,100 --> 00:14:36,720
+Nezapomínejte, že v Japonsku
+
+237
+00:14:36,740 --> 00:14:41,700
+jsou to právě žáci základních až středních škol, kteří jsou vlastně
+
+238
+00:14:41,700 --> 00:14:43,700
+jediný vybavení v podstatě občankou,
+
+239
+00:14:44,600 --> 00:14:46,790
+protože jako jediný občané japonska
+
+240
+00:14:46,790 --> 00:14:50,700
+mají jasnou legitimaci, kde je uvedené
+
+241
+00:14:50,700 --> 00:14:54,700
+bydliště, adresa školy a další informace
+
+242
+00:14:54,700 --> 00:14:56,600
+k tomu aby mohli být identifikováni,
+
+243
+00:14:56,600 --> 00:14:58,260
+třeba když jsou za školou.
+
+244
+00:14:59,290 --> 00:15:00,000
+Takže pozor.
+
+245
+00:15:02,200 --> 00:15:04,780
+Takže jak jsem říkal poprvé,
+
+246
+00:15:04,840 --> 00:15:06,680
+zavedení proto, abyste ukázali cizost settingu.
+
+247
+00:15:06,700 --> 00:15:07,890
+ jinak tahleta vlastnost
+
+248
+00:15:07,890 --> 00:15:10,290
+se netýká jenom Japonska.
+
+249
+00:15:10,340 --> 00:15:12,580
+Např. pokud jste viděli některé starší české filmy,
+
+250
+00:15:12,640 --> 00:15:15,100
+které se snažil popisovat budoucnost, i tam se mnohokrát zmiňovalo,
+
+251
+00:15:15,100 --> 00:15:17,000
+ že třeba děti dojíždění nějakým způsobem
+
+252
+00:15:17,000 --> 00:15:18,790
+na svých motorkách nebo něčem podobném
+
+253
+00:15:18,790 --> 00:15:23,040
+prostě proto, že to byla tak vzdálená budoucnost, že už to přece bylo možné.
+
+254
+00:15:23,520 --> 00:15:25,580
+...tady je přijímač...
+
+255
+00:15:26,120 --> 00:15:31,380
+Ano. Na počátku 80. let pak přichází bohatá cizinka.
+
+256
+00:15:31,460 --> 00:15:34,200
+ Protože pokud máte bohatou cizinku
+
+257
+00:15:34,240 --> 00:15:36,180
+a chcete ukázat i tomu
+
+258
+00:15:36,220 --> 00:15:38,560
+japonskému divákovi, že je to bohatá cizinka.
+
+259
+00:15:38,580 --> 00:15:40,020
+Tak převe udělá něco,
+
+260
+00:15:40,080 --> 00:15:42,680
+co by normální Japonec v životě neudělal.
+
+261
+00:15:42,680 --> 00:15:47,500
+Jinými slovy, nechá se do té školy opravdu dovážet.
+
+262
+00:15:47,500 --> 00:15:51,100
+Tím autem, nejlépe s vlastním řidičem a je-li bohatá
+
+263
+00:15:51,100 --> 00:15:53,260
+tak ta limuzína bude adekvátně vypadat.
+
+264
+00:15:53,340 --> 00:15:55,700
+Ať už jako přeplácaně rolls-royce a nebo něco
+
+265
+00:15:55,700 --> 00:15:57,500
+velmi těžko popsatelného, ale
+
+266
+00:15:57,500 --> 00:15:59,540
+pravděpodobně motor bude znít jako Ferrari.
+
+267
+00:15:59,600 --> 00:16:00,220
+Tak.
+
+268
+00:16:01,890 --> 00:16:05,260
+Samozřejmě, abysme byli genderově korektní,
+
+269
+00:16:05,320 --> 00:16:08,260
+necelých 5 let poté přichází
+
+270
+00:16:08,480 --> 00:16:11,340
+princ se značkovým vozem.
+
+271
+00:16:11,440 --> 00:16:14,560
+přiznejme si to dámy, kobyly už netáhnou.
+
+272
+00:16:14,580 --> 00:16:18,100
+Ono přeci jenom, musí se po tom uklízet a takové ty věci a
+
+273
+00:16:18,100 --> 00:16:22,000
+ona ta lesklá zbroj se vejde do kufru, místo toho si
+
+274
+00:16:22,000 --> 00:16:26,660
+vytáhnete nažehlený oblek a máte vyšitého prince z našich snů.
+
+275
+00:16:27,500 --> 00:16:31,360
+Tady tedy už starší Light Action Ouranu,
+
+276
+00:16:31,420 --> 00:16:34,120
+který vlastně tady můžete na animefestu vidět,
+
+277
+00:16:34,180 --> 00:16:37,290
+Takto si poradili s onou známou scénu, kdy
+
+278
+00:16:37,290 --> 00:16:40,000
+se před ubohým bytem na předměstí
+
+279
+00:16:40,000 --> 00:16:42,100
+najednou zastaví Rolls-Royce, Mercedes a
+
+280
+00:16:42,100 --> 00:16:45,120
+já nevím jaká další limuzína našich milý hochů.
+
+281
+00:16:45,220 --> 00:16:49,790
+tak tady je přijeli navštívit v tomhletom zřejmě
+
+282
+00:16:49,790 --> 00:16:53,290
+ Hummerem inspirovaném limuzímské monstru.
+
+283
+00:16:53,290 --> 00:16:56,890
+Takže ano. Princ s vozem správné značky, dámy
+
+284
+00:16:56,890 --> 00:16:59,700
+jednoznačně pro vás. Má správné konto,
+
+285
+00:16:59,700 --> 00:17:01,600
+má správně vystupování, má úžasné způsoby.
+
+286
+00:17:01,890 --> 00:17:05,000
+Protože těch 85. ještě nebylo zvykem,
+
+287
+00:17:05,000 --> 00:17:08,560
+aby měl svůj červený salón v něm důtky a želízka.
+
+288
+00:17:09,200 --> 00:17:10,420
+Tak.
+
+289
+00:17:10,900 --> 00:17:13,200
+a samozřejmě jestliže máte tyhlety
+
+290
+00:17:13,200 --> 00:17:16,090
+použití tak do dneška když se podíváte
+
+291
+00:17:16,090 --> 00:17:18,000
+na různá anime která řeší střední školy
+
+292
+00:17:18,000 --> 00:17:20,290
+a objednám charakter který tam dojíždí
+
+293
+00:17:20,290 --> 00:17:22,400
+prostě Tím že vozem řidičem nebo
+
+294
+00:17:22,400 --> 00:17:26,290
+nějakým způsobem je tam vlastně dodávám
+
+295
+00:17:26,290 --> 00:17:29,090
+tak to Jedná se o charakter to je
+
+296
+00:17:29,090 --> 00:17:31,000
+nějakým způsobem silně vytržen z
+
+297
+00:17:31,000 --> 00:17:34,500
+běžných konvencí ať už je to ta velmi
+
+298
+00:17:34,500 --> 00:17:36,700
+mocná prezident předsedkyně studentské
+
+299
+00:17:36,700 --> 00:17:39,700
+rady nebo nějakým způsobem syn Yakuza k
+
+300
+00:17:39,700 --> 00:17:43,290
+dcera bohatého obchodníka dcera
+
+301
+00:17:43,290 --> 00:17:46,200
+majitele školy a podobných věcí vždycky
+
+302
+00:17:46,200 --> 00:17:47,790
+se bude naproti osobu která je nějakým
+
+303
+00:17:47,790 --> 00:17:50,290
+způsobem vytržená z toho kontextu
+
+304
+00:17:50,290 --> 00:17:52,590
+řekněme japonský způsobu A tímhle tím
+
+305
+00:17:52,590 --> 00:17:54,700
+to jen podtrhuje The Takže jak říkám
+
+306
+00:17:54,700 --> 00:17:55,900
+stats nutné překladu
+
+307
+00:17:57,090 --> 00:17:58,790
+a můžeme přejít k dalšímu
+
+308
+00:18:01,590 --> 00:18:02,590
+ano
+
+309
+00:18:04,000 --> 00:18:07,090
+takto se prober se to píše tak ty
+
+310
+00:18:07,090 --> 00:18:08,500
+naštěstí již těží z toho že jsou
+
+311
+00:18:08,500 --> 00:18:12,400
+dospělí To znamená že ti musí
+
+312
+00:18:12,400 --> 00:18:15,700
+řešit pouze tu věc aby žádným způsobem
+
+313
+00:18:15,700 --> 00:18:18,590
+neohrozili dobré jméno vztahu ústavu
+
+314
+00:18:18,590 --> 00:18:20,400
+čemuž dojíždění vlastním vozem
+
+315
+00:18:20,400 --> 00:18:22,790
+Samozřejmě jak se nějak neuškodí nebo
+
+316
+00:18:22,790 --> 00:18:25,200
+nepomůže Takže tohle to je to v pořádku
+
+317
+00:18:25,200 --> 00:18:25,400
+a no
+
+318
+00:18:25,400 --> 00:18:34,090
+čekal
+
+319
+00:18:34,090 --> 00:18:38,000
+jsem tento dotaz Děkuji možná si mnozí
+
+320
+00:18:38,000 --> 00:18:40,200
+z vás vzpomenou na oblíbenou sérii full
+
+321
+00:18:40,200 --> 00:18:43,400
+Metal panic fumoffu a pojem Double
+
+322
+00:18:43,400 --> 00:18:46,900
+Right kdy chlapec sedí
+
+323
+00:18:46,900 --> 00:18:50,500
+šlape a dívka stojí vlastně na osičce
+
+324
+00:18:50,500 --> 00:18:53,290
+zadního kola a drží se ho za známá
+
+325
+00:18:53,290 --> 00:18:57,000
+scéna nabízí už viděli mnohokrát Tak
+
+326
+00:18:57,000 --> 00:19:00,400
+toto tento způsob jízdy je proti
+
+327
+00:19:00,400 --> 00:19:02,500
+silničním přepisu Japonska dodnes a
+
+328
+00:19:02,500 --> 00:19:03,900
+pokud byste
+
+329
+00:19:04,000 --> 00:19:07,700
+chtěl mít někoho kdo bude na kole
+
+330
+00:19:07,700 --> 00:19:11,500
+vozit vaši řekne
+
+331
+00:19:11,500 --> 00:19:13,590
+hrdinku hypotetickou do školy aby to
+
+332
+00:19:13,590 --> 00:19:16,900
+škola nějakým způsobem chroustal tak by
+
+333
+00:19:16,900 --> 00:19:19,200
+to musel být opravdu maximálně Tandem
+
+334
+00:19:19,200 --> 00:19:21,500
+to znamená standardně dvě sedačky
+
+335
+00:19:21,500 --> 00:19:25,400
+dvojšlapky to že ona se jenom veze by
+
+336
+00:19:25,400 --> 00:19:26,900
+musela nějakým zkusím asi skrývat
+
+337
+00:19:26,900 --> 00:19:28,790
+protože dokonce i kdyby použila šlapací
+
+338
+00:19:28,790 --> 00:19:30,400
+Rikša Tak jak jste viděli na úvodním
+
+339
+00:19:30,400 --> 00:19:34,090
+screenu vlastně ze série Kami nomi
+
+340
+00:19:34,090 --> 00:19:37,290
+tak tam vlastně by
+
+341
+00:19:37,290 --> 00:19:41,200
+pořád nedělala úplně dobře pro svoji
+
+342
+00:19:41,200 --> 00:19:43,090
+pověst a velmi rychle by se našlo něco
+
+343
+00:19:43,090 --> 00:19:44,700
+za co by dokázala tykat
+
+344
+00:19:46,000 --> 00:19:48,090
+když někdo Ano
+
+345
+00:19:48,090 --> 00:19:52,090
+rodiče mohou doprovázet
+
+346
+00:19:52,090 --> 00:19:55,500
+doprovázet děti na druhou stranu
+
+347
+00:19:55,500 --> 00:19:57,790
+jak jsem říkal Další věc je vedený k
+
+348
+00:19:57,790 --> 00:20:00,090
+samostatnosti Pokud máte tuhle
+
+349
+00:20:00,090 --> 00:20:02,400
+představu že jízda MHD je pro vás deník
+
+350
+00:20:02,400 --> 00:20:04,090
+samostatnosti jak moc to bude
+
+351
+00:20:04,090 --> 00:20:07,000
+neslučitelné s tím že teď je
+
+352
+00:20:07,000 --> 00:20:07,590
+doprovázíte
+
+353
+00:20:09,090 --> 00:20:09,790
+takže takto
+
+354
+00:20:10,700 --> 00:20:11,200
+ano
+
+355
+00:20:11,200 --> 00:20:18,900
+ano
+
+356
+00:20:18,900 --> 00:20:20,700
+dostáváme se k kasicky systémové
+
+357
+00:20:20,700 --> 00:20:22,590
+právničině a řeknu vám to takto
+
+358
+00:20:22,590 --> 00:20:25,000
+japonskem a docela výrazně přísné
+
+359
+00:20:25,000 --> 00:20:27,200
+zákony ohledně užívání zvířat v
+
+360
+00:20:27,200 --> 00:20:29,400
+městských oblastech ať už regulované
+
+361
+00:20:29,400 --> 00:20:31,400
+městskými vyhláškami nebo vysloveně
+
+362
+00:20:31,400 --> 00:20:34,700
+vlastně zákony na období prefektur v
+
+363
+00:20:34,700 --> 00:20:37,290
+některých by to možné bylo z toho
+
+364
+00:20:37,290 --> 00:20:40,400
+důvodu že je to třeba i když je výpadek
+
+365
+00:20:40,400 --> 00:20:42,200
+elektrické síti nebo něčeho podobného
+
+366
+00:20:42,200 --> 00:20:45,590
+na druhou stranu nedovolil bych si to
+
+367
+00:20:45,590 --> 00:20:48,290
+třeba v takovém Tokiu protože pokuta za
+
+368
+00:20:48,290 --> 00:20:50,790
+znečištění chodníku je tam docela
+
+369
+00:20:50,790 --> 00:20:54,200
+vysoká a přiznejme si to ten kůň může
+
+370
+00:20:54,200 --> 00:20:56,290
+jak to říct
+
+371
+00:20:57,290 --> 00:21:01,200
+svou potřebu konat jistou dráhu a
+
+372
+00:21:01,200 --> 00:21:04,590
+tato dráha vám bude naúčtována k pokutě
+
+373
+00:21:04,590 --> 00:21:08,590
+navíc za úklid uvedu jenom
+
+374
+00:21:08,590 --> 00:21:10,400
+to že základní pokuta Pokud by vás
+
+375
+00:21:10,400 --> 00:21:14,090
+přitom to chytili je 10000 jen
+
+376
+00:21:14,090 --> 00:21:15,090
+základní
+
+377
+00:21:16,500 --> 00:21:19,400
+takže i takové opilecká opilecká
+
+378
+00:21:19,400 --> 00:21:21,700
+řekněme úleva zapadlé Uličce vás Může
+
+379
+00:21:21,700 --> 00:21:22,590
+přijít velmi draho
+
+380
+00:21:27,000 --> 00:21:30,700
+Ano další Vlastně proč Ztraceno v
+
+381
+00:21:30,700 --> 00:21:32,590
+překladu Studentská ráda moc na to
+
+382
+00:21:32,590 --> 00:21:34,090
+dneska ráda všichni z vás zná tak vás
+
+383
+00:21:34,090 --> 00:21:36,700
+takové ty anime ve kterých vlastně
+
+384
+00:21:36,700 --> 00:21:39,700
+skutečnou moc na pedagogickém ústavu
+
+385
+00:21:39,700 --> 00:21:43,090
+nedrží pedagogický sbor Ale Studentská
+
+386
+00:21:43,090 --> 00:21:45,900
+rada rada která dokáže říct profesorovi
+
+387
+00:21:45,900 --> 00:21:48,000
+se nám nelíbí TV YouTube účet nebudete
+
+388
+00:21:48,000 --> 00:21:50,090
+nebo studentska rada která přijde mu Ty
+
+389
+00:21:50,090 --> 00:21:51,590
+snad nevíš co tu studovat nebudeš a
+
+390
+00:21:51,590 --> 00:21:55,590
+podobně je od nás tak je
+
+391
+00:21:55,590 --> 00:21:58,700
+to dost užívaná věc a tady se podíváme
+
+392
+00:21:58,700 --> 00:22:01,000
+na to kde A proč vlastně Vznikla v
+
+393
+00:22:01,000 --> 00:22:03,700
+jakém kontextu zase začne překladu
+
+394
+00:22:03,700 --> 00:22:07,290
+protože asi málokdo bude hrabat do 80
+
+395
+00:22:07,290 --> 00:22:07,500
+let
+
+396
+00:22:09,000 --> 00:22:13,000
+protože Japonsko mělo
+
+397
+00:22:13,000 --> 00:22:15,400
+dlouhou dobu silně rigidní školní
+
+398
+00:22:15,400 --> 00:22:19,000
+systém dokonce ani americká asi
+
+399
+00:22:19,000 --> 00:22:22,200
+americký vliv po 2 válce na ten systém
+
+400
+00:22:22,200 --> 00:22:24,500
+v základu nedokázal úplně překopat
+
+401
+00:22:24,500 --> 00:22:26,400
+Japonci v podstatě jenom přejmenovali
+
+402
+00:22:26,400 --> 00:22:29,200
+některé věci a vyřadili některé
+
+403
+00:22:29,200 --> 00:22:32,000
+předměty jinak zachovali prostě
+
+404
+00:22:32,000 --> 00:22:34,700
+strukturu počty hodin vlastně
+
+405
+00:22:34,700 --> 00:22:36,500
+odměňování kantorů a další věci tím
+
+406
+00:22:36,500 --> 00:22:40,500
+spojené a osmdesátých letech se
+
+407
+00:22:40,500 --> 00:22:43,090
+začaly silně medializovat sebevraždy
+
+408
+00:22:43,090 --> 00:22:46,590
+studentů studentů kterých se obvykle
+
+409
+00:22:46,590 --> 00:22:49,200
+udávalo že se že sebevraždu vlastně
+
+410
+00:22:49,200 --> 00:22:51,590
+spáchali vlivem tlaku na vyšší výkon
+
+411
+00:22:51,590 --> 00:22:54,700
+lepší Školní výsledky případně nějakou
+
+412
+00:22:54,700 --> 00:22:58,090
+formu šikany ze strany školy
+
+413
+00:22:58,090 --> 00:23:01,200
+nebo studentstva které škola neřešila
+
+414
+00:23:02,200 --> 00:23:05,290
+A jelikož společnost začala přece No
+
+415
+00:23:05,290 --> 00:23:07,200
+tyhle ty věci trochu reflektovat a
+
+416
+00:23:07,200 --> 00:23:09,090
+protože jsou to Japonci kteří když něco
+
+417
+00:23:09,090 --> 00:23:10,900
+do takový tak to dělají velmi divným
+
+418
+00:23:10,900 --> 00:23:13,590
+způsobem tak
+
+419
+00:23:13,590 --> 00:23:17,590
+se snažili řekněme ten problém zahrát
+
+420
+00:23:17,590 --> 00:23:21,090
+do autu protože japonská statek je pro
+
+421
+00:23:21,090 --> 00:23:22,500
+řešení většiny problémů ve společnosti
+
+422
+00:23:22,500 --> 00:23:24,700
+spočívá spíše v tom že víme-li že máme
+
+423
+00:23:24,700 --> 00:23:28,290
+problém tak ani nebudeme mluvit a ono
+
+424
+00:23:28,290 --> 00:23:31,700
+zmizí teprve když přečká tuhle tu jako
+
+425
+00:23:31,700 --> 00:23:34,090
+první fázi že jako o něm nemluvím A a
+
+426
+00:23:34,090 --> 00:23:37,290
+on stejně trvá Tak jako se mu začneme
+
+427
+00:23:37,290 --> 00:23:39,200
+věnovat to je třeba ten důvod že když
+
+428
+00:23:39,200 --> 00:23:40,900
+ji komory je fenomén známý shroud
+
+429
+00:23:40,900 --> 00:23:43,000
+devadesátých let Tak jako se o něm těch
+
+430
+00:23:43,000 --> 00:23:45,400
+deset let mladší protože oni třeba
+
+431
+00:23:45,400 --> 00:23:48,000
+zmizel no no vidíš jako nezmizely No
+
+432
+00:23:48,000 --> 00:23:51,000
+tak dobře tak do toho ty peníze nalejem
+
+433
+00:23:51,000 --> 00:23:54,000
+a zkusíme vypracovat těch asi 60 prací
+
+434
+00:23:54,000 --> 00:23:55,700
+ročně na to co s nimi dělat
+
+435
+00:23:56,900 --> 00:23:57,590
+takže tak
+
+436
+00:23:58,700 --> 00:24:01,500
+noha Jak si nejlépe poradit ne že tady
+
+437
+00:24:01,500 --> 00:24:05,500
+to zkusit tu plat ale autorská Mysl je
+
+438
+00:24:05,500 --> 00:24:07,500
+v tomhle tom trošku záludná zvláště
+
+439
+00:24:07,500 --> 00:24:10,700
+když řeší taky nějaký problém jednalo
+
+440
+00:24:10,700 --> 00:24:13,000
+se hlavně o velmi bobtnající titul
+
+441
+00:24:13,000 --> 00:24:16,790
+tituly pro dívky protože romantické
+
+442
+00:24:16,790 --> 00:24:20,590
+řešili jakým způsobem ozvláštnit tak
+
+443
+00:24:20,590 --> 00:24:23,500
+zvané Popelkou schéma Já se zeptám Tady
+
+444
+00:24:23,500 --> 00:24:25,290
+stále zkusím někdo říct co je to
+
+445
+00:24:25,290 --> 00:24:26,400
+Popelko vske schéma
+
+446
+00:24:31,900 --> 00:24:34,700
+jinam nebo
+
+447
+00:24:36,090 --> 00:24:38,000
+až prd dobrá do toho
+
+448
+00:24:49,700 --> 00:24:53,200
+ano ošklivá neoblíbená user kovaná z
+
+449
+00:24:53,200 --> 00:24:54,500
+které se náhle stane ta princezna
+
+450
+00:24:54,500 --> 00:24:57,500
+přesně ta která uchvátí srdce princovo
+
+451
+00:24:57,500 --> 00:25:01,090
+máte Máte pravdu máte body božana
+
+452
+00:25:01,090 --> 00:25:02,500
+potlesk šprti vedou
+
+453
+00:25:02,500 --> 00:25:06,400
+Já
+
+454
+00:25:06,400 --> 00:25:08,500
+jen doplním že součástí tohoto jsou
+
+455
+00:25:08,500 --> 00:25:10,500
+právě i on je zle sestry a macecha to
+
+456
+00:25:10,500 --> 00:25:14,000
+znamená Ta dívka musí Řekni mi jenom
+
+457
+00:25:14,000 --> 00:25:16,200
+tomu že je atraktivní ale musí tam být
+
+458
+00:25:16,200 --> 00:25:18,590
+nějaké aktivní prvek ostrakizace něco
+
+459
+00:25:18,590 --> 00:25:20,700
+co je aktivně Prostě se snaží dělat ze
+
+460
+00:25:20,700 --> 00:25:24,500
+života peklo když už jako
+
+461
+00:25:24,500 --> 00:25:27,200
+jako musela bych to teď jako dáme to
+
+462
+00:25:27,200 --> 00:25:28,900
+jako Baťa cvičky že jo holky to rádi
+
+463
+00:25:28,900 --> 00:25:31,200
+čtou ale už nechodí ty dopisy tak jde
+
+464
+00:25:31,200 --> 00:25:34,290
+ještě celý říkají Hele jako mohlo by to
+
+465
+00:25:34,290 --> 00:25:36,900
+být něco jiného a vidíme v tohle a jako
+
+466
+00:25:36,900 --> 00:25:40,790
+nemáme o tom mluvit ale co kdyby jí tak
+
+467
+00:25:40,790 --> 00:25:43,700
+jako třeba týrali na té škole jako proč
+
+468
+00:25:43,700 --> 00:25:47,400
+No tak je to Popelka ale co kdyby se
+
+469
+00:25:47,400 --> 00:25:49,090
+dostala na školu Na kterou by jako
+
+470
+00:25:49,090 --> 00:25:49,590
+normálně
+
+471
+00:25:49,590 --> 00:25:53,500
+nemohla Hele to je dobrý nápad ale jako
+
+472
+00:25:53,500 --> 00:25:54,900
+když necháme ti dát učitelem a to nám
+
+473
+00:25:54,900 --> 00:25:57,290
+nedají Volej videa No tak jí budou
+
+474
+00:25:57,290 --> 00:26:00,200
+otevírat jiný studenti ale to je dobrý
+
+475
+00:26:00,200 --> 00:26:00,400
+nápad
+
+476
+00:26:02,090 --> 00:26:05,500
+a tak nám přišla antagonistická Školní
+
+477
+00:26:05,500 --> 00:26:08,590
+ráda protože pokud nám hrdinka dostane
+
+478
+00:26:08,590 --> 00:26:11,290
+na ústav Na které nějakým způsobem nemá
+
+479
+00:26:11,290 --> 00:26:15,000
+ať už akademický společensky
+
+480
+00:26:15,000 --> 00:26:18,790
+penězi vzhledem ničím nebo se hned
+
+481
+00:26:18,790 --> 00:26:21,290
+první den nějak nelíbí protože narušit
+
+482
+00:26:21,290 --> 00:26:24,090
+i pořádky které tam ta samozřejmě drsná
+
+483
+00:26:24,090 --> 00:26:26,900
+Školní rada praktikuje tak
+
+484
+00:26:26,900 --> 00:26:30,790
+tak nastane ostrakizace A máme tu toho
+
+485
+00:26:30,790 --> 00:26:34,290
+antagonistů kterého potřebujeme navíc
+
+486
+00:26:34,290 --> 00:26:37,790
+se v tomhle tom inspirovali vlastně od
+
+487
+00:26:37,790 --> 00:26:40,700
+mo3 určených spíše chlapcům
+
+488
+00:26:40,700 --> 00:26:43,500
+Tentokrát se jednalo o sportovní tituly
+
+489
+00:26:43,500 --> 00:26:47,400
+protože typická antagonistická Školní
+
+490
+00:26:47,400 --> 00:26:50,500
+rada se chová jako ten typický starší
+
+491
+00:26:50,500 --> 00:26:52,900
+spolužák ve sportovním klubu našeho
+
+492
+00:26:52,900 --> 00:26:55,400
+hlavního protagonisty který nemá v
+
+493
+00:26:55,400 --> 00:26:57,700
+životě jiné poslání než udělat ze
+
+494
+00:26:57,700 --> 00:26:59,400
+života peklo a ukazovat že ty na to
+
+495
+00:26:59,400 --> 00:27:01,790
+ještě nemáš ještě neskočíš tolik co já
+
+496
+00:27:02,090 --> 00:27:05,790
+ještě nedali košili servisu co já
+
+497
+00:27:07,000 --> 00:27:10,500
+úplně stejné takže tyhlety v inspirace
+
+498
+00:27:10,500 --> 00:27:11,000
+se potkali
+
+499
+00:27:13,000 --> 00:27:16,290
+Ano a vytvořena 2. antagonistou
+
+500
+00:27:16,290 --> 00:27:18,290
+Studentskou radu a
+
+501
+00:27:18,290 --> 00:27:22,200
+navíc
+
+502
+00:27:22,200 --> 00:27:24,700
+díky tomu že máte už vojenskou radu
+
+503
+00:27:24,700 --> 00:27:27,000
+která má nějaké zázemí můžete být silně
+
+504
+00:27:27,000 --> 00:27:29,000
+kreativní v tom jakým způsobem budete
+
+505
+00:27:29,000 --> 00:27:30,900
+hrdince dělat ze života peklo protože
+
+506
+00:27:30,900 --> 00:27:33,500
+přiznejme si to se samotným vývojem
+
+507
+00:27:33,500 --> 00:27:36,400
+hrdinky už toho až tolik nového udělat
+
+508
+00:27:36,400 --> 00:27:39,400
+nemůže ale v tom jaké péra a to může
+
+509
+00:27:39,400 --> 00:27:40,700
+být kreativní jako nikdy
+
+510
+00:27:41,700 --> 00:27:45,290
+takže Dáme teda děti veškeré
+
+511
+00:27:45,290 --> 00:27:47,900
+společenské prostředky a už ani neřeším
+
+512
+00:27:47,900 --> 00:27:50,400
+A to že počkej ale Jako vždyť tady ji
+
+513
+00:27:50,400 --> 00:27:53,000
+nechali zmlátit to je trestný čin to
+
+514
+00:27:53,000 --> 00:27:56,000
+jsou Dukla jak utopila je to výběrová
+
+515
+00:27:56,000 --> 00:27:57,590
+akademie k chybě
+
+516
+00:27:58,900 --> 00:28:01,500
+rada to ututlal jak na součástí sport
+
+517
+00:28:01,500 --> 00:28:05,090
+La učitelský sbor No tak dobře
+
+518
+00:28:05,090 --> 00:28:08,500
+Hele ono to fungovalo a no prostě
+
+519
+00:28:08,500 --> 00:28:12,090
+Čím větší tím víc hrdinky A
+
+520
+00:28:12,090 --> 00:28:14,400
+čtenářského No
+
+521
+00:28:14,400 --> 00:28:18,290
+tak krásný
+
+522
+00:28:18,290 --> 00:28:21,900
+on bude mít rád a
+
+523
+00:28:21,900 --> 00:28:24,900
+oni to pochopíš že tě má rád ty dojdeš
+
+524
+00:28:24,900 --> 00:28:25,290
+svého štěstí
+
+525
+00:28:26,790 --> 00:28:30,290
+mám to tam je to tam úžasně ukázáno zlí
+
+526
+00:28:30,290 --> 00:28:33,200
+jazykové tvrdí že dívky tyto věci čtou
+
+527
+00:28:33,200 --> 00:28:34,700
+hlavně proto aby jsi říkal sahání na
+
+528
+00:28:34,700 --> 00:28:38,200
+tom hůř než já ale tomu nebudeme tomu
+
+529
+00:28:38,200 --> 00:28:41,700
+Nebudeme přece věřit ano
+
+530
+00:28:41,700 --> 00:28:45,200
+tak jak jsem říkal základní důvody
+
+531
+00:28:45,200 --> 00:28:48,200
+buďto společenské nebo Akademická
+
+532
+00:28:48,200 --> 00:28:50,000
+segregace já Ti z vás kteří sledují
+
+533
+00:28:50,000 --> 00:28:52,200
+vlastně předchozí sezóny ansatsu
+
+534
+00:28:52,200 --> 00:28:54,500
+kyoshitsu assassination classroom tak
+
+535
+00:28:54,500 --> 00:28:55,900
+mohou vlastně tohle to vědět protože
+
+536
+00:28:55,900 --> 00:28:57,000
+škola která funguje na základě
+
+537
+00:28:57,000 --> 00:28:59,900
+segregace podle výsledků s tím že ti
+
+538
+00:28:59,900 --> 00:29:01,590
+kteří mají nejhorší vlastně nemají
+
+539
+00:29:01,590 --> 00:29:04,900
+nárok na regulérní škole Školní výchovu
+
+540
+00:29:04,900 --> 00:29:08,590
+stejně tak různé ty příběhy kdy
+
+541
+00:29:08,590 --> 00:29:12,590
+dívka protože její otec který zemřel
+
+542
+00:29:12,590 --> 00:29:14,500
+zachránil život nějakému bohatému
+
+543
+00:29:14,500 --> 00:29:16,500
+člověku tak ten jí Odkázal to že může
+
+544
+00:29:16,500 --> 00:29:18,500
+chodit na výběrovou akademii což jim a
+
+545
+00:29:18,500 --> 00:29:20,500
+samozřejmě zvednout šance v životě aby
+
+546
+00:29:20,500 --> 00:29:22,290
+tam došla a všichni jsme ji ujistili že
+
+547
+00:29:22,290 --> 00:29:24,200
+si s ní utahovali ukazoval jaký je to
+
+548
+00:29:24,200 --> 00:29:26,700
+společenský ples a podobně případně
+
+549
+00:29:26,790 --> 00:29:28,790
+oblíbenější dívka přijďte na školu
+
+550
+00:29:28,790 --> 00:29:31,000
+Nějakým záhadným způsobem sbalí
+
+551
+00:29:31,000 --> 00:29:33,700
+největšího krasavce na škole který za
+
+552
+00:29:33,700 --> 00:29:35,590
+ní pár dní Protože předtím sklátil co
+
+553
+00:29:35,590 --> 00:29:39,290
+se jen dalo ale k této dívce a Alexa
+
+554
+00:29:39,290 --> 00:29:42,590
+náhled sítí ty pravé City A taky to
+
+555
+00:29:42,590 --> 00:29:44,290
+ostatní holky dávají sežrat jak to jen
+
+556
+00:29:44,290 --> 00:29:47,090
+jde a tak dále všechno tohle spadá do
+
+557
+00:29:47,090 --> 00:29:51,090
+podobného schématu samozřejmě Ale u
+
+558
+00:29:51,090 --> 00:29:53,700
+toho se nezastavím protože když už máme
+
+559
+00:29:53,700 --> 00:29:55,500
+radu která umí ututlat učitelský sbor
+
+560
+00:29:55,500 --> 00:29:57,900
+co mi takhle radu která umí u to tak
+
+561
+00:29:57,900 --> 00:30:01,400
+premiér co premiéra Co třeba prezidenta
+
+562
+00:30:01,400 --> 00:30:01,900
+spojených států
+
+563
+00:30:03,200 --> 00:30:05,500
+Summit takhle Školní radu která plánuje
+
+564
+00:30:05,500 --> 00:30:09,290
+revoluci světa která buduje
+
+565
+00:30:09,290 --> 00:30:12,790
+timechip pod tou školou Jo to jde
+
+566
+00:30:12,790 --> 00:30:15,200
+která vyzývá Satana a snaží se přivést
+
+567
+00:30:15,200 --> 00:30:18,090
+způsobit pokud možno pomocí stata na
+
+568
+00:30:18,090 --> 00:30:20,200
+Adria Ragnarok je jedno že do svých
+
+569
+00:30:20,200 --> 00:30:23,200
+mytologií ale oni to dokáží je to
+
+570
+00:30:23,200 --> 00:30:27,200
+všemocná zlá ženská rada Ano tady
+
+571
+00:30:27,200 --> 00:30:31,200
+Nepodařilo se mi najít písničku vlastně
+
+572
+00:30:31,200 --> 00:30:34,900
+obrázek než legenda v jeho dědou Post I
+
+573
+00:30:34,900 --> 00:30:38,200
+am a ne postoji ve kterém není naprosto
+
+574
+00:30:38,200 --> 00:30:39,590
+čitelné a pokud možno plánuje
+
+575
+00:30:39,590 --> 00:30:43,090
+libovolnou intriku takže studentský SMS
+
+576
+00:30:43,090 --> 00:30:45,200
+která je velmi rychle získaly díky tomu
+
+577
+00:30:45,200 --> 00:30:47,790
+že už jim dali takovou moc výrazný
+
+578
+00:30:47,790 --> 00:30:49,700
+powergrip takže existují tituly ve
+
+579
+00:30:49,700 --> 00:30:52,400
+kterých opravdu nepotřebujete ilumináty
+
+580
+00:30:52,400 --> 00:30:55,500
+studentské řády nepotřebujete
+
+581
+00:30:55,500 --> 00:30:57,090
+Bilderberg nepotřebujete Vatikán
+
+582
+00:30:57,090 --> 00:30:59,590
+Studentská rada Oni vás vidí
+
+583
+00:31:01,500 --> 00:31:05,500
+takže opravdu nebyl
+
+584
+00:31:05,500 --> 00:31:08,790
+není Míra toho jakou moc těmto
+
+585
+00:31:08,790 --> 00:31:10,900
+institucím můžou autoři dát
+
+586
+00:31:13,790 --> 00:31:15,700
+z čeho se má být třeba studentské rady
+
+587
+00:31:15,700 --> 00:31:19,290
+nebo Googlu to záleží
+
+588
+00:31:19,290 --> 00:31:21,790
+máte ve finské řadě si na prezidenta
+
+589
+00:31:21,790 --> 00:31:25,700
+Googlu já
+
+590
+00:31:25,700 --> 00:31:26,500
+bych se začal pídit
+
+591
+00:31:31,590 --> 00:31:34,090
+a samozřejmě jestli že už máme něco co
+
+592
+00:31:34,090 --> 00:31:36,590
+velmi rychle získala na nějaké oblibě
+
+593
+00:31:36,590 --> 00:31:39,700
+netrvalo dlouho a doráží nám parodie
+
+594
+00:31:39,700 --> 00:31:43,400
+ať už to jsou zvrhlé studentské
+
+595
+00:31:43,400 --> 00:31:46,090
+slovenské rady které pokud možno řeší
+
+596
+00:31:46,090 --> 00:31:49,900
+jak co možná nejvíce dvojsmysly za
+
+597
+00:31:49,900 --> 00:31:52,590
+minutu svého jediného mužského člena
+
+598
+00:31:52,590 --> 00:31:55,500
+přivést k šílenství nebo studentské
+
+599
+00:31:55,500 --> 00:31:58,790
+rady které jsou natolik takhle že řeší
+
+600
+00:31:58,790 --> 00:32:02,000
+jak školu pokud možno dovézt k tomu
+
+601
+00:32:02,000 --> 00:32:04,090
+nejlepšímu anime standartu bez ohledu
+
+602
+00:32:04,090 --> 00:32:05,900
+na reálný svět a tak dále prostě
+
+603
+00:32:05,900 --> 00:32:08,290
+parodie mm se taktéž meze nekladou
+
+604
+00:32:09,400 --> 00:32:12,200
+tak ano
+
+605
+00:32:12,200 --> 00:32:15,900
+Teď ta smutná realita dneška
+
+606
+00:32:15,900 --> 00:32:19,000
+ano Pokud jste si již součástí
+
+607
+00:32:19,000 --> 00:32:21,700
+studentské rady Tak pokud se hlásíte po
+
+608
+00:32:21,700 --> 00:32:24,790
+vyšší střední na vysokou máte lepší
+
+609
+00:32:24,790 --> 00:32:27,900
+hodnocení to protože jste ty tři
+
+610
+00:32:27,900 --> 00:32:30,900
+případně 6 Pokud jste Na akademické
+
+611
+00:32:30,900 --> 00:32:33,790
+Pokud jste na škole stylu výtahu možná
+
+612
+00:32:33,790 --> 00:32:37,590
+i těch 12 let dělali otroka v
+
+613
+00:32:37,590 --> 00:32:40,590
+pedagogickém sboru tak za to vám náleží
+
+614
+00:32:40,590 --> 00:32:43,290
+lepší hodnocení pro přihlášku na
+
+615
+00:32:43,290 --> 00:32:46,900
+vysokou školu tak ani to už dneska
+
+616
+00:32:46,900 --> 00:32:49,790
+ty lidi k tomu aby trávili svůj čas ve
+
+617
+00:32:49,790 --> 00:32:52,900
+škole v klubu ve studentské radě ve
+
+618
+00:32:52,900 --> 00:32:55,000
+večerní škole pak nějak padli
+
+619
+00:32:55,000 --> 00:32:57,290
+vyčerpáním a druhý den znova nemotivuje
+
+620
+00:32:57,290 --> 00:32:58,590
+zóna k tomu aby tam tu Studentskou radu
+
+621
+00:32:58,590 --> 00:33:00,400
+se snažil jako nějakým způsobem Narva
+
+622
+00:33:02,000 --> 00:33:06,000
+odhad dokonce
+
+623
+00:33:06,000 --> 00:33:08,000
+z jedné statistiky vypracované přímo
+
+624
+00:33:08,000 --> 00:33:10,590
+ministerstvem školství japonská aneb
+
+625
+00:33:10,590 --> 00:33:14,500
+install jsem teda 8% státních škol
+
+626
+00:33:14,500 --> 00:33:18,400
+zřejmě nemá funkční Školní radou to z
+
+627
+00:33:18,400 --> 00:33:22,290
+toho důvodu že Školní rada dle právě
+
+628
+00:33:22,290 --> 00:33:25,500
+školního řádu a specificky jedné
+
+629
+00:33:25,500 --> 00:33:29,500
+klauzule musí být Zvolena nevím jestli
+
+630
+00:33:29,500 --> 00:33:31,090
+někdo z vás už chodí na vysokou školu a
+
+631
+00:33:31,090 --> 00:33:33,000
+podílel se třeba na volbách do
+
+632
+00:33:33,000 --> 00:33:33,790
+studentského senátu
+
+633
+00:33:36,700 --> 00:33:39,000
+Pokud ne a Čeká vás to připravte se na
+
+634
+00:33:39,000 --> 00:33:41,200
+takové úžasné věci jako že přijde do
+
+635
+00:33:41,200 --> 00:33:43,590
+třídy učitel a začne potřebujem aby
+
+636
+00:33:43,590 --> 00:33:45,200
+jste šli do výpočet Kia odvolili ve
+
+637
+00:33:45,200 --> 00:33:47,700
+volbách do studentské rádio prostě
+
+638
+00:33:47,700 --> 00:33:49,400
+protože máme málo hlasu volby byly by
+
+639
+00:33:49,400 --> 00:33:51,200
+byly neplatné a mi to tu dneska do
+
+640
+00:33:51,200 --> 00:33:53,400
+potřebujeme takže všichni tam do
+
+641
+00:33:53,400 --> 00:33:56,200
+neodvolá nedostane zápočet a podobné
+
+642
+00:33:56,200 --> 00:33:59,700
+věci Nedělám si legraci bohužel v
+
+643
+00:33:59,700 --> 00:34:01,700
+Japonsku to je úplně nejde vlastně
+
+644
+00:34:01,700 --> 00:34:04,790
+učitel je tam schopen vysloveně jenom
+
+645
+00:34:04,790 --> 00:34:07,400
+jmenovat zástupce třídy tu klasickou
+
+646
+00:34:07,400 --> 00:34:10,000
+info která podle anime stále ještě volá
+
+647
+00:34:10,000 --> 00:34:13,500
+styk pozor sednout tak
+
+648
+00:34:13,500 --> 00:34:16,900
+tohoto člověka může nominovat jmenovat
+
+649
+00:34:16,900 --> 00:34:19,590
+ten třídní učitel ale Studentská rád
+
+650
+00:34:19,590 --> 00:34:22,500
+jako taková musí být Zvolena na těch
+
+651
+00:34:22,500 --> 00:34:24,500
+osmi procentech škol to právě řeší tím
+
+652
+00:34:24,500 --> 00:34:27,400
+že těhle těch
+
+653
+00:34:27,400 --> 00:34:30,800
+ubohých zástupců jsou ti pocit a
+
+654
+00:34:30,800 --> 00:34:33,590
+Studentskou radu nemají prostě protože
+
+655
+00:34:33,590 --> 00:34:35,900
+třeba Nevecom Zvonu kompletně nemají
+
+656
+00:34:36,690 --> 00:34:39,800
+A nějakým způsobem to dokáže zvládnout
+
+657
+00:34:39,800 --> 00:34:43,400
+takže opravdu jako dnešním Japonsku
+
+658
+00:34:43,400 --> 00:34:46,800
+na zvláště na státních školách docela
+
+659
+00:34:46,800 --> 00:34:48,400
+problém tu Studentskou radu i nějakým
+
+660
+00:34:48,400 --> 00:34:49,590
+způsobem dát dohromady
+
+661
+00:34:51,090 --> 00:34:55,000
+tak splnění snu autora a nebo
+
+662
+00:34:55,000 --> 00:34:59,000
+odkaz gonna go nagai ti kteří viděli
+
+663
+00:34:59,000 --> 00:35:00,400
+některé mé předchozí přednášky v že
+
+664
+00:35:00,400 --> 00:35:02,300
+toho mého kluka musela často to protože
+
+665
+00:35:02,300 --> 00:35:04,400
+toho ten pán vytvořil a manus manum
+
+666
+00:35:04,400 --> 00:35:08,000
+Ferenčík gakuen a nemravná škola ve
+
+667
+00:35:08,000 --> 00:35:11,690
+které ukázal všem otaku nádherný
+
+668
+00:35:11,690 --> 00:35:14,090
+Školní život nádherný život a v nemá
+
+669
+00:35:14,090 --> 00:35:16,090
+vůbec nic společného s tím a proto je
+
+670
+00:35:16,090 --> 00:35:20,000
+tak skvělý A díky
+
+671
+00:35:20,000 --> 00:35:22,690
+tomu že to byl takový hit a kolik
+
+672
+00:35:22,690 --> 00:35:24,900
+skončil takovou kontroverzí kdy
+
+673
+00:35:24,900 --> 00:35:28,800
+cenzurní hnutí do DJ magu ukončit a
+
+674
+00:35:28,800 --> 00:35:30,800
+ten tedy ukončil a tím že cenzoři do
+
+675
+00:35:30,800 --> 00:35:34,400
+školy vtrhli všechny postříleli to si
+
+676
+00:35:34,400 --> 00:35:36,190
+nedělám legraci tak
+
+677
+00:35:36,190 --> 00:35:39,800
+řekni mi odkaz z tohoto díla je
+
+678
+00:35:39,800 --> 00:35:42,190
+stále živý a spousta autorů a přejímá
+
+679
+00:35:42,190 --> 00:35:45,190
+přejímá ho bez toho aniž by jsme my
+
+680
+00:35:45,190 --> 00:35:47,090
+Západní publikum to taky nějak kriticky
+
+681
+00:35:47,090 --> 00:35:50,090
+hodnotili a dochází pak k tomu že mnozí
+
+682
+00:35:51,090 --> 00:35:53,900
+Pardon otaku odmítám pusha tohoto
+
+683
+00:35:53,900 --> 00:35:57,500
+skloňování při návštěvě Japonska
+
+684
+00:35:57,500 --> 00:35:58,900
+zažívají nemilá překvapení
+
+685
+00:36:00,800 --> 00:36:03,500
+Například co se týče školních festivalu
+
+686
+00:36:03,500 --> 00:36:06,500
+Kdo z vás očekává že v Japonsku když
+
+687
+00:36:06,500 --> 00:36:08,800
+přijedete do školy a je tam právě
+
+688
+00:36:08,800 --> 00:36:10,190
+Školní festival tak tam máte všechny
+
+689
+00:36:10,190 --> 00:36:13,190
+tyhle ty alegorické stánky pokud možno
+
+690
+00:36:13,190 --> 00:36:16,590
+4x tam dělá nějaká Tempura 2x soba
+
+691
+00:36:16,590 --> 00:36:20,500
+nudle 3x Vaříme ramen a je tam Dům
+
+692
+00:36:20,500 --> 00:36:21,500
+hrůzy a mají do kafe
+
+693
+00:36:25,190 --> 00:36:27,400
+buď to jsou tu realisté nebo už mám uši
+
+694
+00:36:27,400 --> 00:36:30,590
+ruce řeknu to tak to opravdu nečekejte
+
+695
+00:36:30,590 --> 00:36:30,900
+to
+
+696
+00:36:32,690 --> 00:36:35,190
+to proto že Jen asi dvě procenta všech
+
+697
+00:36:35,190 --> 00:36:37,300
+škol to jest jak státní tak soukromí v
+
+698
+00:36:37,300 --> 00:36:41,190
+Japonsku má nějakým způsobem oddělení
+
+699
+00:36:41,190 --> 00:36:43,300
+školního festivalu jakožto separátní
+
+700
+00:36:43,300 --> 00:36:47,190
+akce během roku ty dvě
+
+701
+00:36:47,190 --> 00:36:50,500
+procenta Obvykle jsou školy ve kterých
+
+702
+00:36:50,500 --> 00:36:52,400
+je tohle spojeno s nějakým místním
+
+703
+00:36:52,400 --> 00:36:54,900
+svátkem s nějakým výročí
+
+704
+00:36:54,900 --> 00:36:58,690
+Oslavou nějakého místního comeyho
+
+705
+00:36:58,690 --> 00:37:01,090
+božstva případě nějakého výročí něčeho
+
+706
+00:37:01,090 --> 00:37:04,800
+zvláštního to v tom případě je to je
+
+707
+00:37:04,800 --> 00:37:07,000
+tam to nějaký ne školní festival ale
+
+708
+00:37:07,000 --> 00:37:09,900
+obvykle probíhá dost oficiální formou
+
+709
+00:37:09,900 --> 00:37:12,090
+spočívající v tom že Milý studenti se
+
+710
+00:37:12,090 --> 00:37:13,590
+baví tím že jim je nařízeno někde
+
+711
+00:37:13,590 --> 00:37:15,590
+nastoupit pokud možno něco Zborově
+
+712
+00:37:15,590 --> 00:37:17,300
+odříkat zazpívat a nebo být přítomni
+
+713
+00:37:17,300 --> 00:37:19,300
+toho jak tam řečník pan ředitel a možná
+
+714
+00:37:19,300 --> 00:37:21,500
+pan starosta takže umíte si představit
+
+715
+00:37:21,500 --> 00:37:23,400
+jak Zvážit na to asi může být pro
+
+716
+00:37:23,400 --> 00:37:24,090
+cizího studenta
+
+717
+00:37:27,000 --> 00:37:30,690
+Tak co se týče zbytku Tak právě
+
+718
+00:37:30,690 --> 00:37:32,500
+obvyklejší spojení je že nemáte
+
+719
+00:37:32,500 --> 00:37:34,690
+separátní sportovní den a je nějaký ten
+
+720
+00:37:34,690 --> 00:37:36,190
+festival ale prostě má ten sportovní
+
+721
+00:37:36,190 --> 00:37:38,400
+den to znamená vyženete děcka k tomu
+
+722
+00:37:38,400 --> 00:37:40,190
+aby pokud možno s rodiči se nějak
+
+723
+00:37:40,190 --> 00:37:43,190
+bylina na hřišti školy pokud možno
+
+724
+00:37:43,190 --> 00:37:45,000
+během toho blbnutí uklidili pozemek
+
+725
+00:37:45,000 --> 00:37:48,690
+školy a na konci tam chodit na nějakou
+
+726
+00:37:48,690 --> 00:37:50,190
+školní besídku protože pokud má vaše
+
+727
+00:37:50,190 --> 00:37:52,090
+škola dramaťák prostě něco odehrají
+
+728
+00:37:52,090 --> 00:37:54,000
+pokud má vaše škola nějaký Kulturní
+
+729
+00:37:54,000 --> 00:37:55,800
+klub Ve kterém jsem na něco hraje nebo
+
+730
+00:37:55,800 --> 00:37:57,900
+mě co předvádí tak to něco odehráno
+
+731
+00:37:57,900 --> 00:38:01,090
+nebo něco předvedou a tím se tady tím
+
+732
+00:38:01,090 --> 00:38:03,300
+tak nějak skončíte ale samozřejmě si
+
+733
+00:38:03,300 --> 00:38:05,300
+uděláte čárku že máte kulturní Event a
+
+734
+00:38:05,300 --> 00:38:07,300
+rodičovství spokojený protože Viděli
+
+735
+00:38:07,300 --> 00:38:09,590
+jsme svá dětská při Školní aktivitách
+
+736
+00:38:09,590 --> 00:38:12,400
+takže smutná realita
+
+737
+00:38:14,190 --> 00:38:16,300
+Školní lékařské prohlídky
+
+738
+00:38:16,300 --> 00:38:23,090
+rovnou
+
+739
+00:38:23,090 --> 00:38:25,800
+oficiální odpověď vy všichni kteří jste
+
+740
+00:38:25,800 --> 00:38:28,190
+mi za posledních několik let psali
+
+741
+00:38:28,190 --> 00:38:30,400
+zdali se máte brát chirurgické rukavice
+
+742
+00:38:30,400 --> 00:38:33,000
+případně které číslo čtvrtek je podle
+
+743
+00:38:33,000 --> 00:38:36,590
+vás nejlepší a podobně vězte že Školní
+
+744
+00:38:36,590 --> 00:38:39,400
+lékařské prohlídky v Japonsku probíhají
+
+745
+00:38:39,400 --> 00:38:41,900
+diametrálně odlišně než je ukázáno v
+
+746
+00:38:41,900 --> 00:38:42,300
+anime
+
+747
+00:38:43,500 --> 00:38:47,090
+většina škol je nikdy nedělala žádné
+
+748
+00:38:47,090 --> 00:38:50,590
+zdravotnické prohlídky
+
+749
+00:38:50,590 --> 00:38:53,000
+prostě protože když má dítě problém
+
+750
+00:38:53,000 --> 00:38:55,900
+dojde si ke svému doktorovi a proč by s
+
+751
+00:38:55,900 --> 00:38:58,800
+tím škola měla zabývat naopak malý dítě
+
+752
+00:38:58,800 --> 00:39:01,690
+do problém ve většině případů ten
+
+753
+00:39:01,690 --> 00:39:03,300
+personál který je vyhrazen pro
+
+754
+00:39:03,300 --> 00:39:05,800
+ošetřovně a má za úkol spíše tak jako
+
+755
+00:39:05,800 --> 00:39:08,400
+dítě nějak stabilizovat a pokud možno
+
+756
+00:39:08,400 --> 00:39:12,190
+poslat domů to protože umřeli doma není
+
+757
+00:39:12,190 --> 00:39:16,000
+to váš problém Je to kruté ale je to
+
+758
+00:39:18,800 --> 00:39:22,000
+pokud je vyžadováno lékařské vyšetření
+
+759
+00:39:22,000 --> 00:39:23,800
+a to se týká zase jen některých druhů
+
+760
+00:39:23,800 --> 00:39:27,090
+škol tak samozřejmě to probíhá tak že
+
+761
+00:39:27,090 --> 00:39:29,000
+Žáček si zajde za sami za svým doktorem
+
+762
+00:39:29,000 --> 00:39:31,300
+ten s tím se píše nějakou zprávu a
+
+763
+00:39:31,300 --> 00:39:33,090
+vyšetření a tuto zprávu Žáček pak
+
+764
+00:39:33,090 --> 00:39:35,590
+předává ve škole jakožto nějaký závěr
+
+765
+00:39:35,590 --> 00:39:37,690
+například poslední dobou se i v Čechách
+
+766
+00:39:37,690 --> 00:39:39,690
+rozmohlo to že třeba přijel pro přijetí
+
+767
+00:39:39,690 --> 00:39:42,300
+na vysokou školu musíte dodat lékařskou
+
+768
+00:39:42,300 --> 00:39:46,000
+prohlídku osobně mi byla vyprávěna
+
+769
+00:39:46,000 --> 00:39:47,900
+zkušenost spočívající v této prohlídce
+
+770
+00:39:47,900 --> 00:39:51,000
+zahrnující to že jedna známá k doktorce
+
+771
+00:39:51,000 --> 00:39:53,590
+přišla Sedla si je to kaz na ní podíval
+
+772
+00:39:53,590 --> 00:39:57,400
+a zeptala se vidíte mě vidím slyšíte mě
+
+773
+00:39:57,400 --> 00:39:58,900
+slyším
+
+774
+00:40:00,090 --> 00:40:02,190
+250kč
+
+775
+00:40:04,590 --> 00:40:07,090
+takže asi tak stejně způsobem
+
+776
+00:40:07,090 --> 00:40:08,590
+očekávejte práci v Japonsku a
+
+777
+00:40:08,590 --> 00:40:11,690
+samozřejmě pokud je o sportovně
+
+778
+00:40:11,690 --> 00:40:13,690
+zaměřené školy Tak ty jsou jedny z mála
+
+779
+00:40:13,690 --> 00:40:16,800
+které měly v průběhu roku nebo mohou
+
+780
+00:40:16,800 --> 00:40:18,800
+mít nějaké řekni mi nějaké vyšetření
+
+781
+00:40:18,800 --> 00:40:21,590
+soustředěná na zdravý vývoj jedince ale
+
+782
+00:40:21,590 --> 00:40:23,400
+zdravý vývoj jedince opravné Znamená to
+
+783
+00:40:23,400 --> 00:40:25,400
+že ženskému ensemble vašeho žatstva
+
+784
+00:40:25,400 --> 00:40:27,300
+vezmete tři míry které pak budou moci
+
+785
+00:40:27,300 --> 00:40:30,300
+kluci ukrást nějakého sejfu ne
+
+786
+00:40:30,300 --> 00:40:33,900
+zahrnuje to to že možná tak ty dívky i
+
+787
+00:40:33,900 --> 00:40:36,090
+chlapce zvážíte nějakým způsobem
+
+788
+00:40:36,090 --> 00:40:39,590
+změříte výšku a pak možná
+
+789
+00:40:39,590 --> 00:40:42,900
+třeba poměr tuku a svaloviny s
+
+790
+00:40:42,900 --> 00:40:45,590
+ohledem na věk a zaměření a sportovní
+
+791
+00:40:45,590 --> 00:40:48,090
+zaměření prostě protože například
+
+792
+00:40:48,090 --> 00:40:49,690
+takové sumista Asi budu mít trošku jiné
+
+793
+00:40:49,690 --> 00:40:51,300
+poměry než třeba sportovní Plavec
+
+794
+00:40:53,400 --> 00:40:57,300
+tak ano chce ještě než Školní
+
+795
+00:40:57,300 --> 00:41:00,000
+kluby asi jedna z věcí za kterou byl
+
+796
+00:41:00,000 --> 00:41:01,500
+takový může anime poděkovat protože
+
+797
+00:41:01,500 --> 00:41:04,400
+jestli jak nám Kalisto nano řekla Hello
+
+798
+00:41:04,400 --> 00:41:06,800
+Kitty generuje 7 miliard dolarů obratu
+
+799
+00:41:06,800 --> 00:41:09,500
+ročně bez reklamy věřím to můžeš že
+
+800
+00:41:09,500 --> 00:41:11,300
+střešní Školní kluby generují podobnou
+
+801
+00:41:11,300 --> 00:41:14,400
+částku to z toho důvodu že prostě
+
+802
+00:41:14,400 --> 00:41:17,500
+Školní klub je pro mnoho japonců
+
+803
+00:41:17,500 --> 00:41:21,090
+nutné zlo ale go nagai a
+
+804
+00:41:21,090 --> 00:41:23,500
+ti kteří pokračuje v odkazu tomu to
+
+805
+00:41:23,500 --> 00:41:26,300
+dělal ten nádherný lesk Kdo z vás by
+
+806
+00:41:26,300 --> 00:41:29,800
+nechtěl trávit ty až 4 těch čtyři až
+
+807
+00:41:29,800 --> 00:41:33,500
+šest hodin třeba denně v klubu
+
+808
+00:41:33,500 --> 00:41:35,400
+obklopen krásnými chlapcem krásnými
+
+809
+00:41:35,400 --> 00:41:38,300
+dívkami Kdo z vás by místo toho raději
+
+810
+00:41:38,300 --> 00:41:41,590
+běhal po atletické dráze skákal do
+
+811
+00:41:41,590 --> 00:41:45,300
+dálky drtil se tradiční
+
+812
+00:41:45,300 --> 00:41:48,500
+obřad a nebo se nudil ke skládání
+
+813
+00:41:48,500 --> 00:41:50,900
+klasických taika básní
+
+814
+00:41:52,090 --> 00:41:53,690
+Kdo z nás by si byl to první nebo tu
+
+815
+00:41:53,690 --> 00:41:57,500
+druhou přiznejme si to ta první
+
+816
+00:41:57,500 --> 00:41:59,000
+opravdu lákavě vše proto si o ní spíše
+
+817
+00:41:59,000 --> 00:42:00,400
+píše a proto je to fikce
+
+818
+00:42:01,900 --> 00:42:05,800
+Ano přestože 80% všech škol to je zase
+
+819
+00:42:05,800 --> 00:42:07,900
+jak soukromých tak státních má účast
+
+820
+00:42:07,900 --> 00:42:10,000
+žáků klubech povinnou stále více roste
+
+821
+00:42:10,000 --> 00:42:12,690
+počet reklamních mrtvých duší někdy se
+
+822
+00:42:12,690 --> 00:42:16,300
+jim také říká Znouzectnost případně
+
+823
+00:42:16,300 --> 00:42:20,300
+vznešený členové to proto že to je
+
+824
+00:42:20,300 --> 00:42:23,000
+takový ten člověk který Musím se zapsat
+
+825
+00:42:23,000 --> 00:42:26,690
+do klubu ale milá
+
+826
+00:42:26,690 --> 00:42:29,500
+sakuro kam jdeš do atletického klubu
+
+827
+00:42:29,500 --> 00:42:32,800
+budeš tam Běhat Ne jen jsem tu zapsat
+
+828
+00:42:32,800 --> 00:42:34,090
+Tak jo tak já půjdu s tebou
+
+829
+00:42:35,690 --> 00:42:39,000
+a dojde tedy k tomu že na listině náš
+
+830
+00:42:39,000 --> 00:42:41,090
+třeba mi létající figuruje ale v
+
+831
+00:42:41,090 --> 00:42:43,400
+podstatě se tam ukázal na začátku
+
+832
+00:42:43,400 --> 00:42:46,000
+školního roku pak když bylo oznámeno že
+
+833
+00:42:46,000 --> 00:42:48,590
+bude nějaká inspekce vyšších míst takže
+
+834
+00:42:48,590 --> 00:42:51,000
+tam tam musel být a možná den předtím
+
+835
+00:42:51,000 --> 00:42:54,000
+hledal 2. cvičební úbor a na konci
+
+836
+00:42:54,000 --> 00:42:55,800
+školního roku kdy je potřeba nějakým
+
+837
+00:42:55,800 --> 00:42:58,590
+způsobem tedy zase zapsat že jakoby to
+
+838
+00:42:58,590 --> 00:42:59,300
+absolvoval
+
+839
+00:43:01,090 --> 00:43:04,400
+paradoxem je že hospodaření asi 20%
+
+840
+00:43:04,400 --> 00:43:07,400
+všech klubů na státních školách je
+
+841
+00:43:07,400 --> 00:43:10,590
+závislých na těhle těch vlastně mrtvých
+
+842
+00:43:10,590 --> 00:43:14,400
+duší z jednoho prostého důvodu podobně
+
+843
+00:43:14,400 --> 00:43:16,800
+jako u nás státní škola dostává
+
+844
+00:43:16,800 --> 00:43:19,400
+příspěvek na žáka z tohoto příspěvku
+
+845
+00:43:19,400 --> 00:43:23,000
+Školní a vlastně administrativa myšlení
+
+846
+00:43:23,000 --> 00:43:25,800
+nějakou částku pro kluby a mezi kluby
+
+847
+00:43:25,800 --> 00:43:28,190
+je rozdělí podle poměru členů zase k
+
+848
+00:43:28,190 --> 00:43:31,000
+částkou na hlavu a teď si představte že
+
+849
+00:43:31,000 --> 00:43:34,000
+máte ten kluk ve kterém máte oficiálně
+
+850
+00:43:34,000 --> 00:43:37,400
+40 dětí praktických dochází 10
+
+851
+00:43:37,400 --> 00:43:40,400
+ale peníze máte na 40 Co jí
+
+852
+00:43:40,400 --> 00:43:43,590
+jen těch 10 se účastní třeba nějakých
+
+853
+00:43:43,590 --> 00:43:46,800
+poznávacích výletů po nějakých akcí vy
+
+854
+00:43:46,800 --> 00:43:48,590
+si pronajímáte sportoviště například
+
+855
+00:43:48,590 --> 00:43:50,800
+Pokud vaše škola nemá plavecký bazén
+
+856
+00:43:50,800 --> 00:43:52,590
+ale má plavecký klub tak ne plavecký
+
+857
+00:43:52,590 --> 00:43:53,690
+klub si musí nějak pronajímat
+
+858
+00:43:53,690 --> 00:43:55,000
+sportoviště a tak dál
+
+859
+00:43:55,800 --> 00:43:56,800
+to je sakra znát
+
+860
+00:43:58,090 --> 00:44:00,090
+takže najednou jste za všechny mrtvé
+
+861
+00:44:00,090 --> 00:44:02,800
+duše strašně rádi A z pohledu vás
+
+862
+00:44:02,800 --> 00:44:06,500
+jakožto učitele Představte si že dobře
+
+863
+00:44:06,500 --> 00:44:08,900
+by vám tam museli operu chodit všichni
+
+864
+00:44:08,900 --> 00:44:12,400
+to znamená deset z nich má zájem 30 z
+
+865
+00:44:12,400 --> 00:44:14,690
+nich vám bude dávat okatě najevo tedy
+
+866
+00:44:14,690 --> 00:44:17,690
+ne co to Japonci takže ne okatě najevo
+
+867
+00:44:17,690 --> 00:44:21,690
+že to nechtějí
+
+868
+00:44:21,690 --> 00:44:25,400
+být ale vy země v ten čas a věcí musím
+
+869
+00:44:25,400 --> 00:44:26,900
+milovat ten čas a musíte za ně platit
+
+870
+00:44:26,900 --> 00:44:27,300
+ty náklady
+
+871
+00:44:29,800 --> 00:44:32,800
+co Vás to bude opravdu motivovat budete
+
+872
+00:44:32,800 --> 00:44:35,190
+se snažit nějak řešit to že těch 30
+
+873
+00:44:35,190 --> 00:44:37,590
+nechce a nebo spíš využijte toho že
+
+874
+00:44:37,590 --> 00:44:38,900
+máte víc víc prostředků pro těch 10
+
+875
+00:44:38,900 --> 00:44:42,500
+drží o to zajímají zase prostá
+
+876
+00:44:42,500 --> 00:44:45,690
+setrvačnost a řekněme metoda nejmenšího
+
+877
+00:44:45,690 --> 00:44:48,500
+odporu je to smutné ale je to tak
+
+878
+00:44:50,800 --> 00:44:54,500
+ano a přicházíme k poslední části tahle
+
+879
+00:44:54,500 --> 00:44:56,300
+té přednášky kterou jsem nazval
+
+880
+00:44:56,300 --> 00:44:58,590
+Japonsku je zvláštní země
+
+881
+00:44:58,590 --> 00:45:01,900
+která pamyu pamyu je myslím že v tomhle
+
+882
+00:45:01,900 --> 00:45:04,690
+tom ambasadorka zvláštnosti Japonska
+
+883
+00:45:04,690 --> 00:45:08,690
+Takže co bychom probrali v téhle té
+
+884
+00:45:08,690 --> 00:45:11,400
+věci No řekněme že možná z nás někteří
+
+885
+00:45:11,400 --> 00:45:13,000
+teďka získali dojem že všechno se
+
+886
+00:45:13,000 --> 00:45:15,190
+stefanem a viděli se nezakládá na
+
+887
+00:45:15,190 --> 00:45:16,800
+pravdě nebo nějaký Zkusím to Školská
+
+888
+00:45:16,800 --> 00:45:19,690
+vypadá úplně jinak což je pravda na
+
+889
+00:45:19,690 --> 00:45:22,300
+druhou stranu některé věci které jste
+
+890
+00:45:22,300 --> 00:45:24,900
+možná mohli vidět v anime i k mému
+
+891
+00:45:24,900 --> 00:45:28,190
+vlastnímu překvapení zřejmě pravda sol
+
+892
+00:45:28,190 --> 00:45:31,590
+a tady se na některé z nich podívat
+
+893
+00:45:35,000 --> 00:45:38,000
+například přísné kontroly odívání mnozí
+
+894
+00:45:38,000 --> 00:45:39,900
+z vás mohli vidět v různých anime
+
+895
+00:45:39,900 --> 00:45:43,800
+Taková ta věc dívka přijde U Brány
+
+896
+00:45:43,800 --> 00:45:45,590
+zastaví třeba tělocvikář máš moc
+
+897
+00:45:45,590 --> 00:45:48,500
+krátkou sukni co se to děje No tak jako
+
+898
+00:45:48,500 --> 00:45:51,500
+ale pak líp ne otočit
+
+899
+00:45:51,500 --> 00:45:54,500
+dnes dnešek máš neomluvené Budeš se ho
+
+900
+00:45:54,500 --> 00:45:56,590
+nahrazovat nebo odpoledne po škole
+
+901
+00:45:56,590 --> 00:45:59,690
+případně máš špatný účast
+
+902
+00:45:59,690 --> 00:46:02,690
+nejsou dovolená na tohle a podobně
+
+903
+00:46:02,690 --> 00:46:06,500
+tato věc No v Japonsku opravdu
+
+904
+00:46:06,500 --> 00:46:09,190
+existuje je tedy výraznější Hlavně u
+
+905
+00:46:09,190 --> 00:46:10,800
+soukromých škol nejsou těch státních
+
+906
+00:46:10,800 --> 00:46:12,500
+ale ani u těch státních to opravdu není
+
+907
+00:46:12,500 --> 00:46:14,500
+nijak řekněme volné
+
+908
+00:46:18,800 --> 00:46:21,400
+tady mám takový výtažek zase japonský
+
+909
+00:46:21,400 --> 00:46:25,000
+školním řádu za nedodržení délky
+
+910
+00:46:25,000 --> 00:46:28,900
+sukně nedovolené líčení nošení
+
+911
+00:46:28,900 --> 00:46:31,900
+nepovolených doplňků a přeji ti mezi
+
+912
+00:46:31,900 --> 00:46:34,500
+zimní a letní uniformou mimo školu
+
+913
+00:46:34,500 --> 00:46:37,300
+stanovené datum je trestáno podmínečné
+
+914
+00:46:37,300 --> 00:46:39,900
+vyloučení až na dva týdny Při prvních
+
+915
+00:46:39,900 --> 00:46:43,090
+dvou prohřešcích to znamená Představte
+
+916
+00:46:43,090 --> 00:46:46,690
+si že Řekni mi vyjdete ráno rádio na
+
+917
+00:46:46,690 --> 00:46:48,690
+ten kabát už nějak teplo chodíte na
+
+918
+00:46:48,690 --> 00:46:51,590
+sebe tím uniformu vejde do školy a pro
+
+919
+00:46:51,590 --> 00:46:55,000
+mě jsou se dozvíte nejen jim dva týdny
+
+920
+00:46:55,000 --> 00:46:58,300
+vyloučení za co
+
+921
+00:46:58,300 --> 00:47:01,900
+dneska není 13 dubna Dneska teprve
+
+922
+00:47:01,900 --> 00:47:02,900
+12. dubna
+
+923
+00:47:04,300 --> 00:47:05,400
+Ale pane Prof
+
+924
+00:47:07,500 --> 00:47:08,500
+český Pan profesor
+
+925
+00:47:11,000 --> 00:47:14,190
+Ne prostě za podobné věci při prvních
+
+926
+00:47:14,190 --> 00:47:16,300
+dvou řekneš až přečinech až na dva
+
+927
+00:47:16,300 --> 00:47:19,400
+týdny co se týče třetího porušení
+
+928
+00:47:19,400 --> 00:47:22,900
+většina škol pak nechává Buď to
+
+929
+00:47:22,900 --> 00:47:25,500
+nějakým způsobem projednat řešení s
+
+930
+00:47:25,500 --> 00:47:28,300
+rodiči a u těch přísnějších následuje
+
+931
+00:47:28,300 --> 00:47:29,900
+vyloučení přímo z z pedagogického
+
+932
+00:47:29,900 --> 00:47:31,000
+ústavu takže pozor
+
+933
+00:47:32,090 --> 00:47:35,190
+Je to drsné a tato Norma odpovídá
+
+934
+00:47:35,190 --> 00:47:38,090
+řekněme třem čtvrtinám většina škol na
+
+935
+00:47:38,090 --> 00:47:40,190
+těch soukromých bývá přísnější hlavně
+
+936
+00:47:40,190 --> 00:47:43,000
+proto že ty bývají dost často i omezené
+
+937
+00:47:43,000 --> 00:47:44,900
+tom že se třeba i děvčata nesmí v chatu
+
+938
+00:47:44,900 --> 00:47:47,900
+bez A jak u děvčat a chlapců jsou stále
+
+939
+00:47:47,900 --> 00:47:49,590
+ještě předepsané povolené délky vlasů a
+
+940
+00:47:49,590 --> 00:47:52,690
+podobné věci takže opatrně s tím
+
+941
+00:47:53,900 --> 00:47:54,400
+ano
+
+942
+00:47:57,400 --> 00:47:58,900
+satelitní na zimu
+
+943
+00:48:02,190 --> 00:48:04,090
+a bude venku mínus 10
+
+944
+00:48:05,590 --> 00:48:09,090
+pak jste měla volat školu a konzultovat
+
+945
+00:48:09,090 --> 00:48:10,900
+s nimi zdali náhodou s ohledem na
+
+946
+00:48:10,900 --> 00:48:13,300
+vnější atmosférické podmínky nedošlo k
+
+947
+00:48:13,300 --> 00:48:15,690
+tomu že by jsi měnil i datum Pokud vám
+
+948
+00:48:15,690 --> 00:48:18,190
+bylo odpovězeno negativně potřeba
+
+949
+00:48:18,190 --> 00:48:20,400
+zatnout zuby a samostatně se vydat
+
+950
+00:48:20,400 --> 00:48:22,300
+městskou hromadnou dopravou do školy
+
+951
+00:48:24,590 --> 00:48:27,900
+protože stejně tak jako v dalších 200
+
+952
+00:48:27,900 --> 00:48:31,500
+250 2000 studentů této školy udělal tu
+
+953
+00:48:31,500 --> 00:48:31,800
+samou věc
+
+954
+00:48:34,690 --> 00:48:36,590
+přece nechcete být ten hřebík co
+
+955
+00:48:36,590 --> 00:48:37,190
+vyčnívá z řady
+
+956
+00:48:39,690 --> 00:48:43,500
+v tom případě Japonsko
+
+957
+00:48:43,500 --> 00:48:46,690
+nebude vhodnou zemí Kam bych kdybych
+
+958
+00:48:46,690 --> 00:48:48,500
+byl vzdělávání zvlášť na nižších
+
+959
+00:48:48,500 --> 00:48:52,500
+stupních Tak co se týče tohoto dresu
+
+960
+00:48:52,500 --> 00:48:56,090
+některých anime i těch řekněme
+
+961
+00:48:56,090 --> 00:48:58,900
+tučnějších žánrech se objevují tyto
+
+962
+00:48:58,900 --> 00:49:01,800
+inspekce řekněme kódu odívání až na
+
+963
+00:49:01,800 --> 00:49:05,190
+velmi blízkou úroveň tělu a
+
+964
+00:49:05,190 --> 00:49:08,690
+k mému zděšení
+
+965
+00:49:08,690 --> 00:49:11,500
+Je
+
+966
+00:49:11,500 --> 00:49:13,500
+pravděpodobné nemohu vám dát
+
+967
+00:49:13,500 --> 00:49:14,900
+stoprocentní jistotu ale Je
+
+968
+00:49:14,900 --> 00:49:18,900
+pravděpodobné že minimálně do řekněme
+
+969
+00:49:18,900 --> 00:49:22,090
+začátku osmdesátých let školy v Tokiu a
+
+970
+00:49:22,090 --> 00:49:24,090
+ty jo toto praktikovali
+
+971
+00:49:25,500 --> 00:49:29,090
+existují o tom nepotvrzené zprávy do
+
+972
+00:49:29,090 --> 00:49:32,000
+školy o tom mlčí a existuje unikla
+
+973
+00:49:32,000 --> 00:49:35,800
+směrnice regulující kontrolu
+
+974
+00:49:35,800 --> 00:49:39,690
+odívání na školní půdě ve
+
+975
+00:49:39,690 --> 00:49:43,500
+které jsou tyto kontroly zmíněny tyto
+
+976
+00:49:43,500 --> 00:49:46,590
+kontroly zahrnovaly Samozřejmě jak
+
+977
+00:49:46,590 --> 00:49:48,500
+dívky tak chlapce
+
+978
+00:49:49,590 --> 00:49:52,500
+s oběma to že to jsou Japonci tak
+
+979
+00:49:52,500 --> 00:49:55,190
+samozřejmě i dívky měla kontrolovat
+
+980
+00:49:55,190 --> 00:49:57,900
+učitelka chlapce učitel
+
+981
+00:49:57,900 --> 00:50:01,400
+Nevím jak moc je tohle to
+
+982
+00:50:01,400 --> 00:50:03,800
+slučitelné řekněme etickým kodexem
+
+983
+00:50:03,800 --> 00:50:07,190
+pedagoga ale Japonci to neřešili bylo
+
+984
+00:50:07,190 --> 00:50:08,900
+to nařízeno a tedy proto zřejmě
+
+985
+00:50:08,900 --> 00:50:11,800
+prováděno Konec nastal po tom co
+
+986
+00:50:11,800 --> 00:50:14,300
+několik zahraničních studentek se
+
+987
+00:50:14,300 --> 00:50:16,590
+ohradil vůči ta na té praxi nahlásili
+
+988
+00:50:16,590 --> 00:50:18,690
+rodičům a rodiče jasně školám řekli že
+
+989
+00:50:18,690 --> 00:50:21,000
+pokud jako si chce na mytí podlahy něco
+
+990
+00:50:21,000 --> 00:50:23,900
+podobného Tak s tím žalobám a velmi
+
+991
+00:50:23,900 --> 00:50:25,900
+silně negativní publicitě nevyhnou a
+
+992
+00:50:25,900 --> 00:50:28,300
+jestli si japonská škola něčeho bojí
+
+993
+00:50:28,300 --> 00:50:31,800
+tak je to negativní publicita vůči tomu
+
+994
+00:50:31,800 --> 00:50:35,400
+se nemá úplně jak bránit a negativní
+
+995
+00:50:35,400 --> 00:50:38,000
+vůbec tady první obvykle velmi nemůže
+
+996
+00:50:38,000 --> 00:50:41,090
+znamenat výpadek studentstva jakožto
+
+997
+00:50:41,090 --> 00:50:43,000
+kvality studenta který se na ní hlásí a
+
+998
+00:50:43,000 --> 00:50:46,190
+případný zavřený takže není to žádná
+
+999
+00:50:46,190 --> 00:50:48,500
+sranda a zároveň to bohužel vede k tomu
+
+1000
+00:50:48,500 --> 00:50:49,300
+že jak jsem říkal
+
+1001
+00:50:49,590 --> 00:50:52,500
+japonská první reakce na problém je
+
+1002
+00:50:52,500 --> 00:50:55,000
+mlčíme o něm že školy budou raději
+
+1003
+00:50:55,000 --> 00:50:57,000
+mlčet a zatloukat než by přiznali něco
+
+1004
+00:50:57,000 --> 00:50:59,590
+co se může nějak negativně odrazit na
+
+1005
+00:50:59,590 --> 00:51:00,090
+jejich jméně
+
+1006
+00:51:01,190 --> 00:51:03,190
+a pokud už to jdu k ne tak ti to právě
+
+1007
+00:51:03,190 --> 00:51:06,800
+potom hukot Takže tyto kontroly zahnali
+
+1008
+00:51:06,800 --> 00:51:09,800
+obě pohlaví Co se týče té směrnice tak
+
+1009
+00:51:09,800 --> 00:51:13,190
+je tam ale jenom tak jim drobným je
+
+1010
+00:51:13,190 --> 00:51:14,500
+drobný detail který
+
+1011
+00:51:14,500 --> 00:51:17,800
+Řekni mi některé
+
+1012
+00:51:17,800 --> 00:51:21,000
+právníky v možná překvapil A to ten že
+
+1013
+00:51:21,000 --> 00:51:22,500
+jak jsem říkal dívky
+
+1014
+00:51:22,500 --> 00:51:26,300
+kontrolovala učitelka sladce
+
+1015
+00:51:26,300 --> 00:51:29,590
+kontroloval učitel s výjimkou to je
+
+1016
+00:51:29,590 --> 00:51:30,000
+třídní
+
+1017
+00:51:31,090 --> 00:51:33,500
+třídní mu totiž jednat o stanici Jasně
+
+1018
+00:51:33,500 --> 00:51:36,900
+nařizovala že v případě podezření na
+
+1019
+00:51:36,900 --> 00:51:40,500
+porušení kódu objal a nebo pravidla
+
+1020
+00:51:40,500 --> 00:51:44,190
+oblékání má kontrolu provést a už
+
+1021
+00:51:44,190 --> 00:51:46,690
+nespecifikoval zdali třídní má nějaké
+
+1022
+00:51:46,690 --> 00:51:48,690
+to jsem řešit to zdali to je učitelky
+
+1023
+00:51:48,690 --> 00:51:50,800
+kontroluje dívku nebo učitelka tak něco
+
+1024
+00:51:50,800 --> 00:51:51,300
+ne chlapce
+
+1025
+00:51:53,090 --> 00:51:56,900
+takže Viva Viva la Japan abych tak řekl
+
+1026
+00:51:56,900 --> 00:52:00,190
+kontroly spodního prádla pravděpodobně
+
+1027
+00:52:00,190 --> 00:52:03,190
+se odehrávaly přibližně do do počátku
+
+1028
+00:52:03,190 --> 00:52:05,500
+osmdesátých let ano
+
+1029
+00:52:07,300 --> 00:52:09,800
+Tak jo ale to přesně tak
+
+1030
+00:52:11,000 --> 00:52:13,400
+z jiných oblastí se mi nepovedlo sehnat
+
+1031
+00:52:13,400 --> 00:52:16,800
+záznam směrnice a svědectví a dej říkám
+
+1032
+00:52:16,800 --> 00:52:18,400
+Berte to s rezervou v tom smyslu že je
+
+1033
+00:52:18,400 --> 00:52:21,590
+opravdu oficiálně je toto popíráno
+
+1034
+00:52:21,590 --> 00:52:25,190
+těch informací ale od téhle té věci
+
+1035
+00:52:25,190 --> 00:52:28,500
+včetně toho obytný dokumentu řekněme 1
+
+1036
+00:52:28,500 --> 00:52:31,690
+je tolik že buď Je to velmi Eva
+
+1037
+00:52:31,690 --> 00:52:35,500
+bodovaných houx který žije už rok 81
+
+1038
+00:52:35,500 --> 00:52:39,300
+dneska 2015 to máme
+
+1039
+00:52:39,300 --> 00:52:42,690
+19 34 let což je asi jeden z
+
+1040
+00:52:42,690 --> 00:52:45,190
+nejstabilnějších o který byste znali
+
+1041
+00:52:45,190 --> 00:52:48,900
+jakožto poplatníka Takže jak říkám
+
+1042
+00:52:48,900 --> 00:52:52,500
+dámy pokud
+
+1043
+00:52:52,500 --> 00:52:55,590
+toužíte po tom začít cestu do Japonska
+
+1044
+00:52:55,590 --> 00:52:57,300
+Teď už by to snad mělo být bezpečné
+
+1045
+00:52:57,300 --> 00:53:00,090
+Pokud pánové touží po tom poznat blíže
+
+1046
+00:53:00,090 --> 00:53:01,900
+své třídní učitele tak japonská asi
+
+1047
+00:53:01,900 --> 00:53:03,690
+nebude úplně zemí která by to teď
+
+1048
+00:53:03,690 --> 00:53:07,590
+podporovala ale je tu stále ta možnost
+
+1049
+00:53:07,590 --> 00:53:08,690
+řekněme obrátit se k historii
+
+1050
+00:53:10,800 --> 00:53:14,590
+Ano soud žaloby a tím pádem že přišel
+
+1051
+00:53:14,590 --> 00:53:17,500
+čas pro vaše dotazy máte k tomu tomuto
+
+1052
+00:53:17,500 --> 00:53:18,690
+tématu ještě nějaké ano
+
+1053
+00:53:20,590 --> 00:53:21,090
+květiny
+
+1054
+00:53:23,590 --> 00:53:27,590
+rozhodně to pravda je Představte si že
+
+1055
+00:53:27,590 --> 00:53:29,800
+byste tady v Čechách zpřístupnil
+
+1056
+00:53:29,800 --> 00:53:30,400
+střechu školy
+
+1057
+00:53:33,400 --> 00:53:35,500
+To si žádný ústav nevezme na triko
+
+1058
+00:53:35,500 --> 00:53:39,500
+opravdu
+
+1059
+00:53:41,300 --> 00:53:44,900
+a ano Pokud máte zajištění
+
+1060
+00:53:44,900 --> 00:53:47,090
+třímetrovým plotem tak pravděpodobně by
+
+1061
+00:53:47,090 --> 00:53:50,190
+to mohlo jít ovšem pokud máte běžnou
+
+1062
+00:53:50,190 --> 00:53:51,590
+střechu tak na ní opravdu studenty
+
+1063
+00:53:51,590 --> 00:53:53,800
+nepustíte je mi líto
+
+1064
+00:53:56,190 --> 00:54:01,400
+strava
+
+1065
+00:54:01,400 --> 00:54:04,090
+pro psy jak pro studenty Tak
+
+1066
+00:54:04,090 --> 00:54:08,000
+co se týče studentek Pokud dojde ke
+
+1067
+00:54:08,000 --> 00:54:09,900
+změně nějakého V jakých pravidel
+
+1068
+00:54:09,900 --> 00:54:12,590
+odívání tak se o ní informování je
+
+1069
+00:54:12,590 --> 00:54:15,000
+stanoveno datum do kterého musíte tyhle
+
+1070
+00:54:15,000 --> 00:54:17,000
+ty změny zapracovat do své uniformy a
+
+1071
+00:54:17,000 --> 00:54:19,590
+Obvykle je vám doporučen do obchod
+
+1072
+00:54:19,590 --> 00:54:23,300
+který dodává uniformy pro školu kterého
+
+1073
+00:54:23,300 --> 00:54:25,190
+byly pro ně popsány i tehdy doplňky
+
+1074
+00:54:25,190 --> 00:54:28,590
+podle smlouvy a způsobu placení
+
+1075
+00:54:28,590 --> 00:54:32,090
+soukromé školy pak záleží na tom zdali
+
+1076
+00:54:32,090 --> 00:54:34,690
+tak říkajíc si tento výmysly budete
+
+1077
+00:54:34,690 --> 00:54:36,300
+muset zaplatit v jako rodič daného
+
+1078
+00:54:36,300 --> 00:54:38,690
+dítěte a nebo bude pokryta školného
+
+1079
+00:54:38,690 --> 00:54:39,300
+které platíte
+
+1080
+00:54:41,190 --> 00:54:43,590
+to už záleží slaměná specifikaci právě
+
+1081
+00:54:43,590 --> 00:54:45,690
+smlouvy s pardubickým stavem
+
+1082
+00:54:48,000 --> 00:54:52,000
+neexistuje vy nemáte jako
+
+1083
+00:54:52,000 --> 00:54:54,500
+student možnost Japonsku rozumně
+
+1084
+00:54:54,500 --> 00:54:55,900
+odmítnout rozhodnutí pedagogického
+
+1085
+00:54:55,900 --> 00:54:59,590
+sboru pokud tak učiníte a snaží se o to
+
+1086
+00:54:59,590 --> 00:55:01,190
+zase obvykle hlavně zahraniční studenti
+
+1087
+00:55:01,190 --> 00:55:02,300
+kteří jsou zvyklí na trošku jiné
+
+1088
+00:55:02,300 --> 00:55:04,590
+zacházení ve většině případů
+
+1089
+00:55:04,590 --> 00:55:08,590
+narazí a jsou nějakým způsobem donuceni
+
+1090
+00:55:08,590 --> 00:55:11,690
+nebo tedy škola ustoupí ale jen v
+
+1091
+00:55:11,690 --> 00:55:13,190
+případě zahraničního studenta protože
+
+1092
+00:55:13,190 --> 00:55:16,300
+přiznejme si to pokud máte ten hřebík
+
+1093
+00:55:16,300 --> 00:55:18,400
+koukající z řady ale je to rezavý
+
+1094
+00:55:18,400 --> 00:55:21,800
+hřebík Nebo jinak barevný hřebík Takže
+
+1095
+00:55:21,800 --> 00:55:24,090
+on si vezmou protože je to Cizinec je
+
+1096
+00:55:24,090 --> 00:55:26,690
+to tají že je to někdo kdo nás nechápe
+
+1097
+00:55:26,690 --> 00:55:27,900
+kdo není jeden z nás
+
+1098
+00:55:30,190 --> 00:55:32,000
+je to smutné ale je to tak
+
+1099
+00:55:33,590 --> 00:55:35,090
+další ano
+
+1100
+00:55:38,800 --> 00:55:41,690
+Krishna náplň práce Školní rady tak
+
+1101
+00:55:41,690 --> 00:55:45,590
+Představte si sekretářku v běžné firmě
+
+1102
+00:55:45,590 --> 00:55:49,300
+přihoďte jí přihoďte jí
+
+1103
+00:55:49,300 --> 00:55:52,300
+uklízečku a pokud možno
+
+1104
+00:55:52,300 --> 00:55:55,900
+velmi levnou nekvalifikovanou účetní
+
+1105
+00:55:55,900 --> 00:55:59,800
+tohle to spojit a máte přibližnou náplň
+
+1106
+00:55:59,800 --> 00:56:03,400
+práce Školní rady protože dostanete
+
+1107
+00:56:03,400 --> 00:56:05,690
+od učitele od učitelského sboru úkol
+
+1108
+00:56:05,690 --> 00:56:07,690
+pro zkopírujte ty dva ty testy tyhle ty
+
+1109
+00:56:07,690 --> 00:56:09,300
+materiály takže tam prostě ty dvě
+
+1110
+00:56:09,300 --> 00:56:10,900
+hodiny stojí to u té kopírky a jedete
+
+1111
+00:56:10,900 --> 00:56:13,500
+pak je roznášet jen o tvém profesorům
+
+1112
+00:56:13,500 --> 00:56:16,000
+do jednotlivých tříd a podobně nebo
+
+1113
+00:56:16,000 --> 00:56:17,900
+dostanete úkol Je potřeba uklidit tohle
+
+1114
+00:56:17,900 --> 00:56:20,690
+a tohle na což samozřejmě můžete vyzvat
+
+1115
+00:56:20,690 --> 00:56:23,690
+ostatní studenty obvykle ti kteří jsou
+
+1116
+00:56:23,690 --> 00:56:25,690
+nějakém trestu se vám nemůžu moc bránit
+
+1117
+00:56:25,690 --> 00:56:27,690
+Takže jako ty teda s vámi budou ale
+
+1118
+00:56:27,690 --> 00:56:29,800
+spousta jiných může použít obligátní
+
+1119
+00:56:29,800 --> 00:56:32,190
+výmluvu a to je jedna zase z těch které
+
+1120
+00:56:32,190 --> 00:56:35,800
+trošku hrají proto Proč být tím řekněme
+
+1121
+00:56:35,800 --> 00:56:38,090
+členem klubu jenom na papíře Protože i
+
+1122
+00:56:38,090 --> 00:56:38,690
+když s tím šraňku
+
+1123
+00:56:38,690 --> 00:56:41,500
+na papíře a už nechodíte můžete říct jo
+
+1124
+00:56:41,500 --> 00:56:43,590
+Promiňte úklid hřiště Sorry já mám
+
+1125
+00:56:43,590 --> 00:56:47,590
+plavání v tom papíře jste a
+
+1126
+00:56:47,590 --> 00:56:50,400
+váš učitel řekne ano byl tady v
+
+1127
+00:56:50,400 --> 00:56:52,590
+čem je problém
+
+1128
+00:56:57,190 --> 00:56:59,690
+další Ano v
+
+1129
+00:56:59,690 --> 00:57:08,690
+tomhle
+
+1130
+00:57:08,690 --> 00:57:10,500
+tom ohledu abys mě záleželo na
+
+1131
+00:57:10,500 --> 00:57:13,300
+profesorovi kterého chytnete Pokud by
+
+1132
+00:57:13,300 --> 00:57:17,000
+vám pokud nám byl nakloněn je možné že
+
+1133
+00:57:17,000 --> 00:57:18,590
+vás nechá převlek No prostě nějaké budu
+
+1134
+00:57:18,590 --> 00:57:20,400
+stěžovat nechat jít do školy a tam se
+
+1135
+00:57:20,400 --> 00:57:23,500
+můžete převléknout Ale pokud nebude
+
+1136
+00:57:23,500 --> 00:57:25,900
+nakloněn nebo sám bude čelit třeba tomu
+
+1137
+00:57:25,900 --> 00:57:28,500
+že má nějaký problém s ředitelem nebo
+
+1138
+00:57:28,500 --> 00:57:31,400
+prostě s nějakým nadřízeným Je mi líto
+
+1139
+00:57:31,400 --> 00:57:32,800
+Je to vaše povinnost
+
+1140
+00:57:35,590 --> 00:57:36,000
+ano
+
+1141
+00:57:37,500 --> 00:57:39,590
+je to ohledně barvy vlasů když má třeba
+
+1142
+00:57:39,590 --> 00:57:43,500
+aby dítě má jednoho rodiče cizince a
+
+1143
+00:57:43,500 --> 00:57:47,500
+třeba má jako ne prostě černou nebo
+
+1144
+00:57:47,500 --> 00:57:49,800
+barvu vlasů barvení vlasů je skoro
+
+1145
+00:57:49,800 --> 00:57:53,300
+globálně na školách zakázáno dokonce
+
+1146
+00:57:53,300 --> 00:57:56,000
+jdou najít blogy lidi kteří právě
+
+1147
+00:57:56,000 --> 00:57:58,300
+jakožto pro děti ze ze ze smíšených
+
+1148
+00:57:58,300 --> 00:58:00,800
+manželství Japonsku Vyrůstali a není to
+
+1149
+00:58:00,800 --> 00:58:03,590
+pěkné čtení protože když jste ta jediná
+
+1150
+00:58:03,590 --> 00:58:05,900
+hnědovlasá hlavička v té černovlasý
+
+1151
+00:58:05,900 --> 00:58:08,500
+třídě protože přiznejme si anime není
+
+1152
+00:58:08,500 --> 00:58:10,300
+úplně pravdivé ani o hodně barev vlasů
+
+1153
+00:58:10,300 --> 00:58:10,690
+japonců
+
+1154
+00:58:11,690 --> 00:58:15,500
+zážitek dominantních barev Tak
+
+1155
+00:58:15,500 --> 00:58:19,090
+zase vy kupujete a ten přístup k vám je
+
+1156
+00:58:19,090 --> 00:58:19,900
+jiný
+
+1157
+00:58:20,900 --> 00:58:24,590
+takže barvení je téměř neříkám na 100%
+
+1158
+00:58:24,590 --> 00:58:26,000
+tak aspoň co jsem udělal i Školní řády
+
+1159
+00:58:26,000 --> 00:58:27,190
+zakázáno
+
+1160
+00:58:28,090 --> 00:58:30,900
+a podle těhle těch zpráv řekněme vidíte
+
+1161
+00:58:30,900 --> 00:58:33,190
+že tam právě Vyrůstali to nebylo
+
+1162
+00:58:33,190 --> 00:58:36,000
+jednoduché dětství Ne že by to zažívali
+
+1163
+00:58:36,000 --> 00:58:38,590
+až tolik od těch dětí ale třeba ten si
+
+1164
+00:58:38,590 --> 00:58:39,800
+zub kantorů je znát
+
+1165
+00:58:42,800 --> 00:58:44,500
+Viděla jsem někde jakoby
+
+1166
+00:58:45,900 --> 00:58:48,690
+prostě opravdu to jejich přirozená
+
+1167
+00:58:48,690 --> 00:58:51,690
+barva že nemají obarvené je potřeba to
+
+1168
+00:58:51,690 --> 00:58:53,690
+na některých školách nebo takhle to už
+
+1169
+00:58:53,690 --> 00:58:56,800
+je trochu zveličení většinou způsobeny
+
+1170
+00:58:56,800 --> 00:58:58,500
+tím když vás tak říkajíc škola chce
+
+1171
+00:58:58,500 --> 00:59:01,190
+vyštvat ze svých řad tak mám udělat
+
+1172
+00:59:01,190 --> 00:59:04,190
+problémy prostě aby zase je konec vám
+
+1173
+00:59:04,190 --> 00:59:06,500
+neřekne Tohle je špatně Nebo nechceme
+
+1174
+00:59:06,500 --> 00:59:10,400
+vás To je peněz použije výraz v pořádku
+
+1175
+00:59:10,400 --> 00:59:12,190
+ale půjdeme potřebovat doložit že vaše
+
+1176
+00:59:12,190 --> 00:59:13,690
+barva vlasů je opravdu přirozená
+
+1177
+00:59:16,500 --> 00:59:19,500
+Je to jejich způsob jak jak jsem říkal
+
+1178
+00:59:19,500 --> 00:59:21,190
+nechávat mít problémy nebo nějakým
+
+1179
+00:59:21,190 --> 00:59:23,300
+způsobem neřešit věci tak to na příjmu
+
+1180
+00:59:23,300 --> 00:59:25,690
+Díky tomu pokud právě máte jenom barvu
+
+1181
+00:59:25,690 --> 00:59:28,500
+vlasů jsou si zprávy že to chtěli ve
+
+1182
+00:59:28,500 --> 00:59:30,800
+většině případů ty lidé tohoto dávat
+
+1183
+00:59:30,800 --> 00:59:32,500
+nemuseli aspoň podle těch zpráv v těle
+
+1184
+00:59:32,500 --> 00:59:35,400
+těch blogu ale opravdu jako nebylo to
+
+1185
+00:59:35,400 --> 00:59:39,300
+úplně ideální nebylo to skvělé Tak když
+
+1186
+00:59:39,300 --> 00:59:42,590
+se podívám Tak ano vím že vy všichni
+
+1187
+00:59:42,590 --> 00:59:46,300
+máte test za 60% průměrně ona ho má za
+
+1188
+00:59:46,300 --> 00:59:46,800
+40
+
+1189
+00:59:48,690 --> 00:59:49,400
+vyčuhuje
+
+1190
+00:59:51,690 --> 00:59:53,590
+Takže tak ještě někdo
+
+1191
+00:59:55,500 --> 00:59:56,000
+ano
+
+1192
+00:59:56,000 --> 01:00:00,400
+Pokud
+
+1193
+01:00:00,400 --> 01:00:02,190
+jde o úklid přijde tak to je standardní
+
+1194
+01:00:02,190 --> 01:00:04,090
+rotační služba Představte si co se
+
+1195
+01:00:04,090 --> 01:00:07,090
+starými činžovními domy kdy bylo určeno
+
+1196
+01:00:07,090 --> 01:00:09,500
+že dnes mi je schody Nováková zítra
+
+1197
+01:00:09,500 --> 01:00:13,500
+Petrák pozítří Brown a podobně tak
+
+1198
+01:00:13,500 --> 01:00:16,190
+je podobným způsobem prostě máte rozpis
+
+1199
+01:00:16,190 --> 01:00:18,500
+studentů a každý z nich má prostě v
+
+1200
+01:00:18,500 --> 01:00:20,400
+nějaký den službu kdy musí uklidit
+
+1201
+01:00:20,400 --> 01:00:23,500
+třídu nakonec nebývá sám Většinou to
+
+1202
+01:00:23,500 --> 01:00:25,900
+bývá skupina dvou až tří studentů podle
+
+1203
+01:00:25,900 --> 01:00:28,690
+rozměrů třídy stejně tak není problém
+
+1204
+01:00:28,690 --> 01:00:31,800
+aby japonská škola vyhlásila řekněme
+
+1205
+01:00:31,800 --> 01:00:35,400
+akci z slovníkem raného socialismu
+
+1206
+01:00:35,400 --> 01:00:38,190
+To znamená že vám například zruší půl
+
+1207
+01:00:38,190 --> 01:00:41,190
+školního dne a v lítáte po škole a
+
+1208
+01:00:41,190 --> 01:00:44,090
+Uklízíte společnost méně se staršími
+
+1209
+01:00:44,090 --> 01:00:45,800
+spolužáky jakožto levná pracovní síla
+
+1210
+01:00:47,190 --> 01:00:49,400
+co je horší ten půjde zkuste nahradit
+
+1211
+01:00:49,400 --> 01:00:52,590
+Děkuji děkuji
+
+1212
+01:00:52,590 --> 01:00:56,500
+Plha se hlásí a tím pádem já vás teda s
+
+1213
+01:00:56,500 --> 01:00:58,590
+tou se tedy s vámi rozloučím připomenu
+
+1214
+01:00:58,590 --> 01:00:59,800
+jen že pokud některý z vašich známých
+
+1215
+01:00:59,800 --> 01:01:01,900
+ale tu přednášku neměl šanci stihnout
+
+1216
+01:01:01,900 --> 01:01:04,590
+zvolený program byl právě někde jinde
+
+1217
+01:01:04,590 --> 01:01:08,190
+zítra v Áčku v 9:00 ráno proběhne živé
+
+1218
+01:01:08,190 --> 01:01:10,300
+opakování téhle té přednášky Takže
+
+1219
+01:01:10,300 --> 01:01:12,800
+pokud to bude bude zájem můžete pít
+
+1220
+01:01:12,800 --> 01:01:14,400
+Děkuji vám
+
