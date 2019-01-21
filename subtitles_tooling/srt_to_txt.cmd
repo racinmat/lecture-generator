@@ -1,0 +1,1 @@
+python srt_to_txt_sentences.py ../text_out/corrected-final-for-nlp

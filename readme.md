@@ -74,3 +74,9 @@ learned from them. list of used lectures:
     -   for downloading from youtube, both video and audio, I used https://www.onlinevideoconverter.com
     -   for trimming and cutting longer video, I used Movico (desktop app for windows 10, with ads but for free and does the job)
     -   for converting other audio formats to wav, I used Sound Converter (desktop app for windows 10)
+    
+- data structure:
+    - in `text_out/google-stt` are automatically generated subtitles 
+    - in `text_out/corrected-final` are final versions of srt files 
+    - in `text_out/corrected-final-for-nlp` are final versions of srt file modified to be more suitable for NLP
+    - in `pure_text_dataset` are pure text sentences from previous directory

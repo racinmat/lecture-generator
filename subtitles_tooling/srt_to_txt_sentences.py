@@ -46,6 +46,6 @@ def srt_to_sentences(filename):
 
 
 if __name__ == '__main__':
-    # directory = argv[1]
-    directory = '../text_out/corrected-final'
+    directory = argv[1]
+    # directory = '../text_out/corrected-final'
     extract_dir(directory)
