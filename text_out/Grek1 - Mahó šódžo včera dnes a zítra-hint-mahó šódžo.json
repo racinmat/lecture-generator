@@ -1,0 +1,911 @@
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2018-07-29T17:05:34.554597Z",
+    "progressPercent": 100,
+    "startTime": "2018-07-29T16:38:52.431559Z"
+  },
+  "name": "2283020595861701979",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7480825,
+            "transcript": "Pardon m\u00e1m tu \u0161lap\u00e1tka jenom si \u017ee je 30,5"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8989459,
+            "transcript": " v\u010dera dnes a z\u00edtra proto\u017ee p\u0159iznejme si co m\u016f\u017eu ti \u017e\u00e1nr jak to tu dlouhou dobu a za celou tu dobu mi z\u016fstal stejn\u00fd nebo nem\u011bnn\u00fd st\u00fdskalo spoustu nov\u00fdch prvk\u016f kter\u00e9 vlastn\u011b jsme s perem s kolegou ikonick\u00e9 a na tebe p\u0159edn\u00e1\u0161ce zkus\u00edme pod\u00edvat odkud a za jak\u00fdch podm\u00ednek je to ty prvky m\u00e1m u\u017e hotov\u00fd skalou z\u00e1rove\u0148 jable\u010dn\u00e1 ve v\u011bku od 17 let tak prvn\u00ed p\u00e1rov\u00e1n\u00ed Jeliko\u017e se budeme zab\u00fdvat p\u0159\u00edb\u011bhy aspekty a celkov\u011b r\u016fzn\u00fdmi p\u0159\u00edstupy k tvorb\u011b mal\u00e9ho \u017e\u00e1nru schuco z\u00e1pletek vypr\u00e1v\u011bn\u00ed p\u0159\u00edb\u011bhu naraz\u00edme na v\u011bci kter\u00e9"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9153703,
+            "transcript": " hospoda U se nemohu st\u00e1hnout pokud na to chci pouk\u00e1zat Tak\u017ee vy v\u0161ichni kte\u0159\u00ed nen\u00e1vid\u00ed spoilery na zna\u010den\u00ed v Lond\u00fdn\u011b hlavn\u00ed hrdina skon\u010d\u00ed s tou d\u00edvkou kter\u00e1 ho zml\u00e1tila jako prvn\u00ed je velk\u00fdm spoilerem tak bohu\u017eel v t\u00e9to p\u0159edn\u00e1\u0161ce na poliklinice naraz\u00edte takov\u00e9m p\u0159\u00edpad\u011b neriskujte to opravdu nem\u00e1 to smysl v\u00fdchod je po va\u0161\u00ed prav\u00e9 stran\u011b J\u00e1 s\u00e1m se nebudu zlobit wi-fi si alespo\u0148 u\u0161et\u0159\u00edte mo\u017en\u00e9 zklam\u00e1n\u00ed tak\u017ee opravdu osmilet\u00fd budou hr\u00e1t s tou roli se na t\u00e9 p\u0159edn\u00e1\u0161ce tak\u017ee opatrn\u011b s t\u00edm FIS Masters Nechci Nechci mluvit spolu to maj\u00ed mo\u017enost odej\u00edt na co jsem tak vid\u011bl minim\u00e1ln\u011b mal\u00e9m s\u00e1le prob\u00edh\u00e1 dost zaj\u00edmav\u00e1 p\u0159edn\u00e1\u0161ka o ost\u0159\u00edh\u00e1n\u00ed Vl\u010dek"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8431164,
+            "transcript": " tak ano a za\u010dneme rovnou na \u0159ekn\u011bme naprost\u00e9m z\u00e1klad\u011b"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.89194006,
+            "transcript": " ryba nap\u00ed\u0161i b\u00fdv\u00e1 Tak\u00e9 m\u011b zvykem rovnou si zahraje taky prvn\u00ed hru V\u00ed n\u011bkdo z v\u00e1s Kdo je autorem a nebo nap\u00ed\u0161e hlaste se mi nek\u0159i\u010dte to na m\u011b"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8587549,
+            "transcript": " dob\u0159e porad\u00edm Tak\u017ee pros\u00edm j\u00e1 v\u00e1m gratuluji pros\u00edm Kolik jste zaplatili jsme spole\u010dn\u011b a neplat\u00ed pokud chcete t\u00edm pros\u00edm Kde se vzal n\u011bjak\u00fd \u017e\u00e1nr existuj\u00ed dv\u011b osoby ke kter\u00fdm je pot\u0159eba se obr\u00e1tit jako prvn\u00ed a druh\u00e9 Ale opravdu je od osamu tezuka jak to vlastn\u011b s\u00e9rie"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.92221856,
+            "transcript": " kter\u00e1 je p\u016fvodn\u011b vznikl jako Manga od roku 1953 tak\u017ee opravdu Otev\u0159i kari\u00e9ry a 67 67 vznik\u00e1 podle n\u00ed animovan\u00fd seri\u00e1l o 52 hodin u jednoho kr\u00e1lovstv\u00ed s t\u00edm \u017ee jeho narozen\u00ed do\u0161lo k n\u011bkolika v\u011bcech prvn\u00ed and\u00edlek kter\u00fd nesl jej\u00ed r\u016f\u017eov\u00e9 d\u00edv\u010d\u00ed srdce omylem popletl r\u016f\u017eovou a modrou a nebo mo\u017en\u00e1 by m\u011bl jistotu taky ob\u011bd srdce vrazil do t\u011bla tak\u017ee Safari disponuje Ji\u017en\u00ed srdce d\u00edvek taky chrabr\u00fdm srdce Mohu M\u016f\u017eu"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8985782,
+            "transcript": " z\u00e1rove\u0148 ti st\u00fdsk\u00e1 a kr\u00e1l na potomka \u010dek\u00e1 dost dlouho tak se nemohl dovolit destabilizovat masku svou st\u00e1t t\u00edm \u017ee by nem\u011bl Jasn\u011b Sapphire Ati d\u00edvkou tak od narozen\u00ed je prohl\u00e1\u0161ena za mu\u017ee a celou dobu vychov\u00e1v\u00e1na jako pristav a je to je Ano to je to slovo Kter\u00fd sport je mo\u017en\u00e9 V\u0161ichni jsme Wikipedie jestli m\u00e1te pravdu o tomto vesm\u00edru pros\u00edm zvl\u00e1\u0161tn\u00ed \u010dl\u00e1nku s velk\u00fdmi velk\u00fdm a rezerva"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8764664,
+            "transcript": " tak d\u00e1le A n\u011bkdo publikac\u00edch na\u010derpali p\u0159\u00edpadn\u011b informace televize cht\u011bli sd\u011blovat J\u00e1 ho zase botu \u010dl\u00e1nek pro\u0161el p\u0159ed asi n\u011bkolika m\u011bs\u00edci docela z\u00e1va\u017enou prom\u011bnou a p\u0159ivedli k n\u00ed maz\u00e1n\u00ed Tak\u017ee u\u017e je o n\u011bco m\u00e9n\u011b \u0161patn\u00fd"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.899443,
+            "transcript": " Tak\u017ee jenom pro v\u00e1s kte\u0159\u00ed by s t\u00edm cht\u011bli n\u011bco d\u011blat jinak v podstat\u011b d\u00edly obec a teoretik\u016f na 70% n\u011bkte\u0159\u00ed tvrd\u00ed \u017ee ne Nen\u00ed to m\u00e1lo \u010ceho \u010ceho asi s procenty tvrd\u00ed \u017ee ano samoz\u0159ejm\u011b pak najdu tady to tady takov\u00e9 ozna\u010den\u00ed jako je prototyp mah\u00f3 \u0161\u00f3d\u017eo p\u0159\u00edb\u011bhu je to opravdu h\u00e1d\u00e1n\u00ed se o pojmy a dojmy a za chv\u00edli si \u0159ekneme z \u010deho se vlastn\u011b ta poh\u00e1dka plynem"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9171263,
+            "transcript": " hlavn\u00ed probl\u00e9m je to u\u017e je a\u010dkoliv samotn\u00e9 p\u0159\u00edv\u011bsky to je magie p\u0159estat a SOU je jako klasick\u00fd st\u0159edov\u011bk\u00fd setting Kde existuje aktivn\u00ed mi dokonce se z\u00e1sahem nebe a pekla tak samotn\u00e1 Sapphire to vag\u00edna vl\u00e1dne ona opravdu vyu\u017e\u00edv\u00e1m toho \u017ee je po\u0161tou Sitel kartu\u0161ov\u00e9ho srdce se dok\u00e1\u017ee dov\u00e9st st\u011bhovat dok\u00e1\u017ee CH A dok\u00e1\u017ee naslouchat a jako\u017eto nositelka toho modreho chrabr\u00e9ho sv\u00e9ho srdce a ty Identity Phantom Night do kter\u00e9ho se fyzicky p\u0159evl\u00e9k\u00e1 to znamen\u00e1 ukrutn\u00e1 m\u00e1te ty z\u00e1b\u011bry kdy p\u0159ijde od hodinu krinol\u00ednu anebo Krej\u010dovsk\u00fd \u0161at a navl\u00e9kne se do toho od\u011bv\u016f mu\u0161ket\u00fdr\u016f a doplnit ozonovou maskou samoz\u0159ejm\u011b \u00fasm\u011bv \u010dern\u00e9 aby to bylo spr\u00e1vn\u011b v\u00fdhru\u017en\u00e9 z\u00e1rove\u0148 n\u00e1hle kouzeln\u00e9ho mazl\u00ed\u010dka tak ti \u0159eknu co a jdi za ty jsi tak na za\u010d\u00e1tku tro\u0161ku smotal"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.90186775,
+            "transcript": " Something p\u0159\u00edpad\u011b v anglick\u00e9 verzi kofein kter\u00fd j\u00ed to Side Kick pom\u00e1h\u00e1 hraj\u00ed a jsou u\u017e tak jako i zapomn\u011bl na to \u017ee byl posl\u00e1n pro tak jako ten tv\u016fj probl\u00e9m n\u011bjak vy\u0159e\u0161il proto\u017ee jsi utahan\u00fd l\u00edb\u00ed a celkov\u011b s n\u00ed vych\u00e1z\u00ed nav\u00edc je to jeden z m\u00e1la mazl\u00ed\u010dku kter\u00fd p\u0159ib\u00edr\u00e1 \u010dasy pro Naho\u0161ovice nen\u00ed opravn\u00fd nen\u00ed rok nen\u00ed roztomil\u00e9 p\u0159et\u00e9kaj\u00edc\u00ed cukrem a tak d\u00e1le dokonce je v podstat\u011b jedinou postavu kter\u00e1 a\u0165 nem\u00e1 \u017e\u00e1dn\u00e9 bojov\u00e9 dovednosti Tak d\u00edky tomu \u017ee Satan kter\u00fd se v tomto se daj\u00ed i fyzicky objev\u00ed jako\u017eto manifestuje"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8966844,
+            "transcript": " m\u00e1 barvu hr\u016fzu z And\u011blu a je \u00fapln\u011b jedno \u017ee Satan je asi dva a p\u016fl metrov\u00fd obr svalnat\u00e9 trhan\u00e9 zran\u011bn\u00ed nic lidsk\u00e9ho p\u0159ed t\u00edm mal\u00fdm lep\u00edc\u00ed and\u00edlkem s kr\u010dn\u00ed Hr\u016fza Ji\u0159\u00ed jako mal\u00e9 d\u011bv\u010de Tak\u017ee je to opravdu bystr\u00e1 a chytr\u00e1 chytr\u00e1 a chytlav\u00e1 a za chv\u00edli ti za\u010d\u00ednaj\u00ed kl\u00e1st ot\u00e1zku zda v tom roce 67 jsem nato\u010dil tro\u0161ku jin\u00e9 d\u011btsk\u00e9 seri\u00e1ly \u017ee se to\u010d\u00ed Guinness proto\u017ee ten kompletn\u00ed sety pro tu tu d\u011btskou show Zahraj mi takov\u00e9 v\u011bci jako jsou politick\u00e9 intriky kter\u00e9 se sna\u017e\u00ed odhalit princi Sapphire je to princezna \u0160eherez\u00e1da Nen\u00ed za\u010d no n\u00e1slednictv\u00ed tr\u016fnu"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.85574305,
+            "transcript": " co se d\u011bje se na to \u017ee proti intrik\u00e1m hraje nebe a peklo aktivn\u00ed roli jako v tom \u017ee sami vyu\u017e\u00edvejte smrteln\u00edky a indikuji proti sob\u011b"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.88021886,
+            "transcript": " a do toho v\u0161eho se zamot\u00e1vaj\u00ed b\u011b\u017en\u011b lidsk\u00e9 p\u0159\u00edb\u011bhy jako jsou ti utla\u010dov\u00e1n\u00ed sedl\u00e1ci ti revolucion\u00e1\u0159i kte\u0159\u00ed maj\u00ed ty kr\u00e1sn\u00e9 kniha Proto\u017ee n\u011bkdo zneu\u017eije k tomu aby p\u00e1chali teroristick\u00e9 \u010c\u00edny"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.93533707,
+            "transcript": " a to v\u0161echno \u0159e\u0161\u00ed Sapphire ob\u010dansk\u00fd Prince a nebo tvrdosti a hbitosti a to naj\u00edt A tak\u017ee opravdu je to d\u011btsk\u00fd seri\u00e1l tak \u0159\u00edkaj\u00edc No nejd\u0159\u00edv ten je divn\u00e9 \u017ee bych to doporu\u010dil vysloven\u011b sledovat jako\u017eto v\u00fdchovn\u00e9 na druhou stranu kdykoliv star\u0161\u00ed to najde 1 za\u010dne paralyz\u00e9r Tak pro\u010d se to je\u0161t\u011b berou jako z\u00e1kladu pak po\u0161li i se p\u00ed\u0161e Ano m\u00e1me tu protagonistkou m\u00e1me tu p\u0159eci jen tu kter\u00e1 hraje n\u011bjakou aktivn\u00ed roli i kdy\u017e je hodinka samotn\u00e1 nevyu\u017e\u00edv\u00e1 a celkov\u011b je to tam a postavena Jasn\u011b \u017ee je to zase \u0159e\u0161it i probl\u00e9my kter\u00e9 maj\u00ed t\u0159eba i tento magick\u00e9 v pozad\u00ed Mo\u017en\u00e1 si to norm\u00e1ln\u011b ale \u0159e\u0161\u00ed jen d\u00edky tomu i j\u00e1 s\u00e1m se k van\u011b k tomu \u017ee bych pova\u017eoval za prvn\u00ed mah\u00f3 \u0161\u00f3d\u017eo br\u00e1n\u00edm se tomu ozna\u010den\u00ed prototyp ale rozhodn\u011b na v\u00e1s ke kter\u00e9 \u010d\u00e1sti akademick\u00e9 obce se Tak kdykoliv chcete p\u0159ipojit"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8826195,
+            "transcript": " 2. himitsu No a ko\u010danda tak tahle s\u00e9rie je u\u017e takovou v\u00edc klasi\u010dt\u011bj\u0161\u00ed vlastn\u011b od toho \u017ee mi l\u00e1sko To je ta s tou \u010delenku a ma\u0161li\u010dkami po stran\u00e1ch m\u00e1 \u00fachvatnou schopnost m\u011bnit pomoc\u00ed zrcadel a m\u011bnit se k n\u00ed \u010dasto pou\u017e\u00edv\u00e1 z venku se zrc\u00e1tkem pod\u00edv\u00e1 \u0159ekne co bych cht\u011bla b\u00fdt cel\u00fd den to je p\u0159esn\u011b pln\u00e1 barev a ona se prom\u011bn\u00ed"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7433071,
+            "transcript": " tak\u017ee ne u\u017e to nevr\u00e1t\u00ed\u0161 zp\u00e1tky"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7224404,
+            "transcript": " A\u0165 a p\u00e1r housek okam\u017eit\u011b vyperte v ot\u00e1zky ti d\u011bkuji technice nevad\u00ed"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8989233,
+            "transcript": " tak je\u0161t\u011b je\u0161t\u011b je\u0161t\u011b v po\u0159\u00e1dku te\u010f u\u017e jsem zkus\u00edm do kolika jo Tak\u017ee mamka kter\u00e1 vych\u00e1z\u00ed pr\u016fvod Vlastina 162 169 vznik\u00e1 t\u00edm \u017ee prvn\u00ed A nem\u011blo 90 d\u00edl 2 anime o n\u011bjak\u00fdch \u0161est let pozd\u011bji 60 d\u00edl\u016f dal\u0161\u00ed Adame 72 d\u00edl\u016f a To posledn\u00ed m\u011blo po 40 d\u00edl\u016f nab\u00eddku m\u00e1me I live Action jo tak\u017ee j\u00e1 jsem rozhodn\u011b neskon\u010d\u00edm 969 americk\u00fd Remake tak sedmi let m\u016f\u017ee ob\u010dan Ano m\u00e1m toho dom\u00e1c\u00edho mazl\u00ed\u010dka v okam\u017eiku kdy z\u00edsk\u00e1 schopnost m\u011bnit st\u00fdsk\u00e1 schopnost jestli mi to \u0159ekni ty jsi is Pluto mazl\u00ed\u010dkem s ko\u010dkou ko\u010dka mi v okol\u00ed Ji\u010d\u00edna"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9238496,
+            "transcript": " radiojod by to \u0159ekl jsem mu \u017ee opravdu v\u011bd\u011bt v\u00edc to proto\u017ee a ko\u010dk\u00e1m jet uk\u00e1zan\u00e9 jako mal\u00e9 d\u011bv\u010de kter\u00e9 m\u00e1 pecku kdy\u017e je velmi zap\u00e1len\u00e1 pro zrcadla v pokoji se takhle to tady jen hem\u017e\u00ed a tak kdy\u017e j\u00ed otec d\u00e1v\u00e1 d\u00e1rek z dalek\u00e9 cesty do ciziny letadlo kter\u00e9 poch\u00e1z\u00ed z Indie kter\u00e9 se n\u00e1hodou rozbije tak ti j\u00ed l\u00edto vz\u00edt ty st\u0159epy a te\u010f jde do ko\u0161e co ti ud\u011bl\u00e1 ka\u017ed\u00fd norm\u00e1ln\u00ed \u010dlov\u011bk M\u00edsto toho je ritu\u00e1ln\u011b zakoupena zahrad\u011b jakoby hrobe\u010dek pro zrcadlo co\u017e v pohod\u011b si \u010dlov\u011bk tomu \u017ee zrcadla dal\u0161\u00edch kr\u00e1lovna zrcadlov\u00e9 p\u00ed\u0161e se p\u0159ed n\u00edm manifestuje a nab\u00eddne Nikdo za tuto citlivost zub\u016f kter\u00e9 osobn\u011b velmi Do pekla a to \u017ee j\u00ed zrcadla budou plnit p\u0159\u00e1n\u00ed a ko\u010dk\u00e1m p\u0159esn\u011b Mestre Italy vs ale kdo z n\u00e1s by to nebral souhlas\u00ed a z\u00edsk\u00e1v\u00e1n\u00edm Pavla po\u0161le\u0161"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8970965,
+            "transcript": " pod\u00edv\u00e1 do zrcadla a \u0159ekne t\u0159eba chci chci vypadat Taka Taka chv\u00edli se zm\u011bnil to akor\u00e1t trochu a \u010das od \u010dasu vy\u0161\u0161\u00ed Te\u010f \u0159ekni to narovinu tak ale rozhodn\u011b prom\u011bny vzhledu kter\u00fd je poskytnut pomoc\u00ed magie jako takov\u00e9 tak dok\u00e1\u017ee mluvit jak jsem \u0159\u00edkal dok\u00e1\u017eu tady rozum\u011bt a z\u00e1kladu se dost\u00e1v\u00e1me k tomu nejkr\u00e1sn\u011bj\u0161\u00edmu \u017e\u00e1nru m\u011b a proto to znamen\u00e1 epizody a ka\u017ed\u00e9 Je uzav\u0159en\u00fd p\u0159\u00edb\u011bh a d\u00e1 se \u0159\u00edct \u017ee by se to dalo Flight Je to pohled do \u017eivota mlad\u00e9 d\u00edvky kter\u00e1 m\u00e1 tuhle tu schopnost a pomoc\u00ed n\u00ed \u0159e\u0161\u00ed probl\u00e9my sv\u00fdch bli\u017en\u00edch zp\u016fsobuje probl\u00e9my sv\u00fdm bli\u017en\u00edm a \u0159e\u0161\u00ed to probl\u00e9m"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8847216,
+            "transcript": " tak\u017ee tak do konce odd\u00edlu a je pomoc\u00ed takhle osazen\u00e9ho kouzla od kamar\u00e1dek na chv\u00edli text o schopnosti ztrat\u00ed pam\u011b\u0165 a postavit se proti a ko\u010d\u00e1r To znamen\u00e1 \u017ee z\u00edsk\u00e1v\u00e1me Jedu prvn\u00ed ten No mahou shoujo u\u017e v tom roce 69 vlastn\u011b d\u00edvku ta kter\u00e1 m\u00e1 vlastn\u011b magick\u00fd protagonista"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9293505,
+            "transcript": " tak Ano a nyn\u00ed se dost\u00e1v\u00e1me tomu zeptej co ten zbytek Jestli sv\u00e1tek procent akademick\u00e9 obce pova\u017euje za To prvn\u00ed m\u00e1 odsoudil a to je mahoutsukai no ale jak vid\u00edte je\u0161t\u011b \u010dernob\u00edl\u00e1 No mo\u017en\u00e1 nevid\u00edte Ale sed\u00ed na ko\u0161t\u011bti Bohu\u017eel no ale lep\u0161\u00ed screeny moc dob\u0159e ud\u011blat ne\u0161lo tohle anime to produk\u010dn\u011b stilo u\u017e roce 68 proto je toto prvn\u00ed \u0159ekn\u011bme v\u00fdrazn\u011b uzn\u00e1van\u00e9 mah\u00f3 \u0161\u00f3d\u017eo samotn\u00e1 Manga je ale v\u00fdrazn\u011b mlad\u0161\u00ed P\u0159erov 66 jak jste vid\u011bli Konopi\u0161t\u011b 53 pak vlastn\u011b 57 66 a dokonce poch\u00e1z\u00ed z pera pam\u011b\u0165 jako j\u00e1 kte\u0159\u00ed n\u00e1m dalo vedle za prvn\u00edho Mal\u0161ovice podle v\u011bt\u0161iny kritiku v\u011bc kterou asi sp\u00ed\u0161 mu\u017esk\u00e9 publikum A to jsou ob\u0159\u00ed roboti proto\u017ee je to AutoCAD LT 28 co\u017e je anime o m\u00e9m synovi Geni\u00e1ln\u00edho vyn\u00e1lezce kter\u00fd pro"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.889853,
+            "transcript": " malpro dost o v\u00e1lku p\u0159ipravovan\u00e9 Polsko ultim\u00e1tn\u00ed zbra\u0148 kterou nen\u00ed nic jin\u00e9ho ne\u017eli Oh\u0159\u00ed robot ale to poslal toho ho nesta\u010dil aktivovat tak\u017ee ovl\u00e1d\u00e1n\u00ed knihu Dal jsem 10 let\u00e9mu synovi Je to chlape\u010dek a cvi\u010dit na pozd\u011bji pou\u017e\u00edv\u00e1 k boji proti zlo\u010dinc\u016fm a \u0159ekn\u011bte mi organizac\u00ed tak\u017ee stejn\u011b autor n\u00e1m dod\u00e1v\u00e1 moc Uka\u017e cel\u00fd Kde tady nejsou"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9091268,
+            "transcript": " a m\u00edsto toho se dost\u00e1v\u00e1me vysloven\u011b zaveden\u00e9 transformaci pomoc\u00ed kouzeln\u00e9 h\u016flky a od\u0159\u00edk\u00e1n\u00ed \u0159\u00edkanky nebo za\u0159\u00edkadla Tak\u017ee je to opravdu ten nejklasi\u010dt\u011bj\u0161\u00ed pro m\u011b u\u017e kter\u00e1 existuje ta kter\u00e1 to se ti definovala tak to ve\u010der m\u00e1 hor\u0161\u00edho co to znamen\u00e1 m\u00e1m\u011b mihulkova by to ur\u010dit\u011b kru\u017enici kolem cel\u00e9ho t\u011bla pro neseme n\u011bco od p\u0159ij\u00edt o p\u011bt minut jedu kter\u00fd je dobr\u00fd nebude Zase epizody kamar\u00e1d\u016f to a\u017e zas tolik rybn\u00edk\u016f nedo\u010dkalo po\u0159\u00e1d ale bylo dosti popul\u00e1rn\u00ed ta To jsou takov\u00e9 ty z\u00e1kladn\u00ed opravdu hrub\u00e9 z\u00e1klady kter\u00e9 jsou te\u010f ty jsi nebol\u00ed z\u00e1da nebo No kishi vyu\u017eit\u00ed majetku rozumn\u011b pou\u017eit\u00ed magick\u00e9ho statistika a soust\u0159edit na jedno protagonistkou potom a ko\u010d\u00e1r jako\u017eto ty prom\u011bnn\u00fd"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8718283,
+            "transcript": " Garmin vzhledu a vyu\u017e\u00edv\u00e1n\u00ed toho a\u0165 pro pobaven\u00ed nebo pro \u0159e\u0161en\u00ed probl\u00e9m\u016f sv\u00fdch kamar\u00e1d\u016f a r\u00fd\u017ei a such\u00e9 sk\u00e1ly kter\u00e1 vysloven\u011b s pomoc\u00ed magie m\u011bn\u00ed a z\u00edsk\u00e1v\u00e1 tak\u017ee jednozna\u010dn\u00fd vlastn\u011b z\u00e1klad dan\u00e9ho \u017e\u00e1nru tipoval tyhlety z\u00e1kladn\u00ed stavebn\u00ed kameny"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9184669,
+            "transcript": " je\u0161t\u011b ano tak to je ten druh\u00fd p\u00e1n jak jsem \u0159\u00edkal u kter\u00e9ho je dobr\u00e9 p\u0159i zkoum\u00e1n\u00ed Story jak\u00e9hokoli \u0161\u00e1hnu zastavit pan Go nagai J\u00e1 to zkus\u00edm taky ot\u00e1zku je to nikdo kdo objevil prot\u011b\u017eov\u00e1n\u00ed \u017e\u00e1nr nen\u00e1vid\u00edm dne\u0161n\u00ed dob\u011b dla\u017ebu nov\u00fdmi Zept\u00e1m se zastavte se mi co mysl\u00ed\u0161 je to za \u017e\u00e1nr bylo tablet"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.80896807,
+            "transcript": " nen\u00ed samostatn\u00fd \u017e\u00e1dat o u\u017e jsem tak\u00e9 n\u011bkolikr\u00e1t \u0159\u00edkal Zkusme to T\u00e1mhle ne"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7582216,
+            "transcript": " n\u011bkdo to zkus\u00ed ano"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9204741,
+            "transcript": " zn\u00e1 \u010d\u00e1ste\u010dn\u011b debat\u011b o st\u0159edo\u0161kolsk\u00e9m proto\u017ee to je ten p\u00e1tek m\u00e1m ve sv\u00e9 matce here\u010dek jako jen p\u0159ed do takov\u00e9 v\u011bci jako jsou zdravotn\u00ed prohl\u00eddky p\u0159il\u00e9hav\u00e9 kost\u00fdmy velmi kr\u00e1tk\u00e9 sukn\u011b a v\u00edtr kter\u00fd d\u011bl\u00e1 nep\u0159\u00edjemn\u00e9 v\u011bci kter\u00e9 d\u011bl\u00e1 nep\u0159\u00edjemn\u00e9 v\u011bci a v\u0161echny tyhlety prvky kter\u00e9 dneska zn\u00e1me tak\u017ee Samoz\u0159ejmost\u00ed je \u017ee m\u00e1m toti\u017e p\u0159edvedl a zavedl v\u011bci kter\u00e9 ve sv\u00e9 dob\u011b byly opravdu Revolu\u010dn\u00ed a dlouhou dobu nepochopen\u00e9 dokonce k tomu k tomu musel a m\u00e1m toho dost"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.81954217,
+            "transcript": " Tak ty u\u017e dop\u0159edu a j\u00e1 nechci skoro T\u0159icet let putoval jak\u00e9koli ozna\u010dn\u00edky utahanej jak u\u017e tam m\u00e1\u0161 o\u010di proto\u017ee ty hry kter\u00e9 si hod\u00edm a prvn\u00ed uk\u00e1zku"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.75876653,
+            "transcript": " na\u0161e re\u017eie je v pln\u00e9 pr\u00e1ci"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7421379,
+            "transcript": " te\u010f to chvilku \u010dasu"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.73793215,
+            "transcript": " prezidenti kandid\u00e1ti na kart\u00e1ch \u010desky nadabovan\u00e9 Pep\u00edno ani j\u00e1 chci do O2 dotovan\u00e9 m\u00edsto pojedu do pozn\u00e1mkov\u00e9ho"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8853797,
+            "transcript": " invalidn\u00ed d\u016fchod a podnik\u00e1n\u00ed mnoha variant to je a strach nebo n\u011bkdo jin\u00fd kter\u00fd zvl\u00e1dne jmenuje poji\u0161t\u011bnou to jako asi nep\u0159ekvap\u00ed \u017ee v textu p\u00edsn\u011b z vyskytovaly ver\u0161e zahrnuj\u00edc\u00ed slova p\u011bkn\u00fd zade\u010dek pln\u00e1 \u0148adra Skon\u010dilo to pr\u00e1v\u011b se p\u0159evl\u00e9k\u00e1m Tak\u017ee ano je to rok 73 ano v kter\u00e9m kraji p\u0159edstavuje hrdinku kter\u00e1 po n\u00e1v\u0161t\u011bv\u011b ty zabili mi otce a mysl\u00edm \u017ee u\u017e i p\u0159\u00edtelkyni tak to opravdu nem\u011bli d\u011blat"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8637841,
+            "transcript": " kter\u00e1 ukazuje na \u010d\u00e1sti sv\u00e9ho t\u011bla Tedy samoz\u0159ejm\u011b ne ty kter\u00e9 by nem\u011bl b\u00fdt kanec a p\u0159\u00edsudek s podm\u011btem proti organizaci kter\u00e1 vyu\u017e\u00edv\u00e1 st\u0159eln\u00e9 zbran\u011b zvuky v\u00fdbu\u0161nin a cokoli dal\u0161\u00edho a v\u0161echno je to stra\u0161n\u011b COOL sobota hrdinka Androidem On je st\u00e1hne kisaragi a pokud se z\u00edsk\u00e1 do sv\u00e9ho t\u011bla instalace za\u0159\u00edzen\u00ed kter\u00e9 umo\u017e\u0148uje m\u011bnit nebo takov\u00fd p\u00e1\u0159it pevnou botu ze vzduchu"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9347991,
+            "transcript": " to j\u00ed umo\u017e\u0148uje m\u00edt r\u016fzn\u011b jsme oble\u010dky sv\u00e9 kost\u00fdmy a nakop\u00e1v\u00e1 zadky lid\u00ed osm tak\u017ee celkov\u011b obrovsk\u00fd hit samoz\u0159ejm\u011b Ten tom83 profilovan\u00e9 jako t\u011b\u017ek\u00e1 v\u011bc pro kluky a holky nemaj\u00ed co d\u00edvat jako pro\u010d je tam Cool hrdinka kter\u00e1 m\u00e1 spoustu \u0161at\u016f kter\u00e1 si um\u00ed poradit \u0159e\u0161\u00ed i takov\u00e9 z\u00e1pletky jako kter\u00e9ho kouk\u00e1m a pr\u00e1v\u011b r\u00e1da \u017ee jak se dostat z intern\u00e1tu sv\u00e9 katolick\u00e9 \u0161koly na kterou doch\u00e1z\u00ed Adam katolick\u00e9 \u0161koly v Japonsku a tak d\u00e1le tak\u017ee \u0158\u00edk\u00e1te si jednozna\u010dn\u011b pro kluky \u017ee ano Toto si \u0159\u00edkali vlastn\u011b p\u016fvodn\u00ed producenti a chyst\u00e1m kuna dejte je taky a te\u010f tak\u00e9 \u00fapln\u011b nechytil \u0159ekn\u011bme vlnu nebo co v\u0161echno ti martima rozpoutal tak\u017ee vlastn\u011b jako mal\u0161ovick\u00e9ho byla tahle ta s\u00e9rie uzn\u00e1na a\u017e teprve v\u00fdrazn\u011b zp\u011btn\u011b a s\u00e1m Konec"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.61758894,
+            "transcript": " to do Byst\u0159ice tak odm\u00edtal"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9342352,
+            "transcript": " tak\u017ee do sou\u010dasnosti celkem na ten nato\u010dili 4 s\u00e9rie ka\u017ed\u00e1 z nich je alternativn\u00ed p\u0159evypr\u00e1v\u011bn\u00ed alf6 u toho prvn\u00edho m\u016f\u017ee\u0161 n\u011bkoho zaj\u00edmat je\u0161t\u011b pak i n\u011bjak\u00fd ano dok\u00e1\u017ee po\u010det a nejenom kreslen\u00e9 ale i hran\u00e9 filmy a mimochodem I ty jedna zlep\u0161it Tak\u017ee je to prvn\u00ed s\u00e9rie z\u00e1da chlapeck\u00e9 kubikovou hlavn\u00ed protagonistkou \u017ee to je dobr\u00fd to Tell If protagonista kte\u0159\u00ed m\u011bli ud\u011blat tenhle p\u0159ib\u011bhla svoj\u00ed dobu a t\u00edm soustava marketingov\u00e9 nevyu\u017eit\u00e1 z\u00e1klad\u011b \u010deho se to t\u00fdk\u00e1 se to asi takto kdy\u017e p\u0159i\u0161la mal\u0161ovic jo fungovalo tak \u017ee mal\u00e1 d\u011bv\u010data p\u0159it\u00e1hneme r\u00e1no v sobotu a v ned\u011bli k televizi a budu pot\u0159ebovat pr\u00e1ce reklamu z bloku ty v\u011bci kter\u00e1 hled\u00e1 a mal\u00e1 mlad\u00e1 d\u011bv\u010data p\u0159\u00edpadn\u011b rodi\u010de mohou cht\u00edt to zn\u00e1m hra\u010dky to znamen\u00e1 n\u011bjakou tu d\u011btskou kosmetiku a nebo teda je \u00fapln\u011b od 15 let"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9043987,
+            "transcript": " odrostlej\u0161\u00ed tak\u017ee n\u011bjak\u00e9 ty dal\u0161\u00ed v\u011bci pro d\u00edvky"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9116576,
+            "transcript": " a co se t\u00fd\u010de proto\u017ee ta byla ur\u010den\u00e1 pro kluky tak byla sp\u00ed\u0161 tom pozd\u011bj\u0161\u00ed bloku a tam b\u011b\u017eeli ty v\u011bci jako reklamy na dal\u0161\u00ed jsem tady s\u00e9rie hra\u010dky pro kluky r\u016fzn\u00e9 v\u011bci pro vyu\u017eit\u00ed a technice nebo v r\u00e1mci \u0159ekn\u011bme p\u0159\u00edpravek na dal\u0161\u00ed a dal\u0161\u00ed zam\u011bstn\u00e1n\u00ed spolu Ty mi ale do\u0161lo pr\u00e1v\u011b k tomu \u017ee Zbo\u0159il Ale ty taky tyhle v\u011bci r\u00e1d jezd\u00edvali d\u00edvky a to dokonce r\u016fzn\u00fdch fandom zasahuje v\u011bkov\u011b u\u017e 73 jeden z nejstar\u0161\u00edch Spectre a d\u00edky tomu \u017ee to Market za ty pe\u0159iny nepochopili tak se museli fanou\u0161ci pomoct Ale ten t\u00f3n kter\u00fd dr\u017e\u00ed dodnes"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.92405814,
+            "transcript": " Tak pr\u00e1v\u011b za\u010dal ten The Witcher 2 h5 ne\u010dekan\u00fdm a \u010cenda a je to Ketty Hanny kter\u00e1 spustila takov\u00e9 v\u011bci \u017ee jsi fakt jo Tak to mezi sebou za\u010daly m\u011bnit a vyr\u00e1b\u011bt figurky figurky cutey Honey Ano proto\u017ee je to p\u0159ece nen\u00ed panenka To je ak\u010dn\u00ed figurka naopak za\u010dala d\u011blat tu kterou si v\u011bci a\u0165 u\u017e do \u0161koly tak aby p\u0159ipom\u00ednaly n\u011bjak\u00e9 ty p\u0159evleky Hilti Hana samotn\u00e1 Kitty jako\u017eto a vypt\u00e1vali n\u00e1vod proto\u017ee b\u011bhem jednoho d56 p\u0159evlek\u016f a v\u017edycky p\u0159edkontac\u00ed z hlavy po se toho t\u00fddne do\u0161lo k tomu \u017ee prob\u011bhl taktick\u00fd monolog Ano n\u011bkdy je to report\u00e9rka zp\u011bva\u010dka a zdravotn\u00ed sestra ale ve skute\u010dnosti tak\u017ee"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9251834,
+            "transcript": " \u010dekaj\u00edc\u00ed pokyny evropsk\u00e9 m\u00f3dy a to aby p\u016fsobily Google tak ty holky chytli tak\u017ee upravil a nezat\u011b\u017euj\u00edc\u00ed m\u00f3dy p\u0159\u00edpad\u011b po\u017eit\u00ed vlastn\u00ed kost\u00fdm je\u0161t\u011b v Cosplay opravdu na no\u0161en\u00ed na \u00faklid se prost\u011b proto\u017ee te\u010f tedy b\u00fdt v\u0161ichni byste b\u00fdt jen a evropsk\u00fdch tak\u017ee jednozna\u010dn\u011b kter\u00fd teprve pozd\u011bji za\u010dne doch\u00e1zet co v\u0161echno Zp\u016fsobil a tohle mi generace kter\u00e1 \u0159\u00edkaj\u00ed Taky t\u011bch Miroslav se dostal do nada\u010dn\u00edho pr\u016fmyslu a marketing t\u00e1ta zastavit \u0161kytavku proto\u017ee nem\u016f\u017ee b\u00fdt na o\u010di l\u017eou kter\u00e1 by \u010derpala svou s\u00edlu z v\u011bdy ale hlavn\u011b ovlivnil Go nagai Sharm El Sheikh Imperial"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.92828757,
+            "transcript": " sexy dynamick\u00e1 A pln\u011b animovan\u00e1 transformace zakrou\u017e\u00ed tabulkou a tak d\u00e1le a Nejdu tam stravenek Z\u00e1kladn\u00ed kost\u00fdm\u016f Ne tady m\u00e1te kafe oble\u010den\u00ed n\u011bjak\u00fdm zp\u016fsobem \u0161patn\u00e9 n\u011bjak\u00fdm zp\u016fsobem se na v\u00e1s znovu navl\u00e9kne u toho kolem v\u00e1s kamera op\u00ed\u0161e n\u011bkolika dotazy a celkov\u011b je to skv\u011bl\u00fd prod\u00e1v\u00e1te to je to ten kter\u00fd Vlastn\u011b 2 roky po uveden\u00ed Prvn\u00ed krok zp\u011bt d\u00e1l Vrac\u00edme se vlastn\u011b autobu objevujeme dom\u016f nap\u00ed\u0161i proto\u017ee a terrorist s vyzv\u00e1n\u011bn\u00ed do pern\u00edk spole\u010denstv\u00ed nen\u00ed to tak \u017ee u\u017e by to potential of Light \u017ee \u0159e\u0161it probl\u00e9my Riko a Cuky a tahle dal\u0161\u00ed kamar\u00e1dky nebo tak m\u00e9ho kamar\u00e1da kter\u00fd je velk\u00fd idiot a podobn\u011b Ne m\u00e1me tu vystoupen\u00ed antistick organizace n\u011bjak\u00fdm term\u00edn v pl\u00e1nu"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9078837,
+            "transcript": " Kter\u00fd den je pot\u0159eba pokud mo\u017eno p\u0159ekazit abych to pot\u0159eba zahraj 3,5 Hany sv\u00e9ho otce tak tak to znamen\u00e1 Zn\u00e1te to ka\u017ed\u00fd den na vol\u00e1n\u00ed t\u011bm klasick\u00fdm p\u011b\u0161\u00e1ku to bude p\u00e1nov\u00e9 chci s t\u00edm kloboukem kdy\u017e bude\u0161 b\u00e1t Senec bazukou To jsou v\u011bci tak jako na jeden parf\u00e9my nen\u00ed probl\u00e9m \u0159e\u0161it d\u00e9le ale oni maj\u00ed sv\u00e9 nad\u0159\u00edzen\u00e9 A tam u\u017e je to t\u011b\u017e\u0161\u00ed ti ho po\u0161lu ti na n\u011bj toti\u017e u\u017e zavedli takov\u00e9 v\u011bci jako nemus\u00edm b\u00fdt pora\u017een mohu u t\u00e9 mohu spektakul\u00e1rn\u011b zem\u0159\u00edt aby nezem\u0159el a nepozn\u00e1te to ani neplat\u00ed zav\u0159el dob\u0159e Uka\u017ete mi t\u011blo nem\u00e1te t\u011bhotn\u00e9 zem\u0159el m\u00e1te t\u011blo Promi\u0148te pitvu jinak Sedl\u010dany tyhle v\u011bci jednozna\u010dn\u011b kola"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.89840335,
+            "transcript": " se dneska v podstat\u011b u\u017e neuzn\u00e1v\u00e1 ale jsou tac\u00ed kte\u0159\u00ed pr\u00e1ci od Lucky p\u0159esv\u011bd\u010den\u00ed st\u00e1le pova\u017euji za hlavn\u00ed probl\u00e9m ur\u010dov\u00e1n\u00ed m\u00f3dn\u00edch trend\u016f v t\u00e9 dob\u011b nebi u\u017e je to je ale pozd\u011bji pro Mal\u0161ovice naprosto d\u016fle\u017eit\u00e9 ano rok 73 n\u00e1m p\u0159edv\u00e1d\u00ed haneke star\u00e1ky jako\u017eto s hlavou a c\u00edlev\u011bdomou hrdinku nev\u00edm jestli to n\u011bkdo tam aspo\u0148 tro\u0161ku p\u0159ehled v\u00fdvoje spole\u010dnosti 83 byl takov\u00fd tro\u0161ku p\u0159elomov\u00fd a jestli jste n\u011bco v televizi fakt necht\u011bl jako\u017eto st\u00e1tn\u00ed \u00fa\u0159edn\u00edk Most podporovat tak to byly sv\u00e9hlav\u00fd mlad\u00ed lid\u00e9 zvl\u00e1\u0161tn\u00ed \u017ee ne tak\u017ee zp\u016fsobem dostat nav\u00edc a obsadili dal\u0161\u00ed fotky ale vzadu nebo nimi pop\u0159ed\u00ed se lid\u00e9 jak utajit ten boj s tou tak\u017ee ti tyhle to obrovsk\u00fd"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.69288206,
+            "transcript": " 83 kter\u00fd vlastn\u011b znamen\u00e1"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.77680737,
+            "transcript": " tak cht\u011bl jsem si \u017ee n\u011bkter\u00e9 v\u011bci Te\u010f u\u017e mohly fungovat nevad\u00ed i tak d\u011bkuji"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.84629345,
+            "transcript": " a j\u00e1 se pt\u00e1m od\u0159\u00edkat a nebudeme posouvat v\u00fdborn\u011b je\u0161t\u011b je\u0161t\u011b"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.81101,
+            "transcript": " po\u0159\u00e1d m\u016f\u017eeme J\u00e1 zastav\u00edm te\u010f to zkus\u00edme si n\u011bkdo z v\u00e1s Podle tohodle obr\u00e1zku tohle anime zav\u00e9st Du\u0161an Rube\u0161"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7014923,
+            "transcript": " Zkus\u00edm si n\u011bkdo vypnout"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.85613686,
+            "transcript": " \u010dek\u00e1m hl\u00e1\u0161en\u00ed ale dob\u0159e si to zopakovat jenom"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8216765,
+            "transcript": " j\u00e1 to nev\u00edm a po\u010d\u00edt\u00e1m Cht\u011bl bych nem\u011bnila deset let To je na m\u011b docela mal\u00e9 ano"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.5140721,
+            "transcript": " Nov\u00e9 touhy"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.91047937,
+            "transcript": " gratuluji m\u00e1 pravdu proto\u017ee Maminka je toto a creamy Mami ta kter\u00e1 je to nebo to je to star\u0161\u00ed Na tom plak\u00e1tu jak natolik aby z toho druh\u00e9ho z cukru snad je vyu\u017eijeme del\u0161\u00ed 83 to znamen\u00e1 vid\u00edte \u017ee 73 tyranny dlouho dlouho nic teprve vlastn\u011b doch\u00e1z\u00ed k aplikov\u00e1n\u00ed n\u011bkter\u00fdch t\u011bch term\u00edn\u016f kter\u00e9 kv\u011bty hned zavedla a m83 p\u0159ich\u00e1z\u00ed jedin\u011b jde zv\u011bt\u0161it p\u0159evrat to je Mimochodem anime od studia p\u011bti p\u00e1te\u0159\u00ed to tak tak jak to v\u00ed\u0161 jsou to ti kte\u0159\u00ed n\u00e1s dnes ty kl\u00ed\u010de a podobn\u00e9 v\u011bci tak\u017ee ve stejn\u00e9m roce k-83t K A I D I v dal\u0161\u00edch live"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8961349,
+            "transcript": " Ano a zavedl se tyto v\u011bci prvn\u00ed den m\u00e1me toti\u017e m\u00e1 tu \u00fa\u017easnou schopnost \u017ee to \u017ee j\u00ed na zahrad\u011b a hlavn\u011b u\u017e pomalu o\u010di nerozh\u00e1z\u00ed to se st\u00e1v\u00e1 Japonsko pilota proto\u017ee ten Pot\u0159ebuje naj\u00edt jednu \u010d\u00e1st m\u00fdtn\u00e9ho vyplaven\u00ed pro pusu d\u00e1l a te\u010f mi pom\u016f\u017eete zved\u00e1n\u00ed No a ten williamse v\u0161e Proto\u017ee moc ti oporou Pom\u016f\u017eete tak si \u0159ekne No to je \u0161\u00edlenost ale mo\u017enost star\u0161\u00ed"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.91116095,
+            "transcript": " a byl to jeden z d\u011btsk\u00fdch sn\u016f kolikr\u00e1t na t\u00e9 doby kdy\u017e jsme byli mal\u00ed \u0161tvalo B\u011b\u017e sp\u00e1t A pro\u010d u\u017e je 7 ve\u010der asi moc mal\u00fd na to aby se dal tyhle v\u011bci a nebo s n\u00e1ma nem\u016f\u017ee\u0161 napsat mal\u00fd mal\u00fd makat na maso uva\u0159\u00edme a podobn\u011b kdo Zn\u00e1\u0161 tu chv\u00edli by necht\u011bl b\u00fdt star\u0161\u00ed b\u00fdt dosp\u011bl\u00fd moci si d\u011bl\u00e1 co chce dostat se do toho sv\u011bta t\u011bch dosp\u011bl\u00e9 A m\u00e1me samoz\u0159ejm\u011b takt\u00e9\u017e nem\u011bla d\u016fvod odm\u00edtnout Tak\u017ee mo\u017enost j\u00edt s tebou na jeden rok vzala to A ty se prom\u011bn\u00ed Mimochodem a nemoci ko\u010dek kter\u00e9 smlouvy a funguj\u00ed jako takov\u00fd hl\u00edda\u010di jak jak jak se to ukl\u00e1d\u00e1 tak\u017ee vlastn\u011b dok\u00e1\u017ee je p\u011bkn\u011b zp\u00edv\u00e1 to znamen\u00e1 velice rychle naraz\u00ed na toho agenta kter\u00fd vlastn\u011b hled\u00e1 nov\u00e9 talenty Neum\u00edm si to muset"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9096933,
+            "transcript": " zam\u011bstn\u00e1 vesklepe.cz kontaktujte firmu a celkov\u011b je\u0161t\u011b s jednou dal\u0161\u00ed hv\u011bzdi\u010dko U\u017e\u00edvejte si a pozn\u00e1vej \u0161oubyznys Chci b\u00fdt lep\u0161\u00ed nat\u00e1\u010d\u00ed nov\u00e9 p\u00edsni\u010dky kter\u00e9 se prod\u00e1vaj\u00ed fanou\u0161k\u016fm tohoto seri\u00e1lu a tak d\u00e1le a vlastnictv\u00ed hlavn\u00ed m\u011bsto je konkuren\u010dn\u00ed producent kter\u00fd si v\u0161echny tyhle tyto snahy Jak b\u00fdt \u00fasp\u011b\u0161nou sna\u017e\u00ed p\u0159ech\u00e1zen\u00ed"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9366117,
+            "transcript": " pudl d\u00e1\u0161 nen\u00ed to \u00fapln\u011b prvn\u00ed matu\u0161ovi\u010d O kter\u00e9 bych se zab\u00fdv\u00e1 nebo i doru to bylo u\u017e Pink Lady Story kter\u00e9 jsou 78 ale tady je to opravdu zam\u011b\u0159en\u00e9 na to \u017ee se dok\u00e1\u017ee zm\u011bnit A vlastn\u011b \u0159\u00edkaj\u00ed v konfrontovat D\u011btsk\u00fd sv\u011bt a dosp\u011bl\u00e1ck\u00fd Celkov\u011b je to pak ta osa \u0159e\u0161en\u00ed probl\u00e9m\u016f jak dosp\u00edv\u00e1 pa Otv\u00edraj\u00ed se p\u0159ed v\u00e1mi tu mo\u017enost technick\u00e9 tak\u017ee mo\u017en\u00e1 i dosp\u011bl\u00ed to m\u011b maj\u00ed tak r\u016f\u017eov\u00e9 jak jste si p\u016fvodn\u011b chod\u00ed t\u011b mohl myslet a m\u011b taky dosp\u011bl\u00fdch tak jako celku postr\u00e1daj\u00ed n\u011bkter\u00e9 ty v\u011bci kter\u00e9 si jako d\u011bti mohly dovolit anebo nemuseli \u0159e\u0161it a v t\u011bhle t\u011bch dvou hledisek a to jde tak na aspektu zp\u00edv\u00e1n\u00ed vytv\u00e1\u0159\u00ed to kr\u00e1sn\u00e9 tlust\u00fd prase line Celou tuhle tu s\u00e9rii rozhodn\u011b zaj\u00edmav\u00e1 to se m\u00e1 v oku \u0161irok\u00fd fandom A10 zvl\u00e1\u0161\u0165 v Japonsku a m\u016f\u017ee n\u00e1s pot\u011b\u0161it Pr\u00e1v\u011b \u017ee te\u010f v Americe prob\u011bhl Kickstarter kter\u00fd se tam politika americk\u00e9 republika tak\u017ee bysme nemohu p\u0159isp\u00edvat ale"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7335328,
+            "transcript": " tak\u017ee nem\u00e1me j\u00eddeln\u00ed\u010dc\u00edch bude st\u00e1t D\u00edky Kid A takto"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8602981,
+            "transcript": " z\u00e1rove\u0148 je to To prvn\u00ed je to prvn\u00ed anime kter\u00e9 r\u00e1d a jestli mi s tebou o tom te\u010f v historii to vyu\u017e\u00edval u\u017e slavnost a k tomu aby to Animate Je to p\u0159it\u00e1hlo v\u00edce diva\u010dek tady to byla nov\u00e1 se u kter\u00e1 se d\u00edky vlastn\u00ed je fungov\u00e1n\u00ed nebo figurov\u00e1 n\u011bkam to Animate stala slavnou Tak\u017ee jak takov\u00e9 v\u00fdtah ke sl\u00e1v\u011b Ga\u0161par"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9017247,
+            "transcript": " Ano taky tak\u017ee tahle byli vypadaj\u00edc\u00ed d\u00e1ma a nebudu gentleman prozrad\u00edm v\u0161echna t\u00e9to pocen\u00ed 43 let to jen pro ty z v\u00e1s kte\u0159\u00ed by nev\u011b\u0159il tomu \u017eeny kter\u00e9 jde st\u00e1hnout hol\u010di\u010d\u00ed revitaliza\u010dn\u00edch v \u00faderu takovou mas\u00e1\u017e srdce dopln\u011bnou injekci adrenalinu jakou od toho sv\u00e9ho vzniku nezaznamenal proto\u017ee tahle dal\u0161\u00ed Slide"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.928883,
+            "transcript": " se tady z T\u00e9n\u00e9r\u00e9 Power Rangers asi zn\u00e1te v\u0161ichni Pozna\u010d vesm\u00edru v Japonsku jsem ta je taky dost osoupane Ryder Black Flag plechovou squadrons a dal\u0161\u00ed takov\u00e1hle d\u011btsk\u00e9 po\u0159ady a nejde to \u010d\u00edst v pades\u00e1t\u00fdch let a jedu po\u0159\u00e1d sama ve\u010der Terezko americk\u00e9 provenience vznikly tak\u017ee se snad ani dohodli \u017ee Japonci \u017ee Vietnamci kost\u00fdmy Te\u010f \u0159ekni pou\u017e\u00edv\u00e1te na jednu se sou\u010dasn\u011b a potom d\u011bl\u00e1te v klidu My jsme s nima D\u011blali jsme u v\u00e1s zakoupila z\u00e1b\u011br\u016f a ud\u011blat \u010deskou verzi tam ty jo Takhle Takhle to absolutn\u011b k ob\u011bdu zpo\u017ed\u011bn\u00ed To ti norm\u00e1ln\u011b ten d\u016fm Tak\u017ee vyu\u017e\u00edvaj\u00edc\u00ed jakostn\u00ed v\u00edno d\u00e1ma kter\u00e1 m\u00e1 tuhle s\u00e9rie r\u00e1da z\u00e1rove\u0148 n\u011bkdo kdo m\u00e1 r\u00e1d Naho\u0161ovice a\u0165 m\u00e1te r\u00e1di jde blb\u011b a troub\u011b"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8124016,
+            "transcript": " tak\u017ee jsem naprosto logick\u00e9 \u017ee je spoj\u00ed dohromady v n\u011bkter\u00fdch p\u0159\u00edpadech to kon\u010d\u00ed tragicky"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9232532,
+            "transcript": " M\u00e1m to dalo meloun Ano d\u00e1 se \u0159\u00edct nyn\u00ed zn\u00e1m\u011bj\u0161\u00edho mah\u00f3 \u0161\u00f3d\u017eo na sv\u011bt\u011b ne\u017e mi jedno t\u00e9ma kdy\u017e se prodalo neuv\u011b\u0159iteln\u00e9 mno\u017estv\u00ed jak se propojit a samoz\u0159ejm\u011b letov\u00fd provoz kter\u00e9 jste to hod\u00ed k z\u00e1pisu toho chopili kon\u010d\u00ed n\u011bkter\u00e9 schopn\u00e1 skupiny tak\u017ee celeru a Amilo Car kter\u00e9 n\u00e1m bylo to v\u011b\u0159\u00edm \u017ee zvuku jako\u017eto \u0161koln\u00ed uniformy ud\u011bl\u00e1m ne v podstat\u011b Z\u00e1padn\u00ed fetish a z\u00e1rove\u0148 aby jsme jedli hezky dok\u00e1zali odd\u011blit pak d\u00e1me ty barvy z jsem tady \u017e\u00e1nru to znamen\u00e1 z\u00e1mek \u010dervenou jako\u017eto toho vst\u00e1t z\u00edtra to od toho zodpov\u011bdn\u00e9ho se v\u0161\u00edm v\u0161udy tu \u017elutou To je ten staford"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9197353,
+            "transcript": " K.A.L.T To je ten kter\u00fd m\u00e1 pom\u00e1hat ka\u017ed\u00e9mu je a jakoby v\u0161echny zelen\u00fd to je ofenz\u00edva To je ten kter\u00fd hned po veliteli se vrh\u00e1 do toho boje aby ho rozhodl A samoz\u0159ejm\u011b modr\u00fd a celkov\u011b nav\u00e1d\u011bn\u00ed jako\u017eto t\u00e1hne Hele tady do takovouhle mus\u00edme na n\u011bj jinak hlavn\u00ed hrdinka kter\u00e1 okresu do dne\u0161ka vedou spory zdali je sp\u00ed\u0161 Pink jako\u017eto ten \u017ee nesp\u00ed\u0161 Nebo kouzeln\u00edci charakter a nebo ten b\u00edl\u00fd to je Spectre stoj\u00ed mimo ten kter\u00fd je jakoby v jin\u00e9m t\u00fdmu z p\u0159edchoz\u00ed \u0159ady n\u011bjak\u00fdm zp\u016fsobem napraven\u00ed z\u00e1por\u00e1k \u010di n\u011bco podobn\u00e9ho Ale barevn\u00e9 lad\u011bn\u00ed kter\u00e9 funguje a z\u00e1rove\u0148 s n\u00edm trochu pohr\u00e1t no n\u011bkdy trochu v\u00edc"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9198304,
+            "transcript": " Ano byla zase to proto\u017ee do t\u00e9 doby mal\u0161ovic Jo vlastn\u011b od n\u011bjak\u00e9ho toho roku 89 90 let bylo br\u00e1no jako u\u017e skoro nemo\u017en\u00e9 proto\u017ee postupn\u011b za\u010dneme boty prvky od Dunaje ASIO tety Hany roz\u0161\u00ed\u0159il se mo\u017en\u00e1 tak je to o p\u00e1r v\u011bc\u00ed ale celkov\u011b se bral jako \u017ee u\u017e ani nev\u00edm nev\u00edm co objevovat je to takov\u00e1 v\u011bc jako univerz\u00e1ln\u00ed recept p\u0159i\u0161la tahle d\u00e1ma a uk\u00e1zala \u017ee i s uzen\u00fdm recept nem\u00e1m se pracovat tak\u017ee vyrobit n\u011bco je\u0161t\u011b chutn\u011bj\u0161\u00ed od vlastn\u00edka jednozna\u010dn\u011b Za pravdu naj\u00edt podle toho \u017ee je tady jsou d\u011bv\u010data kter\u00e1 maj\u00ed likviduj\u00ed temn\u00e9 s\u00edly tak do toho byla tu v\u011bc \u017ee to jsou d\u011bv\u010data kter\u00fd je t\u011bch 14 15 16 let a humor plynouc\u00ed z toho"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9291183,
+            "transcript": " jak jsem \u0159\u00edkal ten ta \u010derven\u00e1 film Mars jako\u017eto ten gallon mi zodpov\u011bdn\u00fd vz\u00edt do t\u00fdmu kter\u00fd je a\u017e neuv\u011b\u0159iteln\u011b pedantsk\u00fd to zvl\u00e1d proto\u017ee Vyr\u016fstali jako mi kostra To znamen\u00e1 \u017ee nem\u00e1 p\u0159\u00edli\u0161 p\u0159\u00e1tel a celkov\u011b je dost nejist\u00e1 vznikl\u00fdch ty p\u0159esta\u0148 m\u011b teda cht\u00edt a mus\u00ed se pot\u00fdkat s lenost\u00ed a neschopnost\u00ed s Matesem to znamen\u00e1 opravdu to nen\u00ed \u00fapln\u011b ten V\u00fdstavn\u00ed Leader ale n\u011bkdy ten zoufal\u00fd \u010dlov\u011bk kter\u00fd se sna\u017e\u00ed prost\u011b posb\u00edrat co se Jenda je na\u0161e mil\u00e1 \u017elut\u00e1 kter\u00e1 m\u00e1 b\u00fdt and support External v\u0161e m\u00e1 b\u00fdt o ochran\u011b l\u00e1sky kter\u00e1 m\u00e1m taky si je\u0161t\u011b sp\u00ed s mu\u017ei a co se t\u00e1ta a tak d\u00e1le \u017ee mi to ride a hlavn\u011b ofenzivn\u00ed vysok\u00e1 Atletick\u00e1 d\u00edvka kter\u00e9 se tvo\u0159\u00ed jin\u00e9 D\u00edky ale fakt mi to vad\u00ed pohledem a z\u00e1rove\u0148 pak samoz\u0159ejm\u011b Na\u0161e mil\u00e1 jimi jako\u017eto stavil Mercury kter\u00e1 je"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8493151,
+            "transcript": " analytik tapety inteligentn\u00ed p\u0159em\u00fd\u0161liv\u00e1 velmi Tich\u00e1 uzav\u0159en\u00e1 do sebe kter\u00e1 zase m\u00e1 ten probl\u00e9m To sfoukli to do toho v\u011bci jako z\u00e1pletka p\u0159iznejme si to v\u00ed\u0161 \u017ee jo nen\u00ed \u017e\u00e1dn\u00e1 sranda jako takov\u00e9 v\u011bci jako co by se za pr\u00e1ci Douf\u00e1m dom\u016f"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9240839,
+            "transcript": " Promi\u0148te se p\u0159evl\u00edknout A nebo si zahr\u00e1li Beru Kde se to oto\u010d\u00ed abych se mohla prom\u011bnit porazit z\u00e1por\u00e1ky a pokud mo\u017eno tak rychle aby spal jsem nedal pusu \u00fato\u010d\u00ed na a milosrdnou s t\u00edm \u017ee ovl\u00e1dne letadla na hradeck\u00e9m leti\u0161ti a kdy\u017e se je sna\u017e\u00ed mil\u00e1\u010dku pros\u00edm Kouzeln\u00ed \u00fatokem porazit taky jej\u00ed maskot \u010cern\u00e1 ko\u010dka varuje v kolik tak stoj\u00ed jak dlouho by se stalo kapesn\u00e9ho sp\u00e1t a tak d\u00e1le prost\u011b nads\u00e1zka humor a lidsk\u00e9 pod\u00e1n\u00ed spolu ale komentovan\u00e9 pr\u00e1v\u011b s t\u011bmi hygienick\u00fdmi a klasick\u00fdmi sch\u00e9maty naprosto skv\u011ble funguje J\u00e1 s\u00e1m se pod\u00edv\u00e1m na t\u00e9hle s\u00e9rie"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.80045015,
+            "transcript": " A m\u016f\u017eu jet na za\u0161ly doporu\u010dit va\u0161em sledov\u00e1n\u00ed"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.90220803,
+            "transcript": " vlastn\u00ed v\u016fl\u00ed tak jak si fanou\u0161ci \u0159\u00edkaj\u00ed jsou do dne\u0161ka v obrovsk\u00e9m po\u010dtu A kdy\u017e se pod\u00edv\u00e1\u0161 na jak\u00e9koli comiket minim\u00e1ln\u011b \u0159\u00edk\u00e1m si \u010dtvrtina cosplay\u016f je n\u011bjak\u00fdm zp\u016fsobem se to zesv\u011btl\u00e1 Simon"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9033515,
+            "transcript": " nav\u00edc \u0159ekn\u011bme grafy popularizaci star\u00e9ho poslouchat i to \u017ee za to znamen\u00e1 n\u011bkolik kontroverzn\u00ed p\u0159idej na americk\u00fd trh to proto\u017ee v jedn\u00e9 \u0159\u00e1dce vyskytuj\u00ed vyb\u00edz\u00ed ty kter\u00e9 \u017eij\u00ed spolu \u017eij\u00ed spolu tak\u017ee se maj\u00ed velmi r\u00e1di ale to se mus\u00ed m\u011b pro Ameri\u010dany nemohlo b\u00fdt snesiteln\u00e9 a proto aby vysv\u011btlit pro\u010d je to knedl\u00edky se tak r\u00e1da \u010dasto obj\u00edmaj\u00ed \u010das od \u010dasu l\u00edbaj\u00ed a kdy\u017e spolu jeden byt s jednou lo\u017enic\u00ed tak d\u00e1l sest\u0159enky proto\u017ee to je p\u0159ece logick\u00e1 odpov\u011b\u010f"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8699853,
+            "transcript": " tak\u017ee salonu nen\u00ed vlastn\u011b jsem tady Jsem tady d\u011blaj\u00ed a hlavn\u011b barevn\u00e9ho rozli\u0161en\u00ed prost\u011b \u017ee m\u00e1te ty kost\u00fdmy kter\u00e9 n\u011bjak\u00fdm v\u00fdrazn\u00fdm zp\u016fsobem odkazuj\u00ed na charakteristiku B\u011bhem sv\u00e9ho p\u016fsoben\u00ed tak\u017ee dal\u0161\u00ed"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.88297915,
+            "transcript": " ano Mal\u0161ovice Summit White mo\u017en\u00e1 n\u011bkte\u0159\u00ed z V\u00e1s pozn\u00e1vaj\u00ed sami je postava chce\u0161 a ten tv\u016fj je obrovsk\u00fd Na \u010dem d\u00e1t zahrnuj\u00edc\u00ed spoustu v\u011bc\u00ed od od samotn\u00fdch anime kter\u00fdch je mnoho p\u0159ed hudebn\u00ed nosi\u010de audio dramata figurky komiksy odli\u0161uj\u00ed Z\u00e1padn\u00ed konferenci licencovan\u00e9 pro tanky a dal\u0161\u00ed v\u011bci o\u010dividn\u011b expanze na chatu"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.90406823,
+            "transcript": " to proto \u017ee mi pat\u0159ilo pr\u00e1v\u011b jako sou\u010d\u00e1st jednoho v dramatu zm\u00edn\u011bno \u017ee bych se s v\u00e1mi jako\u017eto ten nejmlad\u0161\u00ed charakter byla na Ho\u0161ek jo p\u0159esn\u011b \u0159e\u010deno za\u0161lu \u0161\u00edlen\u00e9 v\u011bci kdy\u017e nejde na tom internetu a ka\u017ed\u00e1 postava Station Jo n\u011bjakou svou nezvyklou dlouho a pr\u00e1v\u011b na to Summit vy\u0161la mah\u00f3 \u0161\u00f3d\u017eo to nehodilo velk\u00fd \u00fasp\u011bch a k tomu \u017ee pak bylo animovan\u00e9 filmy animovan\u00e9 s\u00e9rie the Universe a tam bylo tak u\u017e nechci b\u00fdt otravn\u00fd \u017ee m\u00e1m 195 pak p\u0159ich\u00e1z\u00ed P\u00e1\u010dko Mal\u0161ovice princeznami a dal\u0161\u00ed rok pozd\u011bji 25 26 s\u00e9rie Naho\u0161ovice prou\u017eek"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9179596,
+            "transcript": " kter\u00fd je vlastn\u011b 3D settings mi vezme a p\u0159edstav\u00ed hosting pro mal\u00e9ho \u010cau tak\u017ee nen\u00ed OneTouch Juraj je magick\u00e9 to stihnu ka\u017ed\u00e1 bych si vyber svoj\u00ed proxy Jedn\u00e1 se sami dva kamar\u00e1dku a ud\u011blali bychom u\u017e o kter\u00e9 jdou proti sob\u011b velmi dobr\u00e9 velmi humorn\u00e9 a velmi k\u0159inick\u00e9 \u0159ekni mi to tak to samo takhle od samotn\u00e9 steripak sc\u00e9ny jako je typick\u00fd jadern\u00fd v\u00fdbuch kdy\u017e ho a nebo je to znamen\u00e1 Kosteleck\u00e1 n\u00e1hled do t\u00e9 z\u00e1\u0159e postupn\u011b p\u0159idat do toho jenom lineart t\u011bmi \u010dern\u00fdmi \u010darami a zmiz\u00ed kter\u00fd n\u00e1sledn\u011b Pot\u00e9 co Americk\u00e1 5. flotila izotopick\u00e9 z\u00e1toky kterou term\u00edn\u016f m\u00e1 mal\u00fd ovlivn\u011bn\u00e1"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9097584,
+            "transcript": " star\u0161\u00ed Japonka medv\u00eddci kr\u00e1tk\u00e9 obsad\u00ed tak \u017ee za\u010dne zp\u00edvat jak na se ozvu ty prvn\u00ed t\u00f3ny na tebe tento efekt a mil\u00ed commodore sta\u010d\u00ed jenom procent mezi zuby Oh my god Tak\u017ee ty Pasty\u0159\u00edk v\u0161ude n\u011bjak\u00e1 ta na\u0161e fanou\u0161ky to je teda rozhodn\u011b jako om\u00e1\u010dka Tak tedy samotnou mohu jen doporu\u010dit dal\u0161\u00edm Ahoj jak to dneska jde za\u017e\u00e1dat jak jsem \u0159\u00edkal p\u0159ed revitalizaci pomoc\u00ed jeden za gorum jako\u017eto trestanci recept to znamen\u00e1 Zvl\u00e1\u0161t\u011b po n\u00ed d\u00edky tomu jak je fakt py\u0161n\u00e1 jsem a u\u017e to super jako jedna z v\u011bc\u00ed kterou u\u017e to m\u00e1m poslat na v\u0161echno co je to sam\u00e9 uk\u00e1zka Ano cardcaptor Sakura"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9089901,
+            "transcript": " \u00fasp\u011b\u0161n\u00e1 Manka od skladbu Proto\u017ee i kvapov\u00e9 v\u011bd\u011bli \u017ee se na\u0161la \u0159ada uchopit tak aby to bylo zaj\u00edmav\u00e9 bank\u00e9\u0159 roku 96 rok 98 navazuj\u00ed anime Ti z v\u00e1s kte\u0159\u00ed nev\u011bd\u00ed j\u00e1 rad\u011bji doporu\u010d\u00edm a to z toho d\u016fvodu \u017ee obsahuje o n\u011bco m\u00e9n\u011b obskurn\u00ed a velmi diskutabiln\u00ed na n\u00ed postav skoro sexu\u00e1ln\u00ed slova smyslu proto\u017ee klapkov\u00e9 rovn\u00e1 se feti\u0161ismus a n\u011bkter\u00e9 dal\u0161\u00ed chvilky a jsem op anime je v tomhletom od d\u0159\u00edv\u011bj\u0161\u00ed a sbalen\u00e9 ti letech prvk\u016f u kter\u00fdch jako tak se tam Hole\u0161ovic naho\u0159e a jednou ne ne a ne \u017ee trp\u00edte p\u00e1r str\u00e1nek \u0159\u00edkat se dob\u0159e klapkov\u00e9 se vy\u0159\u00e1dil Tak to v klidu kapitolu tak\u017ee rozhodn\u011b lep\u0161\u00ed n\u011bjak\u00fd pl\u00e1n"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9349611,
+            "transcript": " Ano a Kate Sakura ud\u011blat tu v\u011bc jak jsem \u0159\u00edkal \u017ee ti ty Hany na ze\u010f 60 letech ud\u011blala tu v\u011bc \u017ee ovlivnila m\u00f3du Car kapr Sakura anime vysloven\u011b stav\u011blo na tom \u017ee to p\u016fjde d\u011blat sou\u010d\u00e1st\u00ed produk\u010dn\u00ed komise byly m\u00f3dn\u00ed firmy kter\u00e9 ty kost\u00fdmky do kter\u00fdch nejlep\u0161\u00ed kamar\u00e1dka se kv\u016fli tomu \u0159\u00edk\u00e1 vlastn\u011b n\u011bjak\u00fdm zp\u016fsobem zapojil do sv\u00fdch kolekc\u00edch je to v\u00fdrazn\u011b tak existuje tam na to diktuji kter\u00e9 porovn\u00e1vaj\u00ed d\u011btskou m\u00f3du p\u0159edstavte prosakuje a pokecat ostracoda a ten posun a zm\u011bna je tam v\u00fdrazn\u00e1 u v\u011bt\u0161iny producenti d\u011btsk\u00e9 oble\u010den\u00ed tak\u017ee jednozna\u010dn\u011b to za\u010dne vyu\u017eit\u00ed a maxim\u00e1ln\u011b propojit jsme Z\u00e1rove\u0148 tak\u00e9 velmi chytr\u00fd prvek proto\u017ee jste v\u0161echny kost\u00fdmy kter\u00e9 z\u00edsk\u00e1vaj\u00ed nem\u00e1m tady zas takov\u00e9 jezd\u00ed k tomu s t\u00edm n\u00e1kla\u010f\u00e1kem kter\u00fd je to takov\u00e1 poj\u00edzdn\u00e1 obrovsk\u00e1 sk\u0159\u00ed\u0148 a postupn\u011b vlastn\u011b do jednotliv\u00fdch kost\u00fdmku svou milou sakru"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.75884974,
+            "transcript": " l\u00e9ka\u0159"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8830777,
+            "transcript": " Tak tohle asi nebude bohu\u017eel pan\u00e1ky p\u00ed\u0161i nebo Ono se mi n\u011bkolikr\u00e1t jestli je to toti\u017e ten \u010dlov\u011bk kter\u00fd se kouknu studia \u0161aty a vlastn\u011b pod jeho m\u011b\u0159\u00ed dikt\u00e1tem produktech r\u016fzn\u00e9 zaj\u00edmav\u00e9 v\u011bci je schopen protla\u010dit tohle producent\u016f v\u011bci je \u017ee ano prim\u00e1rn\u011b ur\u010den\u00e9 na ty d\u00edvky mezi 9:00 a\u017e 12:00 \u017eivota ale te\u010f hubi\u010dku t\u011bch kyti\u010dek a figury"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7004246,
+            "transcript": " A\u0165 \u017eij\u00ed okolo m\u011b rodi\u010de d\u00edvk\u00e1m"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.86718094,
+            "transcript": " vykupuj\u00ed ti mu\u017ei ve v\u011bku 20 plus kte\u0159\u00ed jsou Svobodn\u00ed Maj\u00ed to svoje jednopokojov\u00e9 kondo nebo je\u0161t\u011b bydl\u00edm u rodi\u010d\u016f a maj\u00ed ten p\u0159ebytek pen\u011bz na co tohleto v\u0161echno kupovat"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8629857,
+            "transcript": " a m\u00e1m pocit jako Pat\u0159\u00edm to skoro stejn\u00e9 generace ch\u00e1pu to a p\u00e1nov\u00e9 Vy u\u017e v\u00edte \u017ee mnohem hor\u0161\u00ed jo ty prvky jako \u00falitbu \u010desk\u00e9mu publiku ps\u00e1t co to ud\u011bl\u00e1 polovi\u010dat\u011b Co ud\u011blat pro 20 plus svobodn\u00e9 tak opravdu pro n\u011b a V\u00fdsledkem je blond\u00fdna a Fight"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8136936,
+            "transcript": " tady vid\u00edte inspiraci Kter\u00e1 vedla k tomu pro\u010d Mo\u0161oni lyrical nanoha vypad\u00e1 tak jak vypad\u00e1 kon\u010d\u00edm bo vyr\u016fstala kam jdeme klasick\u00e9 disastrous Life"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.86467505,
+            "transcript": " modrob\u00edl\u00e9 ra\u017een\u00ed cel\u00e9ho kost\u00fdm\u016f se zahrnut\u00edm v\u00fdrazn\u011bj\u0161\u00edch n\u00e1ramen\u00edku a tak d\u00e1le nic takov\u00e9ho 5 nem\u00e1\u0161 u\u017e nenajdete je jasn\u00fd odkaz pr\u00e1v\u011b na bud\u00edk a nem\u00e1m ji k tomu aby slou\u017eila is Pain i jestli m\u00e1m p\u0159ezd\u00edvku i v ned\u011bli p\u0159ezd\u00edvan\u00fd zjistil proto\u017ee m\u011b nepochop\u00ed\u0161 \u010e\u00e1bel se p\u0159ece p\u0159edstavit jak\u00e9 m\u00e1 \u010d\u00edslo se mi z p\u00edsmen"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.5650951,
+            "transcript": " Mil\u00ed\u010dova 20"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.58371806,
+            "transcript": " Instagram"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9292256,
+            "transcript": " Co to d\u011bl\u00e1\u0161 Co d\u011bl\u00e1\u0161 nep\u0159ehnala to sejmout nep\u0159\u00e1telskou Mal\u0161ovice na n\u011bkolik kilometr\u016f masivn\u00edmi paprsky p\u0159ece nem\u016f\u017ee b\u00fdt nebezpe\u010dn\u00e1 Tak\u017ee ano gaslight pohyby friendy dostanu se k n\u011bmu vleze do \u010deho to proto\u017ee tahle s\u00e9rie stav\u00ed na tom \u017ee m\u00e1te naprosto ikonick\u00e9 a klasick\u00e9ho postupy to znamen\u00e1 nanoha najde zeleniny zv\u00ed\u0159\u00e1tko kter\u00e9 si odnesl dom\u016f toho se \u017ee to prvn\u00ed astrologie planety kter\u00fd k dispozici sv\u016fj me\u010d a chci b\u00fdt proto\u017ee mi objev\u00ed magii ona se nau\u010dit kouzlit a pomoci Kouzlen\u00ed s vytvo\u0159it tento sv\u016fj Work Hard jako\u017eto nejprve amuletem po prom\u011bn\u011b h\u016flkou kter\u00e1 m\u00e1 r\u016fzn\u00e9 vyu\u017eit\u00ed nakop\u00e1v\u00e1 zadek s h\u0159\u00edb\u011btem a pokou\u0161\u00ed se"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.90973455,
+            "transcript": " Zapni fake Testarossa jako\u017eto antagonist\u00e9 v prvn\u00ed \u0159ad\u011b a ano pot\u00e9 co si to povede tak dal\u0161\u00ed taky u\u017e to jsou kamar\u00e1dky proto\u017ee kdo byl zml\u00e1cen na nohou tak a\u0165 se s n\u00edm kamar\u00e1dit Naty st\u00e1hnout se postupn\u011b z t\u011bch letech chod\u00edc\u00ed destrukc\u00ed st\u00e1vaj\u00ed i osoby hromadn\u00e9ho ni\u010den\u00ed zp\u016fsobem \u017ee p\u0159\u00edpad\u011b t\u0159eba i ve t\u0159et\u00ed \u0159ad\u011b doch\u00e1z\u00ed k tomu zl\u00fd doch\u00e1z\u00ed k masivn\u00edmu strategick\u00e9mu vyklizov\u00e1n\u00ed oblasti uvol\u0148ov\u00e1n\u00ed arm\u00e1dn\u00edch jednotek a celkov\u011b aby nikdo nebyl tam kde ona bude kouzlit to \u017ee to \u0159\u00edk\u00e1 to Ka\u017ed\u00fd pot\u0159ebuje strategick\u00e9 nav\u00e1d\u011bn\u00ed commons velik\u00fd chcete tak\u00e9 je\u0161t\u011b o n\u011b\u010dem vypov\u00edd\u00e1 rozhodn\u011b obrovsk\u00fd had v tom roce 2004 p\u0159i\u0161la s\u00e9rie kter\u00e1 psala v\u0161echny rekordy A uk\u00e1zala \u017ee m\u00e1m \u0161rot \u017ee jo tak to profilovan\u00e9 m\u016f\u017ee b\u00fdt sakra \u00fasp\u011b\u0161n\u00e1"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.85103714,
+            "transcript": " symbol pouze na prvn\u00ed \u0159ad\u011b a dal\u0161\u00ed tak \u0159\u00edkaj\u00edc lehce pozoroval Jakkoli lehce m\u016f\u017ee v jeho p\u0159\u00edpad\u011b znamen\u00e1 a celkov\u011b jste se vlastn\u011b do nov\u00e9ho Mal\u0161ovice Vedle takov\u00e9 prvky kter\u00e9 nos\u00ed p\u0159edem n\u00e1vleky revoluce"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9112197,
+            "transcript": " Ano jak se \u0159\u00edk\u00e1 od babi\u010dky Tak\u017ee p\u0159ib\u00fdvaj\u00ed i vojensk\u00e1 technika zap\u00edn\u00e1m a nasazen\u00ed do toho dok\u00e1zali propa\u0161ovat kosmick\u00e9 lod\u011b jako smetan\u011b a podobn\u00e9 v\u011bci tak\u017ee jako je to \u00fa\u017easn\u00e9 Je to doporu\u010duju ke shl\u00e9dnut\u00ed Pokud a pak m\u00e1te z\u00e1jem vid\u011bt pln\u011b dynamick\u00e9 nadzvukov\u00e9 leteck\u00e9 bitvy jo ano Dogfight ve kter\u00e9 opravdu vytv\u00e1\u0159\u00ed Ty zvukov\u00e9 hezky a podobn\u011b a z\u00e1rove\u0148 tam m\u00e1te titul mo\u017en\u00fd jel s d\u011blen\u00edm a u\u017e u\u017e u\u017e u\u017e k tomu \u017ee se vytvo\u0159ila sama klasick\u00e1 a drsn\u011bj\u0161\u00ed nebo v p\u016fl 5 a ta klasick\u00e1 kter\u00e1 m\u00e1 uvozovk\u00e1ch m\u00ed\u0159idla pro d\u011bv\u010data Tak teda m\u00e1 b\u00fdt to p\u0159\u00edb\u011bh o p\u0159\u00e1telstv\u00ed d\u011bl\u00e1 k porozum\u011bn\u00ed a v\u0161em ostatn\u00edm a ta drsn\u011bj\u0161\u00ed Kam se d\u00e1 schovat cokoliv podte"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9029822,
+            "transcript": " do t\u00e9hlet\u00e9 den u\u017e je takov\u00e1 v\u011bc jako jsou Strike Witches jestli proto\u017ee jako arm\u00e1dn\u00ed technika do toho magie a settings ve kter\u00e9m nev\u00edm nevymysleli sukn\u011b \u010dist\u00edrny od\u011bv\u016f Praha pro \u017eensk\u00e9 osazenstvo je naprosto a16 padaj\u00edc\u00ed do t\u00e9to s\u00e9rie zpr\u00e1vy z \u010cech do tohoto druhu a celkov\u011b do\u0161lo PixWords definice \u017ee nap\u0159\u00edklad jsou to je tedy v\u00fdrazn\u011b ikonick\u00e9 v tom smyslu \u017ee hlavn\u00ed hrdinka n\u011bjak\u00fdm zp\u016fsobem tisk a druh\u00fd dech uv\u011bdom\u00ed s n\u011bjakou pravdu kterou si s r.o zjistila postav\u00ed se znovu nep\u0159\u00edteli a pou\u017eit\u00ed obvykl\u00e9 jeden speci\u00e1ln\u00ed \u00fatok k tomu aby nep\u0159\u00edtele zlikvidovala stanice \u0159ady dojde k tomu \u017ee se speci\u00e1ln\u00ed potk\u00e1\u0161 efektivn\u00ed speci\u00e1ln\u00ed \u00fatok"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8689676,
+            "transcript": " prob\u00edhaj\u00edc\u00ed tak jako an\u00e1ln\u00ed z toho co znamen\u00e1 hodinky uh\u00fdbaj\u00ed Sna\u017e\u00ed se n\u011bjakou sp\u00ed\u0161 nebo zas\u00e1hnout nep\u0159\u00edtele a tak d\u00e1le"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.900409,
+            "transcript": " takov\u00e1 hlasovka \u017ee Milana noha jak je jedna vedlej\u0161\u00edch postav vlastn\u011b Energie kter\u00e1 se jmenuje Praha kter\u00e1 m\u00e1 jednu Hentai BDSM Hentai a vlastn\u011b jsem od r\u00e1na nohy Po\u0161tovn\u00ed se vyskytla v t\u00e9hlet\u00e9 p\u016fvodn\u00ed hry Tak na co je u\u017e te\u010f po\u010d\u00edtaj\u00ed dny a \u010dekaj\u00ed Kdy bude tak kup vy jako\u017eto s\u00e9rie o mlad\u0161\u00edch generac\u00ed kter\u00e1 je tak n\u011bco jako tady to a nebo"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.93459344,
+            "transcript": " to je Je\u017e\u00ed\u0161i te\u010f napadlo a je\u0161t\u011b jedna kter\u00e1 naopak jsi tady je\u0161t\u011b bychom na tom Gardens Edinburgh terestricky Tereza noha kter\u00e1 je to \u0159\u00edkaj\u00ed \u017ee mi p\u0159ijde o n\u011bco podobn\u00e9ho jako kdy\u017e z\u00edsk\u00e1vaj\u00ed speci\u00e1ln\u00ed dal\u0161\u00ed Destroy Jdeme d\u00e1l Force P\u0159esn\u011b tak d\u011bkuji Tak tam ten p\u00e1n se jmenuje get Lubo\u0161i n\u011bkte\u0159\u00ed mu \u0159\u00edkaj\u00ed jen to church in jako\u017eto \u0159ezn\u00edk a je to ten \u010dlov\u011bk kter\u00fd pro svou takov\u00fdmi je cena rady jako je star\u00e1 pro nitroplus \u010di k h a v podstat\u011b je tu n\u011bkdo komu se proto\u017ee kulturista Tak jak ho zn\u00e1me jako Stan\u011bk optimisti\u010dt\u011bj\u0161\u00ed d\u00edlo \u0158\u00edk\u00e1te si pro\u010d n\u011bkdo takov\u00fd Mimochodem tak\u00e9 scenarista Fate Zero pro ty Zase ticho vid\u011bli tak to m\u00e1\u0161 za pejska"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8568172,
+            "transcript": " jak ud\u011blal Mal\u0161ovice \u0159ekneme si to tak to panu \u0160\u00edpovi nesta\u010dilo \u017ee ho definoval jednou A \u0159ekl jsi \u017ee vypad\u00e1 odpo\u010dinout druh\u00e9m pokusu bude hodn\u00e1 v\u011bc a tak\u00e9 \u017ee byla 20 White proto\u017ee byla Magi madoka Magica v\u011b\u0159\u00edm \u017ee asi Which na z\u00e1chod\u011b to anim\u00e9 roku 2011 p\u0159edvedla toti\u017e n\u011bco podobn\u00e9ho co na noha v roce 2004"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8598458,
+            "transcript": " rozhodn\u011b rozpoutala obrovsk\u00fd z\u00e1jem Hole\u0161ovic Jo a o\u010dek\u00e1v\u00e1m \u017ee p\u0159\u00ed\u0161t\u00ed 6ti sedmi letech se v ka\u017ed\u00e9 sez\u00f3n\u011b nebav pokud se to objev\u00ed n\u011bjak\u00fd r\u00e1doby pokus pod\u00edl\u00ed kop\u00edrov\u00e1n\u00ed nebo n\u011bco na ten zp\u016fsob tak proto\u017ee si m\u00e1 o \u010dem se li\u0161\u00ed"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9126518,
+            "transcript": " Ano z\u00edtra je roku 2008 kter\u00e9 banky sc\u00e9n\u00e1\u0159 jen se pro n\u011bj t\u0159i roky sh\u00e1n\u011bli sponzo\u0159i a celkov\u00e1 produk\u010dn\u00ed realizace Mo\u017en\u00e1 na to vypl\u00fdv\u00e1 z toho \u017ee si n\u011bkte\u0159\u00ed lid\u00e9 za\u010dali uv\u011bdomovat \u017ee \u0159ekn\u011bme Madonka tak jak je tam co m\u00e1\u0161 napsat nen\u00ed \u00fapln\u011b snadno marketingov\u00fd uchopiteln\u00fd Piptov\u00e1 se vid\u011bli tak vlastn\u011b mohu potvrdit ty kte\u0159\u00ed ne jenom nazna\u010dit \u017ee je to s\u00e9rie kter\u00e1 dost star\u00fd na velmi specifick\u00e9 p\u0159\u00edstupu na o\u010di l\u00e9\u010dba A kdy konstrukce"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.90128887,
+            "transcript": " liposukce mercenary te\u010f se plete typick\u00fd si \u0159\u00edk\u00e1 \u017ee napsan\u00e9 nebo vy\u0159\u010den\u00e9 textu nebo slov\u011b je v\u00fdznam jen ten A co m\u00e1m jako te\u010f nebo te\u010f jsou v\u011bci kter\u00e9 nesn\u00e1\u0161\u00edm jako vlastn\u00ed konstrukce m\u011b nemaj\u00ed tam b\u00fdt zbyte\u010dn\u00e9 cena rekonstrukce d\u011bl\u00e1 tu v\u011bc p\u0159evezme n\u011bjak\u00fd typick\u00fd \u017e\u00e1nr shifting a za\u010dne \u0159e\u0161it ot\u00e1zky jak jsi mi ty v\u011bci mohly fungovat nebo co by se muselo d\u00edt aby to byla pravda"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.89335525,
+            "transcript": " ano"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.91824865,
+            "transcript": " uk\u00e1zka asi 1 T\u00fdni\u0161t\u011b n o kter\u00e9 vzalo klasick\u00e9 Velechovsk\u00fd \u017e\u00e1dn\u00fdch velk\u00fdch robot\u016f a za\u010dnu \u0159e\u0161it jak bych to vysv\u011btlil jsem vypadat aby fungoval aby byl Real to znamen\u00e1 aby ne m\u011bl v\u0161echny ty pravomoce aby bylo nutn\u00e9 tam nikdy d\u011btsk\u00e9 piloty A co to s t\u011bmi d\u011btmi pivo te\u010f to \u017ee pilotov\u00e9 vojensk\u00e9 chce p\u0159i vojensk\u00e9m na cel\u00fd \u017eivot d\u011bl\u00e1 mamka d\u011bl\u00e1 tot\u00e9\u017e tak\u017ee \u0159e\u0161\u00ed Pro\u010d je tu Mil\u00fd maskou Pro\u010d d\u00e1vat i za ty magick\u00e9 s\u00edly nahoru a dol\u016f Zkou\u0161\u00edm se ti mus\u00ed proj\u00edt kdy\u017e jsem \u00fapln\u011b na p\u0159\u00e1n\u00ed a jakou cenu"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9099132,
+            "transcript": " Rozhodn\u011b je to v\u011bc kter\u00e1 zafungovala a p\u0159ed\u010dila o\u010dek\u00e1v\u00e1n\u00ed v Nymburce ale fanou\u0161k\u016f podstat\u011b pl\u00e1novan\u00e9 odhadovan\u00e9 prodeje byly dnes okolo 25 tis\u00edc \u0159idi\u010de pr\u016fm\u011brn\u011b Zapome\u0148te na to je dob\u0159e proto\u017ee jsem byla s jednou chybou tak\u017ee se ti okam\u017eit\u011b staly nev\u00edte Rady typu C a v po\u0161t\u011b rozebran\u00e9 co jsme nesta\u010dili vlastn\u011b st\u00e1hnout prodeji tak\u017ee opravdu se pro n\u011bj z\u00e1jmu a rozpoutan\u00e9 Kv\u011btu\u0161e a takt\u00e9\u017e Narozd\u00edl od anglicky to be my jsme je\u0161t\u011b v jedn\u00e9 v\u011bci na Trhovk\u00e1ch toti\u017e jakej a nekontroluje tak si ho povede v posledn\u00edch dvou d\u00edlech kompletn\u00ed rekonstrukce v\u00e1m uk\u00e1\u017ee \u017ee ta S\u00edla l\u00e1sky p\u0159\u00e1telstv\u00ed a nad\u011bje"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.73939174,
+            "transcript": " opravdu netu\u0161\u00edm \u010d\u00edm realismem douf\u00e1m \u017ee zv\u00edt\u011bz\u00ed"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.92736727,
+            "transcript": " Tak\u017ee je to v\u011bc kter\u00e1 p\u0159edvedla hutn\u00edho skla za linku o postaven\u00ed technika \u010di\u0161t\u011bn\u00ed sch\u00e9ma Co znamen\u00e1 m\u00e1me tam typ letadla maskota M\u00e1me tam m\u00e1me tam d\u00edky kter\u00e9 maj\u00ed to jednotliv\u00e9 barevn\u00e9 lad\u011bn\u00ed Turbo S takov\u00fdm zp\u016fsobem \u017ee \u010derven\u00e1 m\u00e1 to koup\u00ed proto\u017ee \u010derven\u00e9mu se s n\u00edm n\u011bkdy n\u011bkdy p\u0159es vzd\u00e1lenost jako\u017eto tento n\u011bm\u010dina pro kucha\u0159e a celkov\u011b Je to prost\u011b titul kter\u00fd z t\u011bch v\u0161ech Klasik tebe t\u011b\u0161\u00edm a z\u00e1rove\u0148 se skl\u00e1d\u00e1 a na konci \u00fapln\u011b obdob\u00edm bezvl\u00e1d\u00ed nevid\u011bli v\u0159ele doporu\u010duji nejen kv\u016fli sc\u00e9n\u00e1\u0159i i kv\u016fli dal\u0161\u00edmu chlapi tak jsem jako je t\u0159eba \u017didovick\u00e1 animace \u0161achtu kter\u00e1 zahrnuje ty jednotliv\u00e9 ma\u0161le do souboje a hlavn\u011b Mami prost\u011b proto\u017ee m\u00e1m je nejlep\u0161\u00ed kdy\u017e jsme \u0161li v z\u00e1padn\u00ed fanou\u0161ci fakt d\u00edky tady tomu do\u0161li k z\u00e1v\u011bru \u017ee v klasick\u00e9m ahoj"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8967657,
+            "transcript": " u\u017e poj\u010f na nohy vlastn\u011b nikoho nezaj\u00edm\u00e1 neto\u010d\u00ed se ned\u011bl\u00e1 se a celkov\u011b nen\u00ed o n\u011bj z\u00e1jem tak V\u0161em t\u011bm let\u00edm s t\u0159\u00edv\u00e1lcem tuhletu hloupost m\u016f\u017eeme vzk\u00e1zat kritik Your Life ka\u017ed\u00fd rok co znamen\u00e1 Petr Pi\u0161t\u011bk t\u00e1ta p\u016fvodn\u00ed dopl\u0148ovat pouze p\u0159ed V\u00e1noci zimn\u00ed speci\u00e1l pozd\u011bji zahrnuli do konce 2 filmy ke ke ke ke v l\u00e9t\u011b d\u00e1me ten film tak Ty kritiky zv\u00ed\u0159at potk\u00e1vaj\u00ed a bojuji a zp\u00edvaj\u00ed proti v\u011bt\u0161\u00edmu celkov\u011b obrovsk\u00fd Fenom\u00e9n Tahle v\u011bta k tob\u011b jak to z\u00e1kladn\u00ed si to chud\u00e1k mal\u00fd d\u011bv\u010dat tak samoz\u0159ejm\u011b hudba pro star\u0161\u00ed tak tam je tak\u00e9 a celkov\u011b v r\u00e1mci kritick\u00e9 hodnocen\u00ed"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.88220114,
+            "transcript": " filmov\u00fdch kritiku se dost\u00e1v\u00e1 dost vysoko kdy\u017e tam d\u011bje \u017ee to nen\u00ed nic lehk\u00e9ho nebo ve sv\u00e9 jednoduchosti uboh\u00e9ho tak\u017ee kritiky Jiho\u010desk\u00e9ho Malou\u0161ek jo tak\u017ee rozhodn\u011b nen\u00ed pravda \u017ee by bylo jenom to cool a nic jin\u00e9ho proto\u017ee to je No to se prod\u00e1v\u00e1 Ne to ty chv\u00edle a spousta dal\u0161\u00edch Na to nen\u00ed \u010das se rozhodn\u011b ov\u0161em \u017ee se ztratili A jsou st\u00e1le Na V\u00fdslun\u00ed naposled"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9161721,
+            "transcript": " Afrika okna ona tak\u00e9 this risk ot\u00e1zku je ten m\u00e1m u\u017e ur\u010duje pro mal\u00e9 d\u011bv\u010data ot\u00e1zka odpov\u011b\u010f je jednoduch\u00e1 kdy\u017e se u\u017e poj\u010f si p\u0159ipomeneme ty v\u011bci kter\u00e9 jsem \u0159\u00edkal na za\u010d\u00e1tku v podstat\u011b z\u00e1jem mohl b\u00fdt \u017ee p\u016fjdeme po pozornosti t\u011bch mlad\u00fdch diva\u010dek ale u\u017e od t\u011bch 70 let nen\u00ed pravdou \u017ee bych to sledovali jenom oni ale to vlastn\u011b ti dosp\u011blej\u0161\u00ed kluci u\u017e naj\u00edst a celkov\u011b Je to v\u011bc kter\u00e1 v\u00fdrazn\u00fdm zp\u016fsobem jako \u017e\u00e1nr funguje nap\u0159\u00ed\u010d komunitou bez ohledu na v\u011bk d\u00edky tomu \u0158\u00edk\u00e1m zva\u017e te\u010fka m\u00e1te ty m\u00e1te s mlad\u0161\u00edm zastr\u010den\u00fd proto\u017ee ta d\u011bv\u010data se\u0161 to ty uzn\u00e1\u0161 \u0161perky tak Husky kopie t\u011bch srd\u00ed\u010dek a podobn\u011b a tapety pro ty jo tak jo tak neposlouch\u00e1 figurky to pije\u0161 a te\u010dek a tak d\u00e1le celkov\u011b v\u0161echny tyhle ty mo\u017enosti rozhodn\u011b naho\u0159e u\u017e je to tak dej v\u011bd\u011bt kde bydl\u00ed\u0161"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7092126,
+            "transcript": " nem\u016f\u017eeme \u0159\u00edct \u017ee kde je zaujmou Jenom tu \u010d\u00e1st"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.93712527,
+            "transcript": " a to byla ta od Vojta Kotek a telata p\u0159edn\u00e1\u0161ka sm\u011b\u0159ovala J\u00e1 douf\u00e1m \u017ee se v\u00e1m nen\u00ed povedlo ale alespo\u0148 o tom jak usnout a nebo aspo\u0148 v\u011bd\u011bt n\u011bco zaj\u00edmav\u00e9ho p\u0159\u00edpadn\u011b zjistit \u017ee je lze sledovat i Tom\u00e1\u0161 Radil Styd\u011bt se za to n\u011bjak\u00e9 ot\u00e1zky proto\u017ee u\u017e jsem odt\u00e1hnout tak pros\u00edm p\u016fjdu Budu k dispozici na tom obchodu n\u011bjakou dobu p\u0159ij\u010fte za mnou Zeptejte se r\u00e1d odpov\u00edm zbytku pak p\u0159ije\u010f samoz\u0159ejm\u011b U\u017eijte si zbytek natsucon a douf\u00e1m \u017ee se s v\u00e1mi uvid\u00edme v listopadu na akicon"
+          }
+        ]
+      }
+    ]
+  }
+}
