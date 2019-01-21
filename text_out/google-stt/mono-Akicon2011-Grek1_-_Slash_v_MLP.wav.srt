@@ -1,3756 +1,3641 @@
-1
-0:00:00,200 --> 0:00:03,700
-My Little Pony My Little Pony
+﻿1
+00:00:00,200 --> 00:00:35,000
+(My Little Pony My Little Pony opening)
 
 2
-0:00:07,299 --> 0:00:10,800
-28
+00:00:35,060 --> 00:00:36,480
+Takže,
 
 3
-0:00:10,800 --> 0:00:14,500
-května
+00:00:36,480 --> 00:00:39,480
+dobré ráno pro mnohé z vás,
 
 4
-0:00:14,500 --> 0:00:18,500
-tak mi ten kruháč
+00:00:39,540 --> 00:00:42,390
+zde na Akikonu 2011.
 
 5
-0:00:18,500 --> 0:00:21,100
-Facebook camping 10
+00:00:42,399 --> 00:00:46,399
+Ano, to je správná otázka, co je na něm dobrého?
 
 6
-0:00:21,100 --> 0:00:23,199
-minut
+00:00:47,500 --> 00:00:51,760
+Řekněme to takto. Vaše dobré ráno možná touto přednáškou skončilo.
 
 7
-0:00:23,199 --> 0:00:35,500
-takže
+00:00:54,060 --> 00:00:58,460
+To z toho důvodu že pokud jste totiž unikli pojmu Slash,
 
 8
-0:00:35,500 --> 0:00:38,899
-dobré ráno pro mnohé z vás
+00:00:58,520 --> 00:01:02,940
+vlastně v před... v přednášce před minulým promítáním
 
 9
-0:00:38,899 --> 0:00:42,399
-zde na ikonu 2011
+00:01:03,300 --> 00:01:07,720
+od Kalisto, zde mu bohužel neuniknete.
 
 10
-0:00:42,399 --> 0:00:46,399
-Ano to je Správná otázka co je
+00:01:08,980 --> 00:01:11,200
+Ale zpět k tomu, proč že jsme vlastně tady.
 
 11
-0:00:46,399 --> 0:00:48,799
-na něm dobrého řekni mi to tak to vaše
+00:01:12,140 --> 00:01:13,960
+Jsme tu, protože
 
 12
-0:00:48,799 --> 0:00:50,899
-dobré ráno možná touto přednáškou
+00:01:14,060 --> 00:01:17,760
+tak, jako minulý rok, jsem dal na stránkách Akiconu možnost hlasovat
 
 13
-0:00:50,899 --> 0:00:54,600
-Skončilo to z toho důvodu
+00:01:17,820 --> 00:01:20,760
+ o tématu pro mou přednášku.
 
 14
-0:00:54,600 --> 0:00:58,100
-že pokud se totiž unikly pojmu Slash
+00:01:21,080 --> 00:01:23,960
+Z nějakého důvodu, který mně osobně uniká,
 
 15
-0:00:58,100 --> 0:01:01,899
-vlastně vpřed přednášce před minulým
+00:01:24,060 --> 00:01:28,180
+vyhrálo téma Slashv MLP.
 
 16
-0:01:01,899 --> 0:01:05,599
-promítáním od Kalisto zde mu
+00:01:30,200 --> 00:01:33,100
+V rámci této přednášky vám hodlám tedy vysvětlit,
 
 17
-0:01:05,599 --> 0:01:07,200
-bohužel neunikne
+00:01:33,200 --> 00:01:35,060
+co že to tedy je.
 
 18
-0:01:07,200 --> 0:01:11,200
-ale zpět k tomu protože jsme
+00:01:35,460 --> 00:01:38,640
+A co jste mě donutili
 
 19
-0:01:11,200 --> 0:01:14,400
-vlastně tady jsme to protože tak jako
+00:01:38,680 --> 00:01:42,320
+číst a sledovat.
 
 20
-0:01:14,400 --> 0:01:16,099
-minulý rok jsem dal na stránkách
+00:01:45,340 --> 00:01:48,320
+Rovnou se zeptám, abych věděl kam kdyžtak směřovat
 
 21
-0:01:16,099 --> 0:01:19,000
-akiconu možnost hlasovat o tématu pro
+00:01:48,342 --> 00:01:50,937
+své záludné otázky a celkovou nenávist.
 
 22
-0:01:19,000 --> 0:01:22,599
-mou přednášku z nějakého důvodu který
+00:01:51,880 --> 00:01:55,062
+Najdou se tu i ti, kteří se odvážně přihlásí
 
 23
-0:01:22,599 --> 0:01:25,900
-mě osobně uniká vyhrálo téma Slash
+00:01:55,080 --> 00:01:58,274
+k tomu, že hlasovali pro toto téma v anketě?
 
 24
-0:01:25,900 --> 0:01:26,700
-ml
+00:02:05,005 --> 00:02:07,302
+A jak vidím do naší režie,
 
 25
-0:01:30,200 --> 0:01:32,200
-v rámci této přednášky vám hodlám tedy
+00:02:07,337 --> 00:02:09,040
+Nejste v tom sami,
 
 26
-0:01:32,200 --> 0:01:34,700
-vysvětlit co že to tedy je a
+00:02:09,074 --> 00:02:13,051
+a zrádci jsou i v našich vlastních řadách.
 
 27
-0:01:34,700 --> 0:01:38,299
-co jste mě donutili
+00:02:16,742 --> 00:02:18,262
+Nuže, dobrá.
 
 28
-0:01:38,299 --> 0:01:42,099
-číst a sledovat
+00:02:18,720 --> 00:02:21,474
+Chtěli jste to? máte to mít.
 
 29
-0:01:42,099 --> 0:01:46,099
-rovnou se
+00:02:23,657 --> 00:02:26,148
+Ano, nejprve varování.
 
 30
-0:01:46,099 --> 0:01:48,299
-zeptám abych věděl kam kdyžtak směřovat
+00:02:28,171 --> 00:02:31,200
+tato přednáška vám může rozšířit obzory zcela nečekanými
 
 31
-0:01:48,299 --> 0:01:50,599
-své záludné otázky a celkovou nenávist
+00:02:31,200 --> 00:02:32,537
+a nezamýšleným,
 
 32
-0:01:50,599 --> 0:01:54,500
-najdou se tu i tací kteří se odvážně
+00:02:32,548 --> 00:02:34,860
+zcela nečekaným na zamčeném směrem.
 
 33
-0:01:54,500 --> 0:01:57,000
-přihlásí k tomu že hlasovali pro toto
+00:02:35,302 --> 00:02:37,620
+Pamatujte si, že nejen co
 
 34
-0:01:57,000 --> 0:01:58,000
-téma v anketě
+00:02:37,620 --> 00:02:40,697
+ co uvidíte nemůžete odvidět,
 
 35
-0:02:04,000 --> 0:02:08,000
-a jak vidím do naší režii A nejste
+00:02:40,920 --> 00:02:44,617
+ale i co uslyšíte, nemůžete odslyšet.
 
 36
-0:02:08,000 --> 0:02:10,400
-v tom sami a zrádci jsou i v našich
+00:02:45,920 --> 00:02:50,120
+Proto, abychom byli věrni zavedenému, zavedenému
 
 37
-0:02:10,400 --> 0:02:11,300
-vlastních řadách
+00:02:50,130 --> 00:02:51,140
+schématu,
 
 38
-0:02:15,699 --> 0:02:19,599
-Nuže dobrá Chtěli jste to
+00:02:51,380 --> 00:02:55,670
+Pokud byste snad znamenali jisté obtíže při této přednášce,
 
 39
-0:02:19,599 --> 0:02:21,099
-máte to mít
+00:02:55,760 --> 00:02:57,760
+neváhejte využít únikových východů
 
 40
-0:02:23,400 --> 0:02:25,900
- Ano nejprve varování
+00:02:57,790 --> 00:03:00,650
+které se nachází po vaší pravé straně.
 
 41
-0:02:28,000 --> 0:02:30,000
-tato přednáška vám může rozšířit obzory
+00:03:01,690 --> 00:03:04,770
+Taktéž, pokud byste snad pocítili závrať
 
 42
-0:02:30,000 --> 0:02:33,400
-zcela nečekaný Mia nezamýšleným Salina
+00:03:04,800 --> 00:03:08,020
+či nevolnost, prosím, respirační masky mám nevypadnou, 
 
 43
-0:02:33,400 --> 0:02:36,300
-na zamčeném směrem Pamatujte si že
+00:03:08,060 --> 00:03:10,820
+ale je dobré v tom případě i dát hlavu mezi kolena,
 
 44
-0:02:36,300 --> 0:02:40,000
-nejen co uvidíte nemůžete od
+00:03:10,820 --> 00:03:14,610
+a, tak říkajíc, obdarovat podlahu nežli klín vašeho souseda.
 
 45
-0:02:40,000 --> 0:02:43,400
-vidět ale i co uslyšíte nemůžete od
+00:03:16,540 --> 00:03:19,960
+To i z toho důvodu, že by pak mohl následovat takzvaný lavinový efekt,
 
 46
-0:02:43,400 --> 0:02:47,400
-slyšet proto abychom
+00:03:20,000 --> 00:03:23,710
+který bychom opravdu neradi v tomto sále uklízeli
 
 47
-0:02:47,400 --> 0:02:50,099
-byli věrni zavedenému zavedenému
+00:03:31,760 --> 00:03:32,620
+Tak.
 
 48
-0:02:50,099 --> 0:02:53,000
-schématu Pokud byste stát co znamenaly
+00:03:32,850 --> 00:03:35,010
+Co je to MLP?
 
 49
-0:02:53,000 --> 0:02:55,400
-jisté obtíže při této přednášce
+00:03:35,310 --> 00:03:39,460
+Naivně jsem doufal v těch prvních okamžicích,
 
 50
-0:02:55,400 --> 0:02:57,599
-Neváhejte využít únikových východů
+00:03:41,620 --> 00:03:42,620
+pardon,
 
 51
-0:02:57,599 --> 0:03:00,400
-které se nachází po vaší pravé straně
+00:03:42,840 --> 00:03:46,620
+že se bude jednat o něco nevinného.
 
 52
-0:03:01,699 --> 0:03:04,699
-taktéž Pokud byste snad pocítili závrať
+00:03:46,960 --> 00:03:51,000
+O něco povznášejícího, něco co vás,
 
 53
-0:03:04,699 --> 0:03:07,400
-nevolnost prosím respirační masky mám
+00:03:51,170 --> 00:03:55,600
+všechny ničím obdaruje, a připomínám, nefotit s bleskem.
 
 54
-0:03:07,400 --> 0:03:09,400
-nevypadnou ale je dobré v tom případě i
+00:03:57,050 --> 00:04:01,054
+oči bych si raději mnohokrát vypálil či vyškrábal,
 
 55
-0:03:09,400 --> 0:03:11,800
-dát hlavu mezi kolena a tak říkajíc
+00:04:01,054 --> 00:04:04,436
+ale nestalo se tak a musel jsem různé věci vidět a číst.
 
 56
-0:03:11,800 --> 0:03:13,900
-obdarovat podlahu nežli Clean vašeho
+00:04:04,705 --> 00:04:07,820
+Proto prosím na přednášce mě oni nepřipravujte, neb si musím zapamatovat
 
 57
-0:03:13,900 --> 0:03:17,800
-souseda to iz toho důvodu že by pak
+00:04:07,820 --> 00:04:11,054
+tváře těch kteří se mi přihlásili, že hlasovali pro toto téma.
 
 58
-0:03:17,800 --> 0:03:19,400
-mohl následovat tak jsme měli lavinový
+00:04:14,152 --> 00:04:14,820
+Tak.
 
 59
-0:03:19,400 --> 0:03:22,300
-efekt který bychom opravdu neradi v
+00:04:15,020 --> 00:04:18,000
+Jakoby jeden z prvních odkazu který mi vypadl,
 
 60
-0:03:22,300 --> 0:03:23,500
-tomto sále uklízeli
+00:04:18,330 --> 00:04:20,763
+je metropolitan library of Prague.
 
 61
-0:03:30,699 --> 0:03:34,199
-Tak co je to MLP
+00:04:20,770 --> 00:04:23,149
+Jinými slovy Městská knihovna v Praze.
 
 62
-0:03:34,199 --> 0:03:38,000
-jsem doufal V těch
+00:04:23,425 --> 00:04:25,592
+Člověk si říká, proč ne?
 
 63
-0:03:38,000 --> 0:03:38,800
-prvních okamžicích
+00:04:26,290 --> 00:04:30,858
+No, jakmile se v druhé části přednášky dostaneme k pojmu Slash, zjistíte, že i 
 
 64
-0:03:41,400 --> 0:03:45,400
-pardon že se bude jednat o něco
+00:04:30,872 --> 00:04:33,900
+spojovat tento pojem s městskou knihovnou
 
 65
-0:03:45,400 --> 0:03:47,699
-nevinného o něco
+00:04:33,900 --> 00:04:36,218
+není zrovna vhodné.
 
 66
-0:03:47,699 --> 0:03:51,699
-povznášejícího něco co vás všechny
+00:04:36,421 --> 00:04:39,940
+Je to pár dnů, kdy jsem si byl prodlužovat průkazku 
 
 67
-0:03:51,699 --> 0:03:54,800
-ničím obdaruje a připomínáme fotit s
+00:04:39,940 --> 00:04:43,076
+v okamžiku kdy se na mě ta dáma za okénkem podívala,
 
 68
-0:03:54,800 --> 0:03:54,800
-bleskem
+00:04:43,090 --> 00:04:45,134
+a já se vybavil Co je to slovo Slash,
 
 69
-0:03:56,800 --> 0:04:00,199
-oči bych si raději mnohokrát Vypálil či
+00:04:45,163 --> 00:04:47,265
+Řekl jsem si "Raději ne".
 
 70
-0:04:00,199 --> 0:04:02,400
-vyškrábal ale nestalo se tak a musel
+00:04:52,123 --> 00:04:52,700
+Ano,
 
 71
-0:04:02,400 --> 0:04:05,000
-jsem různé věci vidět a číst Proto
+00:04:52,700 --> 00:04:56,690
+případně specifický ekonomický pojem pro, vlastně,
 
 72
-0:04:05,000 --> 0:04:06,199
-prosím na přednášce mě oni
+00:04:56,705 --> 00:05:00,380
+americkou, pro americký způsob vedení a financování firem
 
 73
-0:04:06,199 --> 0:04:08,099
-nepřipravujte musím zapamatovat tváře
+00:05:00,380 --> 00:05:02,740
+Master Limited partnership,
 
 74
-0:04:08,099 --> 0:04:09,300
-těch kteří se mi přihlásili že
+00:05:02,740 --> 00:05:04,540
+že bychom tu měli zájemce o ekonomii,
 
 75
-0:04:09,300 --> 0:04:10,599
-hlasovali pro toto téma
+00:05:04,540 --> 00:05:06,836
+kteří by snad tady chtěli rozjet nějakou
 
 76
-0:04:13,400 --> 0:04:17,100
-tak jakoby jeden z prvních odkazu který
+00:05:07,020 --> 00:05:08,807
+specifickou těžařskou firmu,
 
 77
-0:04:17,100 --> 0:04:20,000
-mi vypadl je Metropolitan Library of
+00:05:08,901 --> 00:05:13,112
+na kterou by chtěli nějakým způsobem přes Českou legislativu naroubovat tento americký model?
 
 78
-0:04:20,000 --> 0:04:22,399
-Prague Jinými slovy Městská knihovna v
+00:05:13,701 --> 00:05:17,832
+Říkal jsem si, zajímavé, ale i tam mě
 
 79
-0:04:22,399 --> 0:04:25,100
-Praze Člověk si říká proč ne
+00:05:17,898 --> 00:05:20,500
+okolí Čajky vyvedlo z omylu,
 
 80
-0:04:25,100 --> 0:04:28,300
-no Jakmile se budeš asi před naším
+00:05:21,032 --> 00:05:23,100
+a zvláště někteří členové,
 
 81
-0:04:28,300 --> 0:04:30,300
-snímek pojmu Slash zjistíte že i
+00:05:23,100 --> 00:05:27,381
+které nebudu kvůli tomu, že již mají rodiny, jmenovat
 
 82
-0:04:30,300 --> 0:04:32,600
-spojovat tento pojem s městskou
+00:05:28,094 --> 00:05:32,181
+by byli ochotni dodat spousty,
 
 83
-0:04:32,600 --> 0:04:35,800
-knihovnou není zrovna vhodné
+00:05:32,200 --> 00:05:36,196
+spousty, spousty, Dane,
 
 84
-0:04:35,800 --> 0:04:38,100
-je to pár dnů kdy jsem si byl
+00:05:36,290 --> 00:05:38,821
+materiálu.
 
 85
-0:04:38,100 --> 0:04:40,800
-prodlužovat průkazku a v okamžiku kdy
+00:05:43,985 --> 00:05:44,901
+Ano.
 
 86
-0:04:40,800 --> 0:04:43,000
-se na mě ta dáma za okénkem podívala a
+00:05:45,200 --> 00:05:47,190
+Nakonec jsi mi tady bylo osvětleno, že
 
 87
-0:04:43,000 --> 0:04:45,399
-já se vybavil Co je to slovo Slash Řekl
+00:05:47,190 --> 00:05:51,432
+zkratka MLP označuje fenomén My Little Pony.
 
 88
-0:04:45,399 --> 0:04:46,899
-jsem si raději ne
+00:05:52,720 --> 00:05:55,985
+Nuže, něco historické rešerše o tomto
 
 89
-0:04:49,500 --> 0:04:53,300
-Ano případně je
+00:05:56,000 --> 00:05:58,590
+pojmu, a co že Vás tedy čeká.
 
 90
-0:04:53,300 --> 0:04:56,600
-specifický ekonomický pojem pro vlastně
+00:05:58,600 --> 00:05:59,900
+Ještě jednou připomínám,
 
 91
-0:04:56,600 --> 0:04:59,199
-americkou americký způsob vedení a
+00:06:00,110 --> 00:06:04,275
+někteří, některým z vás již byl, bylo vlastně osvětlen význam
 
 92
-0:04:59,199 --> 0:05:01,699
-financování firem Master Limited
+00:06:04,280 --> 00:06:06,920
+slova Slash, nejdříve a možná neznají, 
 
 93
-0:05:01,699 --> 0:05:03,800
-partnership že bychom to měli zájem se
+00:06:07,430 --> 00:06:11,750
+ti, kteří ano, jak budu popisovat o co se jedná v my Little Pony, 
 
 94
-0:05:03,800 --> 0:05:06,100
-o ekonomii kteří by snad tady chtěli
+00:06:12,220 --> 00:06:15,595
+pořád nezapomínejte, až pravá strana únikový východ
 
 95
-0:05:06,100 --> 0:05:08,000
-rozjet nějakou specifickou těžařskou
+00:06:19,850 --> 00:06:23,550
+Ano My Little Pony současné logo,
 
 96
-0:05:08,000 --> 0:05:10,100
-firmu na Chtěl bych chtěl A nějakým
+00:06:23,630 --> 00:06:25,580
+jak jistě vidíte,
 
 97
-0:05:10,100 --> 0:05:11,300
-způsobem přes Českou legislativu
+00:06:25,580 --> 00:06:28,420
+bude to něco co vás připraví o ty dětské sny.
 
 98
-0:05:11,300 --> 0:05:14,800
-nervova tento americký model zajímavé
+00:06:34,450 --> 00:06:36,655
+Tak ještě jednou, tak, ano.
 
 99
-0:05:14,800 --> 0:05:18,399
-ale i tam mě okolí
+00:06:37,130 --> 00:06:38,660
+Trocha základních faktů.
 
 100
-0:05:18,399 --> 0:05:22,300
-Čajky vyvedlo z omylu a zvlášť někteří
+00:06:40,405 --> 00:06:43,220
+V základu se jedná o hračku firmy Hasbro.
 
 101
-0:05:22,300 --> 0:05:25,100
-členové které Nebudu kvůli tomu že již
+00:06:43,405 --> 00:06:46,385
+Ti z vás kteří nevědí co je to firma Hasbro,
 
 102
-0:05:25,100 --> 0:05:27,000
-mají rodiny jmenovat
+00:06:46,390 --> 00:06:49,315
+tak jedná se o jedno z největších výrobců
 
 103
-0:05:27,000 --> 0:05:30,699
-by byli ochotni dodat
+00:06:49,535 --> 00:06:52,090
+figurativní hraček, a spousty jiných.
 
 104
-0:05:30,699 --> 0:05:32,800
-spousty spousty
+00:06:52,330 --> 00:06:54,780
+na vlastně západní polokouli,
 
 105
-0:05:32,800 --> 0:05:35,800
-spousty Dane
+00:06:54,980 --> 00:06:58,780
+a to takovým způsobem, že i velké, že i velké
 
 106
-0:05:35,800 --> 0:05:37,300
-materiálu
+00:06:58,785 --> 00:07:00,895
+hračkářské závody japonců,
 
 107
-0:05:41,300 --> 0:05:44,300
-Ano
+00:07:00,940 --> 00:07:03,775
+případně výrobny figurek pro otaku se
 
 108
-0:05:44,300 --> 0:05:47,199
-nakonec jsi mi tady bylo osvětleno že
+00:07:03,890 --> 00:07:05,705
+vlastně mohu jen blednout závistí v rámci
 
 109
-0:05:47,199 --> 0:05:50,899
-zkratka NP označuje Fenomén My Little
+00:07:05,710 --> 00:07:07,800
+historického pozadí téhleté firmy
 
 110
-0:05:50,899 --> 0:05:51,300
-Pony
+00:07:07,800 --> 00:07:10,420
+a objemu zakázek, který každý rok řeší.
 
 111
-0:05:52,500 --> 0:05:55,899
-může něco historické rešerše o tomto
+00:07:11,130 --> 00:07:13,600
+Navíc je to firma, která velice rychle
 
 112
-0:05:55,899 --> 0:05:58,699
-pojmu A co že Vás tedy čeká ještě
+00:07:13,600 --> 00:07:15,635
+pochopila, že pokud mám hračku, 
 
 113
-0:05:58,699 --> 0:06:01,300
-jednou připomíná některé některým z vás
+00:07:16,370 --> 00:07:19,515
+a chci prodávat, je dobré aby oni děti věděly.
 
 114
-0:06:01,300 --> 0:06:04,199
-již bylo bylo vlastně osvětlení význam
+00:07:19,730 --> 00:07:21,855
+Aby se k ní dostaly co možná nejsnáze.
 
 115
-0:06:04,199 --> 0:06:07,699
-slova Slash nejdříve a možná i ti kteří
+00:07:21,905 --> 00:07:23,300
+A jak lépe to udělat než
 
 116
-0:06:07,699 --> 0:06:10,699
-Ano jak budu popisovat o co se jedná v
-
-117
-0:06:10,699 --> 0:06:13,600
-My Little Pony pořád Nezapomínejte až
-
-118
-0:06:13,600 --> 0:06:15,300
-pravá strana únikový východ
-
-119
-0:06:19,600 --> 0:06:23,000
-ano My Little Pony současné logo
-
-120
-0:06:23,000 --> 0:06:26,500
-jak jistě vidíte Bude to něco co vás
-
-121
-0:06:26,500 --> 0:06:28,199
-připraví o ty dětské sny
-
-122
-0:06:33,699 --> 0:06:37,399
-Tak ještě jednou tak ano trocha
-
-123
-0:06:37,399 --> 0:06:41,199
-základních faktů v základu se jedná o
-
-124
-0:06:41,199 --> 0:06:43,899
-hračku firmy Hasbro Ti z vás kteří
-
-125
-0:06:43,899 --> 0:06:46,699
-nevědí co je to firma Hasbro tak Jedná
-
-126
-0:06:46,699 --> 0:06:48,600
-se o jedno z největších výrobců
-
-127
-0:06:48,600 --> 0:06:51,699
-figurativní hraček a spousty jiných
-
-128
-0:06:51,699 --> 0:06:55,399
-na vlastně západní polokouli a to
-
-129
-0:06:55,399 --> 0:06:58,699
-takovým způsobem že i velké že i velké
-
-130
-0:06:58,699 --> 0:07:01,300
-hračkářské závody japonců případně
-
-131
-0:07:01,300 --> 0:07:03,899
-výroba figurek pro otaku se vlastně
-
-132
-0:07:03,899 --> 0:07:05,699
-mohu jen blednout závistí v rámci
-
-133
-0:07:05,699 --> 0:07:07,800
-historického pozadí téhle té firmy a
-
-134
-0:07:07,800 --> 0:07:10,000
-objemu zakázek které každý rok řeší
-
-135
-0:07:10,000 --> 0:07:13,600
-navíc je to firma která velice rychle
-
-136
-0:07:13,600 --> 0:07:15,399
-pochopila že pokud mám hračku
-
-137
-0:07:16,199 --> 0:07:18,899
-a chci prodávat je dobré aby oni děti
-
-138
-0:07:18,899 --> 0:07:21,000
-věděly aby se k ní dostali co možná
-
-139
-0:07:21,000 --> 0:07:23,300
-nejsnáze a jak lépe to udělat než je
-
-140
-0:07:23,300 --> 0:07:25,100
+00:07:23,300 --> 00:07:25,100
 pomocí animovaného filmu protože
 
+117
+00:07:25,100 --> 00:07:27,340
+animované filmy s to přece v základu pro děti,
+
+118
+00:07:27,340 --> 00:07:28,605
+a tak se bude vysílat ty
+
+119
+00:07:28,620 --> 00:07:31,350
+nedělní dopoledne, a v delších časech
+
+120
+00:07:31,390 --> 00:07:34,035
+ve kterých se na malé děti či jiná cílová
+
+121
+00:07:34,050 --> 00:07:36,020
+skupina na televizi dívá.
+
+122
+00:07:36,710 --> 00:07:37,800
+Jinak firma
+
+123
+00:07:37,800 --> 00:07:40,575
+Hasbro je proslulá také jedním, jedním faktem,
+
+124
+00:07:40,580 --> 00:07:44,770
+a to, že vlastní trademark na specifické označení
+
+125
+00:07:44,795 --> 00:07:46,265
+figurativních hraček.
+
+126
+00:07:47,815 --> 00:07:50,890
+Teď, otázka za akibony. Za 200 akibonů.
+
+127
+00:07:51,825 --> 00:07:55,670
+je to označení zase, nekřičíme, vstáváme.
+
+128
+00:07:56,695 --> 00:07:59,545
+Je to opravdu geniální tah a velice
+
+129
+00:07:59,550 --> 00:08:02,015
+časté označení, na které má Hasbro trademark.
+
+130
+00:08:04,715 --> 00:08:05,460
+Vstane někdo?
+
+131
+00:08:08,305 --> 00:08:09,600
+Je to snad příliš těžké?
+
+132
+00:08:13,920 --> 00:08:16,935
+Dobrá, poradím, je to, ano?
+
+133
+00:08:18,405 --> 00:08:21,940
+Přesně tak, Action figure, pojďte si pro cenu, prosím potlesk.
+
+134
+00:08:27,920 --> 00:08:30,920
+to geniální tah jednoho z původních zakladatelů
+
+135
+00:08:33,120 --> 00:08:35,130
+Ještě teď mi děkuje, uvidíme později.
+
+136
+00:08:35,915 --> 00:08:38,995
+původních zakladatelů firmy Hasbro, který si řekl.
+
+137
+00:08:39,230 --> 00:08:42,635
+My chceme prodávat tehdy jejich velkou novinku, 
+
+138
+00:08:42,700 --> 00:08:44,830
+G I Joe figurky.
+
+139
+00:08:45,440 --> 00:08:47,785
+Ale, co když nám tomu kluci budou říkat panenky?
+
+140
+00:08:47,790 --> 00:08:49,310
+Tak si s tím nebudou chtít hrát protože,
+
 141
-0:07:25,100 --> 0:07:26,699
-animované filmy s to přece v základu
+00:08:49,630 --> 00:08:52,625
+hele, hraje si s panenkama! No jo, 
 
 142
-0:07:26,699 --> 0:07:28,500
-pro děti a tak se bude vysílat ty
+00:08:53,085 --> 00:08:55,180
+tak tomu budem říkat akční figurky, protože
 
 143
-0:07:28,500 --> 0:07:31,399
-nedělní dopoledne a v delších časech ve
+00:08:55,325 --> 00:08:58,655
+panenky jsou pro holky, ale akční figurky jsou chlapy.
 
 144
-0:07:31,399 --> 0:07:33,899
-kterých se na malé děti či jiná cílová
+00:09:01,170 --> 00:09:02,385
+No. co jiného?
 
 145
-0:07:33,899 --> 0:07:37,800
-skupina na televizi dívá jinak firma
+00:09:02,405 --> 00:09:05,395
+Ty G I Joe, to jsou základu modely vojáků,
 
 146
-0:07:37,800 --> 0:07:39,899
-Hasbro je proslulá také jedním Jediným
+00:09:05,515 --> 00:09:08,295
+to je jasně pro chlapy. A tak
 
 147
-0:07:39,899 --> 0:07:41,500
-efektem a to žebra s vlastním
+00:09:08,385 --> 00:09:11,065
+začali vyrábět akční figurky a opravdušly na odběr.
 
 148
-0:07:41,500 --> 0:07:44,600
-threatmark na specifické označení
+00:09:11,295 --> 00:09:12,750
+A samozřejmě G I Joe
 
 149
-0:07:44,600 --> 0:07:46,199
-figurativních hraček
+00:09:12,765 --> 00:09:15,855
+nemusím představovat, je animovaný seriál, je to
 
 150
-0:07:46,800 --> 0:07:50,500
-teď otázka zákony za 200 a jaké
+00:09:15,900 --> 00:09:18,245
+několik animovaných seriálů,
 
 151
-0:07:50,500 --> 0:07:54,399
-je to označení zase nekřičím a
+00:09:18,470 --> 00:09:20,460
+s různou Mírou návaznosti, nenávaznosti, a
 
 152
-0:07:54,399 --> 0:07:55,500
-vstávám
+00:09:20,485 --> 00:09:22,900
+porušování fyzikálních, etických a jiných zákonů, 
 
 153
-0:07:56,500 --> 0:07:59,399
-je to opravdu geniální tah a velice
+00:09:22,900 --> 00:09:25,560
+které nakonec vyvrcholy i v
 
 154
-0:07:59,399 --> 0:08:01,800
-časté označení na kterém a spotting
+00:09:25,575 --> 00:09:27,790
+takové věci jako jsou úžasné i
 
 155
-0:08:04,500 --> 0:08:05,199
- stane někdo
+00:09:27,790 --> 00:09:31,100
+jako je úžasný béčkový Film ve kterém můžete sledovat
 
 156
-0:08:08,100 --> 0:08:09,300
- těhotné příliš těžké
+00:09:31,120 --> 00:09:33,105
+kolaps rezavějící Eiffelovky
 
 157
-0:08:12,800 --> 0:08:16,600
- dobrá poradím je to ano
+00:09:33,165 --> 00:09:34,220
+uprostřed Prahy.
 
 158
-0:08:18,100 --> 0:08:20,600
-Přesně tak Action figure Pojďte si pro
+00:09:36,965 --> 00:09:38,085
+Tak.
 
 159
-0:08:20,600 --> 0:08:21,899
-cenu Prosím potlesk Byl
+00:09:39,020 --> 00:09:39,575
+Ano.
 
 160
-0:08:21,899 --> 0:08:28,199
-to
+00:09:40,025 --> 00:09:43,695
+Taktéž My Little Pony není zrovna nová hračka.
 
 161
-0:08:28,199 --> 0:08:29,600
-geniální tah jednoho Z původních
+00:09:43,830 --> 00:09:47,330
+Navržená paní Bonnie Zacherle, která za to obdržela
 
 162
-0:08:29,600 --> 0:08:33,500
-zakladatelů ještě
+00:09:47,360 --> 00:09:50,465
+i, vlastně, trvalý kontrakt firmu Hasbro, jakožto návrhářka,
 
 163
-0:08:33,500 --> 0:08:36,200
-Neděkuj a uvidíme později původní
+00:09:50,955 --> 00:09:54,700
+Roku 1982, přesně dokonce ještě rok předtím už
 
 164
-0:08:36,200 --> 0:08:38,799
-zakladatel firmy Hasbro který si řekl
+00:09:54,700 --> 00:09:56,725
+byly první črty, které vzbudily zájem,
 
 165
-0:08:38,799 --> 0:08:41,799
-My chceme prodávat tehdy jejich velkou
+00:09:56,745 --> 00:09:59,345
+ale v roce 82 tomu projektu byla dána zelená, a byl
 
 166
-0:08:41,799 --> 0:08:44,600
-novinku G I Joe figurky
+00:09:59,355 --> 00:10:01,100
+kompletně, a byl vlastně zkompletován.
 
 167
-0:08:44,600 --> 0:08:47,700
-což nám tomu kluci budou říkat panenky
+00:10:01,100 --> 00:10:01,490
+tak dál
+kompletně, a byl vlastně zkompletován.
 
 168
-0:08:47,700 --> 0:08:49,799
-tak se ti nebudu ti hrát protože Hele
-
-169
-0:08:49,799 --> 0:08:53,399
-hrají s panenkami No jo tak to mám
-
-170
-0:08:53,399 --> 0:08:55,700
-říkat akční figurky protože Panenky
-
-171
-0:08:55,700 --> 0:08:58,000
-jsou pro holky ale akční figurky jsou
-
-172
-0:08:58,000 --> 0:09:02,000
-pro chlapy No co jiného
-
-173
-0:09:02,000 --> 0:09:04,600
-ty G I Joe to jsou základu modely
-
-174
-0:09:04,600 --> 0:09:07,899
-vojáků to je jasně pro chlapy a tak
-
-175
-0:09:07,899 --> 0:09:10,500
-začali vyrábět akční figurky a opravdu
-
-176
-0:09:10,500 --> 0:09:12,399
-šli na odběr a samozřejmě G I Joe
-
-177
-0:09:12,399 --> 0:09:15,500
-nemusí představovat je animovaný seriál
-
-178
-0:09:15,500 --> 0:09:17,899
-je to několik animovaných seriálů
-
-179
-0:09:18,200 --> 0:09:20,200
-s různou Mírou návaznosti na vlastnosti
-
-180
-0:09:20,200 --> 0:09:21,899
-a Porušování fyzikálních etických a
-
-181
-0:09:21,899 --> 0:09:25,500
-jiných zákonů které nakonec vrcholy i
-
-182
-0:09:25,500 --> 0:09:27,799
-takové věci jako jsou úžasné její
-
-183
-0:09:27,799 --> 0:09:30,299
-úžasné béčkový Film ve kterém můžete
-
-184
-0:09:30,299 --> 0:09:32,899
-sledovat kolaps rezavějící Eiffelovky
-
-185
-0:09:32,899 --> 0:09:33,799
-uprostřed Prahy
-
-186
-0:09:33,799 --> 0:09:37,299
-tak
-
-187
-0:09:37,299 --> 0:09:44,299
-navržená
-
-188
-0:09:44,299 --> 0:09:47,299
-paní Bundle která za to obdržela i
-
-189
-0:09:47,299 --> 0:09:49,200
-vlastně trvalý kontrakt firmu Hasbro
-
-190
-0:09:49,200 --> 0:09:52,399
-jakožto návrhářka roku 1982
-
-191
-0:09:52,399 --> 0:09:54,700
-přesně dokonce ještě rok předtím už
-
-192
-0:09:54,700 --> 0:09:56,299
-byly první čerty které vzbudily zájem
-
-193
-0:09:56,299 --> 0:09:59,000
-ale v dort s 82 tomu prekladana zelená
-
-194
-0:09:59,000 --> 0:10:01,100
-a byl kompletně Stabilo se zkompletován
-
-195
-0:10:01,100 --> 0:10:03,899
+00:10:01,490 --> 00:10:03,899
 tak dál
 
-196
-0:10:04,700 --> 0:10:08,500
+169
+00:10:04,700 --> 00:10:08,500
 Ano Hasbro toto podpořilo i
 
-197
-0:10:08,500 --> 0:10:10,799
+170
+00:10:08,500 --> 00:10:10,799
 dalšími animovanými seriály cožpak
 
-198
-0:10:10,799 --> 0:10:12,500
+171
+00:10:10,799 --> 00:10:12,500
 vedlo k této věci
 
-199
-0:10:14,100 --> 0:10:17,399
+172
+00:10:14,100 --> 00:10:17,399
 Za prvé existuje 4 x 4 generace
 
-200
-0:10:17,399 --> 0:10:20,500
+173
+00:10:17,399 --> 00:10:20,500
 poníků od roku 82 do dneška
 
-201
-0:10:22,899 --> 0:10:26,000
+174
+00:10:22,899 --> 00:10:26,000
 první generace je právě ta desetiletá
 
-202
-0:10:26,000 --> 0:10:28,600
+175
+00:10:26,000 --> 00:10:28,600
 82 až 92 Kdy bude poníci poprvé
 
-203
-0:10:28,600 --> 0:10:31,100
+176
+00:10:28,600 --> 00:10:31,100
 Představeny byly prodávány po jednom a
 
-204
-0:10:31,100 --> 0:10:33,200
+177
+00:10:31,100 --> 00:10:33,200
 obvyklou jejich propriet o jsou ty
 
-205
-0:10:33,200 --> 0:10:36,600
+178
+00:10:33,200 --> 00:10:36,600
 krásné barevné hřívy dlouhé hebké a
 
-206
-0:10:36,600 --> 0:10:40,000
+179
+00:10:36,600 --> 00:10:40,000
 hřebínek pro jich kartáčování sršní na
 
-207
-0:10:40,000 --> 0:10:43,500
+180
+00:10:40,000 --> 00:10:43,500
 krku daného poníka taktéž všichni
 
-208
-0:10:43,500 --> 0:10:47,000
+181
+00:10:43,500 --> 00:10:47,000
 poníci mají ženská jména ryze ženská
 
-209
-0:10:47,000 --> 0:10:49,299
+182
+00:10:47,000 --> 00:10:49,299
 jména v roce
 
-210
-0:10:49,299 --> 0:10:53,299
+183
+00:10:49,299 --> 00:10:53,299
 navíc 85 došlo k uvolnění
 
-211
-0:10:53,299 --> 0:10:56,299
+184
+00:10:53,299 --> 00:10:56,299
 My Little Pony mimo americký trh takže
 
-212
-0:10:56,299 --> 0:10:59,299
+185
+00:10:56,299 --> 00:10:59,299
 vznikly řekněme specifické mutace pro
 
-213
-0:10:59,299 --> 0:11:01,700
+186
+00:10:59,299 --> 00:11:01,700
 trhy ostatních zemí což způsobilo
 
-214
-0:11:01,700 --> 0:11:04,100
+187
+00:11:01,700 --> 00:11:04,100
 takový menší problém když si totiž
 
-215
-0:11:04,100 --> 0:11:07,200
+188
+00:11:04,100 --> 00:11:07,200
 německá firma německá od hasbra řekla
 
-216
-0:11:07,200 --> 0:11:09,899
+189
+00:11:07,200 --> 00:11:09,899
 že by bylo dobré když se vyrábí mety
 
-217
-0:11:09,899 --> 0:11:13,500
+190
+00:11:09,899 --> 00:11:13,500
 panenky Barbie a Ken a možná když když
 
-218
-0:11:13,500 --> 0:11:15,200
+191
+00:11:13,500 --> 00:11:15,200
 se otočím a od těchto kteří mají jenom
 
-219
-0:11:15,200 --> 0:11:17,299
+192
+00:11:15,200 --> 00:11:17,299
 domy a auta nějaké ty klasické panenky
 
-220
-0:11:17,299 --> 0:11:19,100
+193
+00:11:17,299 --> 00:11:19,100
 Kde je to otec maminka a mají to děcko
 
-221
-0:11:19,100 --> 0:11:21,100
+194
+00:11:19,100 --> 00:11:21,100
 bylo by dobré tam mít dětského poníka
 
-222
-0:11:21,700 --> 0:11:24,500
+195
+00:11:21,700 --> 00:11:24,500
 a tak ho tam vrazil Problém je v tom
 
-223
-0:11:24,500 --> 0:11:27,100
+196
+00:11:24,500 --> 00:11:27,100
 jak vysvětlíme dětského poníka v
 
-224
-0:11:27,100 --> 0:11:28,700
+197
+00:11:27,100 --> 00:11:28,700
 settingu kde jsou jenom dívky
 
-225
-0:11:29,899 --> 0:11:32,000
+198
+00:11:29,899 --> 00:11:32,000
 No měl jsi to vyřešil i elegantně
 
-226
-0:11:32,000 --> 0:11:33,299
+199
+00:11:32,000 --> 00:11:33,299
 vytvořili mužské poníky
 
-227
-0:11:33,299 --> 0:11:36,600
+200
+00:11:33,299 --> 00:11:36,600
 původní americké
 
-228
-0:11:36,600 --> 0:11:40,399
+201
+00:11:36,600 --> 00:11:40,399
 vydávání Americká distribuce se k tomu
 
-229
-0:11:40,399 --> 0:11:42,799
+202
+00:11:40,399 --> 00:11:42,799
 chvíli bránila ale nakonec musela uznat
 
-230
-0:11:42,799 --> 0:11:45,899
+203
+00:11:42,799 --> 00:11:45,899
 že spíš než do toho tahat magické
 
-231
-0:11:45,899 --> 0:11:49,899
+204
+00:11:45,899 --> 00:11:49,899
 početí vlastně mužské podniky převezmou
 
-232
-0:11:49,899 --> 0:11:52,700
+205
+00:11:49,899 --> 00:11:52,700
 koneckonců Obvykle jsou zastoupení tak
 
-233
-0:11:52,700 --> 0:11:56,299
+206
+00:11:52,700 --> 00:11:56,299
 v poměru 21 10 kg jedné
 
-234
-0:11:56,299 --> 0:11:58,500
+207
+00:11:56,299 --> 00:11:58,500
 dá se říct že je to pro mužského
 
-235
-0:11:58,500 --> 0:12:02,100
+208
+00:11:58,500 --> 00:12:02,100
 podnikají ale Nebudeme to rozebírat
 
-236
-0:12:02,100 --> 0:12:05,600
+209
+00:12:02,100 --> 00:12:05,600
 vnímejme to prosím prozatím stále ještě
 
-237
-0:12:05,600 --> 0:12:07,600
+210
+00:12:05,600 --> 00:12:07,600
 těmihle a těma očima Řekni mi tě do
 
-238
-0:12:07,600 --> 0:12:10,600
+211
+00:12:07,600 --> 00:12:10,600
 toho dítěte ve věku od pěti do devíti
 
-239
-0:12:10,600 --> 0:12:13,600
+212
+00:12:10,600 --> 00:12:13,600
 let kterým jsou primárně určeny Takže
 
-240
-0:12:13,600 --> 0:12:16,200
+213
+00:12:13,600 --> 00:12:16,200
 první generace 82 92 co se o zbytku
 
-241
-0:12:16,200 --> 0:12:18,500
+214
+00:12:16,200 --> 00:12:18,500
 světa týče tak 85 až 95
 
-242
-0:12:19,200 --> 0:12:22,600
+215
+00:12:19,200 --> 00:12:22,600
 Proč se 97 si tedy řekli tak to tak to
 
-243
-0:12:22,600 --> 0:12:25,500
+216
+00:12:22,600 --> 00:12:25,500
 reset ne nahodíme tam už na ty podniky
 
-244
-0:12:25,500 --> 0:12:27,500
+217
+00:12:25,500 --> 00:12:27,500
 v tom specifické poměru už jako od
 
-245
-0:12:27,500 --> 0:12:29,899
+218
+00:12:27,500 --> 00:12:29,899
 začátku a zase se rozjela výroba
 
-246
-0:12:29,899 --> 0:12:33,500
+219
+00:12:29,899 --> 00:12:33,500
 tentokrát celosvětově 97 2003 a
 
-247
-0:12:33,500 --> 0:12:37,100
+220
+00:12:33,500 --> 00:12:37,100
 pak už Byla jasná návaznost bez žádných
 
-248
-0:12:37,100 --> 0:12:39,500
+221
+00:12:37,100 --> 00:12:39,500
 bez žádných žádných výrazných pauz až
 
-249
-0:12:39,500 --> 0:12:41,899
+222
+00:12:39,500 --> 00:12:41,899
 tedy o čtvrtou generaci která začala
 
-250
-0:12:41,899 --> 0:12:43,200
+223
+00:12:41,899 --> 00:12:43,200
 roku 2010
 
-251
-0:12:45,100 --> 0:12:48,100
+224
+00:12:45,100 --> 00:12:48,100
 Ano každá z těchto
 
-252
-0:12:48,100 --> 0:12:51,799
+225
+00:12:48,100 --> 00:12:51,799
 generací A navíc prodala svůj animovaný
 
-253
-0:12:51,799 --> 0:12:54,399
+226
+00:12:51,799 --> 00:12:54,399
 seriál obvykle minimálně jeden jeho
 
-254
-0:12:54,399 --> 0:12:57,799
+227
+00:12:54,399 --> 00:12:57,799
 spin-off A obvykle i minimální Disneyho
 
-255
-0:12:57,799 --> 0:13:01,299
+228
+00:12:57,799 --> 00:13:01,299
 alternativní a inovativní převyprávění
 
-256
-0:13:01,299 --> 0:13:02,899
+229
+00:13:01,299 --> 00:13:02,899
 případně jinou jazykovou mutaci
 
-257
-0:13:03,799 --> 0:13:07,200
+230
+00:13:03,799 --> 00:13:07,200
 Což pak vede k tomu to krásně
 
-258
-0:13:07,200 --> 0:13:10,299
+231
+00:13:07,200 --> 00:13:10,299
 přehledném grafu kde jsou všechny ty
 
-259
-0:13:10,299 --> 0:13:14,000
+232
+00:13:10,299 --> 00:13:14,000
 řady rozepsány Jak vidíte logická
 
-260
-0:13:14,000 --> 0:13:16,299
+233
+00:13:14,000 --> 00:13:16,299
 návaznost od jedné ke druhé je jasně
 
-261
-0:13:16,299 --> 0:13:16,799
+234
+00:13:16,299 --> 00:13:16,799
 patrná
 
-262
-0:13:18,299 --> 0:13:22,000
+235
+00:13:18,299 --> 00:13:22,000
 a ano nezadá si to v ničem s takovými
 
-263
-0:13:22,000 --> 0:13:24,000
+236
+00:13:22,000 --> 00:13:24,000
 krásný v vojáky které můžete vidět na
 
-264
-0:13:24,000 --> 0:13:25,500
+237
+00:13:24,000 --> 00:13:25,500
 mnohých střední nebo vysokých školách
 
-265
-0:13:25,500 --> 0:13:27,500
+238
+00:13:25,500 --> 00:13:27,500
 kde se samozřejmě jednoduchou formou
 
-266
-0:13:27,500 --> 0:13:29,399
+239
+00:13:27,500 --> 00:13:29,399
 popisuje Jak dosáhnout nějakého
 
-267
-0:13:29,399 --> 0:13:33,399
+240
+00:13:29,399 --> 00:13:33,399
 základního cíle že tolik tolik sérii s
 
-268
-0:13:33,399 --> 0:13:37,200
+241
+00:13:33,399 --> 00:13:37,200
 tím že ta o které budeme
 
-269
-0:13:37,200 --> 0:13:41,100
+242
+00:13:37,200 --> 00:13:41,100
 hlavně mluvit a pro tyto účely této
 
-270
-0:13:41,100 --> 0:13:43,700
+243
+00:13:41,100 --> 00:13:43,700
 přednášky bude to prioritní je tak teda
 
-271
-0:13:43,700 --> 0:13:45,899
+244
+00:13:43,700 --> 00:13:45,899
 v podstatě spustila současnou Pony
 
-272
-0:13:45,899 --> 0:13:49,299
+245
+00:13:45,899 --> 00:13:49,299
 mánii A to je právě série pro poslední
 
-273
-0:13:49,299 --> 0:13:51,100
+246
+00:13:49,299 --> 00:13:51,100
 generaci Friendship is magic
 
-274
-0:13:53,600 --> 0:13:57,200
+247
+00:13:53,600 --> 00:13:57,200
 Tak znova připomínám jak jsem
 
-275
-0:13:57,200 --> 0:14:01,000
+248
+00:13:57,200 --> 00:14:01,000
 slyšel mnozí tady jste fanoušci pomníku
 
-276
-0:14:01,000 --> 0:14:02,500
+249
+00:14:01,000 --> 00:14:02,500
 mezi se mě ptali o čem že se hodlá
 
-277
-0:14:02,500 --> 0:14:05,399
+250
+00:14:02,500 --> 00:14:05,399
 přednášet mnozí se mě ptali na spoustu
 
-278
-0:14:05,399 --> 0:14:07,200
+251
+00:14:05,399 --> 00:14:07,200
 podivných jmen které bych určitě
 
-279
-0:14:07,200 --> 0:14:10,399
+252
+00:14:07,200 --> 00:14:10,399
 jakožto přednášející měl znát Musím
 
-280
-0:14:10,399 --> 0:14:11,799
+253
+00:14:10,399 --> 00:14:11,799
 říct že pro učitele přednášky jsem
 
-281
-0:14:11,799 --> 0:14:15,100
+254
+00:14:11,799 --> 00:14:15,100
 opravdu první řadu shlédnu skoro celou
 
-282
-0:14:15,100 --> 0:14:18,799
+255
+00:14:15,100 --> 00:14:18,799
 Ano ta jména
 
-283
-0:14:18,799 --> 0:14:21,899
+256
+00:14:18,799 --> 00:14:21,899
 mi přesto do hlavy moc nejdou pravda
 
-284
-0:14:21,899 --> 0:14:25,399
+257
+00:14:21,899 --> 00:14:25,399
 Musím přiznat scenaristiky je tento
 
-285
-0:14:25,399 --> 0:14:28,899
+258
+00:14:25,399 --> 00:14:28,899
 seriál pro malé děti lepší než takový
 
-286
-0:14:28,899 --> 0:14:31,500
+259
+00:14:28,899 --> 00:14:31,500
 řekněme 70% běžných anime
 
-287
-0:14:32,600 --> 0:14:35,000
+260
+00:14:32,600 --> 00:14:35,000
 protože postavit tam opravdu mají
 
-288
-0:14:35,000 --> 0:14:38,100
+261
+00:14:35,000 --> 00:14:38,100
 nějakou osobnost a obvykle mají i co
 
-289
-0:14:38,100 --> 0:14:41,100
+262
+00:14:38,100 --> 00:14:41,100
 říct Nejedná se jen o prázdné
 
-290
-0:14:41,100 --> 0:14:44,799
+263
+00:14:41,100 --> 00:14:44,799
 prázdné pózy či schránky které jednají
 
-291
-0:14:44,799 --> 0:14:47,299
+264
+00:14:44,799 --> 00:14:47,299
 právě tak jak se s Rüstem hodí Tedy
 
-292
-0:14:47,299 --> 0:14:48,799
+265
+00:14:47,299 --> 00:14:48,799
 alespoň co se týče první řady co jsem
 
-293
-0:14:48,799 --> 0:14:50,799
+266
+00:14:48,799 --> 00:14:50,799
 tak slyšel o druhé řadě od skalních
 
-294
-0:14:50,799 --> 0:14:52,799
+267
+00:14:50,799 --> 00:14:52,799
 fanoušků tam už topí tak i a šťastné
 
-295
-0:14:52,799 --> 0:14:53,200
+268
+00:14:52,799 --> 00:14:53,200
 není
 
-296
-0:14:56,299 --> 0:15:00,200
+269
+00:14:56,299 --> 00:15:00,200
 a tak ano tak
 
-297
-0:15:00,200 --> 0:15:03,299
+270
+00:15:00,200 --> 00:15:03,299
 to vypadá Zde můžete vidět i
 
-298
-0:15:03,299 --> 0:15:06,600
+271
+00:15:03,299 --> 00:15:06,600
 vlastně většinu hlavních
 
-299
-0:15:06,600 --> 0:15:08,600
+272
+00:15:06,600 --> 00:15:08,600
 aktérek a
 
-300
-0:15:08,600 --> 0:15:12,200
+273
+00:15:08,600 --> 00:15:12,200
 jakmile vidíte tento svatý obrázek
 
-301
-0:15:12,200 --> 0:15:14,899
+274
+00:15:12,200 --> 00:15:14,899
 tak vám rovnou tedy začnu ty sny ničit
 
-302
-0:15:14,899 --> 0:15:16,799
+275
+00:15:14,899 --> 00:15:16,799
 protože přijdu vysvětlení pojmu Slash
 
-303
-0:15:16,799 --> 0:15:20,299
+276
+00:15:16,799 --> 00:15:20,299
 Omlouvám se Kalisto Pokud snad nebudu
 
-304
-0:15:20,299 --> 0:15:23,899
+277
+00:15:20,299 --> 00:15:23,899
 tak řekněme důkladný
 
-305
-0:15:23,899 --> 0:15:27,500
+278
+00:15:23,899 --> 00:15:27,500
 neproberu to tak do hloubky Ale půjdeme
 
-306
-0:15:27,500 --> 0:15:29,799
+279
+00:15:27,500 --> 00:15:29,799
 půjdeme o to vám předložit surovou
 
-307
-0:15:29,799 --> 0:15:30,100
+280
+00:15:29,799 --> 00:15:30,100
 realitu
 
-308
-0:15:35,500 --> 0:15:37,000
- ano
-
-309
-0:15:38,200 --> 0:15:40,700
-krásné sny se pro ty šťastnější jež
-
-310
-0:15:40,700 --> 0:15:43,700
-význam tohoto slova neznají slyšet
-
-311
-0:15:43,700 --> 0:15:45,700
-označení tvorby fanoušků zaměřené na
-
-312
-0:15:45,700 --> 0:15:48,299
-spárování postat jednotlivé aktéry
-
-313
-0:15:48,299 --> 0:15:51,799
-odděluje lomítko proto flash a jeho
-
-314
-0:15:51,799 --> 0:15:54,000
-romantické a většinou i tělesné
-
-315
-0:15:54,000 --> 0:15:55,399
-naplňování
-
-316
-0:15:57,200 --> 0:15:57,799
- znovu připomínám
-
-317
-0:15:59,899 --> 0:16:03,500
-klisny poníci Slash a
-
-318
-0:16:03,500 --> 0:16:05,500
-dveře jsou tam
-
-319
-0:16:08,299 --> 0:16:12,200
-těm kterým
-
-320
-0:16:12,200 --> 0:16:14,500
-prozatím nedochází děsivého z tohoto
-
-321
-0:16:14,500 --> 0:16:18,500
-spojení v pořádku Uvidíme
-
-322
-0:16:18,500 --> 0:16:21,100
-jak dál tím k těm kterým dochází a
-
-323
-0:16:21,100 --> 0:16:23,299
-ještě neodcházej Dobrá budeme
-
-324
-0:16:23,299 --> 0:16:26,399
-pokračovat Ti z vás říct na doufají v
-
-325
-0:16:26,399 --> 0:16:28,799
-nějaký specifický obrazový materiál
-
-326
-0:16:28,799 --> 0:16:32,100
-musel jsem ho výrazně
-
-327
-0:16:32,100 --> 0:16:35,000
-výrazně opravdu velmi výrazně omezovat
-
-328
-0:16:35,000 --> 0:16:36,899
-to takovým způsobem že v podstatě v
-
-329
-0:16:36,899 --> 0:16:39,200
-této sebeprezentaci není skoro žádný
-
-330
-0:16:39,200 --> 0:16:42,799
-nedostatku času uvedení by se muselo
-
-331
-0:16:42,799 --> 0:16:43,700
-jít na to černé obdélníky
-
-332
-0:16:46,399 --> 0:16:49,299
-Ano fanoušci si v mnohém servítky
-
-333
-0:16:49,299 --> 0:16:53,299
-neberou a Nevadí jim provádět
-
-334
-0:16:53,299 --> 0:16:55,000
-svým oblíbencům mnohé
-
-335
-0:16:56,700 --> 0:17:00,700
-Ano v základu tedy se
-
-336
-0:17:00,700 --> 0:17:02,600
-budeme bavit o Pony iurii
-
-337
-0:17:05,500 --> 0:17:07,400
-a jestli mi řeknete že v druhé řadě se
-
-338
-0:17:07,400 --> 0:17:09,900
-odvíjí poník s liliemi na boku tak budu
-
-339
-0:17:09,900 --> 0:17:10,200
-vraždit
-
-340
-0:17:14,000 --> 0:17:17,900
-nože základ Ano Pony Mánie
-
-341
-0:17:17,900 --> 0:17:20,900
-kdopak mu jak jsou staří ti kteří
-
-342
-0:17:20,900 --> 0:17:23,900
-sledují podobný seriál Jak vidíte
-
-343
-0:17:23,900 --> 0:17:27,799
-přibližně takto staří Můžeš se
-
-344
-0:17:27,799 --> 0:17:31,000
-zhasnout aby diváci mohli zdálky od
-
-345
-0:17:31,000 --> 0:17:34,099
-svých alespoň první polechtání touto
-
-346
-0:17:34,099 --> 0:17:37,799
-dle hincu a krásný většinou je to
-
-347
-0:17:37,799 --> 0:17:40,599
-lehce angažovanou erotikou
-
-348
-0:17:42,099 --> 0:17:45,900
-No že ano základní Fenomén plný síly a
-
-349
-0:17:45,900 --> 0:17:49,599
-poníci jsou nejenom vlastně využívání
-
-350
-0:17:49,599 --> 0:17:52,700
-ve svých podobách řekne to takto ale
-
-351
-0:17:52,700 --> 0:17:55,299
-jsou i anthropomorphic ování to svých
-
-352
-0:17:55,299 --> 0:17:58,900
-protějšků a ano Slash se týká
-
-353
-0:17:58,900 --> 0:18:01,200
-obého i napříč
-
-354
-0:18:04,099 --> 0:18:07,099
-Jinými slovy Budeme se tu bavit o
-
-355
-0:18:07,099 --> 0:18:09,599
-opisech takových věcí jako je
-
-356
-0:18:11,400 --> 0:18:14,099
-tělesný interakce mezi
-
-357
-0:18:14,099 --> 0:18:17,900
-ženou a klisnou a
-
-358
-0:18:17,900 --> 0:18:20,099
-obráceně
-
-359
-0:18:20,099 --> 0:18:24,099
-takových
-
-360
-0:18:24,099 --> 0:18:27,700
-věcech jako je tedy popisování a
-
-361
-0:18:27,700 --> 0:18:30,700
-stavba příběhu o tělesně na základě
-
-362
-0:18:30,700 --> 0:18:33,099
-tělesné trati mezi klisnami a mezi
-
-363
-0:18:33,099 --> 0:18:36,099
-ženami navíc k tomu protože Friendship
-
-364
-0:18:36,099 --> 0:18:38,700
-is magic so Love is powerful
-
-365
-0:18:38,700 --> 0:18:42,400
-anime v tom hraje roli
-
-366
-0:18:42,400 --> 0:18:46,099
-takže se nemusíme omezovat na řekněme
-
-367
-0:18:46,099 --> 0:18:49,700
-běžné biologické omezení pojmu pohlaví
-
-368
-0:18:52,299 --> 0:18:52,799
- tak
-
-369
-0:18:55,299 --> 0:18:58,200
-představíme si tedy základní
-
-370
-0:18:58,200 --> 0:18:59,500
-část
-
-371
-0:19:00,400 --> 0:19:02,500
-máme tady my light Sparkle
-
-372
-0:19:02,500 --> 0:19:05,799
-něco jako hlavní
-
-373
-0:19:05,799 --> 0:19:08,799
-protagonistkou celé série která funguje
-
-374
-0:19:08,799 --> 0:19:11,799
-jakožto že žačka vlastně princezny
-
-375
-0:19:11,799 --> 0:19:15,400
-celestie která se učí magii jakožto ten
-
-376
-0:19:15,400 --> 0:19:19,200
-hlavní pojící prvek který objeví že pět
-
-377
-0:19:19,200 --> 0:19:22,299
-elementů Harmonie spojených šestým což
-
-378
-0:19:22,299 --> 0:19:24,700
-je to přátelství vytváří ultimátní
-
-379
-0:19:24,700 --> 0:19:28,099
-magii která pomůže která může spasit
-
-380
-0:19:28,099 --> 0:19:30,900
-svět může konat různé věci a tak dále A
-
-381
-0:19:30,900 --> 0:19:34,000
-samozřejmě protože sama je knihomol kou
-
-382
-0:19:34,000 --> 0:19:36,400
-která moc nevystrčila ve svých
-
-383
-0:19:36,400 --> 0:19:40,400
-zapálených studií hlavu ani roh ze
-
-384
-0:19:40,400 --> 0:19:44,299
-své knihovny je vlastně v Ponyville
-
-385
-0:19:44,299 --> 0:19:47,400
-docela výrazně konfrontována s
-
-386
-0:19:47,400 --> 0:19:51,000
-vytvářením sociálních vazeb s jinými
-
-387
-0:19:51,000 --> 0:19:52,500
-tedy klisnami poníků
-
-388
-0:19:53,700 --> 0:19:57,700
-v slyší jako takovém se o této postavě
-
-389
-0:19:57,700 --> 0:20:01,200
-dá mluvit jako o jedné ze dvou Omega
-
-390
-0:20:01,200 --> 0:20:03,599
-Lesbian a hlavního K stůl
-
-391
-0:20:03,599 --> 0:20:07,299
-pro ty z vás kteří nechápou tento pojem
-
-392
-0:20:07,299 --> 0:20:09,099
-dveře vpravo
-
-393
-0:20:09,099 --> 0:20:13,099
-tak jako je alfa samec
-
-394
-0:20:13,099 --> 0:20:16,799
-jakožto mužský řekněme
-
-395
-0:20:16,799 --> 0:20:20,500
-mužský borec v
-
-396
-0:20:20,500 --> 0:20:23,400
-krásné slovo ano mužský borec
-
-397
-0:20:23,400 --> 0:20:27,299
-schopný se svými přednostmi
-
-398
-0:20:27,299 --> 0:20:29,700
-obvykle samozřejmě mentálního
-
-399
-0:20:29,700 --> 0:20:33,200
-charakteru zaujmout co možná nejširší
-
-400
-0:20:33,200 --> 0:20:36,799
-množství dívčích protějšků
-
-401
-0:20:36,799 --> 0:20:40,099
-tak Omega samec si je
-
-402
-0:20:40,099 --> 0:20:43,700
-ten který je obvykle
-
-403
-0:20:43,700 --> 0:20:46,700
-opět samozřejmě Díky svým mentálním
-
-404
-0:20:46,700 --> 0:20:49,000
-kvalitám zaujímá
-
-405
-0:20:49,000 --> 0:20:52,799
-větším množstvím ženských
-
-406
-0:20:52,799 --> 0:20:53,200
-protějšků
-
-407
-0:20:53,700 --> 0:20:57,599
-V případě Pony Yuri To znamená že
-
-408
-0:20:57,599 --> 0:21:01,299
-Twilight Sparkle jde spárovat s kýmkoli
-
-409
-0:21:01,299 --> 0:21:04,599
-A jelikož je to studentka magie tak
-
-410
-0:21:04,599 --> 0:21:06,099
-dokonce i samo se sebou
-
-411
-0:21:06,099 --> 0:21:10,599
-tak
-
-412
-0:21:10,599 --> 0:21:14,500
-ano je to jelikož
-
-413
-0:21:14,500 --> 0:21:16,900
-funguje jako ten pojící Perfect Harmony
-
-414
-0:21:16,900 --> 0:21:20,500
-přátelství v magii přátelství
-
-415
-0:21:20,500 --> 0:21:23,900
-tak je samozřejmé že pro zharmonizování
-
-416
-0:21:23,900 --> 0:21:27,799
-vztahu jsou různé práce oni ať už
-
-417
-0:21:27,799 --> 0:21:30,200
-komiksového nebo psaného rázu
-
-418
-0:21:30,200 --> 0:21:34,099
-sami takže opravdu
-
-419
-0:21:34,099 --> 0:21:36,099
-jde s kýmkoli
-
-420
-0:21:37,799 --> 0:21:39,799
-a oběd a k tomu máte vznešené důvody
-
-421
-0:21:39,799 --> 0:21:43,799
-jak se říká Byl to myslím že
-
-422
-0:21:43,799 --> 0:21:46,599
-i jeden slogan jedné nejmenované
-
-423
-0:21:46,599 --> 0:21:49,200
-politické strany která Naštěstí už není
-
-424
-0:21:49,200 --> 0:21:51,200
-myslím že v aktivní na českém území
-
-425
-0:21:51,200 --> 0:21:54,200
-měla zkratku nej Ti z vás kteří
-
-426
-0:21:54,200 --> 0:21:57,000
-neznají pak další po titulu nemusí
-
-427
-0:21:57,000 --> 0:21:59,400
-litovat a základem pouštím opět
-
-428
-0:21:59,400 --> 0:22:01,200
-angličtinu protože tu mi to nemůže
-
-429
-0:22:01,200 --> 0:22:02,799
-nikdo vytýkat jelikož jdu mi anglicky
-
-430
-0:22:02,799 --> 0:22:06,700
-to jeho vina že tomu rozumí LED Sex s
-
-431
-0:22:06,700 --> 0:22:09,400
-Ex Save the world
-
-432
-0:22:09,400 --> 0:22:13,400
-takže Hlavní motivace
-
-433
-0:22:13,400 --> 0:22:16,200
-která obvykle vede k tomu proč je
-
-434
-0:22:16,200 --> 0:22:19,599
-Palace Pártl tedy Omega lesbian
-
-435
-0:22:22,500 --> 0:22:25,200
-jako jedno z prvních dalších klicem
-
-436
-0:22:25,200 --> 0:22:27,799
-kterou vlastně ve vesničce Kam byla
-
-437
-0:22:27,799 --> 0:22:31,799
-převelena svou mistryní potkává je
-
-438
-0:22:31,799 --> 0:22:35,200
-Applejack Jak vidíte kovbojský klobouk
-
-439
-0:22:35,200 --> 0:22:38,000
-to znamená holka z Divokého západu
-
-440
-0:22:38,000 --> 0:22:40,700
-děvče do nepohody má velkou rodinu
-
-441
-0:22:40,700 --> 0:22:43,200
-pomáhá na farmě všichni mají rádi
-
-442
-0:22:43,200 --> 0:22:45,500
-protože jsi prostě umí se vším poradit
-
-443
-0:22:45,500 --> 0:22:48,599
-Kdo z vás čeká Bořka stavitele nemýlí
-
-444
-0:22:48,599 --> 0:22:52,400
-se jen je to
-
-445
-0:22:52,400 --> 0:22:56,200
-tedy v té Pony podobě takže
-
-446
-0:22:56,200 --> 0:23:00,000
-dívka ze západu a v rámci plyšového
-
-447
-0:23:00,000 --> 0:23:02,900
-párování se bavíme o Alfa Lesbian o
-
-448
-0:23:02,900 --> 0:23:06,799
-první ze dvou s tím že to je
-
-449
-0:23:06,799 --> 0:23:08,599
-to se navíc ještě obvykle dává
-
-450
-0:23:08,599 --> 0:23:12,599
-přívlastek Gentle Alpha Lesbian pak
-
-451
-0:23:12,599 --> 0:23:14,700
-tu máme totiž jedno hardcore a to
-
-452
-0:23:14,700 --> 0:23:16,200
-budeme jmenovat hnedle myslím že po ní
-
-453
-0:23:17,099 --> 0:23:20,599
-tak Applejack poradí se vším ráda
-
-454
-0:23:20,599 --> 0:23:24,200
-pomůže ostatní poníci samozřejmě
-
-455
-0:23:24,200 --> 0:23:27,000
-věří rádi rádi si ji nechají pomáhat a
-
-456
-0:23:27,000 --> 0:23:29,799
-mají má občas problémy i přes Visa
-
-457
-0:23:29,799 --> 0:23:32,400
-nechala pomoci což samozřejmě vede k
-
-458
-0:23:32,400 --> 0:23:34,400
-tomu že oni mají mnohdy strach a tedy
-
-459
-0:23:34,400 --> 0:23:37,000
-dbají o ní a nechávají o sebe dbát a
-
-460
-0:23:37,000 --> 0:23:39,299
-tyhlety vazbě jsou různě posilovány a
-
-461
-0:23:39,299 --> 0:23:42,799
-posilovány a skončí v různých
-
-462
-0:23:42,799 --> 0:23:46,299
-budovách na loukách a v na jiných
-
-463
-0:23:46,299 --> 0:23:48,700
-prostorách vhodných nebo nebo nebo
-
-464
-0:23:48,700 --> 0:23:51,799
-nevhodný k provádění prohlubování
-
-465
-0:23:51,799 --> 0:23:53,000
-vzájemné a poznání
-
-466
-0:23:55,099 --> 0:23:59,000
-navíc pomoc na farmě mnohdy vede k tomu
-
-467
-0:23:59,000 --> 0:24:02,900
-že řekněme pharao bývají
-
-468
-0:24:02,900 --> 0:24:06,900
-různé tvorové Aikido unifikovat
-
-469
-0:24:06,900 --> 0:24:10,599
-nebo anthropomorphism vad a tak
-
-470
-0:24:10,599 --> 0:24:13,099
-dále věřím že vaše představivost teď u
-
-471
-0:24:13,099 --> 0:24:16,299
-mnohých z vás funguje na plné obrátky a
-
-472
-0:24:16,299 --> 0:24:20,099
-mnozí toto počínání proklínat a
-
-473
-0:24:21,000 --> 0:24:22,000
-ale já vás varoval
-
-474
-0:24:22,000 --> 0:24:25,200
-Ano
-
-475
-0:24:25,200 --> 0:24:28,799
-Rainbow Dash pro
-
-476
-0:24:28,799 --> 0:24:30,799
-zajímavost Samozřejmě jak Apple Jack a
-
-477
-0:24:30,799 --> 0:24:33,400
-tak Rainbow Dash Pardon Applejack a
-
-478
-0:24:33,400 --> 0:24:36,299
-Rainbow Dash mluví stejná řekněme se u
-
-479
-0:24:36,299 --> 0:24:39,000
-mámy tak jsme na herečka a obě mají
-
-480
-0:24:39,000 --> 0:24:41,299
-dost ladění hlasu do takového toho
-
-481
-0:24:41,299 --> 0:24:44,299
-chlapeckého tónu samozřejmě nám tím
-
-482
-0:24:44,299 --> 0:24:45,799
-autoři nechtěli vůbec nic naznačit
-
-483
-0:24:45,799 --> 0:24:49,799
-nedejbože snad aby vytvářely i
-
-484
-0:24:49,799 --> 0:24:53,299
-nějaký mylný dojem že by tam snad mohl
-
-485
-0:24:53,299 --> 0:24:55,799
-mohly existovat i nějací výrazně se
-
-486
-0:24:55,799 --> 0:24:57,900
-vyskytující vysloveně podnik jakožto
-
-487
-0:24:57,900 --> 0:24:58,299
-koně
-
-488
-0:24:59,200 --> 0:25:01,400
-No a Rainbow Dash můžete si všimnout
-
-489
-0:25:01,400 --> 0:25:04,299
-malý křidélek protože tento poník nemá
-
-490
-0:25:04,299 --> 0:25:06,000
-rok ale má křídla je to Vegas
-
-491
-0:25:07,500 --> 0:25:09,099
- je to Pegas který
-
-492
-0:25:14,700 --> 0:25:15,400
- Cože
-
-493
-0:25:17,299 --> 0:25:19,299
-nějaká poznámka A v pořádku takže
-
-494
-0:25:19,299 --> 0:25:22,500
-rimbou deš Tak jasné Craft který je
-
-495
-0:25:22,500 --> 0:25:25,500
-samozřejmě extrémně ženský protože
-
-496
-0:25:25,500 --> 0:25:29,000
-se strašně ráda že ne nebem tou velkou
-
-497
-0:25:29,000 --> 0:25:31,599
-rychlostí miluje adrenalin nové výzvy
-
-498
-0:25:31,599 --> 0:25:34,200
-své kamarády nikdy nenechá ve štychu
-
-499
-0:25:34,200 --> 0:25:38,200
-protože je absolutně věrná a kdykoli
-
-500
-0:25:38,200 --> 0:25:40,000
-je nějaký problém který zahrnuje
-
-501
-0:25:40,000 --> 0:25:42,200
-rychlost silové nasazení nebo prostě
-
-502
-0:25:42,200 --> 0:25:46,099
-nějaké fyzické výkony tak je tady
-
-503
-0:25:47,299 --> 0:25:50,900
-to že tady mluvíme o Hard Alfa lesby
-
-504
-0:25:50,900 --> 0:25:54,400
-nás nikoho nepřekvapí to že
-
-505
-0:25:54,400 --> 0:25:57,299
-kamarádkou z dětství je
-
-506
-0:25:57,299 --> 0:26:00,700
-Nesrovná řekněme společenské
-
-507
-0:26:00,700 --> 0:26:04,099
-adaptabilní a všeobecně Hot řekněme
-
-508
-0:26:04,099 --> 0:26:08,099
-přijímán jako hodná hodnostní hodný jak
-
-509
-0:26:08,099 --> 0:26:12,099
-to nazvat je to Grid nehoda Gryf
-
-510
-0:26:12,099 --> 0:26:14,200
-tady asi
-
-511
-0:26:15,299 --> 0:26:16,599
-Griffin
-
-512
-0:26:16,599 --> 0:26:20,299
-má přítelkyni z
-
-513
-0:26:20,299 --> 0:26:23,000
-dětství která je Orlem který se
-
-514
-0:26:23,000 --> 0:26:26,000
-pohybuje po čtyřech nohou a má křídla
-
-515
-0:26:26,000 --> 0:26:30,000
-tímto obejdeme tak to zrovna moc
-
-516
-0:26:30,000 --> 0:26:33,700
-nenahrává její úloze Řekněme v tom
-
-517
-0:26:33,700 --> 0:26:37,500
-posilování Přátelství je to spíš tak je
-
-518
-0:26:37,500 --> 0:26:39,700
-úlohu je spíš takové vymáhání
-
-519
-0:26:39,700 --> 0:26:43,299
-přátelství a následného prohlubování
-
-520
-0:26:43,299 --> 0:26:46,799
-poznávání a tak dále Co se týče
-
-521
-0:26:46,799 --> 0:26:50,400
-její rychlosti i na to se pak v rámci
-
-522
-0:26:50,400 --> 0:26:54,099
-hloubkového poznávání řekněme
-
-523
-0:26:54,099 --> 0:26:56,299
-odvolávají různé tvůrci fanfikcí a
-
-524
-0:26:56,299 --> 0:26:59,299
-Skalní fanoušci této postavě za to
-
-525
-0:26:59,299 --> 0:27:02,200
-nemají rádi je zajímavé že jim tolerují
-
-526
-0:27:02,200 --> 0:27:04,700
-to že by píšu tyto fanfikce ale to že
-
-527
-0:27:04,700 --> 0:27:08,599
-je to kliky Řekněme že jí mají nejvíce
-
-528
-0:27:08,599 --> 0:27:12,099
-No co se dá dělat je aspoň vidět jaký
-
-529
-0:27:12,099 --> 0:27:14,400
-fandom kolem sebe Rainbow Dash hlavně
-
-530
-0:27:14,400 --> 0:27:14,599
-má
-
-531
-0:27:15,599 --> 0:27:19,099
-takže 2. Alpha Lesbian se sněžným Heart
-
-532
-0:27:19,099 --> 0:27:20,900
-of Lesbian Rainbow Dash
-
-533
-0:27:23,000 --> 0:27:25,299
- Ano další Rarity
-
-534
-0:27:26,799 --> 0:27:29,099
-tak máme tady
-
-535
-0:27:29,099 --> 0:27:33,099
-klisnu poníka který má
-
-536
-0:27:33,099 --> 0:27:37,000
-styl který se rád obléká jako poník
-
-537
-0:27:37,000 --> 0:27:40,299
-samozřejmě i a který rád dekoruje různé
-
-538
-0:27:40,299 --> 0:27:43,700
-věci a prostě celkově vizáž a
-
-539
-0:27:43,700 --> 0:27:47,000
-ladění na to krásné a estetično je tu
-
-540
-0:27:47,000 --> 0:27:50,700
-výrazně zvednuta hlavním snem je aby
-
-541
-0:27:50,700 --> 0:27:54,500
-mohla na bále zaujmout krásnou natolik
-
-542
-0:27:54,500 --> 0:27:57,299
-že jí bude řečeno Ano můžete si vzít
-
-543
-0:27:57,299 --> 0:28:00,000
-následníka trůnu úžasného Bílého
-
-544
-0:28:00,000 --> 0:28:02,700
-jednorožce který je prostě tak úžasný a
-
-545
-0:28:02,700 --> 0:28:04,599
-skvělý že kdyby mu že kdyby tato
-
-546
-0:28:04,599 --> 0:28:06,700
-nabídka byla podána tak samozřejmě v
-
-547
-0:28:06,700 --> 0:28:08,500
-klidu odpoví Já si neberu
-
-548
-0:28:08,500 --> 0:28:12,200
-Takže
-
-549
-0:28:12,200 --> 0:28:14,900
-ano rarity a její a
-
-550
-0:28:14,900 --> 0:28:18,000
-řekněme taková běžná
-
-551
-0:28:18,000 --> 0:28:21,900
-dívka podle některých autorů
-
-552
-0:28:21,900 --> 0:28:25,400
-slashe jde až do marnivá podle jiných
-
-553
-0:28:25,400 --> 0:28:26,599
-má samozřejmě to s
-
-554
-0:28:26,700 --> 0:28:30,299
-zlatá a tím pádem ráda vypomůže
-
-555
-0:28:30,299 --> 0:28:34,000
-různým poníkům vůbec nechci zmiňovat
-
-556
-0:28:34,000 --> 0:28:37,700
-některé fanfikce ve kterých se obléká
-
-557
-0:28:37,700 --> 0:28:39,599
-nebo nutí oblékat jiné podniky do
-
-558
-0:28:39,599 --> 0:28:42,299
-řekněme kostým které obsahují latex
-
-559
-0:28:42,299 --> 0:28:45,099
-kůži a igelit ale i to co se děje
-
-560
-0:28:47,900 --> 0:28:51,200
-taky nějak se u ní zavedlo
-
-561
-0:28:51,200 --> 0:28:54,500
-Ani nevíte co všechno může mít Rarity
-
-562
-0:28:54,500 --> 0:28:57,000
-ve svém šatníku nedejbože ve sklepě
-
-563
-0:28:57,000 --> 0:29:00,599
-člověk už je už dvě už jen čeká až
-
-564
-0:29:00,599 --> 0:29:03,000
-někde oznámí že se odstěhovala do
-
-565
-0:29:03,000 --> 0:29:05,599
-Rakouska aby se tam inspirovalo svého
-
-566
-0:29:05,599 --> 0:29:06,500
-dlouholetého vzoru
-
-567
-0:29:08,099 --> 0:29:16,000
-Ano
-
-568
-0:29:16,000 --> 0:29:18,400
-má osobní
-
-569
-0:29:18,400 --> 0:29:22,299
-oblíbenkyně hyperaktivní stále
-
-570
-0:29:22,299 --> 0:29:25,500
-mluvící ne zrovna s
-
-571
-0:29:25,500 --> 0:29:28,299
-běžnými a specifickými způsoby se
-
-572
-0:29:28,299 --> 0:29:31,500
-pohybující poník s daní Pinkie Pie
-
-573
-0:29:31,500 --> 0:29:34,099
-neférové hopsání je ještě ten
-
-574
-0:29:34,099 --> 0:29:36,700
-normálnější způsob řekněme prostorové
-
-575
-0:29:36,700 --> 0:29:38,299
-translace tohoto poníka
-
-576
-0:29:39,400 --> 0:29:42,799
-různé další samohyby a
-
-577
-0:29:42,799 --> 0:29:46,400
-prostředky pro urychlení ztížení a
-
-578
-0:29:46,400 --> 0:29:49,200
-naprosto nemožné znemožnění přepravy
-
-579
-0:29:49,200 --> 0:29:52,099
-jsou její specialitou k tomu naprosto
-
-580
-0:29:52,099 --> 0:29:55,500
-brutální ujíždí na pořádání párty je to
-
-581
-0:29:55,500 --> 0:29:58,200
-ten nej společenství She's poník který
-
-582
-0:29:58,200 --> 0:30:00,099
-je na kterou můžete narazit tomto
-
-583
-0:30:00,099 --> 0:30:03,799
-seriálu a ano společnost je také
-
-584
-0:30:03,799 --> 0:30:06,299
-něco co se autoři Slash a dosti dobře
-
-585
-0:30:06,299 --> 0:30:09,500
-uvědomuji a proto Pinkie Pie a je
-
-586
-0:30:09,500 --> 0:30:13,299
-takový Happy Pie Brno nechceš úplně pro
-
-587
-0:30:13,299 --> 0:30:16,000
-všechny ale tak nějak jí nevadí
-
-588
-0:30:16,000 --> 0:30:19,400
-pozornost jednoho protějšku druhého
-
-589
-0:30:19,400 --> 0:30:21,500
-protějšku případně všech návštěvníků
-
-590
-0:30:21,500 --> 0:30:22,500
-dané párty
-
-591
-0:30:22,500 --> 0:30:26,099
-co se týče
-
-592
-0:30:26,099 --> 0:30:29,799
-mé úlohy v rámci
-
-593
-0:30:29,799 --> 0:30:32,900
-obvyklého párování s hlavním městem tak
-
-594
-0:30:32,900 --> 0:30:36,400
-Pinkie Pie má nejblíže k Rainbow Dash s
-
-595
-0:30:36,400 --> 0:30:39,299
-tím že rýmu když tam v pravidlech
-
-596
-0:30:39,400 --> 0:30:43,099
-jak jsem říkal vymáhající vymahaji
-
-597
-0:30:43,099 --> 0:30:46,299
-vymáhání přátelství a Pinkie Pie je ta
-
-598
-0:30:46,299 --> 0:30:48,599
-poskytovatel k přátelství případně
-
-599
-0:30:48,599 --> 0:30:50,099
-poskytovatele a jiných svých kamarádek
-
-600
-0:30:50,099 --> 0:30:53,299
-ale to už zase zabijačku jinému tématu
-
-601
-0:30:55,299 --> 0:30:58,500
-Ano i toto je zpracováno Jak jako
-
-602
-0:30:58,500 --> 0:31:01,299
-komiks tak jako fanfikce papíru na se
-
-603
-0:31:01,299 --> 0:31:04,400
-všechno a ti z vás kteří opravdu chtějí
-
-604
-0:31:04,400 --> 0:31:06,799
-neotevře mám furt posílat nebudu Jsem
-
-605
-0:31:06,799 --> 0:31:10,099
-rád že se mě dokázal smazat a už se na
-
-606
-0:31:10,099 --> 0:31:11,200
-něj nikdy nepodívám
-
-607
-0:31:12,200 --> 0:31:15,299
-mají jednoduchou možnost využít pana
-
-608
-0:31:15,299 --> 0:31:17,700
-Googla protože podobné věci najdete na
-
-609
-0:31:17,700 --> 0:31:18,500
-prvních stránkách
-
-610
-0:31:23,200 --> 0:31:26,900
-Ano 2 Omega Lesbian hlavního
-
-611
-0:31:26,900 --> 0:31:30,200
-castu flatršaj je to Dívka
-
-612
-0:31:30,200 --> 0:31:33,500
-která má ráda přírodu a Rozumí si se
-
-613
-0:31:33,500 --> 0:31:36,599
-zvířátky mají velmi ráda hlavně pokud
-
-614
-0:31:36,599 --> 0:31:38,400
-jsou roztomilá a nebo si nějak jsme
-
-615
-0:31:38,400 --> 0:31:39,099
-roztomile projevují
-
-616
-0:31:40,099 --> 0:31:43,799
-A tak je trošku Řekněme
-
-617
-0:31:43,799 --> 0:31:46,400
-zaostává v tom internetu s lidmi je
-
-618
-0:31:46,400 --> 0:31:49,700
-velmi stydlivá asi nejkrásnějším
-
-619
-0:31:49,700 --> 0:31:51,599
-Příkladem je u nás známá scéna kdy je
-
-620
-0:31:51,599 --> 0:31:53,900
-Rainbow Dash Rainbow Dash snaží nalézt
-
-621
-0:31:53,900 --> 0:31:55,900
-do toho že ho že jí bude podporovat na
-
-622
-0:31:55,900 --> 0:31:58,299
-jednom z vlastně se vzdušných závodů a
-
-623
-0:31:58,299 --> 0:32:01,000
-chce po ní aby ho hlasitě podporovala
-
-624
-0:32:01,000 --> 0:32:01,799
-což vede k tomu že
-
-625
-0:32:08,200 --> 0:32:12,000
-Takže ano flatršaj stydlivá
-
-626
-0:32:12,000 --> 0:32:15,099
-2 Amiga lesy hlavního castu jakožto
-
-627
-0:32:15,099 --> 0:32:17,799
-takto submisivní a stydlivá samozřejmě
-
-628
-0:32:17,799 --> 0:32:19,799
-musí podléhat všem
-
-629
-0:32:19,799 --> 0:32:23,799
-asi nejčastější vysvětlení pak její
-
-630
-0:32:23,799 --> 0:32:25,200
-stydlivosti a řekněme takového
-
-631
-0:32:25,200 --> 0:32:28,500
-sociálního osekání bývá pak záliba
-
-632
-0:32:28,500 --> 0:32:32,099
-Rarity v kožených oděvů a podzemních
-
-633
-0:32:32,099 --> 0:32:32,500
-prostorách
-
-634
-0:32:33,700 --> 0:32:34,500
- pták
-
-635
-0:32:38,799 --> 0:32:42,200
-To bychom tedy měli Řekni mi hlavní 600
-
-636
-0:32:42,200 --> 0:32:45,000
-a ano jelikož celé
-
-637
-0:32:45,000 --> 0:32:48,700
-celém kontinentu magické
-
-638
-0:32:48,700 --> 0:32:51,400
-země poníků vlastně
-
-639
-0:32:51,400 --> 0:32:55,400
-vládne princezna několik královna
-
-640
-0:32:55,400 --> 0:32:58,599
-celestie tak nebylo by to
-
-641
-0:32:58,599 --> 0:33:01,799
-nebyly to Slash aby samozřejmě i takto
-
-642
-0:33:01,799 --> 0:33:05,500
-významná z tygra nemohla být zapojena
-
-643
-0:33:05,500 --> 0:33:09,500
-jeden z těch a scenáristické
-
-644
-0:33:09,500 --> 0:33:11,700
-zajímavějších se snažit o tom magické
-
-645
-0:33:11,700 --> 0:33:15,000
-království vlastně zpodobnit jakožto
-
-646
-0:33:15,000 --> 0:33:18,500
-regulérně existující monarchii ve které
-
-647
-0:33:18,500 --> 0:33:20,799
-z nějakého důvodu ovládne princezna
-
-648
-0:33:20,799 --> 0:33:23,799
-nikoli královna to protože díky své
-
-649
-0:33:23,799 --> 0:33:25,700
-magické moci v podstatě uchvátila moc
-
-650
-0:33:25,700 --> 0:33:29,500
-moc a moc světskou tak to A tak nějak
-
-651
-0:33:29,500 --> 0:33:32,500
-zavádí obvykle středověké zákony
-
-652
-0:33:32,500 --> 0:33:35,799
-ty z vás které určitě jako na prvním
-
-653
-0:33:35,799 --> 0:33:37,599
-místě napadl zákon první noci tak
-
-654
-0:33:37,599 --> 0:33:38,599
-samozřejmě mají pravdu
-
-655
-0:33:38,799 --> 0:33:42,099
-taktéž je
-
-656
-0:33:42,099 --> 0:33:46,099
-to vlastně nejlepší kouzelnice která
-
-657
-0:33:46,099 --> 0:33:49,400
-vlastně na daném světě je to znamená že
-
-658
-0:33:49,400 --> 0:33:51,500
-jí nečiní problémy se svou magií
-
-659
-0:33:51,500 --> 0:33:55,099
-provádět různé věci jako například
-
-660
-0:33:55,099 --> 0:33:58,700
-to když třeba Pinkie Pie na jedné ze
-
-661
-0:33:58,700 --> 0:34:00,799
-svých párty nakonec jako hosté obdrží
-
-662
-0:34:00,799 --> 0:34:03,500
-pouze tuto princeznu A přesto Pinkie
-
-663
-0:34:03,500 --> 0:34:06,099
-Pie nestačím s dechem
-
-664
-0:34:09,699 --> 0:34:12,300
-No že ano ne princezna celestie
-
-665
-0:34:12,300 --> 0:34:15,800
-Samozřejmě nejčastějším párováním je
-
-666
-0:34:15,800 --> 0:34:18,800
-pak se musím stavit paspárků protože je
-
-667
-0:34:18,800 --> 0:34:21,500
-to již hračka A co by mohlo být
-
-668
-0:34:21,500 --> 0:34:24,099
-jednoznačnější podívejte
-
-669
-0:34:25,699 --> 0:34:28,300
-Ano aspoň tobě abych je Argument
-
-670
-0:34:28,300 --> 0:34:29,699
-podívejte se na ně a mi to jasné přece
-
-671
-0:34:29,699 --> 0:34:32,500
-musí to být jasné že když je to bílý
-
-672
-0:34:32,500 --> 0:34:36,400
-Pegas a magické magické mini
-
-673
-0:34:36,400 --> 0:34:39,599
-poník Pokud není jasné tak se vlastně
-
-674
-0:34:39,599 --> 0:34:41,099
-všichni a 306 zvrhlý ale to se ti
-
-675
-0:34:41,099 --> 0:34:41,599
-nemůžeme připustit
-
-676
-0:34:43,599 --> 0:34:47,199
-Takže ano dost časté tady
-
-677
-0:34:47,199 --> 0:34:52,400
-tedy
-
-678
-0:34:52,400 --> 0:34:56,300
-pokud do toho nezasáhne její sestra
-
-679
-0:34:56,300 --> 0:34:57,599
-Luna
-
-680
-0:34:59,199 --> 0:35:02,099
-a ano už i tady se začínají profilovat
-
-681
-0:35:02,099 --> 0:35:06,099
-věci jako je jak jsme se bavili o
-
-682
-0:35:06,099 --> 0:35:08,400
-rarity a jejich specifických zálibách
-
-683
-0:35:08,400 --> 0:35:11,099
-tak olu některá vlastně rady To je tak
-
-684
-0:35:11,099 --> 0:35:13,599
-říkajíc předvede že ona je v těch
-
-685
-0:35:13,599 --> 0:35:14,599
-věcech lepší
-
-686
-0:35:16,800 --> 0:35:20,500
-a následně jí na své sestře
-
-687
-0:35:20,500 --> 0:35:23,599
-začne učit některé pokročilé techniky
-
-688
-0:35:23,599 --> 0:35:27,500
-těchto záliv tedy Říkám si že
-
-689
-0:35:27,500 --> 0:35:29,300
-tato přenáší budeme mít květnatá s tím
-
-690
-0:35:29,300 --> 0:35:33,000
-je to opisuji jen doufám že to vzal
-
-691
-0:35:33,000 --> 0:35:36,599
-jsem si nikdy neobjeví nikde jinde tak
-
-692
-0:35:40,800 --> 0:35:43,800
-ten hnusný smích z že se mi vůbec
-
-693
-0:35:43,800 --> 0:35:44,699
-nelíbil a
-
-694
-0:35:44,699 --> 0:35:54,900
-nemůže
-
-695
-0:35:54,900 --> 0:35:58,400
-tedy sestra Luna která je
-
-696
-0:35:58,400 --> 0:36:01,900
-řekněme navíc
-
-697
-0:36:01,900 --> 0:36:04,800
-zatížena velkou rodinnou historií Ono
-
-698
-0:36:04,800 --> 0:36:06,900
-totiž když vznikne kontinent tak
-
-699
-0:36:06,900 --> 0:36:10,000
-Celeste vládla dni Luna noci tak jak to
-
-700
-0:36:10,000 --> 0:36:13,400
-bývá zvykem ale samozřejmě o nic jsi v
-
-701
-0:36:13,400 --> 0:36:16,400
-noci tedy až na flashové fanfikce a
-
-702
-0:36:16,400 --> 0:36:20,300
-komiksy spí a tím pádem Luna
-
-703
-0:36:20,300 --> 0:36:22,300
-jako taková mohla sledovat jen ten
-
-704
-0:36:22,300 --> 0:36:24,599
-spící svět a to jí nudilo a začala na
-
-705
-0:36:24,599 --> 0:36:27,599
-svou sestru žárlit aby se s ní v rámci
-
-706
-0:36:27,599 --> 0:36:29,099
-žárlivosti a touhy po moci chtěla
-
-707
-0:36:29,099 --> 0:36:31,900
-uchvátit celý kontinent pro sebe aby
-
-708
-0:36:31,900 --> 0:36:33,900
-nad ním byla jenom Věčná noc stal
-
-709
-0:36:33,900 --> 0:36:37,500
-Nightmare Moon samozřejmě
-
-710
-0:36:37,500 --> 0:36:39,800
-najtmer Mun jakožto variace Luny je
-
-711
-0:36:39,800 --> 0:36:40,599
-vesly
-
-712
-0:36:40,699 --> 0:36:44,199
-používána také velmi často a to v
-
-713
-0:36:44,199 --> 0:36:46,500
-různých podobách ono přeci jenom
-
-714
-0:36:46,500 --> 0:36:50,400
-zavést většinou tomu nad celým
-
-715
-0:36:50,400 --> 0:36:52,800
-kontinentem je snad ne když každého
-
-716
-0:36:52,800 --> 0:36:55,099
-poníka vybavíte
-
-717
-0:36:55,099 --> 0:36:59,099
-specifickým řekněme oděvem
-
-718
-0:36:59,099 --> 0:37:01,300
-s rozšířenou funkčností a
-
-719
-0:37:01,300 --> 0:37:05,300
-vlastně briffault neboli páskou přes
-
-720
-0:37:05,300 --> 0:37:07,300
-oči je to taková Věčná
-
-721
-0:37:08,900 --> 0:37:11,800
-to že pak pomocí magie dochází k
-
-722
-0:37:11,800 --> 0:37:14,000
-řekněme k manipulaci s různými
-
-723
-0:37:14,000 --> 0:37:16,800
-specifickými předměty pak nemusím
-
-724
-0:37:16,800 --> 0:37:17,699
-určitě dodávat
-
-725
-0:37:20,500 --> 0:37:23,099
- teď fenomén bonifikace
-
-726
-0:37:24,199 --> 0:37:26,900
-první sezóna My Little Pony využívala
-
-727
-0:37:26,900 --> 0:37:29,199
-toho že scénáristé tam
-
-728
-0:37:29,199 --> 0:37:32,300
-ať už si vědomím
-
-729
-0:37:32,300 --> 0:37:35,599
-řekněme centrálního studia nebo i bez
-
-730
-0:37:35,599 --> 0:37:39,000
-něj jak jsem se pak dočetl dávají různé
-
-731
-0:37:39,000 --> 0:37:42,699
-odkazy popkulturní různé mimi a
-
-732
-0:37:42,699 --> 0:37:46,099
-celkově do této do tohoto vesmíru
-
-733
-0:37:46,099 --> 0:37:48,900
-zapojují různé unifikované
-
-734
-0:37:48,900 --> 0:37:52,599
-bytosti Jinými slovy vezmeme
-
-735
-0:37:52,599 --> 0:37:56,099
-třeba Luka skywalkera A tak nějak z
-
-736
-0:37:56,099 --> 0:37:58,500
-nich uděláme poníka ale přece jenom
-
-737
-0:37:58,500 --> 0:38:00,099
-když bude mít ten zářivý rok tak je to
-
-738
-0:38:00,099 --> 0:38:03,800
-zklidní Light Saber to
-
-739
-0:38:03,800 --> 0:38:06,800
-fakt většina castu Hvězdných válek na
-
-740
-0:38:06,800 --> 0:38:08,300
-sebe nenechala dlouho čekat minimálně
-
-741
-0:38:08,300 --> 0:38:11,099
-ve volbách fanoušků nemusím dodávat
-
-742
-0:38:11,099 --> 0:38:14,300
-Ano najdete tam i
-
-743
-0:38:14,300 --> 0:38:17,599
-její teď mi vypadlo jméno Takže rovnou
-
-744
-0:38:17,599 --> 0:38:20,099
-si zasoutěžíme další a chybu nejdelší
-
-745
-0:38:20,099 --> 0:38:22,900
-způsob zeptat republika nejstupidnější
-
-746
-0:38:22,900 --> 0:38:23,699
-A nejotravnější
-
-747
-0:38:24,099 --> 0:38:26,400
-VaP nových nové trilogie
-
-748
-0:38:26,400 --> 0:38:30,300
-támhle slečna když tak
-
-749
-0:38:30,300 --> 0:38:30,500
-poslat
-
-750
-0:38:31,699 --> 0:38:35,199
-tablet Samozřejmě ano
-
-751
-0:38:35,199 --> 0:38:38,099
-včetně Pony ještě mě v unifikovaného
-
-752
-0:38:38,099 --> 0:38:40,000
-Jar Jar binks
-
-753
-0:38:42,699 --> 0:38:46,000
-ten fermentace postoupil až tak daleko
-
-754
-0:38:46,000 --> 0:38:48,300
-že samozřejmě i tvůrci fanfikce na
-
-755
-0:38:48,300 --> 0:38:51,099
-poníky flashových animací a komiksu
-
-756
-0:38:51,099 --> 0:38:54,699
-její hojně Přijímají využívají zatahují
-
-757
-0:38:54,699 --> 0:38:56,900
-do toho zápletky z jiných světu a nebo
-
-758
-0:38:56,900 --> 0:39:00,599
-kompletně pozinkované vesmír i když
-
-759
-0:39:00,599 --> 0:39:03,699
-jsem tu vlastně včera večer při uvádění
-
-760
-0:39:03,699 --> 0:39:06,000
-jistého filmu od lyže Maximo tam mluvil
-
-761
-0:39:06,000 --> 0:39:08,500
-a jeho specifické kresbě Ano a
-
-762
-0:39:08,500 --> 0:39:12,000
-interstella a některé další legendy
-
-763
-0:39:12,000 --> 0:39:13,900
-jsem viděl unifikované
-
-764
-0:39:15,400 --> 0:39:17,400
-a ano už na ně existují už na ně
-
-765
-0:39:17,400 --> 0:39:18,099
-existuje i tam
-
-766
-0:39:20,099 --> 0:39:23,500
-Jinými slovy platí toto
-
-767
-0:39:23,500 --> 0:39:26,800
-cokoli je unifikované je o dvacet
-
-768
-0:39:26,800 --> 0:39:28,599
-procent víc Cool a tím pádem se
-
-769
-0:39:28,599 --> 0:39:32,000
-zpravidla 34 stává pravidlo 40,8 a
-
-770
-0:39:32,000 --> 0:39:35,800
-platí beze zbytku včetně desetinného
-
-771
-0:39:35,800 --> 0:39:35,900
-čísla
-
-772
-0:39:39,199 --> 0:39:42,800
-Tak a teď některým dalším
-
-773
-0:39:42,800 --> 0:39:45,099
-věcem na které Pokud jsme snad
-
-774
-0:39:45,099 --> 0:39:48,099
-rozhodnete tento vesmír který by měl
-
-775
-0:39:48,099 --> 0:39:50,300
-podle mého názoru zůstat neprobádaná
-
-776
-0:39:50,300 --> 0:39:52,000
-Vůbec mi nevysmívá na prvních tónech
-
-777
-0:39:52,000 --> 0:39:55,199
-zkoumat připravte se na
-
-778
-0:39:55,199 --> 0:39:58,099
-možné logické zádrhely
-
-779
-0:39:59,300 --> 0:40:02,800
-například to že v rámci unifikace
-
-780
-0:40:02,800 --> 0:40:04,900
-už dochází k takovým věcem jako že je
-
-781
-0:40:04,900 --> 0:40:07,099
-dobře tak mě co jsme si říkali A teď to
-
-782
-0:40:07,099 --> 0:40:08,900
-znova anthropomorphic ujeme aby z toho
-
-783
-0:40:08,900 --> 0:40:10,900
-bylo zase něco řekněme lidského
-
-784
-0:40:11,800 --> 0:40:15,000
-a postupně v rámci slyšet a dochází k
-
-785
-0:40:15,000 --> 0:40:17,500
-těmto párování těchto z poniklované a
-
-786
-0:40:17,500 --> 0:40:21,000
-jde po ní kovaných postav až pak
-
-787
-0:40:21,000 --> 0:40:22,800
-existuje jeden graf který už se mi
-
-788
-0:40:22,800 --> 0:40:24,400
-bohužel nepodařilo znovu nalézt
-
-789
-0:40:24,400 --> 0:40:26,699
-přednášku kde postupně dochází tak k
-
-790
-0:40:26,699 --> 0:40:29,699
-tomu že řekneme na ose divnosti máte
-
-791
-0:40:29,699 --> 0:40:33,400
-tyto různé přehazované párování
-
-792
-0:40:33,400 --> 0:40:35,300
-dojdete k tomu že nejdivnější párování
-
-793
-0:40:35,300 --> 0:40:35,699
-člověka s člověkem
-
-794
-0:40:35,699 --> 0:40:39,699
-jak
-
-795
-0:40:39,699 --> 0:40:42,800
-říkám Flash je hodně specifická věc a
-
-796
-0:40:42,800 --> 0:40:46,099
-opravdu je potřeba na to mít nejen
-
-797
-0:40:46,099 --> 0:40:47,599
-odolné nerv
-
-798
-0:40:47,599 --> 0:40:51,500
-odolné oči a víčka která
-
-799
-0:40:51,500 --> 0:40:53,400
-nemají tendenci se zavírat aby vás
-
-800
-0:40:53,400 --> 0:40:56,800
-řekněme uchránila Před velkou ujmou
-
-801
-0:40:56,800 --> 0:40:59,500
-taky velice specifický způsob uvažování
-
-802
-0:41:01,400 --> 0:41:03,900
-tím samozřejmě nechci říct nic o těch
-
-803
-0:41:03,900 --> 0:41:06,500
-kteří mají Slash vysloveně rádi podle
-
-804
-0:41:06,500 --> 0:41:08,699
-všeho co teďka popisuje to zřejmě běžná
-
-805
-0:41:08,699 --> 0:41:10,900
-zábava koneckonců Vždyť ETA inspirováno
-
-806
-0:41:10,900 --> 0:41:11,500
-hračkami pro děti
-
-807
-0:41:15,900 --> 0:41:16,800
- tak
-
-808
-0:41:21,199 --> 0:41:24,199
-myslím že teď máme už konec prezentace
-
-809
-0:41:24,199 --> 0:41:27,400
-já to řešit dokončím některé ty logické
-
-810
-0:41:27,400 --> 0:41:30,000
-problémy Pokud snad někdy budete
-
-811
-0:41:30,000 --> 0:41:32,300
-takovéhle věci psát prosím Uvědomte si
-
-812
-0:41:32,300 --> 0:41:35,300
-že jsou jistá pravidla která byste měli
-
-813
-0:41:35,300 --> 0:41:38,300
-dodržovat jedna věc anthropomorphism
-
-814
-0:41:38,300 --> 0:41:40,699
-ani poníci by si měli zachovávat své
-
-815
-0:41:40,699 --> 0:41:41,099
-rohy
-
-816
-0:41:41,699 --> 0:41:45,699
-pokud tak neučiní přicházíte o jistou
-
-817
-0:41:45,699 --> 0:41:48,800
-možnost prohlubování vzájemných vztahů
-
-818
-0:41:51,699 --> 0:41:55,099
-dále Pokud snad hodláte používat
-
-819
-0:41:55,099 --> 0:41:57,300
-smíšená párování v rámci řekněme tvaru
-
-820
-0:41:57,300 --> 0:41:59,099
-antropomorfizace konizace
-
-821
-0:41:59,099 --> 0:42:03,099
-zvažte kdo a jakým
-
-822
-0:42:03,099 --> 0:42:05,800
-způsobem bude užívat pomůcky
-
-823
-0:42:08,400 --> 0:42:11,000
-hypoteční nad tím zamyslíte není to
-
-824
-0:42:11,000 --> 0:42:12,500
-zrovna jednoduché logistický problém
-
-825
-0:42:12,500 --> 0:42:13,099
+281
+00:15:35,500 --> 00:15:37,000
 ano
 
-826
-0:42:14,800 --> 0:42:17,400
+282
+00:15:38,200 --> 00:15:40,700
+krásné sny se pro ty šťastnější jež
+
+283
+00:15:40,700 --> 00:15:43,700
+význam tohoto slova neznají slyšet
+
+284
+00:15:43,700 --> 00:15:45,700
+označení tvorby fanoušků zaměřené na
+
+285
+00:15:45,700 --> 00:15:48,299
+spárování postat jednotlivé aktéry
+
+286
+00:15:48,299 --> 00:15:51,799
+odděluje lomítko proto flash a jeho
+
+287
+00:15:51,799 --> 00:15:54,000
+romantické a většinou i tělesné
+
+288
+00:15:54,000 --> 00:15:55,399
+naplňování
+
+289
+00:15:57,200 --> 00:15:57,799
+znovu připomínám
+
+290
+00:15:59,899 --> 00:16:03,500
+klisny poníci Slash a
+
+291
+00:16:03,500 --> 00:16:05,500
+dveře jsou tam
+
+292
+00:16:08,299 --> 00:16:12,200
+těm kterým
+
+293
+00:16:12,200 --> 00:16:14,500
+prozatím nedochází děsivého z tohoto
+
+294
+00:16:14,500 --> 00:16:18,500
+spojení v pořádku Uvidíme
+
+295
+00:16:18,500 --> 00:16:21,100
+jak dál tím k těm kterým dochází a
+
+296
+00:16:21,100 --> 00:16:23,299
+ještě neodcházej Dobrá budeme
+
+297
+00:16:23,299 --> 00:16:26,399
+pokračovat Ti z vás říct na doufají v
+
+298
+00:16:26,399 --> 00:16:28,799
+nějaký specifický obrazový materiál
+
+299
+00:16:28,799 --> 00:16:32,100
+musel jsem ho výrazně
+
+300
+00:16:32,100 --> 00:16:35,000
+výrazně opravdu velmi výrazně omezovat
+
+301
+00:16:35,000 --> 00:16:36,899
+to takovým způsobem že v podstatě v
+
+302
+00:16:36,899 --> 00:16:39,200
+této sebeprezentaci není skoro žádný
+
+303
+00:16:39,200 --> 00:16:42,799
+nedostatku času uvedení by se muselo
+
+304
+00:16:42,799 --> 00:16:43,700
+jít na to černé obdélníky
+
+305
+00:16:46,399 --> 00:16:49,299
+Ano fanoušci si v mnohém servítky
+
+306
+00:16:49,299 --> 00:16:53,299
+neberou a Nevadí jim provádět
+
+307
+00:16:53,299 --> 00:16:55,000
+svým oblíbencům mnohé
+
+308
+00:16:56,700 --> 00:17:00,700
+Ano v základu tedy se
+
+309
+00:17:00,700 --> 00:17:02,600
+budeme bavit o Pony iurii
+
+310
+00:17:05,500 --> 00:17:07,400
+a jestli mi řeknete že v druhé řadě se
+
+311
+00:17:07,400 --> 00:17:09,900
+odvíjí poník s liliemi na boku tak budu
+
+312
+00:17:09,900 --> 00:17:10,200
+vraždit
+
+313
+00:17:14,000 --> 00:17:17,900
+nože základ Ano Pony Mánie
+
+314
+00:17:17,900 --> 00:17:20,900
+kdopak mu jak jsou staří ti kteří
+
+315
+00:17:20,900 --> 00:17:23,900
+sledují podobný seriál Jak vidíte
+
+316
+00:17:23,900 --> 00:17:27,799
+přibližně takto staří Můžeš se
+
+317
+00:17:27,799 --> 00:17:31,000
+zhasnout aby diváci mohli zdálky od
+
+318
+00:17:31,000 --> 00:17:34,099
+svých alespoň první polechtání touto
+
+319
+00:17:34,099 --> 00:17:37,799
+dle hincu a krásný většinou je to
+
+320
+00:17:37,799 --> 00:17:40,599
+lehce angažovanou erotikou
+
+321
+00:17:42,099 --> 00:17:45,900
+No že ano základní Fenomén plný síly a
+
+322
+00:17:45,900 --> 00:17:49,599
+poníci jsou nejenom vlastně využívání
+
+323
+00:17:49,599 --> 00:17:52,700
+ve svých podobách řekne to takto ale
+
+324
+00:17:52,700 --> 00:17:55,299
+jsou i anthropomorphic ování to svých
+
+325
+00:17:55,299 --> 00:17:58,900
+protějšků a ano Slash se týká
+
+326
+00:17:58,900 --> 00:18:01,200
+obého i napříč
+
+327
+00:18:04,099 --> 00:18:07,099
+Jinými slovy Budeme se tu bavit o
+
+328
+00:18:07,099 --> 00:18:09,599
+opisech takových věcí jako je
+
+329
+00:18:11,400 --> 00:18:14,099
+tělesný interakce mezi
+
+330
+00:18:14,099 --> 00:18:17,900
+ženou a klisnou a
+
+331
+00:18:17,900 --> 00:18:20,099
+obráceně
+
+332
+00:18:20,099 --> 00:18:24,099
+takových
+
+333
+00:18:24,099 --> 00:18:27,700
+věcech jako je tedy popisování a
+
+334
+00:18:27,700 --> 00:18:30,700
+stavba příběhu o tělesně na základě
+
+335
+00:18:30,700 --> 00:18:33,099
+tělesné trati mezi klisnami a mezi
+
+336
+00:18:33,099 --> 00:18:36,099
+ženami navíc k tomu protože Friendship
+
+337
+00:18:36,099 --> 00:18:38,700
+is magic so Love is powerful
+
+338
+00:18:38,700 --> 00:18:42,400
+anime v tom hraje roli
+
+339
+00:18:42,400 --> 00:18:46,099
+takže se nemusíme omezovat na řekněme
+
+340
+00:18:46,099 --> 00:18:49,700
+běžné biologické omezení pojmu pohlaví
+
+341
+00:18:52,299 --> 00:18:52,799
+tak
+
+342
+00:18:55,299 --> 00:18:58,200
+představíme si tedy základní
+
+343
+00:18:58,200 --> 00:18:59,500
+část
+
+344
+00:19:00,400 --> 00:19:02,500
+máme tady my light Sparkle
+
+345
+00:19:02,500 --> 00:19:05,799
+něco jako hlavní
+
+346
+00:19:05,799 --> 00:19:08,799
+protagonistkou celé série která funguje
+
+347
+00:19:08,799 --> 00:19:11,799
+jakožto že žačka vlastně princezny
+
+348
+00:19:11,799 --> 00:19:15,400
+celestie která se učí magii jakožto ten
+
+349
+00:19:15,400 --> 00:19:19,200
+hlavní pojící prvek který objeví že pět
+
+350
+00:19:19,200 --> 00:19:22,299
+elementů Harmonie spojených šestým což
+
+351
+00:19:22,299 --> 00:19:24,700
+je to přátelství vytváří ultimátní
+
+352
+00:19:24,700 --> 00:19:28,099
+magii která pomůže která může spasit
+
+353
+00:19:28,099 --> 00:19:30,900
+svět může konat různé věci a tak dále A
+
+354
+00:19:30,900 --> 00:19:34,000
+samozřejmě protože sama je knihomol kou
+
+355
+00:19:34,000 --> 00:19:36,400
+která moc nevystrčila ve svých
+
+356
+00:19:36,400 --> 00:19:40,400
+zapálených studií hlavu ani roh ze
+
+357
+00:19:40,400 --> 00:19:44,299
+své knihovny je vlastně v Ponyville
+
+358
+00:19:44,299 --> 00:19:47,400
+docela výrazně konfrontována s
+
+359
+00:19:47,400 --> 00:19:51,000
+vytvářením sociálních vazeb s jinými
+
+360
+00:19:51,000 --> 00:19:52,500
+tedy klisnami poníků
+
+361
+00:19:53,700 --> 00:19:57,700
+v slyší jako takovém se o této postavě
+
+362
+00:19:57,700 --> 00:20:01,200
+dá mluvit jako o jedné ze dvou Omega
+
+363
+00:20:01,200 --> 00:20:03,599
+Lesbian a hlavního K stůl
+
+364
+00:20:03,599 --> 00:20:07,299
+pro ty z vás kteří nechápou tento pojem
+
+365
+00:20:07,299 --> 00:20:09,099
+dveře vpravo
+
+366
+00:20:09,099 --> 00:20:13,099
+tak jako je alfa samec
+
+367
+00:20:13,099 --> 00:20:16,799
+jakožto mužský řekněme
+
+368
+00:20:16,799 --> 00:20:20,500
+mužský borec v
+
+369
+00:20:20,500 --> 00:20:23,400
+krásné slovo ano mužský borec
+
+370
+00:20:23,400 --> 00:20:27,299
+schopný se svými přednostmi
+
+371
+00:20:27,299 --> 00:20:29,700
+obvykle samozřejmě mentálního
+
+372
+00:20:29,700 --> 00:20:33,200
+charakteru zaujmout co možná nejširší
+
+373
+00:20:33,200 --> 00:20:36,799
+množství dívčích protějšků
+
+374
+00:20:36,799 --> 00:20:40,099
+tak Omega samec si je
+
+375
+00:20:40,099 --> 00:20:43,700
+ten který je obvykle
+
+376
+00:20:43,700 --> 00:20:46,700
+opět samozřejmě Díky svým mentálním
+
+377
+00:20:46,700 --> 00:20:49,000
+kvalitám zaujímá
+
+378
+00:20:49,000 --> 00:20:52,799
+větším množstvím ženských
+
+379
+00:20:52,799 --> 00:20:53,200
+protějšků
+
+380
+00:20:53,700 --> 00:20:57,599
+V případě Pony Yuri To znamená že
+
+381
+00:20:57,599 --> 00:21:01,299
+Twilight Sparkle jde spárovat s kýmkoli
+
+382
+00:21:01,299 --> 00:21:04,599
+A jelikož je to studentka magie tak
+
+383
+00:21:04,599 --> 00:21:06,099
+dokonce i samo se sebou
+
+384
+00:21:06,099 --> 00:21:10,599
+tak
+
+385
+00:21:10,599 --> 00:21:14,500
+ano je to jelikož
+
+386
+00:21:14,500 --> 00:21:16,900
+funguje jako ten pojící Perfect Harmony
+
+387
+00:21:16,900 --> 00:21:20,500
+přátelství v magii přátelství
+
+388
+00:21:20,500 --> 00:21:23,900
+tak je samozřejmé že pro zharmonizování
+
+389
+00:21:23,900 --> 00:21:27,799
+vztahu jsou různé práce oni ať už
+
+390
+00:21:27,799 --> 00:21:30,200
+komiksového nebo psaného rázu
+
+391
+00:21:30,200 --> 00:21:34,099
+sami takže opravdu
+
+392
+00:21:34,099 --> 00:21:36,099
+jde s kýmkoli
+
+393
+00:21:37,799 --> 00:21:39,799
+a oběd a k tomu máte vznešené důvody
+
+394
+00:21:39,799 --> 00:21:43,799
+jak se říká Byl to myslím že
+
+395
+00:21:43,799 --> 00:21:46,599
+i jeden slogan jedné nejmenované
+
+396
+00:21:46,599 --> 00:21:49,200
+politické strany která Naštěstí už není
+
+397
+00:21:49,200 --> 00:21:51,200
+myslím že v aktivní na českém území
+
+398
+00:21:51,200 --> 00:21:54,200
+měla zkratku nej Ti z vás kteří
+
+399
+00:21:54,200 --> 00:21:57,000
+neznají pak další po titulu nemusí
+
+400
+00:21:57,000 --> 00:21:59,400
+litovat a základem pouštím opět
+
+401
+00:21:59,400 --> 00:22:01,200
+angličtinu protože tu mi to nemůže
+
+402
+00:22:01,200 --> 00:22:02,799
+nikdo vytýkat jelikož jdu mi anglicky
+
+403
+00:22:02,799 --> 00:22:06,700
+to jeho vina že tomu rozumí LED Sex s
+
+404
+00:22:06,700 --> 00:22:09,400
+Ex Save the world
+
+405
+00:22:09,400 --> 00:22:13,400
+takže Hlavní motivace
+
+406
+00:22:13,400 --> 00:22:16,200
+která obvykle vede k tomu proč je
+
+407
+00:22:16,200 --> 00:22:19,599
+Palace Pártl tedy Omega lesbian
+
+408
+00:22:22,500 --> 00:22:25,200
+jako jedno z prvních dalších klicem
+
+409
+00:22:25,200 --> 00:22:27,799
+kterou vlastně ve vesničce Kam byla
+
+410
+00:22:27,799 --> 00:22:31,799
+převelena svou mistryní potkává je
+
+411
+00:22:31,799 --> 00:22:35,200
+Applejack Jak vidíte kovbojský klobouk
+
+412
+00:22:35,200 --> 00:22:38,000
+to znamená holka z Divokého západu
+
+413
+00:22:38,000 --> 00:22:40,700
+děvče do nepohody má velkou rodinu
+
+414
+00:22:40,700 --> 00:22:43,200
+pomáhá na farmě všichni mají rádi
+
+415
+00:22:43,200 --> 00:22:45,500
+protože jsi prostě umí se vším poradit
+
+416
+00:22:45,500 --> 00:22:48,599
+Kdo z vás čeká Bořka stavitele nemýlí
+
+417
+00:22:48,599 --> 00:22:52,400
+se jen je to
+
+418
+00:22:52,400 --> 00:22:56,200
+tedy v té Pony podobě takže
+
+419
+00:22:56,200 --> 00:23:00,000
+dívka ze západu a v rámci plyšového
+
+420
+00:23:00,000 --> 00:23:02,900
+párování se bavíme o Alfa Lesbian o
+
+421
+00:23:02,900 --> 00:23:06,799
+první ze dvou s tím že to je
+
+422
+00:23:06,799 --> 00:23:08,599
+to se navíc ještě obvykle dává
+
+423
+00:23:08,599 --> 00:23:12,599
+přívlastek Gentle Alpha Lesbian pak
+
+424
+00:23:12,599 --> 00:23:14,700
+tu máme totiž jedno hardcore a to
+
+425
+00:23:14,700 --> 00:23:16,200
+budeme jmenovat hnedle myslím že po ní
+
+426
+00:23:17,099 --> 00:23:20,599
+tak Applejack poradí se vším ráda
+
+427
+00:23:20,599 --> 00:23:24,200
+pomůže ostatní poníci samozřejmě
+
+428
+00:23:24,200 --> 00:23:27,000
+věří rádi rádi si ji nechají pomáhat a
+
+429
+00:23:27,000 --> 00:23:29,799
+mají má občas problémy i přes Visa
+
+430
+00:23:29,799 --> 00:23:32,400
+nechala pomoci což samozřejmě vede k
+
+431
+00:23:32,400 --> 00:23:34,400
+tomu že oni mají mnohdy strach a tedy
+
+432
+00:23:34,400 --> 00:23:37,000
+dbají o ní a nechávají o sebe dbát a
+
+433
+00:23:37,000 --> 00:23:39,299
+tyhlety vazbě jsou různě posilovány a
+
+434
+00:23:39,299 --> 00:23:42,799
+posilovány a skončí v různých
+
+435
+00:23:42,799 --> 00:23:46,299
+budovách na loukách a v na jiných
+
+436
+00:23:46,299 --> 00:23:48,700
+prostorách vhodných nebo nebo nebo
+
+437
+00:23:48,700 --> 00:23:51,799
+nevhodný k provádění prohlubování
+
+438
+00:23:51,799 --> 00:23:53,000
+vzájemné a poznání
+
+439
+00:23:55,099 --> 00:23:59,000
+navíc pomoc na farmě mnohdy vede k tomu
+
+440
+00:23:59,000 --> 00:24:02,900
+že řekněme pharao bývají
+
+441
+00:24:02,900 --> 00:24:06,900
+různé tvorové Aikido unifikovat
+
+442
+00:24:06,900 --> 00:24:10,599
+nebo anthropomorphism vad a tak
+
+443
+00:24:10,599 --> 00:24:13,099
+dále věřím že vaše představivost teď u
+
+444
+00:24:13,099 --> 00:24:16,299
+mnohých z vás funguje na plné obrátky a
+
+445
+00:24:16,299 --> 00:24:20,099
+mnozí toto počínání proklínat a
+
+446
+00:24:21,000 --> 00:24:22,000
+ale já vás varoval
+
+447
+00:24:22,000 --> 00:24:25,200
+Ano
+
+448
+00:24:25,200 --> 00:24:28,799
+Rainbow Dash pro
+
+449
+00:24:28,799 --> 00:24:30,799
+zajímavost Samozřejmě jak Apple Jack a
+
+450
+00:24:30,799 --> 00:24:33,400
+tak Rainbow Dash Pardon Applejack a
+
+451
+00:24:33,400 --> 00:24:36,299
+Rainbow Dash mluví stejná řekněme se u
+
+452
+00:24:36,299 --> 00:24:39,000
+mámy tak jsme na herečka a obě mají
+
+453
+00:24:39,000 --> 00:24:41,299
+dost ladění hlasu do takového toho
+
+454
+00:24:41,299 --> 00:24:44,299
+chlapeckého tónu samozřejmě nám tím
+
+455
+00:24:44,299 --> 00:24:45,799
+autoři nechtěli vůbec nic naznačit
+
+456
+00:24:45,799 --> 00:24:49,799
+nedejbože snad aby vytvářely i
+
+457
+00:24:49,799 --> 00:24:53,299
+nějaký mylný dojem že by tam snad mohl
+
+458
+00:24:53,299 --> 00:24:55,799
+mohly existovat i nějací výrazně se
+
+459
+00:24:55,799 --> 00:24:57,900
+vyskytující vysloveně podnik jakožto
+
+460
+00:24:57,900 --> 00:24:58,299
+koně
+
+461
+00:24:59,200 --> 00:25:01,400
+No a Rainbow Dash můžete si všimnout
+
+462
+00:25:01,400 --> 00:25:04,299
+malý křidélek protože tento poník nemá
+
+463
+00:25:04,299 --> 00:25:06,000
+rok ale má křídla je to Vegas
+
+464
+00:25:07,500 --> 00:25:09,099
+je to Pegas který
+
+465
+00:25:14,700 --> 00:25:15,400
+Cože
+
+466
+00:25:17,299 --> 00:25:19,299
+nějaká poznámka A v pořádku takže
+
+467
+00:25:19,299 --> 00:25:22,500
+rimbou deš Tak jasné Craft který je
+
+468
+00:25:22,500 --> 00:25:25,500
+samozřejmě extrémně ženský protože
+
+469
+00:25:25,500 --> 00:25:29,000
+se strašně ráda že ne nebem tou velkou
+
+470
+00:25:29,000 --> 00:25:31,599
+rychlostí miluje adrenalin nové výzvy
+
+471
+00:25:31,599 --> 00:25:34,200
+své kamarády nikdy nenechá ve štychu
+
+472
+00:25:34,200 --> 00:25:38,200
+protože je absolutně věrná a kdykoli
+
+473
+00:25:38,200 --> 00:25:40,000
+je nějaký problém který zahrnuje
+
+474
+00:25:40,000 --> 00:25:42,200
+rychlost silové nasazení nebo prostě
+
+475
+00:25:42,200 --> 00:25:46,099
+nějaké fyzické výkony tak je tady
+
+476
+00:25:47,299 --> 00:25:50,900
+to že tady mluvíme o Hard Alfa lesby
+
+477
+00:25:50,900 --> 00:25:54,400
+nás nikoho nepřekvapí to že
+
+478
+00:25:54,400 --> 00:25:57,299
+kamarádkou z dětství je
+
+479
+00:25:57,299 --> 00:26:00,700
+Nesrovná řekněme společenské
+
+480
+00:26:00,700 --> 00:26:04,099
+adaptabilní a všeobecně Hot řekněme
+
+481
+00:26:04,099 --> 00:26:08,099
+přijímán jako hodná hodnostní hodný jak
+
+482
+00:26:08,099 --> 00:26:12,099
+to nazvat je to Grid nehoda Gryf
+
+483
+00:26:12,099 --> 00:26:14,200
+tady asi
+
+484
+00:26:15,299 --> 00:26:16,599
+Griffin
+
+485
+00:26:16,599 --> 00:26:20,299
+má přítelkyni z
+
+486
+00:26:20,299 --> 00:26:23,000
+dětství která je Orlem který se
+
+487
+00:26:23,000 --> 00:26:26,000
+pohybuje po čtyřech nohou a má křídla
+
+488
+00:26:26,000 --> 00:26:30,000
+tímto obejdeme tak to zrovna moc
+
+489
+00:26:30,000 --> 00:26:33,700
+nenahrává její úloze Řekněme v tom
+
+490
+00:26:33,700 --> 00:26:37,500
+posilování Přátelství je to spíš tak je
+
+491
+00:26:37,500 --> 00:26:39,700
+úlohu je spíš takové vymáhání
+
+492
+00:26:39,700 --> 00:26:43,299
+přátelství a následného prohlubování
+
+493
+00:26:43,299 --> 00:26:46,799
+poznávání a tak dále Co se týče
+
+494
+00:26:46,799 --> 00:26:50,400
+její rychlosti i na to se pak v rámci
+
+495
+00:26:50,400 --> 00:26:54,099
+hloubkového poznávání řekněme
+
+496
+00:26:54,099 --> 00:26:56,299
+odvolávají různé tvůrci fanfikcí a
+
+497
+00:26:56,299 --> 00:26:59,299
+Skalní fanoušci této postavě za to
+
+498
+00:26:59,299 --> 00:27:02,200
+nemají rádi je zajímavé že jim tolerují
+
+499
+00:27:02,200 --> 00:27:04,700
+to že by píšu tyto fanfikce ale to že
+
+500
+00:27:04,700 --> 00:27:08,599
+je to kliky Řekněme že jí mají nejvíce
+
+501
+00:27:08,599 --> 00:27:12,099
+No co se dá dělat je aspoň vidět jaký
+
+502
+00:27:12,099 --> 00:27:14,400
+fandom kolem sebe Rainbow Dash hlavně
+
+503
+00:27:14,400 --> 00:27:14,599
+má
+
+504
+00:27:15,599 --> 00:27:19,099
+takže 2. Alpha Lesbian se sněžným Heart
+
+505
+00:27:19,099 --> 00:27:20,900
+of Lesbian Rainbow Dash
+
+506
+00:27:23,000 --> 00:27:25,299
+Ano další Rarity
+
+507
+00:27:26,799 --> 00:27:29,099
+tak máme tady
+
+508
+00:27:29,099 --> 00:27:33,099
+klisnu poníka který má
+
+509
+00:27:33,099 --> 00:27:37,000
+styl který se rád obléká jako poník
+
+510
+00:27:37,000 --> 00:27:40,299
+samozřejmě i a který rád dekoruje různé
+
+511
+00:27:40,299 --> 00:27:43,700
+věci a prostě celkově vizáž a
+
+512
+00:27:43,700 --> 00:27:47,000
+ladění na to krásné a estetično je tu
+
+513
+00:27:47,000 --> 00:27:50,700
+výrazně zvednuta hlavním snem je aby
+
+514
+00:27:50,700 --> 00:27:54,500
+mohla na bále zaujmout krásnou natolik
+
+515
+00:27:54,500 --> 00:27:57,299
+že jí bude řečeno Ano můžete si vzít
+
+516
+00:27:57,299 --> 00:28:00,000
+následníka trůnu úžasného Bílého
+
+517
+00:28:00,000 --> 00:28:02,700
+jednorožce který je prostě tak úžasný a
+
+518
+00:28:02,700 --> 00:28:04,599
+skvělý že kdyby mu že kdyby tato
+
+519
+00:28:04,599 --> 00:28:06,700
+nabídka byla podána tak samozřejmě v
+
+520
+00:28:06,700 --> 00:28:08,500
+klidu odpoví Já si neberu
+
+521
+00:28:08,500 --> 00:28:12,200
+Takže
+
+522
+00:28:12,200 --> 00:28:14,900
+ano rarity a její a
+
+523
+00:28:14,900 --> 00:28:18,000
+řekněme taková běžná
+
+524
+00:28:18,000 --> 00:28:21,900
+dívka podle některých autorů
+
+525
+00:28:21,900 --> 00:28:25,400
+slashe jde až do marnivá podle jiných
+
+526
+00:28:25,400 --> 00:28:26,599
+má samozřejmě to s
+
+527
+00:28:26,700 --> 00:28:30,299
+zlatá a tím pádem ráda vypomůže
+
+528
+00:28:30,299 --> 00:28:34,000
+různým poníkům vůbec nechci zmiňovat
+
+529
+00:28:34,000 --> 00:28:37,700
+některé fanfikce ve kterých se obléká
+
+530
+00:28:37,700 --> 00:28:39,599
+nebo nutí oblékat jiné podniky do
+
+531
+00:28:39,599 --> 00:28:42,299
+řekněme kostým které obsahují latex
+
+532
+00:28:42,299 --> 00:28:45,099
+kůži a igelit ale i to co se děje
+
+533
+00:28:47,900 --> 00:28:51,200
+taky nějak se u ní zavedlo
+
+534
+00:28:51,200 --> 00:28:54,500
+Ani nevíte co všechno může mít Rarity
+
+535
+00:28:54,500 --> 00:28:57,000
+ve svém šatníku nedejbože ve sklepě
+
+536
+00:28:57,000 --> 00:29:00,599
+člověk už je už dvě už jen čeká až
+
+537
+00:29:00,599 --> 00:29:03,000
+někde oznámí že se odstěhovala do
+
+538
+00:29:03,000 --> 00:29:05,599
+Rakouska aby se tam inspirovalo svého
+
+539
+00:29:05,599 --> 00:29:06,500
+dlouholetého vzoru
+
+540
+00:29:08,099 --> 00:29:16,000
+Ano
+
+541
+00:29:16,000 --> 00:29:18,400
+má osobní
+
+542
+00:29:18,400 --> 00:29:22,299
+oblíbenkyně hyperaktivní stále
+
+543
+00:29:22,299 --> 00:29:25,500
+mluvící ne zrovna s
+
+544
+00:29:25,500 --> 00:29:28,299
+běžnými a specifickými způsoby se
+
+545
+00:29:28,299 --> 00:29:31,500
+pohybující poník s daní Pinkie Pie
+
+546
+00:29:31,500 --> 00:29:34,099
+neférové hopsání je ještě ten
+
+547
+00:29:34,099 --> 00:29:36,700
+normálnější způsob řekněme prostorové
+
+548
+00:29:36,700 --> 00:29:38,299
+translace tohoto poníka
+
+549
+00:29:39,400 --> 00:29:42,799
+různé další samohyby a
+
+550
+00:29:42,799 --> 00:29:46,400
+prostředky pro urychlení ztížení a
+
+551
+00:29:46,400 --> 00:29:49,200
+naprosto nemožné znemožnění přepravy
+
+552
+00:29:49,200 --> 00:29:52,099
+jsou její specialitou k tomu naprosto
+
+553
+00:29:52,099 --> 00:29:55,500
+brutální ujíždí na pořádání párty je to
+
+554
+00:29:55,500 --> 00:29:58,200
+ten nej společenství She's poník který
+
+555
+00:29:58,200 --> 00:30:00,099
+je na kterou můžete narazit tomto
+
+556
+00:30:00,099 --> 00:30:03,799
+seriálu a ano společnost je také
+
+557
+00:30:03,799 --> 00:30:06,299
+něco co se autoři Slash a dosti dobře
+
+558
+00:30:06,299 --> 00:30:09,500
+uvědomuji a proto Pinkie Pie a je
+
+559
+00:30:09,500 --> 00:30:13,299
+takový Happy Pie Brno nechceš úplně pro
+
+560
+00:30:13,299 --> 00:30:16,000
+všechny ale tak nějak jí nevadí
+
+561
+00:30:16,000 --> 00:30:19,400
+pozornost jednoho protějšku druhého
+
+562
+00:30:19,400 --> 00:30:21,500
+protějšku případně všech návštěvníků
+
+563
+00:30:21,500 --> 00:30:22,500
+dané párty
+
+564
+00:30:22,500 --> 00:30:26,099
+co se týče
+
+565
+00:30:26,099 --> 00:30:29,799
+mé úlohy v rámci
+
+566
+00:30:29,799 --> 00:30:32,900
+obvyklého párování s hlavním městem tak
+
+567
+00:30:32,900 --> 00:30:36,400
+Pinkie Pie má nejblíže k Rainbow Dash s
+
+568
+00:30:36,400 --> 00:30:39,299
+tím že rýmu když tam v pravidlech
+
+569
+00:30:39,400 --> 00:30:43,099
+jak jsem říkal vymáhající vymahaji
+
+570
+00:30:43,099 --> 00:30:46,299
+vymáhání přátelství a Pinkie Pie je ta
+
+571
+00:30:46,299 --> 00:30:48,599
+poskytovatel k přátelství případně
+
+572
+00:30:48,599 --> 00:30:50,099
+poskytovatele a jiných svých kamarádek
+
+573
+00:30:50,099 --> 00:30:53,299
+ale to už zase zabijačku jinému tématu
+
+574
+00:30:55,299 --> 00:30:58,500
+Ano i toto je zpracováno Jak jako
+
+575
+00:30:58,500 --> 00:31:01,299
+komiks tak jako fanfikce papíru na se
+
+576
+00:31:01,299 --> 00:31:04,400
+všechno a ti z vás kteří opravdu chtějí
+
+577
+00:31:04,400 --> 00:31:06,799
+neotevře mám furt posílat nebudu Jsem
+
+578
+00:31:06,799 --> 00:31:10,099
+rád že se mě dokázal smazat a už se na
+
+579
+00:31:10,099 --> 00:31:11,200
+něj nikdy nepodívám
+
+580
+00:31:12,200 --> 00:31:15,299
+mají jednoduchou možnost využít pana
+
+581
+00:31:15,299 --> 00:31:17,700
+Googla protože podobné věci najdete na
+
+582
+00:31:17,700 --> 00:31:18,500
+prvních stránkách
+
+583
+00:31:23,200 --> 00:31:26,900
+Ano 2 Omega Lesbian hlavního
+
+584
+00:31:26,900 --> 00:31:30,200
+castu flatršaj je to Dívka
+
+585
+00:31:30,200 --> 00:31:33,500
+která má ráda přírodu a Rozumí si se
+
+586
+00:31:33,500 --> 00:31:36,599
+zvířátky mají velmi ráda hlavně pokud
+
+587
+00:31:36,599 --> 00:31:38,400
+jsou roztomilá a nebo si nějak jsme
+
+588
+00:31:38,400 --> 00:31:39,099
+roztomile projevují
+
+589
+00:31:40,099 --> 00:31:43,799
+A tak je trošku Řekněme
+
+590
+00:31:43,799 --> 00:31:46,400
+zaostává v tom internetu s lidmi je
+
+591
+00:31:46,400 --> 00:31:49,700
+velmi stydlivá asi nejkrásnějším
+
+592
+00:31:49,700 --> 00:31:51,599
+Příkladem je u nás známá scéna kdy je
+
+593
+00:31:51,599 --> 00:31:53,900
+Rainbow Dash Rainbow Dash snaží nalézt
+
+594
+00:31:53,900 --> 00:31:55,900
+do toho že ho že jí bude podporovat na
+
+595
+00:31:55,900 --> 00:31:58,299
+jednom z vlastně se vzdušných závodů a
+
+596
+00:31:58,299 --> 00:32:01,000
+chce po ní aby ho hlasitě podporovala
+
+597
+00:32:01,000 --> 00:32:01,799
+což vede k tomu že
+
+598
+00:32:08,200 --> 00:32:12,000
+Takže ano flatršaj stydlivá
+
+599
+00:32:12,000 --> 00:32:15,099
+2 Amiga lesy hlavního castu jakožto
+
+600
+00:32:15,099 --> 00:32:17,799
+takto submisivní a stydlivá samozřejmě
+
+601
+00:32:17,799 --> 00:32:19,799
+musí podléhat všem
+
+602
+00:32:19,799 --> 00:32:23,799
+asi nejčastější vysvětlení pak její
+
+603
+00:32:23,799 --> 00:32:25,200
+stydlivosti a řekněme takového
+
+604
+00:32:25,200 --> 00:32:28,500
+sociálního osekání bývá pak záliba
+
+605
+00:32:28,500 --> 00:32:32,099
+Rarity v kožených oděvů a podzemních
+
+606
+00:32:32,099 --> 00:32:32,500
+prostorách
+
+607
+00:32:33,700 --> 00:32:34,500
+pták
+
+608
+00:32:38,799 --> 00:32:42,200
+To bychom tedy měli Řekni mi hlavní 600
+
+609
+00:32:42,200 --> 00:32:45,000
+a ano jelikož celé
+
+610
+00:32:45,000 --> 00:32:48,700
+celém kontinentu magické
+
+611
+00:32:48,700 --> 00:32:51,400
+země poníků vlastně
+
+612
+00:32:51,400 --> 00:32:55,400
+vládne princezna několik královna
+
+613
+00:32:55,400 --> 00:32:58,599
+celestie tak nebylo by to
+
+614
+00:32:58,599 --> 00:33:01,799
+nebyly to Slash aby samozřejmě i takto
+
+615
+00:33:01,799 --> 00:33:05,500
+významná z tygra nemohla být zapojena
+
+616
+00:33:05,500 --> 00:33:09,500
+jeden z těch a scenáristické
+
+617
+00:33:09,500 --> 00:33:11,700
+zajímavějších se snažit o tom magické
+
+618
+00:33:11,700 --> 00:33:15,000
+království vlastně zpodobnit jakožto
+
+619
+00:33:15,000 --> 00:33:18,500
+regulérně existující monarchii ve které
+
+620
+00:33:18,500 --> 00:33:20,799
+z nějakého důvodu ovládne princezna
+
+621
+00:33:20,799 --> 00:33:23,799
+nikoli královna to protože díky své
+
+622
+00:33:23,799 --> 00:33:25,700
+magické moci v podstatě uchvátila moc
+
+623
+00:33:25,700 --> 00:33:29,500
+moc a moc světskou tak to A tak nějak
+
+624
+00:33:29,500 --> 00:33:32,500
+zavádí obvykle středověké zákony
+
+625
+00:33:32,500 --> 00:33:35,799
+ty z vás které určitě jako na prvním
+
+626
+00:33:35,799 --> 00:33:37,599
+místě napadl zákon první noci tak
+
+627
+00:33:37,599 --> 00:33:38,599
+samozřejmě mají pravdu
+
+628
+00:33:38,799 --> 00:33:42,099
+taktéž je
+
+629
+00:33:42,099 --> 00:33:46,099
+to vlastně nejlepší kouzelnice která
+
+630
+00:33:46,099 --> 00:33:49,400
+vlastně na daném světě je to znamená že
+
+631
+00:33:49,400 --> 00:33:51,500
+jí nečiní problémy se svou magií
+
+632
+00:33:51,500 --> 00:33:55,099
+provádět různé věci jako například
+
+633
+00:33:55,099 --> 00:33:58,700
+to když třeba Pinkie Pie na jedné ze
+
+634
+00:33:58,700 --> 00:34:00,799
+svých párty nakonec jako hosté obdrží
+
+635
+00:34:00,799 --> 00:34:03,500
+pouze tuto princeznu A přesto Pinkie
+
+636
+00:34:03,500 --> 00:34:06,099
+Pie nestačím s dechem
+
+637
+00:34:09,699 --> 00:34:12,300
+No že ano ne princezna celestie
+
+638
+00:34:12,300 --> 00:34:15,800
+Samozřejmě nejčastějším párováním je
+
+639
+00:34:15,800 --> 00:34:18,800
+pak se musím stavit paspárků protože je
+
+640
+00:34:18,800 --> 00:34:21,500
+to již hračka A co by mohlo být
+
+641
+00:34:21,500 --> 00:34:24,099
+jednoznačnější podívejte
+
+642
+00:34:25,699 --> 00:34:28,300
+Ano aspoň tobě abych je Argument
+
+643
+00:34:28,300 --> 00:34:29,699
+podívejte se na ně a mi to jasné přece
+
+644
+00:34:29,699 --> 00:34:32,500
+musí to být jasné že když je to bílý
+
+645
+00:34:32,500 --> 00:34:36,400
+Pegas a magické magické mini
+
+646
+00:34:36,400 --> 00:34:39,599
+poník Pokud není jasné tak se vlastně
+
+647
+00:34:39,599 --> 00:34:41,099
+všichni a 306 zvrhlý ale to se ti
+
+648
+00:34:41,099 --> 00:34:41,599
+nemůžeme připustit
+
+649
+00:34:43,599 --> 00:34:47,199
+Takže ano dost časté tady
+
+650
+00:34:47,199 --> 00:34:52,400
+tedy
+
+651
+00:34:52,400 --> 00:34:56,300
+pokud do toho nezasáhne její sestra
+
+652
+00:34:56,300 --> 00:34:57,599
+Luna
+
+653
+00:34:59,199 --> 00:35:02,099
+a ano už i tady se začínají profilovat
+
+654
+00:35:02,099 --> 00:35:06,099
+věci jako je jak jsme se bavili o
+
+655
+00:35:06,099 --> 00:35:08,400
+rarity a jejich specifických zálibách
+
+656
+00:35:08,400 --> 00:35:11,099
+tak olu některá vlastně rady To je tak
+
+657
+00:35:11,099 --> 00:35:13,599
+říkajíc předvede že ona je v těch
+
+658
+00:35:13,599 --> 00:35:14,599
+věcech lepší
+
+659
+00:35:16,800 --> 00:35:20,500
+a následně jí na své sestře
+
+660
+00:35:20,500 --> 00:35:23,599
+začne učit některé pokročilé techniky
+
+661
+00:35:23,599 --> 00:35:27,500
+těchto záliv tedy Říkám si že
+
+662
+00:35:27,500 --> 00:35:29,300
+tato přenáší budeme mít květnatá s tím
+
+663
+00:35:29,300 --> 00:35:33,000
+je to opisuji jen doufám že to vzal
+
+664
+00:35:33,000 --> 00:35:36,599
+jsem si nikdy neobjeví nikde jinde tak
+
+665
+00:35:40,800 --> 00:35:43,800
+ten hnusný smích z že se mi vůbec
+
+666
+00:35:43,800 --> 00:35:44,699
+nelíbil a
+
+667
+00:35:44,699 --> 00:35:54,900
+nemůže
+
+668
+00:35:54,900 --> 00:35:58,400
+tedy sestra Luna která je
+
+669
+00:35:58,400 --> 00:36:01,900
+řekněme navíc
+
+670
+00:36:01,900 --> 00:36:04,800
+zatížena velkou rodinnou historií Ono
+
+671
+00:36:04,800 --> 00:36:06,900
+totiž když vznikne kontinent tak
+
+672
+00:36:06,900 --> 00:36:10,000
+Celeste vládla dni Luna noci tak jak to
+
+673
+00:36:10,000 --> 00:36:13,400
+bývá zvykem ale samozřejmě o nic jsi v
+
+674
+00:36:13,400 --> 00:36:16,400
+noci tedy až na flashové fanfikce a
+
+675
+00:36:16,400 --> 00:36:20,300
+komiksy spí a tím pádem Luna
+
+676
+00:36:20,300 --> 00:36:22,300
+jako taková mohla sledovat jen ten
+
+677
+00:36:22,300 --> 00:36:24,599
+spící svět a to jí nudilo a začala na
+
+678
+00:36:24,599 --> 00:36:27,599
+svou sestru žárlit aby se s ní v rámci
+
+679
+00:36:27,599 --> 00:36:29,099
+žárlivosti a touhy po moci chtěla
+
+680
+00:36:29,099 --> 00:36:31,900
+uchvátit celý kontinent pro sebe aby
+
+681
+00:36:31,900 --> 00:36:33,900
+nad ním byla jenom Věčná noc stal
+
+682
+00:36:33,900 --> 00:36:37,500
+Nightmare Moon samozřejmě
+
+683
+00:36:37,500 --> 00:36:39,800
+najtmer Mun jakožto variace Luny je
+
+684
+00:36:39,800 --> 00:36:40,599
+vesly
+
+685
+00:36:40,699 --> 00:36:44,199
+používána také velmi často a to v
+
+686
+00:36:44,199 --> 00:36:46,500
+různých podobách ono přeci jenom
+
+687
+00:36:46,500 --> 00:36:50,400
+zavést většinou tomu nad celým
+
+688
+00:36:50,400 --> 00:36:52,800
+kontinentem je snad ne když každého
+
+689
+00:36:52,800 --> 00:36:55,099
+poníka vybavíte
+
+690
+00:36:55,099 --> 00:36:59,099
+specifickým řekněme oděvem
+
+691
+00:36:59,099 --> 00:37:01,300
+s rozšířenou funkčností a
+
+692
+00:37:01,300 --> 00:37:05,300
+vlastně briffault neboli páskou přes
+
+693
+00:37:05,300 --> 00:37:07,300
+oči je to taková Věčná
+
+694
+00:37:08,900 --> 00:37:11,800
+to že pak pomocí magie dochází k
+
+695
+00:37:11,800 --> 00:37:14,000
+řekněme k manipulaci s různými
+
+696
+00:37:14,000 --> 00:37:16,800
+specifickými předměty pak nemusím
+
+697
+00:37:16,800 --> 00:37:17,699
+určitě dodávat
+
+698
+00:37:20,500 --> 00:37:23,099
+teď fenomén bonifikace
+
+699
+00:37:24,199 --> 00:37:26,900
+první sezóna My Little Pony využívala
+
+700
+00:37:26,900 --> 00:37:29,199
+toho že scénáristé tam
+
+701
+00:37:29,199 --> 00:37:32,300
+ať už si vědomím
+
+702
+00:37:32,300 --> 00:37:35,599
+řekněme centrálního studia nebo i bez
+
+703
+00:37:35,599 --> 00:37:39,000
+něj jak jsem se pak dočetl dávají různé
+
+704
+00:37:39,000 --> 00:37:42,699
+odkazy popkulturní různé mimi a
+
+705
+00:37:42,699 --> 00:37:46,099
+celkově do této do tohoto vesmíru
+
+706
+00:37:46,099 --> 00:37:48,900
+zapojují různé unifikované
+
+707
+00:37:48,900 --> 00:37:52,599
+bytosti Jinými slovy vezmeme
+
+708
+00:37:52,599 --> 00:37:56,099
+třeba Luka skywalkera A tak nějak z
+
+709
+00:37:56,099 --> 00:37:58,500
+nich uděláme poníka ale přece jenom
+
+710
+00:37:58,500 --> 00:38:00,099
+když bude mít ten zářivý rok tak je to
+
+711
+00:38:00,099 --> 00:38:03,800
+zklidní Light Saber to
+
+712
+00:38:03,800 --> 00:38:06,800
+fakt většina castu Hvězdných válek na
+
+713
+00:38:06,800 --> 00:38:08,300
+sebe nenechala dlouho čekat minimálně
+
+714
+00:38:08,300 --> 00:38:11,099
+ve volbách fanoušků nemusím dodávat
+
+715
+00:38:11,099 --> 00:38:14,300
+Ano najdete tam i
+
+716
+00:38:14,300 --> 00:38:17,599
+její teď mi vypadlo jméno Takže rovnou
+
+717
+00:38:17,599 --> 00:38:20,099
+si zasoutěžíme další a chybu nejdelší
+
+718
+00:38:20,099 --> 00:38:22,900
+způsob zeptat republika nejstupidnější
+
+719
+00:38:22,900 --> 00:38:23,699
+A nejotravnější
+
+720
+00:38:24,099 --> 00:38:26,400
+VaP nových nové trilogie
+
+721
+00:38:26,400 --> 00:38:30,300
+támhle slečna když tak
+
+722
+00:38:30,300 --> 00:38:30,500
+poslat
+
+723
+00:38:31,699 --> 00:38:35,199
+tablet Samozřejmě ano
+
+724
+00:38:35,199 --> 00:38:38,099
+včetně Pony ještě mě v unifikovaného
+
+725
+00:38:38,099 --> 00:38:40,000
+Jar Jar binks
+
+726
+00:38:42,699 --> 00:38:46,000
+ten fermentace postoupil až tak daleko
+
+727
+00:38:46,000 --> 00:38:48,300
+že samozřejmě i tvůrci fanfikce na
+
+728
+00:38:48,300 --> 00:38:51,099
+poníky flashových animací a komiksu
+
+729
+00:38:51,099 --> 00:38:54,699
+její hojně Přijímají využívají zatahují
+
+730
+00:38:54,699 --> 00:38:56,900
+do toho zápletky z jiných světu a nebo
+
+731
+00:38:56,900 --> 00:39:00,599
+kompletně pozinkované vesmír i když
+
+732
+00:39:00,599 --> 00:39:03,699
+jsem tu vlastně včera večer při uvádění
+
+733
+00:39:03,699 --> 00:39:06,000
+jistého filmu od lyže Maximo tam mluvil
+
+734
+00:39:06,000 --> 00:39:08,500
+a jeho specifické kresbě Ano a
+
+735
+00:39:08,500 --> 00:39:12,000
+interstella a některé další legendy
+
+736
+00:39:12,000 --> 00:39:13,900
+jsem viděl unifikované
+
+737
+00:39:15,400 --> 00:39:17,400
+a ano už na ně existují už na ně
+
+738
+00:39:17,400 --> 00:39:18,099
+existuje i tam
+
+739
+00:39:20,099 --> 00:39:23,500
+Jinými slovy platí toto
+
+740
+00:39:23,500 --> 00:39:26,800
+cokoli je unifikované je o dvacet
+
+741
+00:39:26,800 --> 00:39:28,599
+procent víc Cool a tím pádem se
+
+742
+00:39:28,599 --> 00:39:32,000
+zpravidla 34 stává pravidlo 40,8 a
+
+743
+00:39:32,000 --> 00:39:35,800
+platí beze zbytku včetně desetinného
+
+744
+00:39:35,800 --> 00:39:35,900
+čísla
+
+745
+00:39:39,199 --> 00:39:42,800
+Tak a teď některým dalším
+
+746
+00:39:42,800 --> 00:39:45,099
+věcem na které Pokud jsme snad
+
+747
+00:39:45,099 --> 00:39:48,099
+rozhodnete tento vesmír který by měl
+
+748
+00:39:48,099 --> 00:39:50,300
+podle mého názoru zůstat neprobádaná
+
+749
+00:39:50,300 --> 00:39:52,000
+Vůbec mi nevysmívá na prvních tónech
+
+750
+00:39:52,000 --> 00:39:55,199
+zkoumat připravte se na
+
+751
+00:39:55,199 --> 00:39:58,099
+možné logické zádrhely
+
+752
+00:39:59,300 --> 00:40:02,800
+například to že v rámci unifikace
+
+753
+00:40:02,800 --> 00:40:04,900
+už dochází k takovým věcem jako že je
+
+754
+00:40:04,900 --> 00:40:07,099
+dobře tak mě co jsme si říkali A teď to
+
+755
+00:40:07,099 --> 00:40:08,900
+znova anthropomorphic ujeme aby z toho
+
+756
+00:40:08,900 --> 00:40:10,900
+bylo zase něco řekněme lidského
+
+757
+00:40:11,800 --> 00:40:15,000
+a postupně v rámci slyšet a dochází k
+
+758
+00:40:15,000 --> 00:40:17,500
+těmto párování těchto z poniklované a
+
+759
+00:40:17,500 --> 00:40:21,000
+jde po ní kovaných postav až pak
+
+760
+00:40:21,000 --> 00:40:22,800
+existuje jeden graf který už se mi
+
+761
+00:40:22,800 --> 00:40:24,400
+bohužel nepodařilo znovu nalézt
+
+762
+00:40:24,400 --> 00:40:26,699
+přednášku kde postupně dochází tak k
+
+763
+00:40:26,699 --> 00:40:29,699
+tomu že řekneme na ose divnosti máte
+
+764
+00:40:29,699 --> 00:40:33,400
+tyto různé přehazované párování
+
+765
+00:40:33,400 --> 00:40:35,300
+dojdete k tomu že nejdivnější párování
+
+766
+00:40:35,300 --> 00:40:35,699
+člověka s člověkem
+
+767
+00:40:35,699 --> 00:40:39,699
+jak
+
+768
+00:40:39,699 --> 00:40:42,800
+říkám Flash je hodně specifická věc a
+
+769
+00:40:42,800 --> 00:40:46,099
+opravdu je potřeba na to mít nejen
+
+770
+00:40:46,099 --> 00:40:47,599
+odolné nerv
+
+771
+00:40:47,599 --> 00:40:51,500
+odolné oči a víčka která
+
+772
+00:40:51,500 --> 00:40:53,400
+nemají tendenci se zavírat aby vás
+
+773
+00:40:53,400 --> 00:40:56,800
+řekněme uchránila Před velkou ujmou
+
+774
+00:40:56,800 --> 00:40:59,500
+taky velice specifický způsob uvažování
+
+775
+00:41:01,400 --> 00:41:03,900
+tím samozřejmě nechci říct nic o těch
+
+776
+00:41:03,900 --> 00:41:06,500
+kteří mají Slash vysloveně rádi podle
+
+777
+00:41:06,500 --> 00:41:08,699
+všeho co teďka popisuje to zřejmě běžná
+
+778
+00:41:08,699 --> 00:41:10,900
+zábava koneckonců Vždyť ETA inspirováno
+
+779
+00:41:10,900 --> 00:41:11,500
+hračkami pro děti
+
+780
+00:41:15,900 --> 00:41:16,800
+tak
+
+781
+00:41:21,199 --> 00:41:24,199
+myslím že teď máme už konec prezentace
+
+782
+00:41:24,199 --> 00:41:27,400
+já to řešit dokončím některé ty logické
+
+783
+00:41:27,400 --> 00:41:30,000
+problémy Pokud snad někdy budete
+
+784
+00:41:30,000 --> 00:41:32,300
+takovéhle věci psát prosím Uvědomte si
+
+785
+00:41:32,300 --> 00:41:35,300
+že jsou jistá pravidla která byste měli
+
+786
+00:41:35,300 --> 00:41:38,300
+dodržovat jedna věc anthropomorphism
+
+787
+00:41:38,300 --> 00:41:40,699
+ani poníci by si měli zachovávat své
+
+788
+00:41:40,699 --> 00:41:41,099
+rohy
+
+789
+00:41:41,699 --> 00:41:45,699
+pokud tak neučiní přicházíte o jistou
+
+790
+00:41:45,699 --> 00:41:48,800
+možnost prohlubování vzájemných vztahů
+
+791
+00:41:51,699 --> 00:41:55,099
+dále Pokud snad hodláte používat
+
+792
+00:41:55,099 --> 00:41:57,300
+smíšená párování v rámci řekněme tvaru
+
+793
+00:41:57,300 --> 00:41:59,099
+antropomorfizace konizace
+
+794
+00:41:59,099 --> 00:42:03,099
+zvažte kdo a jakým
+
+795
+00:42:03,099 --> 00:42:05,800
+způsobem bude užívat pomůcky
+
+796
+00:42:08,400 --> 00:42:11,000
+hypoteční nad tím zamyslíte není to
+
+797
+00:42:11,000 --> 00:42:12,500
+zrovna jednoduché logistický problém
+
+798
+00:42:12,500 --> 00:42:13,099
+ano
+
+799
+00:42:14,800 --> 00:42:17,400
 totéž platí Pokud by se mělo jednat jen
 
-827
-0:42:17,400 --> 0:42:20,400
+800
+00:42:17,400 --> 00:42:20,400
 o ty fanfikce v rámci řekněme jen
 
-828
-0:42:20,400 --> 0:42:21,400
+801
+00:42:20,400 --> 00:42:21,400
 zvířecí podoby
 
-829
-0:42:22,699 --> 0:42:26,699
+802
+00:42:22,699 --> 00:42:26,699
 dále obvykle tedy nejsem si
 
-830
-0:42:26,699 --> 0:42:29,500
+803
+00:42:26,699 --> 00:42:29,500
 jistý u draku ale minimálně králíčci
 
-831
-0:42:31,199 --> 0:42:34,400
+804
+00:42:31,199 --> 00:42:34,400
 modří už vědět a slyším tento ten smích
 
-832
-0:42:34,400 --> 0:42:36,500
+805
+00:42:34,400 --> 00:42:36,500
 Ano je to mazlíček flatršaj
 
-833
-0:42:36,500 --> 0:42:40,000
+806
+00:42:36,500 --> 00:42:40,000
 obvykle nedisponují
 
-834
-0:42:40,000 --> 0:42:42,300
+807
+00:42:40,000 --> 00:42:42,300
 nebo by alespoň neměli by mě docela
 
-835
-0:42:42,300 --> 0:42:43,000
+808
+00:42:42,300 --> 00:42:43,000
 brání v pohybu
 
-836
-0:42:45,099 --> 0:42:47,300
+809
+00:42:45,099 --> 00:42:47,300
 specifickou tělesnou výbavou která
 
-837
-0:42:47,300 --> 0:42:49,599
+810
+00:42:47,300 --> 00:42:49,599
 výrazně převyšuje svými rozměry rozměr
 
-838
-0:42:49,599 --> 0:42:51,199
+811
+00:42:49,599 --> 00:42:51,199
 hrudníku daného králíčka
 
-839
-0:42:56,800 --> 0:42:58,800
- Já vás varoval
+812
+00:42:56,800 --> 00:42:58,800
+Já vás varoval
 
-840
-0:43:03,599 --> 0:43:06,599
+813
+00:43:03,599 --> 00:43:06,599
 stejně tak by bylo dobré zvážit takové
 
-841
-0:43:06,599 --> 0:43:10,400
+814
+00:43:06,599 --> 00:43:10,400
 věci že pokud nám hrady ty
 
-842
-0:43:10,400 --> 0:43:13,599
+815
+00:43:10,400 --> 00:43:13,599
 rozvíjí svůj svého by mě kdyby možná
 
-843
-0:43:13,599 --> 0:43:16,400
+816
+00:43:13,599 --> 00:43:16,400
 mohl ty poníky kteří jsou u ní na
 
-844
-0:43:16,400 --> 0:43:19,400
+817
+00:43:16,400 --> 00:43:19,400
 návštěvě Postrádá přečin osobní
 
-845
-0:43:19,400 --> 0:43:22,300
+818
+00:43:19,400 --> 00:43:22,300
 návštěvě třeba pár dnů měsíců let
 
-846
-0:43:27,199 --> 0:43:31,000
+819
+00:43:27,199 --> 00:43:31,000
 tak dále některé
 
-847
-0:43:31,000 --> 0:43:34,500
+820
+00:43:31,000 --> 00:43:34,500
 způsoby popisu
 
-848
-0:43:34,500 --> 0:43:36,599
+821
+00:43:34,500 --> 00:43:36,599
 situaci by měly být absolutně
 
-849
-0:43:36,599 --> 0:43:37,599
+822
+00:43:36,599 --> 00:43:37,599
 zapovězený
 
-850
-0:43:38,599 --> 0:43:42,300
+823
+00:43:38,599 --> 00:43:42,300
 Prosím zvažte dobře do čeho všeho s
 
-851
-0:43:42,300 --> 0:43:44,400
+824
+00:43:42,300 --> 00:43:44,400
 byste se v tomto chtěli pouštět nebo co
 
-852
-0:43:44,400 --> 0:43:47,199
+825
+00:43:44,400 --> 00:43:47,199
 všechno chcete číst dokázat u nás na
 
-853
-0:43:47,199 --> 0:43:50,400
+826
+00:43:47,199 --> 00:43:50,400
 takové věci které jsem si říkal nemohl
 
-854
-0:43:50,400 --> 0:43:53,000
+827
+00:43:50,400 --> 00:43:53,000
 vyplodit lidský rozum
 
-855
-0:43:56,000 --> 0:43:59,900
- a Vás žádám pokud snad Cože
+828
+00:43:56,000 --> 00:43:59,900
+a Vás žádám pokud snad Cože
 
-856
-0:44:02,500 --> 0:44:13,000
+829
+00:44:02,500 --> 00:44:13,000
 Já
 
-857
-0:44:13,000 --> 0:44:15,400
+830
+00:44:13,000 --> 00:44:15,400
 bych to převedl do děsivější formy
 
-858
-0:44:16,599 --> 0:44:19,000
+831
+00:44:16,599 --> 00:44:19,000
 autoři a autorky těchto fanfikcí a
 
-859
-0:44:19,000 --> 0:44:21,699
+832
+00:44:19,000 --> 00:44:21,699
 komiksů jsou možná mezi námi
 
-860
-0:44:21,699 --> 0:44:31,900
+833
+00:44:21,699 --> 00:44:31,900
 Fakt
 
-861
-0:44:31,900 --> 0:44:35,300
+834
+00:44:31,900 --> 00:44:35,300
 A tímto varováním a tedy nevím jestli
 
-862
-0:44:35,300 --> 0:44:38,900
+835
+00:44:35,300 --> 00:44:38,900
 mám vás mám ocenit že jsem vás za to že
 
-863
-0:44:38,900 --> 0:44:42,500
+836
+00:44:38,900 --> 00:44:42,500
 nikdo nevyužil odkazovaného
 
-864
-0:44:42,500 --> 0:44:45,699
+837
+00:44:42,500 --> 00:44:45,699
 napravo od vás východu bych tuto
 
-865
-0:44:45,699 --> 0:44:47,300
+838
+00:44:45,699 --> 00:44:47,300
 přednášku ukončil
 
-866
-0:44:53,000 --> 0:44:57,000
+839
+00:44:53,000 --> 00:44:57,000
 Pokud
 
-867
-0:44:57,000 --> 0:44:59,900
+840
+00:44:57,000 --> 00:44:59,900
 na takové fanfikce hodláte tvořit a
 
-868
-0:44:59,900 --> 0:45:03,000
+841
+00:44:59,900 --> 00:45:03,000
 hodláte mi je i nějakého pochybného
 
-869
-0:45:03,000 --> 0:45:07,000
+842
+00:45:03,000 --> 00:45:07,000
 důvodu posílá A věřte mi že
 
-870
-0:45:07,000 --> 0:45:10,599
+843
+00:45:07,000 --> 00:45:10,599
 můj email který získá hodně
 
-871
-0:45:10,599 --> 0:45:12,300
+844
+00:45:10,599 --> 00:45:12,300
 položek do spam filtru
 
-872
-0:45:14,500 --> 0:45:16,500
+845
+00:45:14,500 --> 00:45:16,500
 opravdu pro tuto přednášku
 
-873
-0:45:16,500 --> 0:45:20,500
+846
+00:45:16,500 --> 00:45:20,500
 nehodlám opakovat věci které jsem kvůli
 
-874
-0:45:20,500 --> 0:45:24,300
+847
+00:45:20,500 --> 00:45:24,300
 ní musel vidět shlédnout
 
-875
-0:45:24,300 --> 0:45:27,099
+848
+00:45:24,300 --> 00:45:27,099
 uvažovat o ní
 
-876
-0:45:29,599 --> 0:45:31,500
+849
+00:45:29,599 --> 00:45:31,500
 nechtěným směrem
 
-877
-0:45:31,500 --> 0:45:35,000
+850
+00:45:31,500 --> 00:45:35,000
 opravdu nechtěným směrem
 
-878
-0:45:35,000 --> 0:45:37,900
+851
+00:45:35,000 --> 00:45:37,900
 jak se říká pro štěstí v životě člověk
 
-879
-0:45:37,900 --> 0:45:39,800
+852
+00:45:37,900 --> 00:45:39,800
 potřebuje mít tu správnou míru
 
-880
-0:45:39,800 --> 0:45:42,800
+853
+00:45:39,800 --> 00:45:42,800
 zapomnětlivosti a hlouposti čili
 
-881
-0:45:42,800 --> 0:45:44,599
+854
+00:45:42,800 --> 00:45:44,599
 nepotřebujeme vědět všechno musí mít
 
-882
-0:45:44,599 --> 0:45:46,300
+855
+00:45:44,599 --> 00:45:46,300
 schopnosti zapomenout některý to
 
-883
-0:45:46,300 --> 0:45:46,800
+856
+00:45:46,300 --> 00:45:46,800
 bohužel nejde
 
-884
-0:45:55,800 --> 0:45:58,699
- já rozhodně ne
+857
+00:45:55,800 --> 00:45:58,699
+já rozhodně ne
 
-885
-0:46:02,800 --> 0:46:12,699
+858
+00:46:02,800 --> 00:46:12,699
 ne
 
-886
-0:46:12,699 --> 0:46:15,599
+859
+00:46:12,699 --> 00:46:15,599
 poníka
 
-887
-0:46:15,599 --> 0:46:16,900
+860
+00:46:15,599 --> 00:46:16,900
 nevlastní
 
-888
-0:46:16,900 --> 0:46:20,800
+861
+00:46:16,900 --> 00:46:20,800
 vlastně ani figurku poníka
 
-889
-0:46:20,800 --> 0:46:24,199
+862
+00:46:20,800 --> 00:46:24,199
 nevařím ani anthropomorphism malého
 
-890
-0:46:24,199 --> 0:46:27,800
+863
+00:46:24,199 --> 00:46:27,800
 poníka nevlastním ani žádnou jinou
 
-891
-0:46:27,800 --> 0:46:30,900
+864
+00:46:27,800 --> 00:46:30,900
 možnou podobu poníků kterou se je vaše
 
-892
-0:46:30,900 --> 0:46:32,599
+865
+00:46:30,900 --> 00:46:32,599
 zvedla myslel Teď představuje
 
-893
-0:46:32,599 --> 0:46:36,400
+866
+00:46:32,599 --> 00:46:36,400
 támhle vidím dotaz
 
-894
-0:46:38,900 --> 0:46:39,400
- pardon
+867
+00:46:38,900 --> 00:46:39,400
+pardon
 
-895
-0:46:41,000 --> 0:46:46,599
+868
+00:46:41,000 --> 00:46:46,599
 jestli
 
-896
-0:46:46,599 --> 0:46:50,000
+869
+00:46:46,599 --> 00:46:50,000
 oni chtějí v tomto kontextu
 
-897
-0:46:50,000 --> 0:46:51,900
+870
+00:46:50,000 --> 00:46:51,900
 být na pódiu
 
-898
-0:47:28,900 --> 0:47:37,800
+871
+00:47:28,900 --> 00:47:37,800
 já
 
-899
-0:47:37,800 --> 0:47:39,500
+872
+00:47:37,800 --> 00:47:39,500
 raději zavřu oči aby se počítá
 
-900
-0:47:39,500 --> 0:47:46,099
+873
+00:47:39,500 --> 00:47:46,099
 ne
 
-901
-0:47:46,099 --> 0:48:08,400
+874
+00:47:46,099 --> 00:48:08,400
 tady
 
-902
-0:48:08,400 --> 0:48:10,599
+875
+00:48:08,400 --> 00:48:10,599
 mi nezbývá než lejeune těmi blesky a
 
-903
-0:48:10,599 --> 0:48:12,400
+876
+00:48:10,599 --> 00:48:12,400
 úžasným projektorem prohlásit že
 
-904
-0:48:12,400 --> 0:48:15,400
+877
+00:48:12,400 --> 00:48:15,400
 hinduisté měli pravdu nevidím zlo
 
-905
-0:48:15,400 --> 0:48:17,500
+878
+00:48:15,400 --> 00:48:17,500
 neslyším zlo nemluvím zlo
 
-906
-0:48:25,400 --> 0:48:42,099
+879
+00:48:25,400 --> 00:48:42,099
 Já
 
-907
-0:48:42,099 --> 0:48:43,500
+880
+00:48:42,099 --> 00:48:43,500
 myslím že tohle to by stačilo
 
-908
-0:48:43,500 --> 0:48:47,500
+881
+00:48:43,500 --> 00:48:47,500
 Opravdu potřebujeme Tento
 
-909
-0:48:47,500 --> 0:48:49,699
+882
+00:48:47,500 --> 00:48:49,699
 zápas použít ještě k dalšímu programu a
 
-910
-0:48:49,699 --> 0:48:53,699
+883
+00:48:49,699 --> 00:48:53,699
 opravdu se omlouvám těm kteří Potkali
 
-911
-0:48:53,699 --> 0:48:56,300
+884
+00:48:53,699 --> 00:48:56,300
 jsme přednášce přicházeli s s a
 
-912
-0:48:56,300 --> 0:48:59,400
+885
+00:48:56,300 --> 00:48:59,400
 vycházet ze sálu A okolním lesem říkali
 
-913
-0:48:59,400 --> 0:49:02,099
+886
+00:48:59,400 --> 00:49:02,099
 že ona zmiňovala Želvy Ninja co moje
 
-914
-0:49:02,099 --> 0:49:02,500
+887
+00:49:02,099 --> 00:49:02,500
 dětství
 
-915
-0:49:02,500 --> 0:49:06,800
+888
+00:49:02,500 --> 00:49:06,800
 protože
 
-916
-0:49:06,800 --> 0:49:08,199
+889
+00:49:06,800 --> 00:49:08,199
 teď asi když před vámi někdo řekne
 
-917
-0:49:08,199 --> 0:49:09,900
+890
+00:49:08,199 --> 00:49:09,900
 slovo po nich nebo králíček tak asi se
 
-918
-0:49:09,900 --> 0:49:10,500
+891
+00:49:09,900 --> 00:49:10,500
 budete myslet své
 
-919
-0:49:15,500 --> 0:49:19,099
+892
+00:49:15,500 --> 00:49:19,099
 nože ještě jednou tedy vám mockrát
 
-920
-0:49:19,099 --> 0:49:22,400
+893
+00:49:19,099 --> 00:49:22,400
 děkuji nevím tedy jak moc mám poděkovat
 
-921
-0:49:22,400 --> 0:49:26,199
+894
+00:49:22,400 --> 00:49:26,199
 od vás Ze zde přítomných Cosplay X3
 
-922
-0:49:26,199 --> 0:49:28,900
+895
+00:49:26,199 --> 00:49:28,900
 hodně uvidíme podle toho co se ještě
 
-923
-0:49:28,900 --> 0:49:30,800
+896
+00:49:28,900 --> 00:49:30,800
 objeví v kreatura nebo v jiných klubech
 
-924
-0:49:30,800 --> 0:49:34,400
+897
+00:49:30,800 --> 00:49:34,400
 může
 
-925
-0:49:34,400 --> 0:49:37,300
+898
+00:49:34,400 --> 00:49:37,300
 ještě jednou pěkný zbytek akicon
 
-926
-0:49:37,300 --> 0:49:40,199
+899
+00:49:37,300 --> 00:49:40,199
 Omlouvám se
 
-927
-0:49:40,199 --> 0:50:04,400
+900
+00:49:40,199 --> 00:50:04,400
 budí
 
-928
-0:50:04,400 --> 0:50:04,699
+901
+00:50:04,400 --> 00:50:04,699
 princezny
 
-929
-0:50:15,500 --> 0:50:30,599
+902
+00:50:15,500 --> 00:50:30,599
 dlouhodobá
 
-930
-0:50:30,599 --> 0:50:30,800
+903
+00:50:30,599 --> 00:50:30,800
 předpověď
 
-931
-0:50:30,800 --> 0:51:11,199
+904
+00:50:30,800 --> 00:51:11,199
 Wikipedie
 
-932
-0:51:18,699 --> 0:51:22,199
+905
+00:51:18,699 --> 00:51:22,199
 D D D D D D
 
-933
-0:51:22,199 --> 0:51:23,699
+906
+00:51:22,199 --> 00:51:23,699
 D
 
-934
-0:51:23,699 --> 0:51:27,500
+907
+00:51:23,699 --> 00:51:31,199
 D D
 
-935
-0:51:27,500 --> 0:51:31,199
-D D
-
-936
-0:51:31,199 --> 0:51:34,300
+908
+00:51:31,199 --> 00:51:34,300
 D D D D D
 
-937
-0:51:34,300 --> 0:51:36,400
+909
+00:51:34,300 --> 00:51:36,400
 D D D
 
-938
-0:51:36,400 --> 0:51:43,000
-D
-
-939
-0:51:43,000 --> 0:51:44,099
+910
+00:51:36,400 --> 00:51:44,099
 D
 
