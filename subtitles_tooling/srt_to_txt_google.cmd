@@ -1,0 +1,1 @@
+cd .. && python subtitles_tooling/srt_to_txt_sentences.py text_out/google-stt

@@ -32,7 +32,7 @@ se snažit přiblížit něco
 
 9
 00:00:22,450 --> 00:00:25,240
-z "Scénáristických podivností na školní půdě".
+ze "Scénáristických podivností na školní půdě".
 
 10
 00:00:25,770 --> 00:00:27,580
@@ -840,7 +840,7 @@ které od té základky, přes ty střední stupně až do té univerzity máte,
 
 211
 00:10:36,970 --> 00:10:40,300
-vlastně využít k tomu, že ste si někam vyrazili s přáteli atd.
+vlastně využít k tomu, že jste si někam vyrazili s přáteli atd.
 
 212
 00:10:40,740 --> 00:10:42,040

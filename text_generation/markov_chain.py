@@ -17,7 +17,7 @@ def main():
     # model_merged = markovify.combine([model_2gram, model_3gram])
     for i in range(5):
         # print(model_3gram.make_short_sentence(140))
-        print(model_3gram.make_sentence())
+        print(model_3gram.make_sentence(max_overlap_ratio=0.8, max_overlap_total=20))
 
 if __name__ == '__main__':
     main()

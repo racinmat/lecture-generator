@@ -26,6 +26,11 @@ def merge_sentences_together(sentences):
             i += 1
     return sentences
 
+
+def remove_quotation_marks(sentences):
+    return map(lambda x: x.replace('"', ''), sentences)
+
+
 def srt_to_sentences(filename):
     print('parsing file', filename)
     records = load_srt_file(filename)
@@ -37,13 +42,14 @@ def srt_to_sentences(filename):
             continue
         sentences.append(record.text)
 
-    merged_sentences = list(merge_sentences_together(sentences))
+    sentences = list(merge_sentences_together(sentences))
+    sentences = list(remove_quotation_marks(sentences))
     # merging parts of sentences into sentences
     basename = osp.splitext(osp.basename(filename))[0]
     dir_path = osp.dirname(osp.realpath(__file__))
-    with open(osp.join(dir_path, '..', 'pure_text_dataset', basename+'.txt'), mode='w+', encoding='utf-8') as f:
-        for sentence in merged_sentences:
-            f.write(sentence+'\n')
+    with open(osp.join(dir_path, '..', 'pure_text_dataset', basename + '.txt'), mode='w+', encoding='utf-8') as f:
+        for sentence in sentences:
+            f.write(sentence + '\n')
 
 
 if __name__ == '__main__':
