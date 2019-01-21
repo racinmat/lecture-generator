@@ -1,0 +1,5372 @@
+﻿1
+00:00:04,570 --> 00:00:09,712
+Jo, pardon, mám tu šlapátka, jenom, co, že vpřed, co je zpět?
+
+2
+00:00:10,900 --> 00:00:14,656
+Jo, s podtitulem "Včera, dnes, a zítra",
+
+3
+00:00:14,704 --> 00:00:16,890
+přiznejme si to, Mahó šódžó žánr je tu
+
+4
+00:00:16,890 --> 00:00:19,550
+dlouhou dobu, a za celou tu
+
+5
+00:00:19,550 --> 00:00:19,568
+dobu nezůstal stejný nebo neměnný,
+dlouhou dobu, a za celou tu
+
+6
+00:00:19,568 --> 00:00:22,320
+dobu nezůstal stejný nebo neměnný,
+
+7
+00:00:22,330 --> 00:00:24,704
+získával spoustu nových prvků,
+
+8
+00:00:24,730 --> 00:00:27,808
+které vlastně dnes bereme skoro jako ikonické,
+
+9
+00:00:27,800 --> 00:00:30,160
+a na této přednášce se musíme podívat,
+
+10
+00:00:30,180 --> 00:00:33,200
+odkud a za jakých podmínek tyhlety prvky
+
+11
+00:00:33,226 --> 00:00:34,780
+mahó šódžó získalo.
+
+12
+00:00:34,780 --> 00:00:36,700
+Zároveň, jak
+
+13
+00:00:36,700 --> 00:00:39,208
+jste se mohli dozvědět, pokud jste si přečetli anotaci,
+
+14
+00:00:39,230 --> 00:00:41,964
+se pokusím odpovědět na tu asi nejklíčovější otázku,
+
+15
+00:00:41,982 --> 00:00:45,700
+a to je: zda-li mahó šódžó, aneb příběhy o magických děvčatech,
+
+16
+00:00:45,700 --> 00:00:47,260
+jsou určené jenom těm
+
+17
+00:00:47,260 --> 00:00:51,022
+malým slečnám ve věku od 7 do 12 let.
+
+18
+00:00:54,168 --> 00:00:55,093
+Tak.
+
+19
+00:00:55,297 --> 00:00:57,300
+První varování.
+
+20
+00:00:57,911 --> 00:01:01,057
+Jelikož se budeme zabývat i příběhy aspekty,
+
+21
+00:01:01,066 --> 00:01:03,235
+a celkově různými přístupy
+
+22
+00:01:03,249 --> 00:01:06,695
+k tvorbě mahó šódžó, mahó šódžó zápletek,
+
+23
+00:01:07,163 --> 00:01:10,375
+či vyprávění příběhů, narazíme na věci
+
+24
+00:01:10,381 --> 00:01:12,540
+které budou spoileroidní.
+
+25
+00:01:12,953 --> 00:01:16,596
+Spoilerům se nemohu v tomhle tom vyhnout, zvlášť, pokud na to chci poukázat, 
+
+26
+00:01:16,590 --> 00:01:20,553
+takže, všichni kteří nenávidíte spoilery
+
+27
+00:01:20,572 --> 00:01:23,507
+i jen pouhé naznačení že
+
+28
+00:01:23,520 --> 00:01:26,381
+v Love Hině hlavní hrdina
+
+29
+00:01:26,400 --> 00:01:28,880
+skončí s tou dívkou která ho zmlátila jako první, 
+
+30
+00:01:28,990 --> 00:01:32,006
+velkým spoilerem, tak,
+
+31
+00:01:32,060 --> 00:01:35,015
+bohužel v této přednášce na podobné věci narazíte.
+
+32
+00:01:35,353 --> 00:01:38,300
+V takovém případě, neriskujte to, opravdu,
+
+33
+00:01:38,300 --> 00:01:41,883
+nemá to smysl, východ je po vaší pravé straně.
+
+34
+00:01:41,900 --> 00:01:43,415
+Já tam se nebudu zlobit,
+
+35
+00:01:43,580 --> 00:01:46,467
+vy, vy si alespoň ušetříte možné zklamání.
+
+36
+00:01:46,640 --> 00:01:49,796
+Takže opravdu, spoilery budou hrát jistou roli
+
+37
+00:01:49,800 --> 00:01:52,756
+v té přednášce, takže opatrně s tím.
+
+38
+00:01:52,760 --> 00:01:55,378
+Ti z vás, kteří něchtějí mít spoilnuto,
+
+39
+00:01:55,390 --> 00:01:56,529
+mají možnost odejít.
+
+40
+00:01:56,560 --> 00:02:01,280
+Co jsem tak viděl minimálně v malém sále probíhá dost zajímavá přednáška od
+
+41
+00:02:01,298 --> 00:02:03,070
+Himeho o stříhání AMVček.
+
+42
+00:02:04,424 --> 00:02:06,220
+Tak. Ano.
+
+43
+00:02:06,220 --> 00:02:10,640
+A začneme rovnou na, řekněme naprostém
+
+44
+00:02:10,664 --> 00:02:11,600
+základě.
+
+45
+00:02:12,941 --> 00:02:14,260
+Ribon no kiši.
+
+46
+00:02:15,249 --> 00:02:19,380
+A, jak bývá také mým zvykem, rovnou si zahrajeme i první hru.
+
+47
+00:02:19,380 --> 00:02:21,940
+Ví někdo z vás,
+
+48
+00:02:21,940 --> 00:02:25,366
+kdo je autorem anime: ribon no kiši?
+
+49
+00:02:25,495 --> 00:02:27,741
+Hlašte se mi, nekřičte to na mě.
+
+50
+00:02:30,504 --> 00:02:33,009
+Dobře, poradím.
+
+51
+00:02:34,040 --> 00:02:35,267
+Někdo vzadu se hlásí?
+
+52
+00:02:36,338 --> 00:02:37,520
+Takže, prosím?
+
+53
+00:02:38,840 --> 00:02:42,504
+Já vám gratuluji, prosím pojďte, zatleskáme
+
+54
+00:02:48,270 --> 00:02:49,540
+statečné slečně.
+
+55
+00:02:49,720 --> 00:02:52,861
+Ano, protože máš v anime platí: pokud chcete
+
+56
+00:02:52,861 --> 00:02:54,676
+dumat nad tím,
+
+57
+00:02:54,738 --> 00:02:56,209
+a, prosím,
+
+58
+00:02:58,443 --> 00:03:00,300
+kde se vzal nějaký žánr,
+
+59
+00:03:00,529 --> 00:03:03,316
+existují dvě osoby ke kterým je
+
+60
+00:03:03,310 --> 00:03:05,280
+potřeba se obrátit jako prvním.
+
+61
+00:03:05,340 --> 00:03:08,523
+A zjistit třeba, zda-li to ten první no a ten druhý neupravil, 
+
+62
+00:03:08,572 --> 00:03:12,260
+a nebo pokud s tím ten první neměl nic společného, tak za to druhý nezavedl.
+
+63
+00:03:12,652 --> 00:03:17,064
+Narazíme na oba, ale opravdu ribon no kiši je od Osamu Tezuky.
+
+64
+00:03:18,520 --> 00:03:21,366
+Je to vlastně série,
+
+65
+00:03:22,609 --> 00:03:27,020
+která původně vznikla jako manga v roku, vlastně,
+
+66
+00:03:27,020 --> 00:03:29,420
+v roce 1953, takže opravdu
+
+67
+00:03:29,420 --> 00:03:33,101
+na ústupu Tezukovy kariéry.
+
+68
+00:03:33,144 --> 00:03:36,547
+A 67, v roce 67 vzniká podle ní
+
+69
+00:03:36,566 --> 00:03:39,587
+i animovaný seriál o 52 dílech.
+
+70
+00:03:40,129 --> 00:03:43,107
+Hlavní hrdinka, princezna Sapphire, je
+
+71
+00:03:43,150 --> 00:03:45,220
+následníci trůnu
+
+72
+00:03:45,220 --> 00:03:48,880
+jednoho království s tím že
+
+73
+00:03:48,880 --> 00:03:51,612
+během jejího narození došlo k několika věcem.
+
+74
+00:03:51,660 --> 00:03:52,603
+První,
+
+75
+00:03:52,620 --> 00:03:56,941
+andílek který jí nesl její růžové dívčí srdce omylem
+
+76
+00:03:57,175 --> 00:04:01,944
+omylem si popletl růžovou a modrou,
+
+77
+00:04:02,258 --> 00:04:05,460
+a nebo možná, aby měl jistotu, tak jí obě srdce vrazil do těla.
+
+78
+00:04:05,630 --> 00:04:09,107
+Takže Sapphire disponuje jak něžným srdcem dívek,
+
+79
+00:04:09,138 --> 00:04:11,772
+tak i chrabrým srdce mužů.
+
+80
+00:04:12,332 --> 00:04:16,818
+Zároveň, protože se narodila jako dívka a král na potomka čekal dost dlouho,
+
+81
+00:04:17,144 --> 00:04:20,966
+tak si nemohl dovolit destabilizovat, vlastně,
+
+82
+00:04:21,107 --> 00:04:24,898
+svůj, svůj stát, tím že by neměl jistého následníka.
+
+83
+00:04:25,100 --> 00:04:26,947
+Takže Sapphire, ačkoli je dívkou,
+
+84
+00:04:26,966 --> 00:04:28,873
+tak od narození je prohlášena za muže,
+
+85
+00:04:29,187 --> 00:04:32,541
+a celou dobu vychovávána jako princ Sapphire.
+
+86
+00:04:34,467 --> 00:04:36,820
+Teď, další.
+
+87
+00:04:36,820 --> 00:04:37,544
+Ano.
+
+88
+00:04:37,975 --> 00:04:40,652
+Ano, to je to série se vede dost dlouho akademický spor, 
+
+89
+00:04:40,683 --> 00:04:44,258
+zdali je možné ji považovat za mahó šódžó, nebo nikoli.
+
+90
+00:04:44,620 --> 00:04:45,969
+Všichni z vás,
+
+91
+00:04:45,970 --> 00:04:48,658
+kteří zastávají teorii že Wikipedie je
+
+92
+00:04:48,676 --> 00:04:51,920
+ultimátním zdrojem pravdu o tomto vesmíru,
+
+93
+00:04:52,449 --> 00:04:55,427
+prosím, zvlášť u článku o mahó šódžó,
+
+94
+00:04:57,070 --> 00:05:01,132
+berte ho s velkými, opravdu velkými rezervami.
+
+95
+00:05:01,335 --> 00:05:05,427
+Mnohem, mnohem pro vás, vlastně, řekněme, vhodnější je, pokud
+
+96
+00:05:05,421 --> 00:05:08,180
+byste zascrollovali, aniž byste ten článek četli, až dolů,
+
+97
+00:05:08,332 --> 00:05:12,780
+a podívali se na ty zdroje, jako jsou knižní publikace, ať už to jsou historie mangy, atd.,
+
+98
+00:05:13,240 --> 00:05:17,335
+a z těchto publikací pak načerpali případné informace které byste chtěli sdělovat dál.
+
+99
+00:05:17,876 --> 00:05:21,780
+Samotný článek prošel před asi několika měsíci docela závažnou
+
+100
+00:05:21,780 --> 00:05:25,790
+proměnou a radikálním přepsáním, a zároveň proškrtáním,
+
+101
+00:05:25,796 --> 00:05:28,363
+takže už je o něco méně špatný.
+
+102
+00:05:29,280 --> 00:05:32,676
+Takže jenom pro vás, kteří by s tím chtěli něco dělat.
+
+103
+00:05:32,683 --> 00:05:37,052
+Jinak, ten akademický spor v podstatě dělí obec
+
+104
+00:05:37,316 --> 00:05:41,140
+filmových historiků a teoretiků na 70% těch kteří tvrdí že,
+
+105
+00:05:41,140 --> 00:05:42,941
+že ne, není to mahó šódžó, 
+
+106
+00:05:43,020 --> 00:05:44,843
+a 30%, kteří tvrdí, že ano.
+
+107
+00:05:45,224 --> 00:05:48,683
+Samozřejmě pak najdete i takové označení, jako je
+
+108
+00:05:48,701 --> 00:05:51,280
+prototyp mahó šódžo příběhu.
+
+109
+00:05:51,304 --> 00:05:54,972
+Je to opravdu, řekněme, hádání se o pojmy a dojmy,
+
+110
+00:05:55,000 --> 00:05:59,040
+a za chvíli si řekneme, z čeho že vlastně tato hádka plyne.
+
+111
+00:06:01,000 --> 00:06:04,313
+hlavní problém je v to, že ačkoliv samotném přijdou se vyskytuje magie
+
+112
+00:06:04,320 --> 00:06:06,700
+přestavte si to jako klasický středověký setting,
+
+113
+00:06:06,700 --> 00:06:10,660
+kde existuje aktivní magie, dokonce se zásahem nebes a pekla,
+
+114
+00:06:11,261 --> 00:06:14,566
+tak samotná Sapphire tou mají nevládne.
+
+115
+00:06:14,590 --> 00:06:18,652
+Ona opravdu využívá jen toho že, jakožto nositelka růžového srdce
+
+116
+00:06:18,670 --> 00:06:22,620
+se dokáže do lidí vciťovat, dokáže je chápat, dokáže jim naslouchat
+
+117
+00:06:22,620 --> 00:06:26,818
+a jakožto nositelka toho modrého chrabntého srdce
+
+118
+00:06:27,421 --> 00:06:30,830
+využívá své alternativní identity Phantom Knight,
+
+119
+00:06:30,916 --> 00:06:34,190
+do kterého se fyzicky převléká, to znamená, opravdu tam máte ty
+
+120
+00:06:34,199 --> 00:06:37,620
+záběry kdy přijde, odhodí tu krinolínu, a nebo teda
+
+121
+00:06:37,620 --> 00:06:38,996
+princovský šat,
+
+122
+00:06:39,210 --> 00:06:41,815
+a navlékne se do toho
+
+123
+00:06:41,883 --> 00:06:45,932
+oděvů mušketýrů a doplní to Zorovou maskou.
+
+124
+00:06:45,963 --> 00:06:48,500
+samozřejmě v odstínech černé, aby to
+
+125
+00:06:48,500 --> 00:06:50,220
+bylo správně výhružné.
+
+126
+00:06:51,050 --> 00:06:53,058
+Zároveň má ale kouzelného mazlíčka,
+
+127
+00:06:53,070 --> 00:06:55,975
+přesněji řečeno toho andílka, který to tak začátku trošku zmotal,
+
+128
+00:06:56,700 --> 00:07:00,172
+který se jmenuje Tink, případně v americké verzi Choppy,
+
+129
+00:07:00,530 --> 00:07:02,061
+který
+
+130
+00:07:02,227 --> 00:07:05,300
+jí tady jako ten sidekick pomáhá, radí,
+
+131
+00:07:05,300 --> 00:07:07,753
+jí taa vcelku už tak jako i zapomněl na to, že
+
+132
+00:07:07,760 --> 00:07:10,800
+byl po její bok poslán proto, aby jako ten svůj problém nějak vyřešil,
+
+133
+00:07:10,812 --> 00:07:15,260
+protože se jí, se mu u Sapphire líbí, a celkově s ní vychází.
+
+134
+00:07:15,260 --> 00:07:18,700
+Navíc je to jeden z mála mazlíčku, který
+
+135
+00:07:18,700 --> 00:07:21,772
+a což bývá častý problém mahó šódžo, není otravný,
+
+136
+00:07:22,006 --> 00:07:26,110
+Není roztomile přetékající cukrem atd.
+
+137
+00:07:26,332 --> 00:07:29,956
+dokonce je v podstatě jedinou postavou,
+
+138
+00:07:29,975 --> 00:07:33,300
+která, ač nemá žádné bojové dovednosti,
+
+139
+00:07:33,300 --> 00:07:35,926
+tak díky tomu, že
+
+140
+00:07:35,950 --> 00:07:39,033
+Satan, který se v tomto seriálu i fyzicky
+
+141
+00:07:39,046 --> 00:07:40,775
+objeví jakožto manifestuje,
+
+142
+00:07:41,410 --> 00:07:43,396
+má panickou hrůzu z andělů.
+
+143
+00:07:43,396 --> 00:07:46,160
+A je úplně jedno že Satan je asi 2,5metrový
+
+144
+00:07:46,178 --> 00:07:50,020
+obr, svalnatý, kterého nezraní nic lidského,
+
+145
+00:07:50,020 --> 00:07:54,326
+před tím malým létajícím andílkem se krčí hrůzou, a
+
+146
+00:07:54,344 --> 00:07:55,900
+ječí jako malé děvče.
+
+147
+00:07:57,618 --> 00:08:00,110
+Takže, je to opravdu
+
+148
+00:08:00,120 --> 00:08:03,446
+věc, která je chytrá a chytlavá.
+
+149
+00:08:03,784 --> 00:08:04,780
+A,
+
+150
+00:08:04,780 --> 00:08:08,780
+v základu si člověk i začíná, jako, klást otázku zda-li v tom roce 67
+
+151
+00:08:08,780 --> 00:08:11,815
+se netočily trošku jiné dětské seriály že se točí dnes, 
+
+152
+00:08:11,858 --> 00:08:14,664
+protože ten komplexní setting
+
+153
+00:08:14,800 --> 00:08:17,780
+pro tuhletu dětskou show zahrnuje takové věci jako jsou ty
+
+154
+00:08:17,780 --> 00:08:19,089
+politické intriky,
+
+155
+00:08:19,120 --> 00:08:21,300
+ které se snaží odhalit princi Sapphire je to
+
+156
+00:08:21,300 --> 00:08:24,258
+princezna Saphire, a tím pádem není zajištěno následnictví trůnu,
+
+157
+00:08:25,286 --> 00:08:27,460
+soustřeďuje se na to, že v těchhle těch intrikách
+
+158
+00:08:27,593 --> 00:08:30,500
+hraje nebe a peklo aktivní roli jako v tom, že 
+
+159
+00:08:30,520 --> 00:08:33,686
+sami využívají ty smrtelníky a intrikují proti sobě.
+
+160
+00:08:34,680 --> 00:08:39,033
+A do toho všeho se zamotávají i běžné lidské příběhy jako jsou ti
+
+161
+00:08:39,046 --> 00:08:40,780
+utlačování sedláci,
+
+162
+00:08:40,780 --> 00:08:44,000
+ti revolucionáři kteří mají ty krásné ideály,
+
+163
+00:08:44,012 --> 00:08:47,021
+a proto je někdo zneužije k tomu, aby páchali teroristické činy.
+
+164
+00:08:47,960 --> 00:08:51,420
+všechno řešit Sapphire, ať už tedy s nonšalancí prince
+
+165
+00:08:51,420 --> 00:08:51,458
+a nebo tvrdostí a hbitostí Phantom Knighta.
+všechno řešit Sapphire, ať už tedy s nonšalancí prince
+
+166
+00:08:51,458 --> 00:08:54,861
+a nebo tvrdostí a hbitostí Phantom Knighta.
+
+167
+00:08:54,870 --> 00:08:58,430
+Takže opravdu je to dětský seriál tak říkajíc na
+
+168
+00:08:58,860 --> 00:09:02,750
+nevím, kterému divnému dítěti bych to doporučil vysloveně sledovat jakožto
+
+169
+00:09:02,763 --> 00:09:07,212
+výchovné, na druhou stranu kdokoli starší v tom najde jednoznačné paralely.
+
+170
+00:09:08,449 --> 00:09:12,100
+Tak, tohle jsou ty důvody, jak jsem říkal na začátku proč se
+
+171
+00:09:12,100 --> 00:09:14,633
+to, proč to někteří neberou jako a mahó šódžo.
+
+172
+00:09:14,940 --> 00:09:17,353
+V základě pak, proč těch 30% tvrdí, že ano, 
+
+173
+00:09:17,390 --> 00:09:19,150
+máme tu protagonistku,
+
+174
+00:09:19,160 --> 00:09:19,900
+máme tu přecejenom
+
+175
+00:09:19,900 --> 00:09:19,938
+tu magii, která hraje nějakou aktivní roli, i když ji hrdinka samotná nevyužívá,
+máme tu přecejenom
+
+176
+00:09:19,938 --> 00:09:23,900
+tu magii, která hraje nějakou aktivní roli, i když ji hrdinka samotná nevyužívá,
+
+177
+00:09:24,090 --> 00:09:27,840
+a celkově je je tam a postavené jasně, že
+
+178
+00:09:27,864 --> 00:09:29,820
+princezna Sapphire řeší ty problémy,
+
+179
+00:09:29,820 --> 00:09:33,900
+které mají třeba i to magické pozadí, možná sice normálně, ale řeší je.
+
+180
+00:09:34,141 --> 00:09:38,940
+Díky tomu i já sám se kloním k tomu že bych ribon no kiši považoval za první mahó šódžo.
+
+181
+00:09:38,940 --> 00:09:40,540
+Bráním se tomu označení prototyp,
+
+182
+00:09:40,910 --> 00:09:44,381
+ale rozhodně je na vás, ke které části akademické obce
+
+183
+00:09:44,393 --> 00:09:46,030
+se, tak říkajíc, chcete připojit.
+
+184
+00:09:47,341 --> 00:09:49,500
+Tak. Druhá.
+
+185
+00:09:49,500 --> 00:09:51,224
+Himicu no Akko-čan.
+
+186
+00:09:51,993 --> 00:09:55,740
+Tak, tahle série je už takovou,
+
+187
+00:09:55,740 --> 00:09:57,550
+víc klasičtější,
+
+188
+00:09:57,610 --> 00:09:59,273
+vlastně,
+
+189
+00:09:59,300 --> 00:10:03,399
+točí se kolem toho, že to je ta s tou čelenku a mašličkami po TODO: dodělat
+
+190
+00:10:03,399 --> 00:10:04,141
+stranách má schopnost se měnit
+točí se kolem toho, že to je ta s tou čelenku a mašličkami po TODO: dodělat
+
+191
+00:10:04,141 --> 00:10:07,200
+stranách má schopnost se měnit
+
+192
+00:10:07,200 --> 00:10:10,299
+pomocí zrcadel a měnit se
+
+193
+00:10:10,299 --> 00:10:14,100
+často používá svou pudřenku se
+
+194
+00:10:14,100 --> 00:10:17,299
+zrcátkem podívá a řekne co bych chtěla
+
+195
+00:10:17,299 --> 00:10:19,899
+být celé psal jestli přezdívaná barev a
+
+196
+00:10:19,899 --> 00:10:21,299
+ona se promění
+
+197
+00:10:23,799 --> 00:10:25,100
+takže
+
+198
+00:10:25,100 --> 00:10:32,600
+nemůžu
+
+199
+00:10:32,600 --> 00:10:33,200
+vrátit zpátky
+
+200
+00:10:36,600 --> 00:10:38,600
+ale ty pak budu muset okamžitě listové
+
+201
+00:10:38,600 --> 00:10:41,000
+otázky tím děkuji technice nevadí
+
+202
+00:10:43,899 --> 00:10:46,799
+tak ještě ještě ještě v pořádku
+
+203
+00:10:46,799 --> 00:10:50,500
+teď už to zkusím do kolika Jo výborně
+
+204
+00:10:50,500 --> 00:10:53,600
+takže Mamka se nachází to vlastně na
+
+205
+00:10:53,600 --> 00:10:56,899
+162 roce 69 vzniká
+
+206
+00:10:56,899 --> 00:11:00,899
+anime s tím že první A nemělo 90
+
+207
+00:11:00,899 --> 00:11:03,700
+díl 2 anime o nějakých šest let později
+
+208
+00:11:03,700 --> 00:11:07,500
+60 dílů další anime 72 dílů a
+
+209
+00:11:07,500 --> 00:11:11,100
+ta poslední mělo po 40 dílů navíc tu
+
+210
+00:11:11,100 --> 00:11:14,799
+máme I live Action film takže A Kučery
+
+211
+00:11:14,799 --> 00:11:16,500
+rozhodně neskončila je to někdy je to
+
+212
+00:11:16,500 --> 00:11:20,500
+roce 69 americký Remake od sedmi
+
+213
+00:11:20,500 --> 00:11:24,100
+let už jen Ano má svého domácího
+
+214
+00:11:24,100 --> 00:11:27,299
+mazlíčka v okamžiku kdy získá schopnost
+
+215
+00:11:27,299 --> 00:11:29,700
+přeměnit získá schopnost i s těmi kteří
+
+216
+00:11:29,700 --> 00:11:32,500
+se s tímto mazlíčkem svůj kočkou kočka
+
+217
+00:11:32,500 --> 00:11:35,700
+mi v okolí či 1 od sousedů povídat a
+
+218
+00:11:35,700 --> 00:11:38,100
+ano
+
+219
+00:11:39,600 --> 00:11:41,500
+Křenovice u Svitav do toho jsem si
+
+220
+00:11:41,500 --> 00:11:45,100
+opravdu vždycky to protože a tučňák jet
+
+221
+00:11:45,100 --> 00:11:48,200
+ukázané jako malé děvče které má desku
+
+222
+00:11:48,200 --> 00:11:51,700
+fetish je velmi
+
+223
+00:11:51,700 --> 00:11:54,100
+zapálená pro zrcadla v pokoji se to
+
+224
+00:11:54,100 --> 00:11:55,899
+jsme to tady jenom hemží a tak když jí
+
+225
+00:11:55,899 --> 00:11:59,100
+otec dává dárek z daleké cesty do
+
+226
+00:11:59,100 --> 00:12:01,500
+ciziny zrcadlo které pochází z Indie
+
+227
+00:12:01,500 --> 00:12:04,799
+které se náhodou rozbije tak je mi líto
+
+228
+00:12:04,799 --> 00:12:06,899
+vzít a střepy a ten ti jde do koše což
+
+229
+00:12:06,899 --> 00:12:09,299
+by udělal každý normální člověk Místo
+
+230
+00:12:09,299 --> 00:12:11,299
+toho je rituálně zakopat na zahradě
+
+231
+00:12:11,299 --> 00:12:14,899
+jakoby hrobeček pro zrcadlo což povede
+
+232
+00:12:14,899 --> 00:12:18,600
+k tomu že zrcadla další 2 menší
+
+233
+00:12:18,600 --> 00:12:21,700
+fakt královna zrcadlové píše se před ní
+
+234
+00:12:21,700 --> 00:12:24,100
+manifestuje a nabídne jí za tuto
+
+235
+00:12:24,100 --> 00:12:26,299
+citlivost když jdu která se jí osobně
+
+236
+00:12:26,299 --> 00:12:29,100
+velmi Do pekla a to že jí zrcadla budou
+
+237
+00:12:29,100 --> 00:12:33,100
+plnit přání Samozřejmě a počítám že
+
+238
+00:12:33,100 --> 00:12:35,500
+ty mi tady v sále Kdo z nás by to
+
+239
+00:12:35,500 --> 00:12:38,600
+nebral tedy souhlasí A získává tím
+
+240
+00:12:38,600 --> 00:12:39,500
+pánem na tu možnost
+
+241
+00:12:39,600 --> 00:12:41,700
+podívá do zrcadla a řekne třeba chci
+
+242
+00:12:41,700 --> 00:12:44,700
+chci vypadat tak a tak A v tu chvíli se
+
+243
+00:12:44,700 --> 00:12:46,399
+změní takže vlastně se díky tomu dokáže
+
+244
+00:12:46,399 --> 00:12:49,799
+převlékat její výrazný podobě tedy
+
+245
+00:12:49,799 --> 00:12:53,000
+výrazněji všude je to a kočár akorát
+
+246
+00:12:53,000 --> 00:12:55,200
+Tak o čem oděvů s
+
+247
+00:12:55,200 --> 00:12:59,200
+parukou a čas od času vyšší
+
+248
+00:12:59,200 --> 00:13:03,100
+řekneme si to narovinu ale
+
+249
+00:13:03,100 --> 00:13:06,600
+rozhodně proměny vzhledu
+
+250
+00:13:06,600 --> 00:13:10,200
+který je poskytnut pomocí magie jako
+
+251
+00:13:10,200 --> 00:13:14,100
+takové tak dokáže
+
+252
+00:13:14,100 --> 00:13:15,299
+mluvit jak jsem říkal dokážu tady
+
+253
+00:13:15,299 --> 00:13:18,399
+rozumět a základu se dostáváme k tomu
+
+254
+00:13:18,399 --> 00:13:21,299
+nejkrásnějšímu žánru vlastně a prvotním
+
+255
+00:13:21,299 --> 00:13:23,500
+nemohl šlo to znamená epizodní děj
+
+256
+00:13:23,500 --> 00:13:27,000
+každý děje uzavřený příběh a dá se říct
+
+257
+00:13:27,000 --> 00:13:28,399
+že by se to dalo považovat za tebe
+
+258
+00:13:28,399 --> 00:13:30,899
+takový of Light Je to pohled do života
+
+259
+00:13:30,899 --> 00:13:33,500
+mladé dívky která má tuhle tu schopnost
+
+260
+00:13:33,500 --> 00:13:36,200
+a pomocí nich řeší problémy svých
+
+261
+00:13:36,200 --> 00:13:38,000
+bližních způsobuje problémy svým
+
+262
+00:13:38,000 --> 00:13:39,500
+bližním a řešit To problém
+
+263
+00:13:39,600 --> 00:13:42,399
+takže tak jo
+
+264
+00:13:42,399 --> 00:13:46,399
+tak dokonce i a pomocí takového
+
+265
+00:13:46,399 --> 00:13:50,000
+jsem ho kouzlo kouzlo ovlivňuje jeden z
+
+266
+00:13:50,000 --> 00:13:52,899
+kamarádek a získáme chvíli teď to
+
+267
+00:13:52,899 --> 00:13:55,000
+schopnosti ztratí paměť a postaví se
+
+268
+00:13:55,000 --> 00:13:57,299
+proti a kočár Co znamená že získáváme
+
+269
+00:13:57,299 --> 00:13:59,899
+jednu první Terno mahó šódžo už v tom
+
+270
+00:13:59,899 --> 00:14:02,899
+roce 69 vlastně dívku která která má
+
+271
+00:14:02,899 --> 00:14:06,700
+vlastně magická vůči naší protagonists
+
+272
+00:14:06,700 --> 00:14:06,799
+a
+
+273
+00:14:08,299 --> 00:14:12,000
+tak Ano a nyní se dostáváme k tomu
+
+274
+00:14:12,000 --> 00:14:13,899
+který co ten zbytek těch padesáti
+
+275
+00:14:13,899 --> 00:14:15,500
+procent akademické obce považuje za to
+
+276
+00:14:15,500 --> 00:14:17,799
+první vašeho a to je málo cukají svaly
+
+277
+00:14:17,799 --> 00:14:21,600
+jak vidíte ještě černobílá možná
+
+278
+00:14:21,600 --> 00:14:23,899
+nevidíte Ale sedí na koštěti bohužel
+
+279
+00:14:23,899 --> 00:14:27,100
+lepší screeny moc dobře udělat nešlo
+
+280
+00:14:27,100 --> 00:14:31,000
+tohle anime to produkčně stilo
+
+281
+00:14:31,000 --> 00:14:34,700
+už to 168 proto je toto první řekněme
+
+282
+00:14:34,700 --> 00:14:37,700
+výrazně uznávané mahó šódžo samotná
+
+283
+00:14:37,700 --> 00:14:39,700
+Manga je ale výrazně mladší Přerov 66
+
+284
+00:14:39,700 --> 00:14:43,500
+jak jste viděli napíše 53 pak vlastně
+
+285
+00:14:43,500 --> 00:14:47,299
+57 66 a dokonce
+
+286
+00:14:47,299 --> 00:14:50,700
+pochází z pera panelu jako já mi
+
+287
+00:14:50,700 --> 00:14:53,200
+který nám dal vedle za 1 Malšovice
+
+288
+00:14:53,200 --> 00:14:56,899
+podle většiny kritiků i věc která má
+
+289
+00:14:56,899 --> 00:14:58,700
+asi nejspíš mužské publikum A to jsou
+
+290
+00:14:58,700 --> 00:15:01,500
+obří roboti protože je to auto teď už
+
+291
+00:15:01,500 --> 00:15:05,100
+je 28 což je anime o desetiletém
+
+292
+00:15:05,100 --> 00:15:08,000
+synovi Geniálního vynálezce který pro
+
+293
+00:15:08,200 --> 00:15:10,100
+Mall k produktu válku přeprava Polsko
+
+294
+00:15:10,100 --> 00:15:11,700
+ultimátní zbraň kterou není nic jiného
+
+295
+00:15:11,700 --> 00:15:15,600
+nežli o přírodu ale docela toho
+
+296
+00:15:15,600 --> 00:15:18,500
+nestačila aktivovat takže ovládání
+
+297
+00:15:18,500 --> 00:15:19,700
+knihu dál v tom desetiletému synovi
+
+298
+00:15:19,700 --> 00:15:22,299
+odpovědnější postavu a
+
+299
+00:15:22,299 --> 00:15:25,299
+tento chlapec pak je cvičit na později
+
+300
+00:15:25,299 --> 00:15:27,100
+používá k boji proti zločincům a
+
+301
+00:15:27,100 --> 00:15:30,000
+rozmítaný organizací takže stejně autor
+
+302
+00:15:30,000 --> 00:15:32,000
+nám dodává mahotsukai Sally kde to je
+
+303
+00:15:32,000 --> 00:15:33,000
+obvod Nisou
+
+304
+00:15:35,000 --> 00:15:38,100
+a místo toho dostáváme
+
+305
+00:15:38,100 --> 00:15:41,200
+vysloveně zavedené transformaci pomocí
+
+306
+00:15:41,200 --> 00:15:44,299
+kouzelné hůlky a odříkání říkanky nebo
+
+307
+00:15:44,299 --> 00:15:46,500
+zaříkadla Takže je to opravdu ta
+
+308
+00:15:46,500 --> 00:15:48,700
+nejkrásnější pro mě už to existuje ta
+
+309
+00:15:48,700 --> 00:15:50,500
+která v podstatě definovala teď vůbec
+
+310
+00:15:50,500 --> 00:15:52,799
+na horšího že jo To znamená mámě
+
+311
+00:15:52,799 --> 00:15:54,500
+mihulkova bitva o příletu kružnici
+
+312
+00:15:54,500 --> 00:15:57,000
+kolem celého těla pro neseme něco o to
+
+313
+00:15:57,000 --> 00:15:58,899
+že tobě Pyro Pyro k vyrobení nebo něco
+
+314
+00:15:58,899 --> 00:15:59,399
+jiného Co
+
+315
+00:15:59,399 --> 00:16:04,200
+je
+
+316
+00:16:04,200 --> 00:16:07,000
+epizodní epizody z oceli a jejich
+
+317
+00:16:07,000 --> 00:16:10,100
+kamarádů se až zas tolik Karibiku
+
+318
+00:16:10,100 --> 00:16:12,200
+nedočkalo pořád ale bylo dosti
+
+319
+00:16:12,200 --> 00:16:15,100
+populární tak to jsou takové ty
+
+320
+00:16:15,100 --> 00:16:18,100
+základní opravdu hrubé základy které
+
+321
+00:16:18,100 --> 00:16:20,600
+celkově ty cigára nebo No kishi
+
+322
+00:16:20,600 --> 00:16:23,600
+využití Marcelku
+
+323
+00:16:23,600 --> 00:16:27,600
+rozumně použití magického Side Kick a a
+
+324
+00:16:27,600 --> 00:16:30,500
+když už sedí na jednu protagonistku
+
+325
+00:16:30,500 --> 00:16:34,500
+potom a kočár jakožto fit Proměny
+
+326
+00:16:34,899 --> 00:16:37,000
+změny vzhledu a využívání toho ať už
+
+327
+00:16:37,000 --> 00:16:38,600
+pro pobavení nebo pro řešení problémů
+
+328
+00:16:38,600 --> 00:16:41,600
+svých kamarádů A v Jižních a nosu
+
+329
+00:16:41,600 --> 00:16:43,399
+krystaly která vysloveně s pomocí magie
+
+330
+00:16:43,399 --> 00:16:46,700
+mění a získává ale
+
+331
+00:16:46,700 --> 00:16:49,799
+prostě pěti takže
+
+332
+00:16:49,799 --> 00:16:53,399
+jednoznačně základ daného žánru
+
+333
+00:16:53,399 --> 00:16:56,500
+který kodifikoval tyhlety základní
+
+334
+00:16:56,500 --> 00:16:57,000
+stavební kameny
+
+335
+00:17:00,299 --> 00:17:04,099
+ano tak toto je ten
+
+336
+00:17:04,099 --> 00:17:06,700
+druhý pán jak jsem říkal u kterého je
+
+337
+00:17:06,700 --> 00:17:08,200
+dobré se při zkoumání History
+
+338
+00:17:08,200 --> 00:17:10,599
+jakéhokoli Jean zastavit Mám Go nagai
+
+339
+00:17:10,599 --> 00:17:14,200
+Já to zkusím Teď jsem
+
+340
+00:17:14,200 --> 00:17:18,099
+je
+
+341
+00:17:18,099 --> 00:17:21,900
+to někdo kdo objevil dost
+
+342
+00:17:21,900 --> 00:17:23,799
+protěžování žánr a dost nenáviděný
+
+343
+00:17:23,799 --> 00:17:27,200
+žádost dnešní době zvlášť novými Zeptám
+
+344
+00:17:27,200 --> 00:17:29,700
+se zase hlašte se mi co myslíš že to za
+
+345
+00:17:29,700 --> 00:17:31,400
+žánr bylo támhle
+
+346
+00:17:33,099 --> 00:17:35,299
+je či není samostatný žádat o jsem také
+
+347
+00:17:35,299 --> 00:17:37,200
+několikrát říkal ale
+
+348
+00:17:37,200 --> 00:17:41,099
+ne úplně
+
+349
+00:17:43,000 --> 00:17:44,500
+někdo to zkusím ano
+
+350
+00:17:47,000 --> 00:17:51,000
+uzná částečně o středoškolském protože
+
+351
+00:17:51,000 --> 00:17:52,900
+to je ten pán z nám ve svém a zadeček
+
+352
+00:17:52,900 --> 00:17:54,599
+jako dopředu takové věci jako jsou
+
+353
+00:17:54,599 --> 00:17:57,200
+zdravotní prohlídky v těle had a jako s
+
+354
+00:17:57,200 --> 00:18:00,599
+tím i velmi krátké sukně dírky do
+
+355
+00:18:00,599 --> 00:18:04,500
+ženských srdci
+
+356
+00:18:04,500 --> 00:18:06,599
+která dělá nepříjemné věci a všechny
+
+357
+00:18:06,599 --> 00:18:09,900
+tyhle ty prvky které neznáme takže
+
+358
+00:18:09,900 --> 00:18:11,799
+Samozřejmostí je to
+
+359
+00:18:11,799 --> 00:18:23,700
+totiž
+
+360
+00:18:23,700 --> 00:18:27,700
+předvedl a zavedl věci které ve
+
+361
+00:18:27,700 --> 00:18:30,000
+své době byly opravdu nebo Luční a
+
+362
+00:18:30,000 --> 00:18:33,099
+dlouhou dobu nepochopené dokonce k tomu
+
+363
+00:18:33,099 --> 00:18:35,000
+tomu musel a
+
+364
+00:18:35,000 --> 00:18:42,000
+mám
+
+365
+00:18:42,000 --> 00:18:42,299
+toho dost
+
+366
+00:18:45,500 --> 00:18:49,299
+tak ano
+
+367
+00:18:49,299 --> 00:18:53,099
+tihany zpátky dopředu a do strany
+
+368
+00:18:53,099 --> 00:18:56,200
+jako specifický
+
+369
+00:18:56,200 --> 00:18:59,900
+skoro 30 let bojkotoval
+
+370
+00:18:59,900 --> 00:19:02,200
+jakékoliv označení cutey Honey jakožto
+
+371
+00:19:02,200 --> 00:19:05,400
+mahouš oči protože a tety Hany
+
+372
+00:19:05,400 --> 00:19:08,799
+které si hodím a první ukázku
+
+373
+00:19:13,799 --> 00:19:17,500
+naše je v
+
+374
+00:19:17,500 --> 00:19:18,200
+plné práci
+
+375
+00:19:21,000 --> 00:19:26,900
+Dej
+
+376
+00:19:26,900 --> 00:19:27,700
+to chvilku času
+
+377
+00:19:34,000 --> 00:19:35,900
+D D D
+
+378
+00:19:35,900 --> 00:19:39,000
+D D D D D D
+
+379
+00:19:39,000 --> 00:19:41,900
+D D D D
+
+380
+00:19:41,900 --> 00:19:47,500
+D
+
+381
+00:19:47,500 --> 00:19:49,700
+D D D D D D D D D
+
+382
+00:19:49,700 --> 00:19:53,500
+D
+
+383
+00:19:53,500 --> 00:19:57,400
+D D D
+
+384
+00:19:57,400 --> 00:19:57,599
+D
+
+385
+00:19:57,599 --> 00:20:22,700
+Link
+
+386
+00:20:22,700 --> 00:20:24,200
+download
+
+387
+00:20:34,000 --> 00:20:40,400
+vynikající
+
+388
+00:20:40,400 --> 00:20:46,400
+Dobrý
+
+389
+00:20:46,400 --> 00:20:48,099
+den pokud by ti to nevadilo
+
+390
+00:20:48,099 --> 00:21:00,000
+já
+
+391
+00:21:00,000 --> 00:21:03,799
+strach
+
+392
+00:21:03,799 --> 00:21:07,099
+nebo někdo jiný elektrinu japonštinou
+
+393
+00:21:07,099 --> 00:21:09,400
+za jakého asi nepřekvapí že v textu
+
+394
+00:21:09,400 --> 00:21:12,799
+písně se verše zahrnující slova
+
+395
+00:21:12,799 --> 00:21:16,099
+pěkný zadeček to na ňadra a končil to
+
+396
+00:21:16,099 --> 00:21:19,700
+je to právě se převlékám takže cutey
+
+397
+00:21:19,700 --> 00:21:23,099
+Honey Ano je to rok 73 kde
+
+398
+00:21:23,099 --> 00:21:27,500
+představuje
+
+399
+00:21:27,500 --> 00:21:30,599
+hrdinku která pro další věci zabili
+
+400
+00:21:30,599 --> 00:21:32,599
+otce a unesu nejlepší přítelkyně fakt
+
+401
+00:21:32,599 --> 00:21:33,900
+opravdu neměli dělat
+
+402
+00:21:34,099 --> 00:21:37,599
+Král ukazuje různé
+
+403
+00:21:37,599 --> 00:21:40,200
+části svého těla Tedy samozřejmě ne ty
+
+404
+00:21:40,200 --> 00:21:42,099
+které by nesmí být k datu cenzury
+
+405
+00:21:42,099 --> 00:21:45,900
+bojuje proti organizaci která
+
+406
+00:21:45,900 --> 00:21:49,700
+využívá střelné zbraně bazuky už nic
+
+407
+00:21:49,700 --> 00:21:52,599
+dalšího a všechno je to strašně Cool
+
+408
+00:21:52,599 --> 00:21:54,400
+hrdinka
+
+409
+00:21:54,400 --> 00:21:58,000
+Regia v
+
+410
+00:21:58,000 --> 00:22:01,099
+roce získal do svého těla instalace
+
+411
+00:22:01,099 --> 00:22:03,900
+zařízení které umožňuje měnit nebo tak
+
+412
+00:22:03,900 --> 00:22:05,700
+vytvářet pevnou hmotu ze vzduchu
+
+413
+00:22:06,500 --> 00:22:10,500
+to jí umožňuje měnit různé oblečky
+
+414
+00:22:10,500 --> 00:22:14,200
+své kostýmy a nakopávat
+
+415
+00:22:14,200 --> 00:22:17,900
+zabky v osm Takže celkově
+
+416
+00:22:17,900 --> 00:22:21,200
+obrovský hit samozřejmě tě na tom 83
+
+417
+00:22:21,200 --> 00:22:24,200
+profilovaný jako těžká věc pro kluky na
+
+418
+00:22:24,200 --> 00:22:25,900
+chvilku jste holky nemají podívat jako
+
+419
+00:22:25,900 --> 00:22:29,500
+proč je tam Cool hrdinka která má
+
+420
+00:22:29,500 --> 00:22:32,799
+spoustu šatů která si umí poradit řeší
+
+421
+00:22:32,799 --> 00:22:34,799
+i takové zápletky jako kterého klukama
+
+422
+00:22:34,799 --> 00:22:37,400
+právě ráda 3 Jak se dostat z
+
+423
+00:22:37,400 --> 00:22:40,400
+internátu své katolické školy na kterou
+
+424
+00:22:40,400 --> 00:22:42,400
+dochází a do katolické školy v Japonsku
+
+425
+00:22:42,400 --> 00:22:46,400
+a tak dále takže Říkáte si že je to
+
+426
+00:22:46,400 --> 00:22:49,099
+tak že pro kluky že ano Toto si říkali
+
+427
+00:22:49,099 --> 00:22:52,299
+A vlastně původní producenti a Islandu
+
+428
+00:22:52,299 --> 00:22:54,000
+také které taky a teď také úplně
+
+429
+00:22:54,000 --> 00:22:57,500
+nechytil řekněme vlnu nebo co všechno
+
+430
+00:22:57,500 --> 00:23:00,500
+ti Marti má rozpoutal takže vlastně
+
+431
+00:23:00,500 --> 00:23:02,500
+jako Malšovice byla tahle ta série
+
+432
+00:23:02,500 --> 00:23:06,000
+uznána až teprve výrazně zpětně a sám
+
+433
+00:23:06,000 --> 00:23:06,400
+gonna go
+
+434
+00:23:06,500 --> 00:23:08,200
+dej to do Bystřice odmítal
+
+435
+00:23:09,500 --> 00:23:12,700
+takže titani do
+
+436
+00:23:12,700 --> 00:23:15,799
+současnosti celkem na ten natočení 4
+
+437
+00:23:15,799 --> 00:23:17,900
+serie každá z nich je alternativním
+
+438
+00:23:17,900 --> 00:23:21,400
+převyprávění té první a vafle kašel
+
+439
+00:23:21,400 --> 00:23:25,099
+velmi zajímavý
+
+440
+00:23:25,099 --> 00:23:27,900
+A dokáže počítat nejen krásné ale i
+
+441
+00:23:27,900 --> 00:23:30,299
+hrané filmy a mimochodem jedna zlepší a
+
+442
+00:23:30,299 --> 00:23:30,500
+že
+
+443
+00:23:30,500 --> 00:23:34,599
+je
+
+444
+00:23:34,599 --> 00:23:36,599
+to první řada chlapecké publiku hlavní
+
+445
+00:23:36,599 --> 00:23:38,200
+protagonistkou že do té doby to byly
+
+446
+00:23:38,200 --> 00:23:40,299
+protagonisté kteří měli typu přilákat A
+
+447
+00:23:40,299 --> 00:23:43,099
+hledala jsem seběhla svojí dobu a tím
+
+448
+00:23:43,099 --> 00:23:45,000
+soustava marketingový nevyužita
+
+449
+00:23:45,000 --> 00:23:47,799
+základu očima
+
+450
+00:23:47,799 --> 00:23:51,299
+co se toho týká Představte si tak to
+
+451
+00:23:51,299 --> 00:23:53,799
+když přišla mahó šódžo fungovalo tak že
+
+452
+00:23:53,799 --> 00:23:56,200
+malá děvčata přitáhneme ráno v sobotu a
+
+453
+00:23:56,200 --> 00:23:58,500
+v neděli k televizi a Budeme ji
+
+454
+00:23:58,500 --> 00:24:00,099
+potřebovat práci reklamních bloků ty
+
+455
+00:24:00,099 --> 00:24:02,200
+věci která má a malá mladá děvčata
+
+456
+00:24:02,200 --> 00:24:04,200
+případně i rodiče mohou chtít to
+
+457
+00:24:04,200 --> 00:24:06,400
+znamená hračky to znamená nějakou tu
+
+458
+00:24:06,400 --> 00:24:08,799
+dětskou kosmetiku a nebo teda je úplně
+
+459
+00:24:08,799 --> 00:24:09,500
+připravovat na plech
+
+460
+00:24:09,500 --> 00:24:11,299
+odrostlejší takže nějaké ty další věci
+
+461
+00:24:11,299 --> 00:24:11,900
+pro dívky
+
+462
+00:24:13,599 --> 00:24:16,099
+co se týče protože tam byla určená pro
+
+463
+00:24:16,099 --> 00:24:18,299
+kluky tak byla spíš tom pozdějším bloků
+
+464
+00:24:18,299 --> 00:24:21,099
+a kam běželi ty věci jako reklamy na
+
+465
+00:24:21,099 --> 00:24:23,799
+další se ptají série hračky pro kluky
+
+466
+00:24:23,799 --> 00:24:27,799
+různé věci pro využití
+
+467
+00:24:27,799 --> 00:24:31,099
+a technice nebo v rámci řekněme
+
+468
+00:24:31,099 --> 00:24:34,000
+připraven na další a další zaměstnání a
+
+469
+00:24:34,000 --> 00:24:37,700
+spousty Hany ale došlo právě k tomu že
+
+470
+00:24:37,700 --> 00:24:41,400
+Zbořil Ale ty taky ty hady se velmi
+
+471
+00:24:41,400 --> 00:24:44,700
+rádi ty kluci a velmi ráda se dívali i
+
+472
+00:24:44,700 --> 00:24:46,900
+dívky a to dokonce různých věkových
+
+473
+00:24:46,900 --> 00:24:49,500
+skupin u tety Hany dokázal vlastně jedí
+
+474
+00:24:49,500 --> 00:24:53,299
+fandom zasahuje věkově už 3
+
+475
+00:24:53,299 --> 00:24:57,000
+X Factor a díky tomu že to Markéta
+
+476
+00:24:57,000 --> 00:24:59,400
+kteří nepochopili tak se museli
+
+477
+00:24:59,400 --> 00:25:02,799
+fanoušci pomocí ten který opět
+
+478
+00:25:02,799 --> 00:25:05,099
+vznikl a drží se jí dodnes
+
+479
+00:25:05,900 --> 00:25:08,700
+Tak právě začíná každý večer vyrábět
+
+480
+00:25:08,700 --> 00:25:10,400
+nečekaným a Chambers je to květina
+
+481
+00:25:10,400 --> 00:25:12,599
+nechte nás pustil takové věci že jsi
+
+482
+00:25:12,599 --> 00:25:15,000
+fakt ti otaku mezi sebou začali
+
+483
+00:25:15,000 --> 00:25:19,000
+měnit a vyrábět figurky figurky
+
+484
+00:25:19,000 --> 00:25:21,900
+cutey Honey protože to přece není
+
+485
+00:25:21,900 --> 00:25:24,200
+panenka To je akční figurka cutey Honey
+
+486
+00:25:24,200 --> 00:25:28,000
+děvčata naopak
+
+487
+00:25:28,000 --> 00:25:29,400
+začala dělat tu věc že se
+
+488
+00:25:29,400 --> 00:25:32,700
+věci ať už do školy
+
+489
+00:25:32,700 --> 00:25:34,099
+nějaké
+
+490
+00:25:34,099 --> 00:25:43,000
+v
+
+491
+00:25:43,000 --> 00:25:45,599
+převleků a vždycky před konfrontací s
+
+492
+00:25:45,599 --> 00:25:48,400
+hlavním hostem toho týdne došlo k tomu
+
+493
+00:25:48,400 --> 00:25:52,000
+že proběhne problematický monolog A No
+
+494
+00:25:52,000 --> 00:25:54,900
+někdy je to reportérka zpěvačka a
+
+495
+00:25:54,900 --> 00:25:58,000
+zdravotní sestra a taxikářka ale ve
+
+496
+00:25:58,000 --> 00:25:59,700
+skutečnosti je teploty Hany a teď vám
+
+497
+00:25:59,700 --> 00:26:02,299
+na kopec zadek takže základu
+
+498
+00:26:02,299 --> 00:26:05,099
+bratr který klade rekapitulace
+
+499
+00:26:05,099 --> 00:26:05,599
+jednotlivých kostí
+
+500
+00:26:05,900 --> 00:26:08,299
+čerpací hodně v Evropské módy a aby
+
+501
+00:26:08,299 --> 00:26:10,599
+působily Cool Tak ty holky chytli takže
+
+502
+00:26:10,599 --> 00:26:13,500
+upravil vlastně čistící módy případě
+
+503
+00:26:13,500 --> 00:26:16,200
+píšící vlastní kostým tehdy ještě v
+
+504
+00:26:16,200 --> 00:26:18,599
+Cosplay opravdu na nošení na ulici
+
+505
+00:26:18,599 --> 00:26:19,400
+prostě protože ten
+
+506
+00:26:19,400 --> 00:26:22,700
+takže
+
+507
+00:26:22,700 --> 00:26:26,000
+jednoznačně hit který teprve později
+
+508
+00:26:26,000 --> 00:26:29,599
+začne docházet co všechno Způsobil A to
+
+509
+00:26:29,599 --> 00:26:31,200
+hlavně díky tomu že i generace která
+
+510
+00:26:31,200 --> 00:26:33,200
+Tak říkej taky tech Miroslav se dostat
+
+511
+00:26:33,200 --> 00:26:35,700
+do našeho průmyslu ani marketing tak i
+
+512
+00:26:35,700 --> 00:26:41,700
+přesto
+
+513
+00:26:41,700 --> 00:26:44,400
+je to však nepovažuje prostě proto že
+
+514
+00:26:44,400 --> 00:26:47,700
+nemůže být na osobu která vyčerpala
+
+515
+00:26:47,700 --> 00:26:51,200
+svou sílu zvědy točí ale
+
+516
+00:26:51,200 --> 00:26:54,200
+hlavně ovlivnil Go nagai Sharm El
+
+517
+00:26:54,200 --> 00:26:55,099
+Sheikh je ten první
+
+518
+00:26:56,200 --> 00:27:00,099
+sexy dynamická A plně animovaná
+
+519
+00:27:00,099 --> 00:27:02,200
+transformace takže už to není tak že
+
+520
+00:27:02,200 --> 00:27:04,599
+zakrouží tehulkou celou se přestal přes
+
+521
+00:27:04,599 --> 00:27:06,500
+vás barvy do zrcadla a tak dále a tak
+
+522
+00:27:06,500 --> 00:27:08,599
+jdu tam jste jste to máš připravené
+
+523
+00:27:08,599 --> 00:27:11,299
+základní kostýmů Ne tady svátek a tvé
+
+524
+00:27:11,299 --> 00:27:13,599
+oblečení nějakým způsobem spadne nějaký
+
+525
+00:27:13,599 --> 00:27:15,799
+způsob se na vás znovu navlékne u toho
+
+526
+00:27:15,799 --> 00:27:18,400
+kolem vás kamarád píše několika dotací
+
+527
+00:27:18,400 --> 00:27:21,500
+a celkově je to skvělý
+
+528
+00:27:21,500 --> 00:27:25,500
+Prodává se to je to ten jeden z prvků
+
+529
+00:27:25,500 --> 00:27:28,500
+který když ti to našel tuto malou už
+
+530
+00:27:28,500 --> 00:27:31,000
+roky po uvedení první
+
+531
+00:27:31,000 --> 00:27:35,400
+Vracíme
+
+532
+00:27:35,400 --> 00:27:37,000
+se vlastně a znovu objevujeme Remote
+
+533
+00:27:37,000 --> 00:27:38,299
+napíši protože a teroristé jsou
+
+534
+00:27:38,299 --> 00:27:40,200
+organizovány do tajných společenství
+
+535
+00:27:40,200 --> 00:27:42,099
+není to tak že už by to byl ten salisov
+
+536
+00:27:42,099 --> 00:27:45,400
+Lite že řeším problémy rychle a sookie
+
+537
+00:27:45,400 --> 00:27:48,400
+a tahle další kamarádku nebo tak mého
+
+538
+00:27:48,400 --> 00:27:50,299
+kamaráda který je velký idiot a podobně
+
+539
+00:27:50,299 --> 00:27:53,599
+Ne máme tu vysloveně antén neziskové
+
+540
+00:27:53,599 --> 00:27:55,299
+organizace nějakým temným pánem
+
+541
+00:27:56,200 --> 00:27:58,299
+Který den je potřeba pokud možno
+
+542
+00:27:58,299 --> 00:28:00,299
+překazit a během toho třeba Zachraň
+
+543
+00:28:00,299 --> 00:28:02,900
+případě klid a Hany svého otce tak
+
+544
+00:28:02,900 --> 00:28:05,799
+vedle toho
+
+545
+00:28:05,799 --> 00:28:09,799
+co znamená Znáte to
+
+546
+00:28:09,799 --> 00:28:13,200
+každý den ano i těm klasickým běžné
+
+547
+00:28:13,200 --> 00:28:15,400
+pěšáků to bude pánové s tím kloboukem
+
+548
+00:28:15,400 --> 00:28:18,799
+Zimní válka o to je to jsou věci tak
+
+549
+00:28:18,799 --> 00:28:22,299
+jako najdeme není problém řešit Ale oni
+
+550
+00:28:22,299 --> 00:28:24,400
+mají své nadřízené A tam už je to těžší
+
+551
+00:28:24,400 --> 00:28:27,099
+tyhle Poslové Duty Hané totiž už zavede
+
+552
+00:28:27,099 --> 00:28:29,099
+takové věci jako nemusím být poražen
+
+553
+00:28:29,099 --> 00:28:33,000
+mohl utéct mohu populárně
+
+554
+00:28:33,000 --> 00:28:35,700
+zemřít aby nezemřel a neznáte to v
+
+555
+00:28:35,700 --> 00:28:39,599
+Praze neplatí zavřel dobře Ukažte mi
+
+556
+00:28:39,599 --> 00:28:43,500
+tělo nemáte těhotné zemřel HP ProBook
+
+557
+00:28:43,500 --> 00:28:46,900
+jinak Takže to tady
+
+558
+00:28:46,900 --> 00:28:50,799
+tyhle věci jednoznačně kodifikoval a s
+
+559
+00:28:50,799 --> 00:28:54,000
+dvěmi hodinky je videa Nikoly magie
+
+560
+00:28:54,000 --> 00:28:55,599
+říkám ta jedna z těch hlavních sporných
+
+561
+00:28:55,599 --> 00:28:56,099
+bodů které
+
+562
+00:28:56,200 --> 00:28:59,299
+dneska v podstatě už neuznává ale jsou
+
+563
+00:28:59,299 --> 00:29:00,900
+tací kteří v rámci odtud jsme
+
+564
+00:29:00,900 --> 00:29:03,500
+přesvědčeni stále toto považuji za
+
+565
+00:29:03,500 --> 00:29:06,099
+hlavní problém určování módních trendů
+
+566
+00:29:06,099 --> 00:29:08,700
+v té době nevyužito je ale později pro
+
+567
+00:29:08,700 --> 00:29:12,099
+Malšovice naprosto důležité ano a rok
+
+568
+00:29:12,099 --> 00:29:14,700
+73 nám předvádí na nehty Sergey jakožto
+
+569
+00:29:14,700 --> 00:29:17,500
+s hlavou a cílevědomou hrdinku
+
+570
+00:29:17,500 --> 00:29:19,700
+nevím jestli to někdo z nás má 100
+
+571
+00:29:19,700 --> 00:29:21,099
+trošku při vývoj japonské společnosti
+
+572
+00:29:21,099 --> 00:29:23,700
+ale ten 83 byl takový trošku přelomový
+
+573
+00:29:23,700 --> 00:29:25,599
+a jestli jste něco v televizi fakt
+
+574
+00:29:25,599 --> 00:29:27,700
+nechtěl jakožto státní úředník moc
+
+575
+00:29:27,700 --> 00:29:30,099
+podporovat tak to byly svéhlavý mladí
+
+576
+00:29:30,099 --> 00:29:33,400
+lidé zvláště ženy takže tímto způsobem
+
+577
+00:29:33,400 --> 00:29:36,200
+a převratné věc
+
+578
+00:29:36,200 --> 00:29:39,400
+navíc zrovna dějová linka na staré
+
+579
+00:29:39,400 --> 00:29:41,500
+smažené epizody dělení typu jeden
+
+580
+00:29:41,500 --> 00:29:43,500
+příběh další příběh další příběh ale
+
+581
+00:29:43,500 --> 00:29:47,000
+ano má epizodky ale vzadu nebo někdy po
+
+582
+00:29:47,000 --> 00:29:50,000
+třetí se lidé jako tady s tebou i s tou
+
+583
+00:29:50,000 --> 00:29:53,900
+dobře Takže ty
+
+584
+00:29:53,900 --> 00:29:56,000
+Hany tomhle tom obrovský prut
+
+585
+00:29:56,099 --> 00:29:58,400
+63 který vlastně tohle znamená
+
+586
+00:29:59,700 --> 00:30:00,900
+Tak
+
+587
+00:30:00,900 --> 00:30:06,000
+já
+
+588
+00:30:06,000 --> 00:30:10,000
+jsem si že některé věci Teď už mohli
+
+589
+00:30:10,000 --> 00:30:12,900
+fungovat nevadí tak
+
+590
+00:30:12,900 --> 00:30:16,700
+půjde to znovu spustit děkuji
+
+591
+00:30:17,900 --> 00:30:19,700
+a já už od tebe a co máme dělat takže
+
+592
+00:30:19,700 --> 00:30:21,200
+já mu to říkat a nebudete posouvat
+
+593
+00:30:21,200 --> 00:30:25,200
+výborně třikrát a ještě ještě
+
+594
+00:30:27,099 --> 00:30:30,099
+pořád můžeme Já zastavím teď to
+
+595
+00:30:30,099 --> 00:30:33,299
+má na ten který My nemáme
+
+596
+00:30:33,299 --> 00:30:37,299
+zkusíme ty mě si někdo z vás podle
+
+597
+00:30:37,299 --> 00:30:40,099
+tohohle obrázku co mohlo tohle anime
+
+598
+00:30:40,099 --> 00:30:42,799
+zavést dušená Norma hoši
+
+599
+00:30:44,599 --> 00:30:46,000
+Zkusím si někdo vypnout
+
+600
+00:30:50,200 --> 00:30:52,700
+pláštěnka jsem hlášení Ale dobře vím že
+
+601
+00:30:52,700 --> 00:30:53,400
+to zopakovat jenom
+
+602
+00:30:56,200 --> 00:30:58,900
+Jarda nevím a kočár bylo v době kdy se
+
+603
+00:30:58,900 --> 00:31:01,500
+měnila 10 let To je na mě docela malé
+
+604
+00:31:01,500 --> 00:31:03,700
+ano
+
+605
+00:31:05,000 --> 00:31:08,000
+Ne ne je to už dlouho napíši
+
+606
+00:31:10,900 --> 00:31:12,599
+gratuluji má pravdu
+
+607
+00:31:12,599 --> 00:31:15,900
+protože
+
+608
+00:31:15,900 --> 00:31:19,900
+mám i hlavní hrdinka je toto
+
+609
+00:31:19,900 --> 00:31:22,599
+a krémem a mi ta která je
+
+610
+00:31:22,599 --> 00:31:26,200
+resuru kariéru nebo videa z Raidu
+
+611
+00:31:26,200 --> 00:31:29,900
+cestou je to starší Na tom plakátu já
+
+612
+00:31:29,900 --> 00:31:32,400
+gratuluji Kalisto k druhému zisku cukru
+
+613
+00:31:32,400 --> 00:31:34,799
+snad je využije na
+
+614
+00:31:34,799 --> 00:31:36,599
+hlodavce
+
+615
+00:31:36,599 --> 00:31:39,500
+požár na další
+
+616
+00:31:39,500 --> 00:31:43,400
+tak to abychom
+
+617
+00:31:43,400 --> 00:31:47,200
+83 to znamená vidíte že 73 Hany dlouho
+
+618
+00:31:47,200 --> 00:31:48,599
+dlouho nic teprve vlastně dochází
+
+619
+00:31:48,599 --> 00:31:50,599
+aplikování některý těch terénu který
+
+620
+00:31:50,599 --> 00:31:53,400
+kvete hned zavedla v roce 83 přichází
+
+621
+00:31:53,400 --> 00:31:55,400
+jen jeden z větších převratu A
+
+622
+00:31:55,400 --> 00:31:58,599
+mimochodem a jdeme od studia Piero
+
+623
+00:31:58,599 --> 00:32:02,400
+kteří jsou to ti kteří nám klíče
+
+624
+00:32:02,400 --> 00:32:04,500
+a podobné věci takže
+
+625
+00:32:04,500 --> 00:32:08,400
+ve stejném roce 83 týká i Dane
+
+626
+00:32:08,400 --> 00:32:09,400
+anime další Slide
+
+627
+00:32:11,900 --> 00:32:15,900
+Ano a zavedl se tyto věci První
+
+628
+00:32:15,900 --> 00:32:19,400
+věc mami totiž má tu úžasnou schopnost
+
+629
+00:32:19,400 --> 00:32:23,400
+že to že jí na zahradě a varuje UFO tu
+
+630
+00:32:23,400 --> 00:32:27,299
+malou část to se stává Japonsku a
+
+631
+00:32:27,299 --> 00:32:29,200
+Není nic jednoduššího než a
+
+632
+00:32:29,200 --> 00:32:32,900
+zjistit že se tady
+
+633
+00:32:32,900 --> 00:32:35,099
+zavřeli autosalonu na cestu jenom
+
+634
+00:32:35,099 --> 00:32:37,299
+zmateného pilota protože ten Potřebuje
+
+635
+00:32:37,299 --> 00:32:40,099
+najít jednu část nutného vybavení pro
+
+636
+00:32:40,099 --> 00:32:44,099
+pusu dál a použito zvedání No a
+
+637
+00:32:44,099 --> 00:32:45,500
+ten byl jenom jsem chtěl protože mu s
+
+638
+00:32:45,500 --> 00:32:48,900
+tím pomůžete tak si řekne No ještě ne
+
+639
+00:32:48,900 --> 00:32:52,400
+ale za to že jsi mi pomohla ti to
+
+640
+00:32:52,400 --> 00:32:56,299
+půjčím možnost měnit Petr starší
+
+641
+00:32:56,299 --> 00:32:57,299
+Co ty na to
+
+642
+00:32:58,200 --> 00:33:01,000
+a jsme zase u toho jeden z dětských snů
+
+643
+00:33:01,000 --> 00:33:03,599
+kolikrát nás v té doby kdy jsme byli
+
+644
+00:33:03,599 --> 00:33:07,500
+malí štvalo Běž spát A proč už je sedm
+
+645
+00:33:07,500 --> 00:33:09,299
+večer asi moc malý jak na to aby se dal
+
+646
+00:33:09,299 --> 00:33:12,799
+tyhle věci a nebo nemůžeš napsat malý s
+
+647
+00:33:12,799 --> 00:33:16,099
+malýma prsama se nebavíme a podobně
+
+648
+00:33:16,099 --> 00:33:19,500
+kdo Znáš tu chvíli by nechtěl být
+
+649
+00:33:19,500 --> 00:33:23,500
+starší i dospělých boty si dělá co chce
+
+650
+00:33:23,500 --> 00:33:27,400
+dostat do toho světa dospělých a máme
+
+651
+00:33:27,400 --> 00:33:29,299
+samozřejmě taktéž neměla důvod
+
+652
+00:33:29,299 --> 00:33:33,000
+odmítnout Takže možnost být ve stylu na
+
+653
+00:33:33,000 --> 00:33:36,099
+jeden rok vzala to a velmi rychle
+
+654
+00:33:36,099 --> 00:33:39,599
+zjistila že když se promění Mimochodem
+
+655
+00:33:39,599 --> 00:33:41,799
+Milan mimozemšťané získala v dubovici
+
+656
+00:33:41,799 --> 00:33:43,900
+koček které si mluví a fungují jako
+
+657
+00:33:43,900 --> 00:33:47,700
+takový hlídači jak jak si to pustí
+
+658
+00:33:47,700 --> 00:33:51,299
+nakládá takže vlastně dokáže je pěkně
+
+659
+00:33:51,299 --> 00:33:53,500
+zpívá to znamená velice rychle narazí
+
+660
+00:33:53,500 --> 00:33:56,799
+na toho agenta který vlastně hledá nové
+
+661
+00:33:56,799 --> 00:33:58,200
+talenty na ulici je to muset při
+
+662
+00:33:58,200 --> 00:34:00,700
+zaměstná Vrstvách
+
+663
+00:34:00,700 --> 00:34:04,200
+pro firmu a
+
+664
+00:34:04,200 --> 00:34:06,799
+celkově ještě jednou další hvězdičkou
+
+665
+00:34:06,799 --> 00:34:08,800
+tak prožívejte eskapádě poznávají
+
+666
+00:34:08,800 --> 00:34:11,699
+šoubyznys chtějí být lepší natáčí nové
+
+667
+00:34:11,699 --> 00:34:13,500
+písničky které se prodávají fanouškům
+
+668
+00:34:13,500 --> 00:34:16,699
+tohoto seriálu a tak dále a vlastně s
+
+669
+00:34:16,699 --> 00:34:18,199
+tím hlavu a tak byli s tou je
+
+670
+00:34:18,199 --> 00:34:20,900
+konkurenční producent který si všechny
+
+671
+00:34:20,900 --> 00:34:23,599
+tyto tyto snahy Jak vypustit snaží
+
+672
+00:34:23,599 --> 00:34:24,400
+překazit
+
+673
+00:34:25,699 --> 00:34:28,000
+nuda není to úplně první mahó šódžo
+
+674
+00:34:28,000 --> 00:34:31,000
+které by se zabývalo zpívá nebo a jdu
+
+675
+00:34:31,000 --> 00:34:33,400
+to bylo už pít Lady Story které
+
+676
+00:34:33,400 --> 00:34:36,599
+rychlost 88 ale tady je to opravdu
+
+677
+00:34:36,599 --> 00:34:39,699
+zaměřené na to že se dokáže měnit a
+
+678
+00:34:39,699 --> 00:34:43,599
+vlastně neříkej konfrontovat Dětský
+
+679
+00:34:43,599 --> 00:34:47,599
+svět a dospělá celkově vidět to
+
+680
+00:34:47,599 --> 00:34:50,800
+pak ta osa řešení problémů jak dospívá
+
+681
+00:34:50,800 --> 00:34:52,500
+a Otevírá se před námi ty možnost
+
+682
+00:34:52,500 --> 00:34:54,500
+existuje takže možná i dospělé to mě
+
+683
+00:34:54,500 --> 00:34:56,300
+mají tak růžové jak jste si původně
+
+684
+00:34:56,300 --> 00:34:58,300
+chodí tě mohli myslet a hnid tak i
+
+685
+00:34:58,300 --> 00:35:00,099
+dospělým tak jako celku postrádají
+
+686
+00:35:00,099 --> 00:35:01,500
+některé ty věci které si jako děti
+
+687
+00:35:01,500 --> 00:35:04,599
+mohly dovolit a nemuseli řešit a místa
+
+688
+00:35:04,599 --> 00:35:07,199
+těhle těch dvou hledisek a to je tak na
+
+689
+00:35:07,199 --> 00:35:09,599
+Aspekt dospívání vytváří to krásně
+
+690
+00:35:09,599 --> 00:35:11,300
+svítí které se line Celou tuhle tu
+
+691
+00:35:11,300 --> 00:35:14,500
+sérii rozhodně zajímavá To jsem a co
+
+692
+00:35:14,500 --> 00:35:17,699
+kuželky fandom a ten vlak v Japonsku a
+
+693
+00:35:17,699 --> 00:35:20,900
+může nás potěšit Právě že teď Americe
+
+694
+00:35:20,900 --> 00:35:22,599
+proběhl Kickstarter který se ta
+
+695
+00:35:22,599 --> 00:35:24,500
+politika amerického publika takže bysme
+
+696
+00:35:24,500 --> 00:35:24,900
+nebude přispívat
+
+697
+00:35:25,599 --> 00:35:29,199
+takže my máme Lidicích a
+
+698
+00:35:29,199 --> 00:35:31,099
+díky táta
+
+699
+00:35:33,099 --> 00:35:36,300
+zároveň je to To první je to na první
+
+700
+00:35:36,300 --> 00:35:38,500
+anime které takhle jestli mu o tom
+
+701
+00:35:38,500 --> 00:35:40,500
+pytli History to využíval už slavnost a
+
+702
+00:35:40,500 --> 00:35:42,500
+k tomu aby to Animate přitáhl více
+
+703
+00:35:42,500 --> 00:35:46,300
+divaček tady to byla nová se u která se
+
+704
+00:35:46,300 --> 00:35:49,099
+díky vlastně fungování a vybudování
+
+705
+00:35:49,099 --> 00:35:51,800
+jsem to Animate stala slavnou Takže je
+
+706
+00:35:51,800 --> 00:35:54,500
+to takový pít a ke slávě Dachstein
+
+707
+00:35:55,800 --> 00:35:59,400
+ano no to také učit takže tahle
+
+708
+00:35:59,400 --> 00:36:02,699
+vypadající dáma a nebudu gentleman
+
+709
+00:36:02,699 --> 00:36:05,900
+prozradí vše na této fotce je 43 let to
+
+710
+00:36:05,900 --> 00:36:07,599
+jen pro ty z vás kteří by nevěřil tomu
+
+711
+00:36:07,599 --> 00:36:09,000
+že některé stáhnout
+
+712
+00:36:09,000 --> 00:36:11,800
+drahošovi o
+
+713
+00:36:11,800 --> 00:36:15,599
+jeden z největších revitalizačních
+
+714
+00:36:15,599 --> 00:36:18,300
+úderů takovou přímo masáž srdce
+
+715
+00:36:18,300 --> 00:36:21,599
+doplněnou injekci adrenalinu jakou od
+
+716
+00:36:21,599 --> 00:36:25,199
+toho nezaznamenal
+
+717
+00:36:25,199 --> 00:36:26,699
+protože tahle dáma
+
+718
+00:36:26,699 --> 00:36:30,900
+sentai
+
+719
+00:36:31,900 --> 00:36:35,099
+jsem tady série Power Rangers asi znáte
+
+720
+00:36:35,099 --> 00:36:36,800
+všichni posluchači vesmíru v Japonsku
+
+721
+00:36:36,800 --> 00:36:38,400
+jsem ta je taky dost To jsou kámen
+
+722
+00:36:38,400 --> 00:36:41,000
+Rider black black Black
+
+723
+00:36:41,000 --> 00:36:44,099
+Core Quadro nvs UBS a
+
+724
+00:36:44,099 --> 00:36:46,900
+další takovéhle
+
+725
+00:36:46,900 --> 00:36:50,199
+jsou už ten poplach dětské pořady a
+
+726
+00:36:50,199 --> 00:36:52,300
+nejen dětské k produktu číst o nějakých
+
+727
+00:36:52,300 --> 00:36:55,199
+50 let a jedou pořád samotných ale
+
+728
+00:36:55,199 --> 00:36:57,099
+večer který je to americké provenience
+
+729
+00:36:57,099 --> 00:36:59,199
+vznikly takže jsme se dohodli že
+
+730
+00:36:59,199 --> 00:37:02,199
+Japonci že věci které používáte na
+
+731
+00:37:02,199 --> 00:37:05,300
+jednu sezónu co s tím udělali jsme si
+
+732
+00:37:05,300 --> 00:37:09,099
+dělali jsme nakoupili spousta záběrů a
+
+733
+00:37:09,099 --> 00:37:11,900
+udělal si s americkou verzi známého Tak
+
+734
+00:37:11,900 --> 00:37:15,900
+jo takhle vlastně jakoby proti normální
+
+735
+00:37:15,900 --> 00:37:19,699
+takže využívejte japonský jméno
+
+736
+00:37:19,699 --> 00:37:23,000
+dávat ráno tuhle sérii ráda zároveň
+
+737
+00:37:23,000 --> 00:37:27,000
+někdo kdo má rád mahó šódžo ať máte
+
+738
+00:37:27,000 --> 00:37:29,400
+rádi jednu věc a druhou věc
+
+739
+00:37:30,000 --> 00:37:33,000
+kde jsem naprosto logické že je spojit
+
+740
+00:37:33,000 --> 00:37:35,900
+dohromady v některých případech tekoucí
+
+741
+00:37:35,900 --> 00:37:37,300
+tragicky tady
+
+742
+00:37:39,300 --> 00:37:43,000
+mám to dalo heluan Ano
+
+743
+00:37:43,000 --> 00:37:46,000
+dá se říct nyní
+
+744
+00:37:46,000 --> 00:37:49,900
+známějšího šodó na světě nešli
+
+745
+00:37:49,900 --> 00:37:52,699
+jet tak hodná to je magické Prodám
+
+746
+00:37:52,699 --> 00:37:55,300
+neuvěřitelné množství r9s pro
+
+747
+00:37:55,300 --> 00:37:58,699
+neuvěřitelné množství Pardon Díky době
+
+748
+00:37:58,699 --> 00:38:00,699
+vzniku VHS kazet a
+
+749
+00:38:00,699 --> 00:38:04,599
+samozřejmě
+
+750
+00:38:04,599 --> 00:38:06,699
+nebudeme zmiňovat To datový provoz
+
+751
+00:38:06,699 --> 00:38:08,900
+který se toho týká zápis do toho kolik
+
+752
+00:38:08,900 --> 00:38:11,800
+hodin a některé schopná skupiny takže
+
+753
+00:38:11,800 --> 00:38:15,800
+jsem které nám to
+
+754
+00:38:15,800 --> 00:38:19,500
+tu věc že z vyfuku jakožto
+
+755
+00:38:19,500 --> 00:38:22,099
+školní uniformy uděláme v podstatě
+
+756
+00:38:22,099 --> 00:38:25,800
+Západní Tatry a zároveň aby si
+
+757
+00:38:25,800 --> 00:38:29,099
+dokázali oddělit dáme ty barvy z
+
+758
+00:38:29,099 --> 00:38:31,500
+jsem tady žánru to znamená máme tu
+
+759
+00:38:31,500 --> 00:38:34,000
+červenou jakožto toho lesa lídra toho
+
+760
+00:38:34,000 --> 00:38:36,599
+toho zodpovědného se vším všudy tu
+
+761
+00:38:36,599 --> 00:38:39,199
+žlutou To je ten co furt to
+
+762
+00:38:39,300 --> 00:38:41,800
+LTE to je tady který má pomáhat každému
+
+763
+00:38:41,800 --> 00:38:45,300
+je a jakoby držet linii zelený to je
+
+764
+00:38:45,300 --> 00:38:48,500
+ofenzíva To je ten který je hned po
+
+765
+00:38:48,500 --> 00:38:51,099
+veliteli se vrhá do toho bojí aby ho
+
+766
+00:38:51,099 --> 00:38:54,500
+rozhodl a modrý což je analýza a
+
+767
+00:38:54,500 --> 00:38:58,300
+celkově navádění jakožto tak ne Hele
+
+768
+00:38:58,300 --> 00:39:00,500
+tahat a maso Dino takovouhle Musíme si
+
+769
+00:39:00,500 --> 00:39:04,199
+na něj jinak a Hlavinka která
+
+770
+00:39:04,199 --> 00:39:06,099
+okresu dodneška vedou spory zda li je
+
+771
+00:39:06,099 --> 00:39:09,900
+spíš jak už to tak že ženštější nebo
+
+772
+00:39:09,900 --> 00:39:12,500
+kouzelníci charakter a nebo ten bílý to
+
+773
+00:39:12,500 --> 00:39:14,500
+je jste který stojí mimo ten který je
+
+774
+00:39:14,500 --> 00:39:17,400
+jakoby buchta z jiného týmu z předchozí
+
+775
+00:39:17,400 --> 00:39:21,300
+řady nějakým způsobem napravit záporák
+
+776
+00:39:21,300 --> 00:39:24,099
+či něco podobného Ale barevné ladění
+
+777
+00:39:24,099 --> 00:39:26,000
+které funguje a zároveň s tím trochu
+
+778
+00:39:26,000 --> 00:39:28,000
+pohrál někdy trochu víc
+
+779
+00:39:28,000 --> 00:39:32,699
+91
+
+780
+00:39:32,699 --> 00:39:34,699
+92
+
+781
+00:39:39,800 --> 00:39:42,800
+Ano vydat na revitalizace to protože do
+
+782
+00:39:42,800 --> 00:39:45,099
+té doby mám všeho čeho vlastně od
+
+783
+00:39:45,099 --> 00:39:47,400
+nějakého toho roku 80 do toho
+
+784
+00:39:47,400 --> 00:39:51,099
+devadesátých let bylo bráno jako už
+
+785
+00:39:51,099 --> 00:39:53,000
+skoro nemožné protože postupně začne
+
+786
+00:39:53,000 --> 00:39:56,000
+mělo být taky od Gotta get a rozšířil
+
+787
+00:39:56,000 --> 00:39:58,099
+se možná tak je to o pár věcí ale
+
+788
+00:39:58,099 --> 00:40:00,699
+celkově se bral jako že není není není
+
+789
+00:40:00,699 --> 00:40:02,500
+co objevovat je to taková věc jako
+
+790
+00:40:02,500 --> 00:40:05,800
+univerzální recept a hledám a
+
+791
+00:40:05,800 --> 00:40:08,099
+ukázala že i s umyvadlem litr cena se
+
+792
+00:40:08,099 --> 00:40:10,000
+pracovat takže vyrobit a něco ještě
+
+793
+00:40:10,000 --> 00:40:10,599
+chutnější ho
+
+794
+00:40:10,599 --> 00:40:14,599
+vlastně dal
+
+795
+00:40:14,599 --> 00:40:17,900
+jednoznačně Za pravdu navíc vedle toho
+
+796
+00:40:17,900 --> 00:40:19,400
+že je tady jsou to děvčata která mají
+
+797
+00:40:19,400 --> 00:40:22,699
+likvidují ale temné síly v tak do toho
+
+798
+00:40:22,699 --> 00:40:25,000
+dala tu věc že to jsou děvčata kterým
+
+799
+00:40:25,000 --> 00:40:27,699
+je těch 14 15 16 let a
+
+800
+00:40:27,699 --> 00:40:30,599
+humor plynoucí z toho že
+
+801
+00:40:30,599 --> 00:40:34,599
+to nejsou úplně
+
+802
+00:40:34,599 --> 00:40:38,199
+ty klasičtí jsem tady hrdinové že mají
+
+803
+00:40:38,199 --> 00:40:39,500
+ty lidské stránky takže
+
+804
+00:40:39,900 --> 00:40:42,400
+jak jsem říkal ten ta červená se on
+
+805
+00:40:42,400 --> 00:40:46,000
+Mars jakožto ten velmi zodpovědný lídr
+
+806
+00:40:46,000 --> 00:40:49,300
+týmu který je až neuvěřitelně pedantský
+
+807
+00:40:49,300 --> 00:40:51,500
+to zvlášť protože vyrůstal jako Mikov
+
+808
+00:40:51,500 --> 00:40:54,699
+chrámu To znamená že nemá příliš přátel
+
+809
+00:40:54,699 --> 00:40:58,599
+a celkově je dost nejistá a nikdy tě
+
+810
+00:40:58,599 --> 00:41:00,699
+nechci ztratit Já chci a musí se
+
+811
+00:41:00,699 --> 00:41:03,300
+potýkat s leností a neschopností
+
+812
+00:41:03,300 --> 00:41:06,300
+samotnému to znamená opravdu to není
+
+813
+00:41:06,300 --> 00:41:08,300
+úplně ten Výstavní Leader ale někde
+
+814
+00:41:08,300 --> 00:41:09,900
+tady zoufalý člověk který se snaží
+
+815
+00:41:09,900 --> 00:41:13,199
+prostě posbírat co se jen dá stejně tak
+
+816
+00:41:13,199 --> 00:41:15,300
+Naše milá žlutá která má být ten
+
+817
+00:41:15,300 --> 00:41:19,300
+staford už to vidím že má být tou
+
+818
+00:41:19,300 --> 00:41:22,599
+ochrání lásky která má tragické štěstí
+
+819
+00:41:22,599 --> 00:41:26,000
+kůži a co se dá a tak dále takže mi
+
+820
+00:41:26,000 --> 00:41:28,199
+Terka 1 hlavně ofenzivní vysoká
+
+821
+00:41:28,199 --> 00:41:31,800
+Atletická dívka které se tvoří jiné
+
+822
+00:41:31,800 --> 00:41:33,800
+dívky ale fakt nic dalekohledem a
+
+823
+00:41:33,800 --> 00:41:36,800
+zároveň Fakt A samozřejmě Naše milá a
+
+824
+00:41:36,800 --> 00:41:38,900
+my jakožto stavil Mercury která je
+
+825
+00:41:39,800 --> 00:41:42,800
+analytik tak mi inteligentní přemýšlivá
+
+826
+00:41:42,800 --> 00:41:44,800
+kočka velmi Tichá a uzavřená v 10:00
+
+827
+00:41:44,800 --> 00:41:46,800
+která zase má ten problém s tou svou
+
+828
+00:41:46,800 --> 00:41:50,300
+kvalitou do toho věci jako zápletka
+
+829
+00:41:50,300 --> 00:41:53,199
+přiznejme si to bývalo už není žádná
+
+830
+00:41:53,199 --> 00:41:55,099
+sranda takhle po nocích a likvidovat
+
+831
+00:41:55,099 --> 00:41:57,699
+záporáky jak budete zvládat školu
+
+832
+00:41:57,699 --> 00:41:59,500
+svátku japonskou s tím se všema těma
+
+833
+00:41:59,500 --> 00:42:01,900
+hodinami No to je v prospíte A to zase
+
+834
+00:42:01,900 --> 00:42:03,199
+namluvil se Školní prospěch a moc
+
+835
+00:42:03,199 --> 00:42:07,199
+nepomůže nebo takové věci jako
+
+836
+00:42:07,199 --> 00:42:08,800
+ze záchodu k vám domů
+
+837
+00:42:09,699 --> 00:42:11,800
+Promiňte se před rodiči přece blbost
+
+838
+00:42:11,800 --> 00:42:14,699
+nesmí vědět a tak se usnesl závodech je
+
+839
+00:42:14,699 --> 00:42:16,699
+to to nějak dohodnout A nebo si zahrát
+
+840
+00:42:16,699 --> 00:42:19,199
+hru kde se točilo otočí abych se mohla
+
+841
+00:42:19,199 --> 00:42:21,400
+proměnit porazit záporák já pokud můžu
+
+842
+00:42:21,400 --> 00:42:21,900
+tak rychle
+
+843
+00:42:21,900 --> 00:42:28,900
+vyhláška
+
+844
+00:42:28,900 --> 00:42:31,900
+která se dostali na mnoho mému je jedna
+
+845
+00:42:31,900 --> 00:42:35,099
+ze scén Kdy je den pusu útočí na a
+
+846
+00:42:35,099 --> 00:42:37,699
+Milosrdných tím že ovládne letadla na
+
+847
+00:42:37,699 --> 00:42:40,400
+hradeckém letišti a když se snaží
+
+848
+00:42:40,400 --> 00:42:42,800
+miláček a svým kouzelným útokem porazit
+
+849
+00:42:42,800 --> 00:42:46,000
+Tak její mi a maskot Černá kočka na
+
+850
+00:42:46,000 --> 00:42:46,800
+baru jak
+
+851
+00:42:46,800 --> 00:42:53,699
+dlouho
+
+852
+00:42:53,699 --> 00:42:57,599
+a tak
+
+853
+00:42:57,599 --> 00:43:01,300
+dále prostě nadsázka humor a lidské
+
+854
+00:43:01,300 --> 00:43:03,900
+podání spolu ale kombinované právě s
+
+855
+00:43:03,900 --> 00:43:07,300
+těmi klasickými schématy naprosto
+
+856
+00:43:07,300 --> 00:43:09,099
+skvěle funguje Já sám jsem na téhle
+
+857
+00:43:09,099 --> 00:43:09,599
+série
+
+858
+00:43:09,699 --> 00:43:11,500
+A můžu jet na zašly doporučit vašemu
+
+859
+00:43:11,500 --> 00:43:12,099
+sledování
+
+860
+00:43:14,000 --> 00:43:16,699
+postižený tak jak si vezmu si říkají
+
+861
+00:43:16,699 --> 00:43:19,400
+jsou dodneška mě v obrovském počtu a
+
+862
+00:43:19,400 --> 00:43:21,199
+jdu se podívat na jakýkoliv tom ještě
+
+863
+00:43:21,199 --> 00:43:24,900
+minimálně říkám si čtvrtina
+
+864
+00:43:24,900 --> 00:43:28,099
+cosplayi je nějakým způsobem se ozve
+
+865
+00:43:28,099 --> 00:43:28,900
+světla Sailor Moon
+
+866
+00:43:30,300 --> 00:43:32,599
+navíc Řekni mega při popularizaci
+
+867
+00:43:32,599 --> 00:43:35,300
+server posloužila i to že zaznamenala
+
+868
+00:43:35,300 --> 00:43:36,699
+několik kontroverzních při uvedení na
+
+869
+00:43:36,699 --> 00:43:38,400
+americký trh to protože v jedné z řad
+
+870
+00:43:38,400 --> 00:43:41,900
+se vyskytují Kdyby ty které žijí spolu
+
+871
+00:43:41,900 --> 00:43:44,900
+žijí spolu tak že se mají velmi rádi
+
+872
+00:43:44,900 --> 00:43:48,099
+ale to se musí mě pro Američany nemohlo
+
+873
+00:43:48,099 --> 00:43:50,599
+být snesitelné a proto aby vysvětlili
+
+874
+00:43:50,599 --> 00:43:51,900
+Proč je to vědět jestli se tak rád a
+
+875
+00:43:51,900 --> 00:43:55,000
+často objímají čas od času líbají spolu
+
+876
+00:43:55,000 --> 00:43:58,900
+jeden byt s jednou ložnicí tak kdyby
+
+877
+00:43:58,900 --> 00:44:01,199
+dali sestřenky protože to je přece
+
+878
+00:44:01,199 --> 00:44:02,199
+logická odpověď
+
+879
+00:44:05,199 --> 00:44:09,000
+takže jsem zavedení vlastně
+
+880
+00:44:09,000 --> 00:44:11,300
+jsem tady Jsem tady dělení a hlavně
+
+881
+00:44:11,300 --> 00:44:13,000
+barevného rozlišení prostě že máte ty
+
+882
+00:44:13,000 --> 00:44:14,699
+kostýmech které nějakým výrazným
+
+883
+00:44:14,699 --> 00:44:17,900
+způsobem odkazují na jednotlivé
+
+884
+00:44:17,900 --> 00:44:21,900
+charaktery Během svého
+
+885
+00:44:21,900 --> 00:44:24,500
+působení No spíš tak teď
+
+886
+00:44:24,500 --> 00:44:26,400
+takže další
+
+887
+00:44:28,000 --> 00:44:31,900
+málo Šrámek možná někteří z Vás
+
+888
+00:44:31,900 --> 00:44:35,099
+poznávají sami je postava z filmu Jo a
+
+889
+00:44:35,099 --> 00:44:38,800
+ten čemu Jo je obrovský merge in Dark
+
+890
+00:44:38,800 --> 00:44:42,099
+zahrnující spoustu věcí od
+
+891
+00:44:42,099 --> 00:44:45,099
+samotných anime který mnoho přes
+
+892
+00:44:45,099 --> 00:44:48,900
+hudební nosiče audio dramata figurky
+
+893
+00:44:48,900 --> 00:44:52,800
+komiksy Manga odlišují protože
+
+894
+00:44:52,800 --> 00:44:54,300
+jsou i Západní komiksy inspirované
+
+895
+00:44:54,300 --> 00:44:56,500
+tenčími oči licencované Protection Jo a
+
+896
+00:44:56,500 --> 00:45:00,300
+další věci No a
+
+897
+00:45:00,300 --> 00:45:04,199
+to samé je jedním z příkladů takzvané
+
+898
+00:45:04,199 --> 00:45:06,599
+očividně expanze Na čem Diesel
+
+899
+00:45:07,400 --> 00:45:10,199
+to proto že m93 bylo právě jako součást
+
+900
+00:45:10,199 --> 00:45:12,500
+chytnout v dramatu zmíněno že by se
+
+901
+00:45:12,500 --> 00:45:14,400
+sami jak už to ten nejmladší charakter
+
+902
+00:45:14,400 --> 00:45:17,699
+byla mahó šódžo přesně řečeno s vaší
+
+903
+00:45:17,699 --> 00:45:18,900
+šílené vědkyně pěkný den
+
+904
+00:45:18,900 --> 00:45:23,300
+nevysvětlíš
+
+905
+00:45:23,300 --> 00:45:26,400
+má každá postava stencil nějakou svou
+
+906
+00:45:26,400 --> 00:45:29,300
+nezvyklou dlouho a právě na to se mi
+
+907
+00:45:29,300 --> 00:45:32,000
+přišla mahó šódžo tohle možná styděl k
+
+908
+00:45:32,000 --> 00:45:36,000
+tomu že pak bylo a nebo vám
+
+909
+00:45:36,000 --> 00:45:38,800
+že byl faulován a do série the Universe
+
+910
+00:45:38,800 --> 00:45:41,300
+a tam bylo také úspěšné a fanoušci byli
+
+911
+00:45:41,300 --> 00:45:44,400
+tak otravný že v roce 95 a přichází
+
+912
+00:45:44,400 --> 00:45:48,099
+Malšovice sami a o
+
+913
+00:45:48,099 --> 00:45:52,000
+další rok později 26 26 12
+
+914
+00:45:52,000 --> 00:45:54,000
+Nahošovice Project
+
+915
+00:45:54,900 --> 00:45:58,699
+který je vlastně celý settings mi ho
+
+916
+00:45:58,699 --> 00:46:01,300
+vezme a představí hosting pro váš eshop
+
+917
+00:46:01,300 --> 00:46:04,000
+takže není Aneta Juraj je magické
+
+918
+00:46:04,000 --> 00:46:07,900
+craftí Juraj Heim z kompetu
+
+919
+00:46:07,900 --> 00:46:10,099
+mezi těma Následníci trůnu každá z
+
+920
+00:46:10,099 --> 00:46:14,099
+proxy 1 se sami dva kamarádku k
+
+921
+00:46:14,099 --> 00:46:16,500
+mysu a udělali bychom ho shop které
+
+922
+00:46:16,500 --> 00:46:19,599
+jdou proti sobě velmi dobré velmi
+
+923
+00:46:19,599 --> 00:46:22,800
+humorné a velmi kritické řekni mi to
+
+924
+00:46:22,800 --> 00:46:26,300
+tak to samotného samotné sérii pak
+
+925
+00:46:26,300 --> 00:46:29,099
+můžete narazit na scény jako je
+
+926
+00:46:29,099 --> 00:46:33,099
+typický jaderný výbuch když No a
+
+927
+00:46:33,099 --> 00:46:34,599
+nebo je to je to znamená Kostelec
+
+928
+00:46:34,599 --> 00:46:36,599
+náhled do té záře postupně přidat do
+
+929
+00:46:36,599 --> 00:46:38,199
+toho jenom lineart těmi černými čarami
+
+930
+00:46:38,199 --> 00:46:41,800
+a zmizí který následně Poté co Americká
+
+931
+00:46:41,800 --> 00:46:45,099
+5. motivuje dopis k zátoky kterou
+
+932
+00:46:45,099 --> 00:46:47,400
+tu mám ať je ovlivněna
+
+933
+00:46:49,000 --> 00:46:52,000
+starší Japonka mi víc karaoke obsadí
+
+934
+00:46:52,000 --> 00:46:54,500
+tak že začne zpívat má se ozvu ty první
+
+935
+00:46:54,500 --> 00:46:57,800
+tóny na tento efekt a milý commodore
+
+936
+00:46:57,800 --> 00:47:00,500
+stačí jenom procent mezi zuby a Oh my
+
+937
+00:47:00,500 --> 00:47:04,400
+god Takže ty z vás kteří přijde
+
+938
+00:47:04,400 --> 00:47:07,000
+nějaká ta košile 8fun určitě to je ten
+
+939
+00:47:07,000 --> 00:47:09,400
+čím ale rozhodně jako láska tak stejně
+
+940
+00:47:09,400 --> 00:47:11,000
+samotnou mohu jen doporučit dalším
+
+941
+00:47:11,000 --> 00:47:17,000
+jak
+
+942
+00:47:17,000 --> 00:47:19,900
+jsem říkal před revitalizaci pomocí
+
+943
+00:47:19,900 --> 00:47:22,199
+jede zase normálně už to dneska se tam
+
+944
+00:47:22,199 --> 00:47:23,800
+je recept to znamená Co děláš ještě
+
+945
+00:47:23,800 --> 00:47:27,199
+Polní díky tomu jak se máš oči jako
+
+946
+00:47:27,199 --> 00:47:29,099
+jedna z věcí kterou účtovat na všechno
+
+947
+00:47:29,099 --> 00:47:32,699
+co je tam je ukázka Ano Carter Sakura
+
+948
+00:47:34,699 --> 00:47:36,900
+úspěšná mamka o tom Protože i k vám
+
+949
+00:47:36,900 --> 00:47:40,000
+pověděl A6 se našel to dá koupit tak
+
+950
+00:47:40,000 --> 00:47:43,500
+aby to bylo zajímavé bankéř roku 96
+
+951
+00:47:43,500 --> 00:47:47,000
+rok 98 navazuje jí anime Ti z vás kteří
+
+952
+00:47:47,000 --> 00:47:50,300
+nevědí já raději doporučím anime to z
+
+953
+00:47:50,300 --> 00:47:52,699
+toho důvodu že obsahuje o něco méně
+
+954
+00:47:52,699 --> 00:47:56,099
+obskurní a velmi diskutabilní
+
+955
+00:47:56,099 --> 00:48:00,099
+a osobního jednání postav
+
+956
+00:48:00,099 --> 00:48:03,199
+skoro sexuální slova smyslu protože
+
+957
+00:48:03,199 --> 00:48:06,699
+klapkové rovná se fetišismus a
+
+958
+00:48:06,699 --> 00:48:08,500
+některé další chvilky a
+
+959
+00:48:08,500 --> 00:48:12,199
+samotné anime je v tomhle Tom Odell
+
+960
+00:48:12,199 --> 00:48:14,000
+dřívější a stalo v Letech prvků u
+
+961
+00:48:14,000 --> 00:48:15,900
+kterých jako tak se tam horší a horší a
+
+962
+00:48:15,900 --> 00:48:19,800
+jedno ne ne a ne přes trpíte pár
+
+963
+00:48:19,800 --> 00:48:23,500
+stránek řekla fakt opekli naopak se do
+
+964
+00:48:23,500 --> 00:48:27,000
+Kapitol Takže ať rozhodně lepší nějaký
+
+965
+00:48:27,000 --> 00:48:27,199
+plán
+
+966
+00:48:28,300 --> 00:48:32,000
+ano Akorát tu věc jak jsem říkal že jo
+
+967
+00:48:32,000 --> 00:48:33,000
+ty hrany na zeď a všechny hladké
+
+968
+00:48:33,000 --> 00:48:35,400
+platech udělala tu věc že ovlivnila
+
+969
+00:48:35,400 --> 00:48:39,099
+módu cardcaptor Sakura anime vysloveně
+
+970
+00:48:39,099 --> 00:48:42,099
+stavělo na tom že to bude součástí
+
+971
+00:48:42,099 --> 00:48:44,900
+produkční komise byly módní firmy které
+
+972
+00:48:44,900 --> 00:48:48,099
+teď kostýmky které nejlepší kamarádka
+
+973
+00:48:48,099 --> 00:48:52,099
+sakury tomu říká vlastně nějakým
+
+974
+00:48:52,099 --> 00:48:54,300
+způsobem zapojili do svých kolekcích je
+
+975
+00:48:54,300 --> 00:48:56,099
+to výrazně stát existuje tam na to
+
+976
+00:48:56,099 --> 00:48:57,199
+několik studií které porovnávají
+
+977
+00:48:57,199 --> 00:48:59,400
+dětskou módu před Carter Sakura a
+
+978
+00:48:59,400 --> 00:49:01,900
+pokládka to Sakura a ten posun a změna
+
+979
+00:49:01,900 --> 00:49:03,800
+je tam výrazná u většiny producenti
+
+980
+00:49:03,800 --> 00:49:06,300
+dětské oblečení takže jednoznačně
+
+981
+00:49:06,300 --> 00:49:09,900
+jednoznačné využití a maximální
+
+982
+00:49:09,900 --> 00:49:12,500
+pojistné Zároveň také velmi chytrý
+
+983
+00:49:12,500 --> 00:49:14,599
+prvek protože se všemi těmi kostýmy
+
+984
+00:49:14,599 --> 00:49:18,300
+které získávají nemám tady zas takový
+
+985
+00:49:18,300 --> 00:49:20,699
+jezdit tomu Jo s tím náklaďákem který
+
+986
+00:49:20,699 --> 00:49:23,099
+jako taková pojízdná obrovská skříň a
+
+987
+00:49:23,099 --> 00:49:25,699
+postupně vlastně do jednotlivých
+
+988
+00:49:25,699 --> 00:49:28,000
+kostýmku svou milou sakru
+
+989
+00:49:28,300 --> 00:49:30,099
+Demeter
+
+990
+00:49:31,900 --> 00:49:35,099
+tak to byla asi moc lidí nebude bohužel
+
+991
+00:49:35,099 --> 00:49:38,400
+taky píši nebo Ono se mě několikrát
+
+992
+00:49:38,400 --> 00:49:40,900
+Chci si to totiž ten člověk který se
+
+993
+00:49:40,900 --> 00:49:43,000
+chopil studia a vlastně pod jeho
+
+994
+00:49:43,000 --> 00:49:46,900
+průměrný diktát a různé zajímavé věci o
+
+995
+00:49:46,900 --> 00:49:48,400
+neschopné
+
+996
+00:49:48,400 --> 00:49:57,599
+protlačit
+
+997
+00:49:57,599 --> 00:50:01,199
+do hlav producentů věci je že ano
+
+998
+00:50:01,199 --> 00:50:03,300
+jsou to je pořád primárně určena pro
+
+999
+00:50:03,300 --> 00:50:06,500
+dívky mezi 9:00 až 12 hodin života
+
+1000
+00:50:06,500 --> 00:50:09,300
+ale teď hubnutí
+
+1001
+00:50:12,800 --> 00:50:16,199
+ať věcí okolo nekupují rodiče dívkám
+
+1002
+00:50:17,300 --> 00:50:21,300
+vykupují ti muži ve věku 20 plus které
+
+1003
+00:50:21,300 --> 00:50:23,400
+jsou Svobodní Mají to svoje
+
+1004
+00:50:23,400 --> 00:50:25,500
+jednopokojové kondo nebo ještě bydlí u
+
+1005
+00:50:25,500 --> 00:50:27,800
+rodičů a mají ten přebytek peněz na
+
+1006
+00:50:27,800 --> 00:50:29,000
+tohle to všechno kupovat
+
+1007
+00:50:29,900 --> 00:50:33,900
+a prosím tě také patřím do skoro
+
+1008
+00:50:33,900 --> 00:50:37,099
+stejné generace chápu to a pánové Vy už
+
+1009
+00:50:37,099 --> 00:50:39,800
+víte že mnohé malou šrotu jo ty prvky
+
+1010
+00:50:39,800 --> 00:50:42,500
+jako úlitbu českému publiku zahájí
+
+1011
+00:50:42,500 --> 00:50:46,300
+udělat polovičatě Co udělat
+
+1012
+00:50:46,300 --> 00:50:50,300
+blahošová pro 20 plus svobodné
+
+1013
+00:50:50,300 --> 00:50:53,000
+tak opravdu pro ně i
+
+1014
+00:50:53,000 --> 00:50:56,599
+moto kýbl Výsledkem je
+
+1015
+00:50:56,599 --> 00:51:03,300
+hnědovlasá
+
+1016
+00:51:03,300 --> 00:51:05,699
+blondýna v černém je Testarossa
+
+1017
+00:51:05,699 --> 00:51:07,800
+and White
+
+1018
+00:51:09,199 --> 00:51:11,599
+Brigita inspirace Která vedla k tomu
+
+1019
+00:51:11,599 --> 00:51:13,599
+proč mohl jsem ti lyrical nanoha vypadá
+
+1020
+00:51:13,599 --> 00:51:16,599
+tak jak vypadá Mám symbol vyrůstal a
+
+1021
+00:51:16,599 --> 00:51:18,900
+kam jdeme klasickém ramen Ti z vás
+
+1022
+00:51:18,900 --> 00:51:19,599
+kteří již mají
+
+1023
+00:51:21,900 --> 00:51:24,800
+modrobílé ražení celého kostýmů
+
+1024
+00:51:24,800 --> 00:51:28,599
+se zahrnutím výraznějších nárameníku a
+
+1025
+00:51:28,599 --> 00:51:30,599
+tak dále nic takového běžném a už už
+
+1026
+00:51:30,599 --> 00:51:33,400
+nenajdete je jasný odkaz právě na Kubu
+
+1027
+00:51:33,400 --> 00:51:36,400
+nemám a díky tomu si reprák na nohu aby
+
+1028
+00:51:36,400 --> 00:51:38,699
+sloužila i stejný stěnu přezdívku bílé
+
+1029
+00:51:38,699 --> 00:51:40,900
+mu dám oběd v první sérii přezdívali
+
+1030
+00:51:40,900 --> 00:51:43,199
+sněhově bílý ďábel protože pro mě
+
+1031
+00:51:43,199 --> 00:51:46,900
+nepochopitelné s nepřítelem a vydával
+
+1032
+00:51:46,900 --> 00:51:48,800
+se přejídá se přece přesně tato
+
+1033
+00:51:48,800 --> 00:51:52,500
+ukázka číslo 2
+
+1034
+00:51:52,500 --> 00:51:55,199
+ukážeme co se myslí pojmem
+
+1035
+00:52:02,599 --> 00:52:06,699
+My
+
+1036
+00:52:06,699 --> 00:52:07,699
+máme rádi
+
+1037
+00:52:07,699 --> 00:52:15,800
+víno
+
+1038
+00:52:15,800 --> 00:52:16,699
+celý
+
+1039
+00:52:16,699 --> 00:52:27,800
+online
+
+1040
+00:52:49,699 --> 00:53:03,699
+introvert
+
+1041
+00:53:05,400 --> 00:53:07,199
+Co to je když se dělají rozvody
+
+1042
+00:53:07,199 --> 00:53:12,099
+nepřehnala
+
+1043
+00:53:12,099 --> 00:53:14,500
+to sejmout a prát a zkoušel jet na
+
+1044
+00:53:14,500 --> 00:53:16,199
+několik kilometrů masivní místa prosím
+
+1045
+00:53:16,199 --> 00:53:20,000
+tě přece nemůže být nebezpečná Takže
+
+1046
+00:53:20,000 --> 00:53:21,000
+ano Westlife
+
+1047
+00:53:21,000 --> 00:53:25,699
+boyfriendy
+
+1048
+00:53:25,699 --> 00:53:28,500
+dostanu se k němu vracíš podnik a
+
+1049
+00:53:28,500 --> 00:53:32,099
+proto protože tahle série
+
+1050
+00:53:32,099 --> 00:53:34,800
+staví na tom že máte tři naprosto
+
+1051
+00:53:34,800 --> 00:53:37,300
+ikonické a klasické Malešice postupy to
+
+1052
+00:53:37,300 --> 00:53:39,699
+znamená nanoha najde zraněné zvířátko
+
+1053
+00:53:39,699 --> 00:53:41,500
+které si odnesli domů z toho se
+
+1054
+00:53:41,500 --> 00:53:43,699
+vykoupeš je to první astrologie planety
+
+1055
+00:53:43,699 --> 00:53:47,099
+který k dispozici svůj v těch protože v
+
+1056
+00:53:47,099 --> 00:53:49,599
+ní objeví magii ona se naučit kouzlit a
+
+1057
+00:53:49,599 --> 00:53:52,599
+pomocí kouzlit vytvořit Tento soubor A
+
+1058
+00:53:52,599 --> 00:53:56,099
+jak už to nejprve
+
+1059
+00:53:56,099 --> 00:53:59,900
+amuletem po proměně hůlkou která má
+
+1060
+00:53:59,900 --> 00:54:03,099
+různé využití nakopává za některým
+
+1061
+00:54:03,099 --> 00:54:05,300
+věcem a pokouší se o
+
+1062
+00:54:05,400 --> 00:54:07,699
+Zapni fake test a dost jakožto
+
+1063
+00:54:07,699 --> 00:54:10,900
+antagonisté v první řadě a ano Poté co
+
+1064
+00:54:10,900 --> 00:54:12,400
+se jí to povede tak další řadě už to
+
+1065
+00:54:12,400 --> 00:54:14,300
+jsou kamarádky protože kdo byl to máte
+
+1066
+00:54:14,300 --> 00:54:15,800
+na nohou tak kamarádi
+
+1067
+00:54:15,800 --> 00:54:19,400
+stáhnout se
+
+1068
+00:54:19,400 --> 00:54:22,500
+postupně v letech chodí k destrukci
+
+1069
+00:54:22,500 --> 00:54:25,000
+stávají osoby hromadného ničení v
+
+1070
+00:54:25,000 --> 00:54:29,000
+případě třeba i řadě dochází
+
+1071
+00:54:29,000 --> 00:54:31,800
+k tomu kouzlí dochází k masivnímu
+
+1072
+00:54:31,800 --> 00:54:34,900
+strategickému vyklizování oblastí
+
+1073
+00:54:34,900 --> 00:54:38,199
+uvolňování armádních jednotek a celkově
+
+1074
+00:54:38,199 --> 00:54:40,400
+aby nikdo nebyl tam kde ona bude
+
+1075
+00:54:40,400 --> 00:54:44,400
+kouzlit protože to bych
+
+1076
+00:54:44,400 --> 00:54:46,000
+musel tak ještě potřebuje strategické
+
+1077
+00:54:46,000 --> 00:54:48,699
+navádění Commands velikých center tak
+
+1078
+00:54:48,699 --> 00:54:50,900
+ještě o něčem vypovídá rozhodně
+
+1079
+00:54:50,900 --> 00:54:54,400
+obrovský hit to moc 2004 přišla
+
+1080
+00:54:54,400 --> 00:54:58,300
+série která přehrává všechny rekordy
+
+1081
+00:54:58,300 --> 00:55:01,300
+A ukázala že mám ho už ho že jo Takto
+
+1082
+00:55:01,300 --> 00:55:04,500
+profilované může být sakra už 5 let
+
+1083
+00:55:05,300 --> 00:55:08,900
+pouze na první řadě další tak říkajíc
+
+1084
+00:55:08,900 --> 00:55:12,000
+lehce Jakkoli lehce může v jeho případě
+
+1085
+00:55:12,000 --> 00:55:15,300
+znamená celkově
+
+1086
+00:55:15,300 --> 00:55:19,199
+cesty do nového Nahošovice
+
+1087
+00:55:19,199 --> 00:55:21,400
+zavedli takové prvky které mnozí
+
+1088
+00:55:21,400 --> 00:55:22,300
+přirovnávají k revoluci
+
+1089
+00:55:23,900 --> 00:55:26,000
+Ano jak jsem říkal
+
+1090
+00:55:26,000 --> 00:55:29,900
+papír ti to že připojit Volej se
+
+1091
+00:55:29,900 --> 00:55:31,900
+přidávají k technika záchodě a nasazení
+
+1092
+00:55:31,900 --> 00:55:34,599
+toho do toho dokázali propašovat
+
+1093
+00:55:34,599 --> 00:55:37,099
+kosmické lodě je kosmický planetární
+
+1094
+00:55:37,099 --> 00:55:39,599
+straně a podobné věci takže jako je to
+
+1095
+00:55:39,599 --> 00:55:41,699
+úžasné je to cool Doporučuji ke
+
+1096
+00:55:41,699 --> 00:55:44,300
+shlédnutí zvlášť Pokud a pak máte zájem
+
+1097
+00:55:44,300 --> 00:55:47,800
+vidět plně dynamické nadzvukové letecké
+
+1098
+00:55:47,800 --> 00:55:51,800
+bitvy mezi jo ano Dogfight ve
+
+1099
+00:55:51,800 --> 00:55:53,900
+kterém opravdu vytváří Ty zvukové
+
+1100
+00:55:53,900 --> 00:55:57,300
+přezky a podobně a zároveň
+
+1101
+00:55:57,300 --> 00:55:59,699
+tenhle titul možné oddělení
+
+1102
+00:55:59,699 --> 00:56:03,000
+Milošovi na
+
+1103
+00:56:03,000 --> 00:56:06,000
+noze došlo totiž k tomu že jsi se
+
+1104
+00:56:06,000 --> 00:56:09,599
+vytvořila taktická a drsnější nebo v
+
+1105
+00:56:09,599 --> 00:56:12,500
+půl 5 a ta klasická která má
+
+1106
+00:56:12,500 --> 00:56:15,599
+uvozovkách mířidla ta děvčata ta která
+
+1107
+00:56:15,599 --> 00:56:17,900
+má mít to ty příběhy o přátelství dělá
+
+1108
+00:56:17,900 --> 00:56:20,500
+neporozumění a všem ostatním a ta
+
+1109
+00:56:20,500 --> 00:56:22,900
+drsnější Kam se dá schovat cokoliv
+
+1110
+00:56:22,900 --> 00:56:23,900
+pocta
+
+1111
+00:56:23,900 --> 00:56:26,500
+dohled a můžete s klidem chodit takhle
+
+1112
+00:56:26,500 --> 00:56:29,099
+receptů Strike Which is protože jako
+
+1113
+00:56:29,099 --> 00:56:31,800
+armádní technika do toho magie a
+
+1114
+00:56:31,800 --> 00:56:34,800
+settings ve kterém nevymysleli sukně či
+
+1115
+00:56:34,800 --> 00:56:37,300
+spodní díly oděvů pro ženské osazenstvo
+
+1116
+00:56:37,300 --> 00:56:40,400
+je naprosto jednoznačně spadající do
+
+1117
+00:56:40,400 --> 00:56:42,900
+této sféry a právě do tohoto druhu a
+
+1118
+00:56:42,900 --> 00:56:46,000
+celkově došlo Pixlr definice že
+
+1119
+00:56:46,000 --> 00:56:49,000
+například souboje které byly do té doby
+
+1120
+00:56:49,000 --> 00:56:52,400
+výrazně ikonické v tom smyslu že
+
+1121
+00:56:52,400 --> 00:56:55,000
+hlavní hrdinka je nějakým způsobem
+
+1122
+00:56:55,000 --> 00:56:58,599
+zbitá dívka trpí dechu vědomí s nějakou
+
+1123
+00:56:58,599 --> 00:57:02,500
+pravdu kterou jsi zjistila postaví
+
+1124
+00:57:02,500 --> 00:57:04,000
+se znovu nepříteli a použije své
+
+1125
+00:57:04,000 --> 00:57:07,199
+obvyklé jeden speciální útok k tomu aby
+
+1126
+00:57:07,199 --> 00:57:09,900
+nepřítele zlikvidovala případně půlce
+
+1127
+00:57:09,900 --> 00:57:11,400
+řady dojde k tomu že se speciální ti to
+
+1128
+00:57:11,400 --> 00:57:14,300
+ukáže být efektivní speciální útok
+
+1129
+00:57:14,300 --> 00:57:16,199
+který už efektivní zase a takhle se
+
+1130
+00:57:16,199 --> 00:57:19,900
+pokračuje dál po všem že mlýnek na
+
+1131
+00:57:19,900 --> 00:57:22,500
+noze už to dochází k tomu že se teda ty
+
+1132
+00:57:22,500 --> 00:57:23,599
+většinou ani
+
+1133
+00:57:23,900 --> 00:57:26,900
+probíhají tak jako reální souboj To
+
+1134
+00:57:26,900 --> 00:57:29,400
+znamená a díky užívají snaží se nějaký
+
+1135
+00:57:29,400 --> 00:57:31,199
+Co jsou spíš nebo zasáhnout nepřítele a
+
+1136
+00:57:31,199 --> 00:57:31,800
+tak dále
+
+1137
+00:57:33,500 --> 00:57:36,300
+Připomeň mi který areálu a
+
+1138
+00:57:36,300 --> 00:57:40,300
+ano taková vsuvka že Milana noha jak je
+
+1139
+00:57:40,300 --> 00:57:44,099
+jedna z vedlejších postav vlastně rok
+
+1140
+00:57:44,099 --> 00:57:46,599
+která se jmenuje Frei Heart která má
+
+1141
+00:57:46,599 --> 00:57:50,300
+jednu Hentai anime verzi a vlastně
+
+1142
+00:57:50,300 --> 00:57:52,199
+Samotná na nohy už doma už že se
+
+1143
+00:57:52,199 --> 00:57:55,099
+vyskytla ve třetím dodávku téhle té
+
+1144
+00:57:55,099 --> 00:57:57,800
+původní hry tak naštvaná teď je
+
+1145
+00:57:57,800 --> 00:58:01,800
+obrovská které všichni
+
+1146
+00:58:01,800 --> 00:58:04,900
+fanoušci už teďka jenom počítají dny a
+
+1147
+00:58:04,900 --> 00:58:07,099
+čekají Kdy bude venku vivid jakožto
+
+1148
+00:58:07,099 --> 00:58:10,199
+série o mladších generací se staršími
+
+1149
+00:58:10,199 --> 00:58:12,699
+která je tak něco jako magické Side Of
+
+1150
+00:58:12,699 --> 00:58:13,900
+A nebo
+
+1151
+00:58:17,199 --> 00:58:20,800
+Ježíši teď jak vypadá i a
+
+1152
+00:58:20,800 --> 00:58:22,599
+pak ještě jedna která naopak staví
+
+1153
+00:58:22,599 --> 00:58:24,000
+Ještě vypnout na tom danverse letenku
+
+1154
+00:58:24,000 --> 00:58:25,699
+ve které se vyskytuje na nohách která
+
+1155
+00:58:25,699 --> 00:58:28,099
+je takříkajíc obložená těmi přídavnými
+
+1156
+00:58:28,099 --> 00:58:30,599
+moduly něco podobného jako když jdeme
+
+1157
+00:58:30,599 --> 00:58:34,599
+získávají speciální další výzbroj Jdeme
+
+1158
+00:58:34,599 --> 00:58:38,199
+dál Force Přesně tak děkuji
+
+1159
+00:58:38,199 --> 00:58:42,199
+Tak tam na ten
+
+1160
+00:58:42,199 --> 00:58:44,800
+pán se jmenuje get Luboši někteří mu
+
+1161
+00:58:44,800 --> 00:58:47,500
+říkají den po červotoči jakožto řezník
+
+1162
+00:58:47,500 --> 00:58:50,400
+a je to ten člověk který prosím
+
+1163
+00:58:50,400 --> 00:58:53,699
+takovými je scénáři jako je Santa
+
+1164
+00:58:53,699 --> 00:58:57,699
+pro Nitro plus 3 girls had a
+
+1165
+00:58:57,699 --> 00:59:01,699
+v podstatě je to někdo furt mi známo
+
+1166
+00:59:01,699 --> 00:59:03,300
+že prohlásil že právě sehnat a která
+
+1167
+00:59:03,300 --> 00:59:06,300
+pojednává na konci o řekněme konci list
+
+1168
+00:59:06,300 --> 00:59:07,800
+a tak jak ho známe jako Staněk
+
+1169
+00:59:07,800 --> 00:59:11,000
+optimističtější dílo Říkáte si proč
+
+1170
+00:59:11,000 --> 00:59:13,599
+někdo takový Mimochodem také scenarista
+
+1171
+00:59:13,599 --> 00:59:15,300
+Fate Zero pro ty z vás kteří ho viděli
+
+1172
+00:59:15,300 --> 00:59:16,699
+tak mohl za Tesca
+
+1173
+00:59:17,199 --> 00:59:21,000
+Jak udělat Malšovice řekneme si to
+
+1174
+00:59:21,000 --> 00:59:23,900
+tak to mluvím nestačilo že ho
+
+1175
+00:59:23,900 --> 00:59:27,400
+redefinoval jednou A řekl jsi že
+
+1176
+00:59:27,400 --> 00:59:31,000
+zítra nebudu pokud druhém pokusu
+
+1177
+00:59:31,000 --> 00:59:34,900
+bude vhodná věc a také že byla
+
+1178
+00:59:34,900 --> 00:59:38,800
+další protože pojala Magi
+
+1179
+00:59:38,800 --> 00:59:41,199
+madoka Magica věřím že asi většina
+
+1180
+00:59:41,199 --> 00:59:44,699
+roku 2011
+
+1181
+00:59:44,699 --> 00:59:47,300
+předvedla totiž něco podobného co na
+
+1182
+00:59:47,300 --> 00:59:48,900
+noha v roce 2004
+
+1183
+00:59:50,099 --> 00:59:52,400
+rozhodně rozpoutala obrovský zájem o a
+
+1184
+00:59:52,400 --> 00:59:55,900
+očekávám že příští šesti sedmi letech
+
+1185
+00:59:55,900 --> 00:59:58,199
+se v každé sezóně nebaví chci objeví
+
+1186
+00:59:58,199 --> 01:00:00,400
+nějaký rádoby pokus stojí kopírování
+
+1187
+01:00:00,400 --> 01:00:03,000
+nebo něco na ten způsob protože už ho
+
+1188
+01:00:03,000 --> 01:00:05,400
+teď rozhodně pojedou aby byly další
+
+1189
+01:00:05,400 --> 01:00:06,400
+Jdeme dál
+
+1190
+01:00:08,199 --> 01:00:11,900
+Ano říkají 21 nutno zmínit že
+
+1191
+01:00:11,900 --> 01:00:15,800
+zítra je roku 2008 tedy barvy scénách
+
+1192
+01:00:15,800 --> 01:00:18,300
+jen se pro něj tři roky sháněli
+
+1193
+01:00:18,300 --> 01:00:20,199
+sponzoři a celková produkční realizace
+
+1194
+01:00:20,199 --> 01:00:24,199
+Možná to vyplývá z toho že
+
+1195
+01:00:24,199 --> 01:00:26,099
+si někteří lidé začali uvědomovat že
+
+1196
+01:00:26,099 --> 01:00:28,400
+řekneme Madonka tak jak je ten Sunar
+
+1197
+01:00:28,400 --> 01:00:32,300
+napsal není úplně snadno marketingový
+
+1198
+01:00:32,300 --> 01:00:35,699
+pochopitelně titul o celkově ty z vás
+
+1199
+01:00:35,699 --> 01:00:38,400
+kteří viděli tak vlastně mohl potvrdit
+
+1200
+01:00:38,400 --> 01:00:40,500
+ty kteří ne jenom naznačím že je to
+
+1201
+01:00:40,500 --> 01:00:43,699
+série která dost staví na velmi
+
+1202
+01:00:43,699 --> 01:00:47,599
+specifickém přístupu K Malši ogio a ke
+
+1203
+01:00:47,599 --> 01:00:48,300
+konstrukci
+
+1204
+01:00:49,300 --> 01:00:52,800
+rekonstrukce v teraristice lépe
+
+1205
+01:00:52,800 --> 01:00:56,199
+postup při filozofický směr který říká
+
+1206
+01:00:56,199 --> 01:00:59,800
+že napsané nebo běžném textu nebo slově
+
+1207
+01:00:59,800 --> 01:01:03,300
+je význam jen ten A co kvůli tomu dávám
+
+1208
+01:01:03,300 --> 01:01:06,599
+jako text nebo pokud jsou věci které by
+
+1209
+01:01:06,599 --> 01:01:08,199
+se snažím jako vlastní konstrukce a
+
+1210
+01:01:08,199 --> 01:01:10,500
+nemají tam být po zbytečné
+
+1211
+01:01:10,500 --> 01:01:13,000
+scenaristicka rekonstrukce dělá tu věc
+
+1212
+01:01:13,000 --> 01:01:16,500
+že vezme nějaký typický žánr
+
+1213
+01:01:16,500 --> 01:01:20,000
+chipsety a začne řešit otázky
+
+1214
+01:01:20,000 --> 01:01:22,699
+jak jim ty věci mohly fungovat nebo co
+
+1215
+01:01:22,699 --> 01:01:24,099
+by se muselo být aby to byla pravda
+
+1216
+01:01:26,699 --> 01:01:28,199
+ano
+
+1217
+01:01:30,300 --> 01:01:33,500
+a ukázka asi jedna z nejvýznamnějších
+
+1218
+01:01:33,500 --> 01:01:36,699
+Angel které vzal klasické všechno česky
+
+1219
+01:01:36,699 --> 01:01:38,800
+žádných velkých robotů a začnu řešit
+
+1220
+01:01:38,800 --> 01:01:40,900
+jak mi to vysvětloval vypadat aby
+
+1221
+01:01:40,900 --> 01:01:44,000
+fungoval aby byl Real to znamená aby
+
+1222
+01:01:44,000 --> 01:01:46,599
+neměl všechny ty pravomoce aby
+
+1223
+01:01:46,599 --> 01:01:50,599
+bylo nutné tam nikdy dětské piloty A co
+
+1224
+01:01:50,599 --> 01:01:52,800
+to s těmi dětské piloty to že pilot v
+
+1225
+01:01:52,800 --> 01:01:55,800
+vojenské vojenské zase dělá
+
+1226
+01:01:55,800 --> 01:01:58,699
+mamka dělá totéž
+
+1227
+01:01:58,699 --> 01:02:02,699
+takže řeší Proč je tu umělým Asko
+
+1228
+01:02:02,699 --> 01:02:06,300
+proč dávat i za ty magické síly na hory
+
+1229
+01:02:06,300 --> 01:02:10,099
+a ne A čím vším se to
+
+1230
+01:02:10,099 --> 01:02:12,699
+musí projít když jsem splnil přání a
+
+1231
+01:02:12,699 --> 01:02:13,900
+jakou cenu
+
+1232
+01:02:14,800 --> 01:02:18,000
+Rozhodně je to věc která zafungovala a
+
+1233
+01:02:18,000 --> 01:02:20,000
+předčila očekávání Nymburce malej
+
+1234
+01:02:20,000 --> 01:02:22,400
+fanoušků podstatě plánované a
+
+1235
+01:02:22,400 --> 01:02:25,800
+odhadované prodeje byly dnes okolo
+
+1236
+01:02:25,800 --> 01:02:29,199
+25 tisíc řidiče průměrný
+
+1237
+01:02:29,199 --> 01:02:31,900
+Zapomeňte na to jenom prodej
+
+1238
+01:02:31,900 --> 01:02:35,900
+navíc ještě o to že první verze Budíček
+
+1239
+01:02:35,900 --> 01:02:39,000
+dělá vylisována s jednou chybou takže
+
+1240
+01:02:39,000 --> 01:02:40,599
+se s ní okamžitě staly velice rád
+
+1241
+01:02:40,599 --> 01:02:42,199
+raritní kusy a bude v poště rozebrán a
+
+1242
+01:02:42,199 --> 01:02:45,099
+co jsme nestačili na vlastně stáhnout
+
+1243
+01:02:45,099 --> 01:02:49,099
+prodeji takže opravdu co se prodeji v
+
+1244
+01:02:49,099 --> 01:02:52,400
+zájmu a rozpoutaný května věc a
+
+1245
+01:02:52,400 --> 01:02:54,900
+taktéž na rozdíl od ní je to výjimečně
+
+1246
+01:02:54,900 --> 01:02:57,900
+ještě v jedné věci totiž žádné
+
+1247
+01:02:57,900 --> 01:03:00,400
+rekonstruuje tak si ho povede v
+
+1248
+01:03:00,400 --> 01:03:02,900
+posledních dvou dílech kompletně
+
+1249
+01:03:02,900 --> 01:03:06,800
+rekonstruovat že vám ukáže že ta Síla
+
+1250
+01:03:06,800 --> 01:03:09,400
+lásky přátelství a naděje
+
+1251
+01:03:10,300 --> 01:03:13,000
+opravdu nad vším tím realismem dokáže
+
+1252
+01:03:13,000 --> 01:03:13,199
+zvítězit
+
+1253
+01:03:14,599 --> 01:03:17,800
+Takže je to věc která předvedla obchvat
+
+1254
+01:03:17,800 --> 01:03:20,099
+města Sázavy znovupostavení technika
+
+1255
+01:03:20,099 --> 01:03:22,099
+čistící schéma Co znamená Máme tam Jsi
+
+1256
+01:03:22,099 --> 01:03:24,800
+tam měla maskota máme přání
+
+1257
+01:03:24,800 --> 01:03:28,400
+Máme tam
+
+1258
+01:03:28,400 --> 01:03:30,699
+díky které mají tolik jednotlivé
+
+1259
+01:03:30,699 --> 01:03:32,300
+barevné ladění tu dobu k takovým
+
+1260
+01:03:32,300 --> 01:03:34,599
+způsobem že červená má to koupí protože
+
+1261
+01:03:34,599 --> 01:03:36,500
+třeba nemusel sedím někdy někdy přes
+
+1262
+01:03:36,500 --> 01:03:38,099
+vzdálenost jakožto ten který útočí na
+
+1263
+01:03:38,099 --> 01:03:41,900
+vrchu formace a tak dále a celkově Je
+
+1264
+01:03:41,900 --> 01:03:43,400
+to prostě titul který z těch všech
+
+1265
+01:03:43,400 --> 01:03:46,199
+Klasik se těží a zároveň k rozkládá a
+
+1266
+01:03:46,199 --> 01:03:49,000
+na konci úplně obnovit jí neviděli
+
+1267
+01:03:49,000 --> 01:03:52,599
+Doporučuji nejen kvůli scénáři i kvůli
+
+1268
+01:03:52,599 --> 01:03:54,300
+dalšímu chlapi tak jsem jako je třeba
+
+1269
+01:03:54,300 --> 01:03:57,400
+psychedelická animace Šafr která
+
+1270
+01:03:57,400 --> 01:03:58,800
+zahrnuje ty jednotlivé Malšovice
+
+1271
+01:03:58,800 --> 01:04:01,300
+souboje a hlavně Mami prostě protože
+
+1272
+01:04:01,300 --> 01:04:02,500
+máme nejlepší i když nezbytná
+
+1273
+01:04:02,500 --> 01:04:08,699
+z
+
+1274
+01:04:08,699 --> 01:04:12,300
+Západní chci fakt díky tady tomu a
+
+1275
+01:04:12,300 --> 01:04:14,400
+došli k závěru že v klasickém ahoj
+
+1276
+01:04:14,599 --> 01:04:17,199
+už pojď na nohy vlastně nikoho nezajímá
+
+1277
+01:04:17,199 --> 01:04:20,800
+netočí se nedělá se a celkově
+
+1278
+01:04:20,800 --> 01:04:24,099
+není o něj zájem tak Všem těm lidem
+
+1279
+01:04:24,099 --> 01:04:26,800
+kteří vás a tuhle tu hloupost můžeme
+
+1280
+01:04:26,800 --> 01:04:29,199
+vzkázat Pretty Tour Life
+
+1281
+01:04:29,199 --> 01:04:40,000
+každý
+
+1282
+01:04:40,000 --> 01:04:44,000
+rok co znamená Petr p60 a původní
+
+1283
+01:04:44,000 --> 01:04:46,800
+doplňoval pouze před Vánoci zimní
+
+1284
+01:04:46,800 --> 01:04:49,599
+speciál později zahrnuli do konce 2
+
+1285
+01:04:49,599 --> 01:04:53,199
+filmy ke Kam v létě do dáme ten film
+
+1286
+01:04:53,199 --> 01:04:56,699
+se potkávají a
+
+1287
+01:04:56,699 --> 01:04:59,300
+bojuji a zpívají proti většímu zlu
+
+1288
+01:04:59,300 --> 01:05:02,400
+celkově obrovský Fenomén tahle věc
+
+1289
+01:05:02,400 --> 01:05:06,199
+láká k tobě jak tu základní cíl
+
+1290
+01:05:06,199 --> 01:05:08,300
+ochutit mladých děvčat tak samozřejmě
+
+1291
+01:05:08,300 --> 01:05:10,400
+hudba pro starší tak už tam je také a
+
+1292
+01:05:10,400 --> 01:05:14,300
+celkově i v rámci kritické hodnocení
+
+1293
+01:05:14,599 --> 01:05:17,400
+filmových kritiků se dostávám dost
+
+1294
+01:05:17,400 --> 01:05:19,699
+vysoko když takový děje že to není nic
+
+1295
+01:05:19,699 --> 01:05:22,400
+lidského nebo ve své jednoduchosti
+
+1296
+01:05:22,400 --> 01:05:26,099
+ubohého takže kritiky You're A dokonce
+
+1297
+01:05:26,099 --> 01:05:26,599
+se bezpečně
+
+1298
+01:05:26,599 --> 01:05:30,699
+do
+
+1299
+01:05:30,699 --> 01:05:33,099
+dneška takže rozhodně není pravda že by
+
+1300
+01:05:33,099 --> 01:05:35,500
+to nebylo Jenom to cool a nic jiného
+
+1301
+01:05:35,500 --> 01:05:38,099
+Protože toto se prodává majetek a
+
+1302
+01:05:38,099 --> 01:05:41,599
+spousta dalších to je čas se
+
+1303
+01:05:41,599 --> 01:05:44,599
+rozhodně Marshall neztratili a jsou
+
+1304
+01:05:44,599 --> 01:05:46,800
+stále Na Výsluní na Flight
+
+1305
+01:05:48,599 --> 01:05:51,300
+Edita odpovídala na chatu na technickou
+
+1306
+01:05:51,300 --> 01:05:52,800
+otázku je teď mám chvilku jen pro malá
+
+1307
+01:05:52,800 --> 01:05:54,800
+děvčata otázku odpověď je jednoduchá
+
+1308
+01:05:54,800 --> 01:05:57,000
+když se už pojď si připomeneme ty věci
+
+1309
+01:05:57,000 --> 01:05:59,000
+které jsem říkal na začátku v podstatě
+
+1310
+01:05:59,000 --> 01:06:02,300
+zájem mohl být že
+
+1311
+01:06:02,300 --> 01:06:04,800
+půjdeme po pozornosti těch mladých
+
+1312
+01:06:04,800 --> 01:06:08,699
+divaček ale už od těch 70
+
+1313
+01:06:08,699 --> 01:06:11,099
+let není pravdou že by to sledovali
+
+1314
+01:06:11,099 --> 01:06:15,099
+jenom Moni ale dospělejší kluci možná
+
+1315
+01:06:15,099 --> 01:06:18,599
+se ti moje přiznání a celkově Je to věc
+
+1316
+01:06:18,599 --> 01:06:20,800
+která výrazným způsobem jako žánr
+
+1317
+01:06:20,800 --> 01:06:23,500
+funguje napříč komunitou bez ohledu na
+
+1318
+01:06:23,500 --> 01:06:27,500
+věk díky tomu jak říkám máš Teď máte vy
+
+1319
+01:06:27,500 --> 01:06:30,099
+máte ten počítač určený právě pro tuto
+
+1320
+01:06:30,099 --> 01:06:31,300
+prd prd a děvčata Co jsou to různé
+
+1321
+01:06:31,300 --> 01:06:34,699
+šperky tak jako květ jako šatiček a
+
+1322
+01:06:34,699 --> 01:06:38,000
+podobně a pak máte ty pro taťku k vaši
+
+1323
+01:06:38,000 --> 01:06:42,000
+otázku jako jsou DVD figurky a šáteček
+
+1324
+01:06:42,000 --> 01:06:45,199
+a tak dále celkově všechny tyhle ty
+
+1325
+01:06:45,199 --> 01:06:47,300
+možnosti rozhodně mám vše už je to tak
+
+1326
+01:06:47,300 --> 01:06:48,500
+dej vědět nebydlí žánr
+
+1327
+01:06:48,500 --> 01:06:52,000
+nemůžeme říct že by zaujmul jenom tu
+
+1328
+01:06:52,000 --> 01:06:53,599
+část pro kterou tam snad původně
+
+1329
+01:06:53,599 --> 01:06:55,400
+navržen našla
+
+1330
+01:06:58,000 --> 01:07:01,699
+Ahoj také Tele Tele přednáška směřovala
+
+1331
+01:07:01,699 --> 01:07:03,900
+Já doufám že se vám na ní povedlo
+
+1332
+01:07:03,900 --> 01:07:06,199
+alespoň buďto neusnu a nebo Aspoň jde
+
+1333
+01:07:06,199 --> 01:07:08,099
+vidět něco zajímavého v případě zjistit
+
+1334
+01:07:08,099 --> 01:07:09,900
+že lze sledovat ty to máš jak se
+
+1335
+01:07:09,900 --> 01:07:13,800
+nestydět se za to nějaké otázky
+
+1336
+01:07:13,800 --> 01:07:16,699
+protože už jsem prostě přetáhnu tak
+
+1337
+01:07:16,699 --> 01:07:19,900
+prosím Budu k dispozici na tom a trochu
+
+1338
+01:07:19,900 --> 01:07:21,800
+ještě nějakou dobu přijďte za mnou se
+
+1339
+01:07:21,800 --> 01:07:25,099
+ptejte rád odpovím zbytku patří
+
+1340
+01:07:25,099 --> 01:07:27,099
+samozřejmě Užijte si zbytek natsuconu a
+
+1341
+01:07:27,099 --> 01:07:30,199
+doufám že se s vámi uvidíme v listopadu
+
+1342
+01:07:30,199 --> 01:07:30,800
+na akiconu
+
