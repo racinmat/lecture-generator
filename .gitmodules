@@ -1,0 +1,3 @@
+[submodule "google-speech-to-text"]
+	path = google-speech-to-text
+	url = https://github.com/racinmat/google-speech-to-text.git
