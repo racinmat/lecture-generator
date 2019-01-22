@@ -1,1 +1,1 @@
-cd .. && python subtitles_tooling/srt_to_txt_sentences.py text_out/google-stt
+cd .. && python subtitles_tooling/srt_to_txt_sentences.py --srt_dir=text_out/google-stt --txt_dir=pure_text_dataset_google --missing_punctuation
