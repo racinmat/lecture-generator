@@ -47,6 +47,15 @@ learned from them. list of used lectures:
     -   https://github.com/tensorflow/models/tree/master/research/maskgan
     -   https://medium.com/@G3Kappa/writing-a-weight-adjustable-markov-chain-based-text-generator-in-python-9bbde6437fb4
     -   https://www.analyticsvidhya.com/blog/2018/03/text-generation-using-python-nlp/
+    -   https://github.com/26medias/context-aware-markov-chains
+
+-   some other useful information:
+    -   https://www.vutbr.cz/studenti/zav-prace?zp_id=79837
+    -   https://medium.com/@jiayu./a-primer-on-markov-chains-2668d94032b1
+    -   https://medium.com/@gianpaul.r/tokenization-and-parts-of-speech-pos-tagging-in-pythons-nltk-library-2d30f70af13b
+    -   https://medium.freecodecamp.org/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24
+    -   https://medium.com/phrasee/neural-text-generation-generating-text-using-conditional-language-models-a37b69c7cd4b  
+    -   https://github.com/ChenChengKuan/awesome-text-generation  
 
 -   text to speech Generated lecture will then be transferred into audio
     -   using some known libraries for TTS
