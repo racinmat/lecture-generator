@@ -47,8 +47,31 @@ def load_srt_file(filename):
                 text = line
                 next(lines)
                 if text == '':
-                    continue    # skipping empty subtitle
+                    continue  # skipping empty subtitle
                 records.append(Record(line_number, seconds_start, seconds_end, text))
             except StopIteration as e:
                 break
     return records
+
+
+def replace_special_words_to_keywords(text):
+    number_regex = '(\D?)\d+(\D?)'
+    text_numbers_replaced = re.sub(number_regex, '\g<1>NUMBER\g<2>', text)  # replace numbers by regex
+    text = text_numbers_replaced
+    return text
+
+
+def replace_special_words_from_keywords(text):
+    # todo: implement me, some smart number generator
+    return text
+
+
+def load_txt_data(input_dir):
+    input_rows = []
+
+    for input_file in os.listdir(input_dir):
+        with open(osp.join(input_dir, input_file), mode='r', encoding='utf-8') as f:
+            input_rows += f.readlines()
+
+    input_texts = ''.join(input_rows)
+    return input_texts, input_rows

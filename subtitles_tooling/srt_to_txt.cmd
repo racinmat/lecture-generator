@@ -1,0 +1,1 @@
+cd .. && python subtitles_tooling/srt_to_txt_sentences.py --srt_dir=text_out/corrected-final --txt_dir==pure_text_dataset
