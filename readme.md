@@ -56,7 +56,8 @@ learned from them. list of used lectures:
     -   https://medium.freecodecamp.org/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24
     -   https://medium.com/phrasee/neural-text-generation-generating-text-using-conditional-language-models-a37b69c7cd4b  
     -   https://github.com/ChenChengKuan/awesome-text-generation  
-
+    -   https://shiffman.net/a2z/markov/
+    
 -   text to speech Generated lecture will then be transferred into audio
     -   using some known libraries for TTS
         -   either by https://github.com/marytts/marytts if it will work Marytts is
