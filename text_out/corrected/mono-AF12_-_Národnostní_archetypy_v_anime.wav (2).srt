@@ -44,15 +44,15 @@ Ano, je to krásně češtinská otázka, abych tak řekl.
 
 12
 00:00:42,399 --> 00:00:45,000
-(Odpověď z publika...)
+(Odpověď z publika)
 
 13
 00:00:45,000 --> 00:00:49,000
-(...)
+(Odpověď z publika)
 
 14
 00:00:49,700 --> 00:00:53,700
-(...)
+(Odpověď z publika)
 
 15
 00:00:53,700 --> 00:00:56,500
@@ -664,7 +664,7 @@ když má silné hlasivky.
 
 167
 00:08:47,600 --> 00:08:50,000
-Odpověd z publika...
+(Odpověd z publika)
 
 168
 00:08:50,000 --> 00:08:51,000
@@ -1068,7 +1068,7 @@ jakožto Češi představy o britech.
 
 268
 00:13:46,500 --> 00:13:48,790
-Odpověď z publika...
+(Odpověď z publika)
 
 269
 00:13:48,790 --> 00:13:50,790
@@ -1076,11 +1076,11 @@ Odpověď z publika...
 
 270
 00:13:51,100 --> 00:13:55,100
-Koneckonců klasické vtipy, aneb:,,Lorde...
+Koneckonců klasické vtipy, aneb: "Lorde, udeřila 5. hodina." "Ach, chápu, už je čas zas na ten podivný mok. Jak se to jmenuje?" "Čaj, Lorde." "Aha, a nešlo by to nahradit Cherry?" "Cherry až po šesté."
 
 271
 00:14:08,399 --> 00:14:11,390
-rezervování, ano.
+Rezervování, ano.
 
 272
 00:14:20,700 --> 00:14:24,700
@@ -2444,7 +2444,7 @@ Ne, on je prostě skvělý.
 
 612
 00:31:15,000 --> 00:31:19,400
-Myslím, že k tomu se dá říct že jsem ... vytvořil
+Myslím, že k tomu se dá říct že jsem pozváním Kalisto vytvořil
 
 613
 00:31:19,400 --> 00:31:21,400
@@ -2472,11 +2472,11 @@ bych zase rozdal a tentokrát bych umožnil bombardování
 
 619
 00:31:30,100 --> 00:31:34,100
-jiné části publika publikem. To by mohlo být zajímavé, ikdyž
+jiné části publika publikem. To by mohlo být zajímavé, i když
 
 620
 00:31:34,100 --> 00:31:37,200
-... v zóně palby, no,
+bych si musel stoupnout za to plátno, abych nebyl v zóně palby, no,
 
 621
 00:31:37,200 --> 00:31:41,200
@@ -2496,11 +2496,11 @@ Takže, je ta dívka prohlédne a pochopí, že vlastně tím, že mě tu drží
 
 625
 00:31:55,799 --> 00:31:58,790
-tím že mě tu omezuje, tím že mě nutí abych si musela ...
+tím že mě tu omezuje, tím že mě nutí abych s ním zůstala, že mě miluje
 
 626
 00:31:58,790 --> 00:32:00,790
-...
+a já miluji jej.
 
 627
 00:32:01,799 --> 00:32:04,799
@@ -2524,7 +2524,7 @@ A opravdu nepotřebujeme, řekněme českého
 
 632
 00:32:16,799 --> 00:32:19,800
-fritzla, ano
+Fritzla, ano.
 
 633
 00:32:19,800 --> 00:32:21,900
