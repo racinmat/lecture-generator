@@ -1,6 +1,6 @@
 ﻿1
 00:00:06,020 --> 00:00:10,020
-Takže cože je to
+Takže, cože je to
 
 2
 00:00:10,020 --> 00:00:11,300
@@ -40,19 +40,19 @@ Cože je to ten archetyp.
 
 11
 00:00:34,290 --> 00:00:36,560
-Ano je to krásně češtinská otázka abych tak řekl.
+Ano, je to krásně češtinská otázka, abych tak řekl.
 
 12
 00:00:42,399 --> 00:00:45,000
-Odpověď z publika...
+(Odpověď z publika...)
 
 13
 00:00:45,000 --> 00:00:49,000
-...
+(...)
 
 14
 00:00:49,700 --> 00:00:53,700
-...
+(...)
 
 15
 00:00:53,700 --> 00:00:56,500
@@ -64,11 +64,11 @@ Mikrofon, tak kdyby snad někdo měl někdo pocit,
 
 17
 00:01:04,000 --> 00:01:07,900
-že o tom tématu nemluvím dostatečně fundovaně a zasvěceně má možnost si ten
+že o tom tématu nemluvím dostatečně fundovaně a zasvěceně, má možnost si ten
 
 18
 00:01:07,900 --> 00:01:11,900
-telefon, si ten mikrofon vzít a kdyžtak mě tu vystřídat, koneckonců už večer jsme si ukázalali,
+telefon, si ten mikrofon vzít a kdyžtak mě tu vystřídat, koneckonců už večer jsme si ukázali,
 
 19
 00:01:11,900 --> 00:01:15,900
@@ -80,23 +80,23 @@ Tak.
 
 21
 00:01:18,799 --> 00:01:21,299
-V tomto případě já zvolím ještě přece jenom tu
+V tomto případě já zvolím ještě přece jenom tu,
 
 22
 00:01:21,299 --> 00:01:24,200
-řekněme slovníkovou definici, která je
+řekněme, slovníkovou definici, která je,
 
 23
 00:01:24,200 --> 00:01:26,400
-vlastně že je to slovo řeckého
+vlastně, že je to slovo řeckého
 
 24
 00:01:26,400 --> 00:01:29,099
-původu znamenající původní vzor Archetypos.
+původu znamenající původní vzor, Archetypos.
 
 25
 00:01:30,799 --> 00:01:34,599
-Ano a v literatuře označuje typizovanou představu
+Ano, a v literatuře označuje typizovanou představu
 
 26
 00:01:34,599 --> 00:01:37,800
@@ -104,15 +104,15 @@ Ano a v literatuře označuje typizovanou představu
 
 27
 00:01:37,810 --> 00:01:41,810
-charaktery, vlastnosti a tak dále. Ale mohou to být i některé
+charaktery, vlastnosti atd.. Ale mohou to být i některé
 
 28
 00:01:41,810 --> 00:01:43,400
-představy
+představy.
 
 29
 00:01:43,400 --> 00:01:46,500
-Ti z vás, kteří se zajímají o Jungovskou psychoanalýzu, tak
+Ti z vás, kteří se zajímají o Jungovskou psychoanalýzu, tak se
 
 30
 00:01:46,500 --> 00:01:50,000
@@ -120,7 +120,7 @@ se slovem archetyp setkají velice
 
 31
 00:01:50,000 --> 00:01:51,500
-často a tam
+často, a tam
 
 32
 00:01:51,500 --> 00:01:53,299
@@ -128,15 +128,15 @@ může představovat vlastně skoro cokoli.
 
 33
 00:01:55,099 --> 00:01:58,200
-Tak. Přejdeme tedy k tomu jak se vlastně
+Tak. Přejdeme tedy k tomu, jak se vlastně
 
 34
 00:01:58,200 --> 00:02:01,700
-takový Japonci průměrně dívají na cizince.
+takoví Japonci průměrně dívají na cizince.
 
 35
 00:02:01,700 --> 00:02:03,599
-Nevím jestli tu
+Nevím, jestli tu
 
 36
 00:02:03,599 --> 00:02:06,200
@@ -144,7 +144,7 @@ někdo z vás se výrazněji zajímá o
 
 37
 00:02:06,200 --> 00:02:09,500
-japonskou kulturu v rámci řekněme jejich
+japonskou kulturu, v rámci, řekněme, jejich
 
 38
 00:02:09,500 --> 00:02:13,599
@@ -156,11 +156,11 @@ nebo je nějakým rozumným způsobem přijímat na svém území.
 
 40
 00:02:17,590 --> 00:02:19,500
-Pokud ano
+Pokud ano,
 
 41
 00:02:19,500 --> 00:02:23,400
-jak říkám zase zdálo by li se vám, že jsem nějakým způsobem
+jak říkám, zase, zdálo by-li se vám, že jsem nějakým způsobem
 
 42
 00:02:23,400 --> 00:02:27,400
@@ -168,7 +168,7 @@ neadekvátní, nemluvím pravdu a nebo snad že si některé
 
 43
 00:02:27,400 --> 00:02:29,099
-věci cucám z prstu
+věci cucám z prstu,
 
 44
 00:02:29,099 --> 00:02:31,100
@@ -176,7 +176,7 @@ prosím ozvěte se.
 
 45
 00:02:31,100 --> 00:02:33,599
-Tak první věcí je japonský
+Tak, první věcí je japonský
 
 46
 00:02:33,599 --> 00:02:36,699
@@ -192,7 +192,7 @@ takzvaném principu Jus sanguinis.
 
 49
 00:02:42,900 --> 00:02:46,699
-Ti z vás kteří znají Warhammer 40000, teď tu nebudeme mluvit o primarchovi krvavých andělů.
+Ti z vás, kteří znají Warhammer 40000, teď tu nebudeme mluvit o primarchovi krvavých andělů.
 
 50
 00:02:46,780 --> 00:02:50,780
@@ -200,7 +200,7 @@ Ne, mluvíme o principu dle krve, jinými slovy
 
 51
 00:02:50,780 --> 00:02:54,690
-Japoncem se nestáváte tím, že se narodíte japonské půdě
+Japoncem se nestáváte tím, že se narodíte japonské půdě.
 
 52
 00:02:54,800 --> 00:02:56,800
@@ -208,11 +208,11 @@ Ale Japoncem se můžete stát pouze tehdy,
 
 53
 00:02:56,800 --> 00:02:59,500
-narodíte li se alespoň jednomu z rodičů
+narodíte-li se alespoň jednomu z rodičů,
 
 54
 00:02:59,500 --> 00:03:03,000
-který je japonské národnosti v případě
+který je japonské národnosti, v případě
 
 55
 00:03:03,000 --> 00:03:05,400
@@ -220,7 +220,7 @@ otce vás navíc otec musí uznat svým
 
 56
 00:03:05,400 --> 00:03:09,599
-dítětem. Pokud snad otec zemře předtím než se narodíte
+dítětem. Pokud snad otec zemře předtím než se narodíte,
 
 57
 00:03:09,599 --> 00:03:11,590
@@ -264,19 +264,19 @@ nepostoupíte takzvanou naturalizaci.
 
 67
 00:03:40,800 --> 00:03:42,800
-Jinak pro informaci
+Jinak pro informaci,
 
 68
 00:03:42,800 --> 00:03:45,599
-dalším územím kde je
+dalším územím, kde je
 
 69
 00:03:45,599 --> 00:03:48,099
-toto pravidlo aplikováno
+toto pravidlo aplikováno,
 
 70
 00:03:48,099 --> 00:03:50,790
-je třeba pásmo Gazy a nebo západní břeh Jordánu
+je třeba pásmo Gazy, a nebo západní břeh Jordánu
 
 71
 00:03:50,790 --> 00:03:52,000
@@ -284,7 +284,7 @@ pod Izraelem.
 
 72
 00:03:52,000 --> 00:03:55,500
-Takže jenom tak pro řekněme krátký přehled o legislativní
+Takže jenom tak pro, řekněme, krátký přehled o legislativní
 
 73
 00:03:55,500 --> 00:03:58,500
@@ -292,11 +292,11 @@ současnosti Japonska.
 
 74
 00:03:59,400 --> 00:04:01,400
-K získání občanství tedy pokud ho
+K získání občanství, tedy pokud ho
 
 75
 00:04:01,400 --> 00:04:04,300
-nemáte dle krve je pak potřeba takzvaná
+nemáte dle krve, je pak potřeba takzvaná
 
 76
 00:04:04,300 --> 00:04:05,400
@@ -304,19 +304,19 @@ naturalizace.
 
 77
 00:04:05,400 --> 00:04:08,400
-Ti z vás kteří si myslí že je to něco tak snadného
+Ti z vás, kteří si myslí, že je to něco tak snadného
 
 78
 00:04:08,400 --> 00:04:11,800
-jako je zažádání o občanství nebo azyl.
+jako je zažádání o občanství nebo azyl,
 
 79
 00:04:11,800 --> 00:04:15,699
-Co je nám tak v rámci předkládáno v rámci Evropské unie či Euroamerických států, tak se
+co je nám tak v rámci předkládáno v rámci Evropské unie či Euroamerických států, tak se
 
 80
 00:04:15,699 --> 00:04:19,399
-šeredně mýlí. Naturalizace je proces který
+šeredně mýlí. Naturalizace je proces, který
 
 81
 00:04:19,399 --> 00:04:23,699
@@ -332,7 +332,7 @@ povolení, potvrzení a tak
 
 84
 00:04:28,699 --> 00:04:31,700
-dále trvá jeden rok.
+dále, trvá jeden rok.
 
 85
 00:04:31,700 --> 00:04:33,800
@@ -340,11 +340,11 @@ Je ryze a jenom v pravomoci
 
 86
 00:04:33,800 --> 00:04:37,100
-ministerstva vnitra a proto abyste mohli být
+ministerstva vnitra a proto, abyste mohli být
 
 87
 00:04:37,100 --> 00:04:40,399
-naturalizovaným Japoncem musíte alespoň
+naturalizovaným Japoncem, musíte alespoň
 
 88
 00:04:40,399 --> 00:04:42,500
@@ -356,11 +356,11 @@ na území Japonska.
 
 90
 00:04:44,600 --> 00:04:49,100
-To je v celku snadné. Pak musíte prokázat, že
+To je vcelku snadné. Pak musíte prokázat, že
 
 91
 00:04:49,100 --> 00:04:52,100
-za těchto pět let , případně celý pobyt v Japonsku
+za těchto pět let, případně celý pobyt v Japonsku,
 
 92
 00:04:52,100 --> 00:04:55,100
@@ -368,11 +368,11 @@ jste nespáchali žádný trestný čin,
 
 93
 00:04:55,100 --> 00:04:58,300
-přečin či jakoukoliv či jakékoli porušení
+přečin či jakoukoliv či jakékoli porušení,
 
 94
 00:04:58,300 --> 00:05:02,000
-Řekněme běžné morálky. Za porušení
+řekněme, běžné morálky. Za porušení
 
 95
 00:05:02,000 --> 00:05:03,000
@@ -392,15 +392,15 @@ Dále musíte
 
 99
 00:05:14,300 --> 00:05:17,399
-prokázat že jste schopni se
+prokázat, že jste schopni se
 
 100
 00:05:17,399 --> 00:05:21,600
-o sebe postarat, uživit se a přinášíte
+o sebe postarat, uživit se, a přinášíte
 
 101
 00:05:21,600 --> 00:05:23,300
-s sebou tak říkajíc
+s sebou, tak říkajíc,
 
 102
 00:05:23,300 --> 00:05:26,300
@@ -420,15 +420,15 @@ naturalizace na první pokus je přibližně
 
 106
 00:05:36,399 --> 00:05:37,500
-41 procent.
+45 procent.
 
 107
 00:05:38,600 --> 00:05:41,500
-Takže když se tak podíváte po té řadě cizinců
+Takže, když se tak podíváte po té řadě cizinců,
 
 108
 00:05:41,500 --> 00:05:43,300
-řekněte si, no každý druhý z vás
+řekněte si, no každý druhý z vás,
 
 109
 00:05:43,300 --> 00:05:45,300
@@ -436,7 +436,7 @@ a ani ten ne.
 
 110
 00:05:47,199 --> 00:05:50,300
-Tak, tím pádem se dostáváme k tomu že
+Tak, tím pádem se dostáváme k tomu že,
 
 111
 00:05:50,300 --> 00:05:52,199
@@ -448,39 +448,39 @@ legislativy nejsou úplně otevření
 
 113
 00:05:54,500 --> 00:05:56,500
-cizincům v tomhletom ohledu
+cizincům v tomhletom ohledu.
 
 114
 00:05:56,500 --> 00:05:59,300
-obvykle označení
+Obvyklé označení
 
 115
 00:05:59,300 --> 00:06:02,300
-nových řekněme služeb
+nových, řekněme, služeb
 
 116
 00:06:02,300 --> 00:06:05,300
-a obchodů které se
+a obchodů, které se
 
 117
 00:06:05,300 --> 00:06:09,500
-zabývají poskytováním už masáží, koupelí,
+zabývají poskytováním, ať už masáží, koupelí,
 
 118
 00:06:09,500 --> 00:06:13,399
-restauratérských služeb a tak
+restauratérských služeb, a tak
 
 119
 00:06:13,399 --> 00:06:17,300
-dále můžete najít podobné cedulky. Ne, není to výmysl.
+dále, můžete najít podobné cedulky. Ne, není to výmysl.
 
 120
 00:06:17,300 --> 00:06:18,399
-Dokonce i v takových čtvrtích
+Dokonce i v takových čtvrtích,
 
 121
 00:06:18,399 --> 00:06:22,390
-jako je Tokijské Ikeburo či právě zmiňovaná Akihabara
+jako je Tokijské Ikeburo či právě zmiňovaná Akihabara,
 
 122
 00:06:22,390 --> 00:06:24,390
@@ -488,7 +488,7 @@ je můžete najít.
 
 123
 00:06:24,390 --> 00:06:27,300
-A co víc jak
+A co víc, jak
 
 124
 00:06:27,300 --> 00:06:31,500
@@ -496,7 +496,7 @@ krásně, vlastně, napsal na svém blogu pan Fuka, pokud vstoupíte do
 
 125
 00:06:31,500 --> 00:06:34,199
-japonské restaurace nemusíte ani tohleto oznámení
+japonské restaurace, nemusíte ani tohleto oznámení
 
 126
 00:06:34,199 --> 00:06:35,500
@@ -516,11 +516,11 @@ Ve vší
 
 130
 00:06:43,800 --> 00:06:47,800
-slušnosti s úklonou, ale s tím v podstatě nic nenaděláte.
+slušnosti, s úklonou, ale s tím v podstatě nic nenaděláte.
 
 131
 00:06:47,800 --> 00:06:51,800
-Jenom pro řekněme zdůvodnění
+Jenom pro, řekněme, zdůvodnění,
 
 132
 00:06:51,800 --> 00:06:55,800
@@ -572,7 +572,7 @@ budu citovat:
 
 144
 00:07:32,100 --> 00:07:33,800
-,,Je naprosto v pořádku,
+"Je naprosto v pořádku,
 
 145
 00:07:33,800 --> 00:07:37,800
@@ -600,7 +600,7 @@ Támhle máme.
 
 151
 00:07:53,100 --> 00:07:56,800
-USA Přesně tak a Jedná se o zdůvodnění
+USA. Přesně tak, a jedná se o zdůvodnění
 
 152
 00:07:56,800 --> 00:07:57,800
@@ -652,7 +652,7 @@ mluvit o američanech, takže, zeptám se vás
 
 164
 00:08:38,000 --> 00:08:42,000
-tady v Čechách, jaké máme asi tak nejzažitější o američanech.
+tady v Čechách, jaké máme asi tak nejzažitější představy o američanech.
 
 165
 00:08:43,100 --> 00:08:45,000
@@ -724,7 +724,7 @@ odvoláváme. Kolikrát jste se už setkali
 
 182
 00:09:38,399 --> 00:09:41,000
-s tím, že ať už na různých blozích, reportážích, a tak dále,
+s tím, že ať už na různých blozích, reportážích, atd.,
 
 183
 00:09:41,000 --> 00:09:44,000
@@ -808,7 +808,7 @@ v anime, jaké jsou asi tak ty nejznámější
 
 203
 00:10:44,100 --> 00:10:44,600
-vlastnosti.
+vlastnosti?
 
 204
 00:10:46,700 --> 00:10:49,299
@@ -816,7 +816,7 @@ Světlé vlasy, říkáte to správně ovšem
 
 205
 00:10:49,299 --> 00:10:50,000
-Netýká se to
+netýká se to
 
 206
 00:10:50,000 --> 00:10:52,600
@@ -880,7 +880,7 @@ neradi jsou
 
 221
 00:11:39,500 --> 00:11:42,299
-ti kteří začínají vysloveně první kontakt
+ti, kteří začínají vysloveně první kontakt
 
 222
 00:11:42,299 --> 00:11:45,500
@@ -888,11 +888,11 @@ zvlášť s cizincem, to protože v rámci japonské
 
 223
 00:11:45,500 --> 00:11:49,000
-...
+mentality neví: "Je to můj nadřízený, je můj podřízený? Jak bych se k němu
 
 224
 00:11:49,000 --> 00:11:51,000
-měl úplně chovat a tak dále
+měl úplně chovat?" atd.,
 
 225
 00:11:51,000 --> 00:11:52,799
@@ -908,7 +908,7 @@ poplácá toho hajnýho po zádech,
 
 228
 00:11:57,790 --> 00:11:58,799
-řekne:,,Tak co,
+řekne: "Tak co,
 
 229
 00:11:58,799 --> 00:12:01,790
@@ -944,7 +944,7 @@ Tak, dalším typickým prostředkem je americká
 
 237
 00:12:18,000 --> 00:12:22,299
-japonština, to čemu se někdy na ...
+japonština, to čemu se někdy na 4chanu říká wapanese,
 
 238
 00:12:22,299 --> 00:12:23,799
@@ -952,7 +952,7 @@ aneb ti kteří
 
 239
 00:12:23,799 --> 00:12:26,790
-chtěli ...
+chtěli, aneb wannabe japanese spojené do jednoho slova,
 
 240
 00:12:26,790 --> 00:12:28,790
@@ -960,11 +960,11 @@ a jejich úžasná výslovnost
 
 241
 00:12:28,799 --> 00:12:32,200
-která bývá v anime tak strašně přehnaná, že na obvykle
+která bývá v anime tak strašně přehnaná, že nám obvykle
 
 242
 00:12:32,200 --> 00:12:35,200
-...
+může nastat přetahování samohlásek, takže máte "Wakárimasén"
 
 243
 00:12:38,000 --> 00:12:40,500
@@ -988,7 +988,7 @@ můžete často najít
 
 248
 00:12:48,500 --> 00:12:50,500
-takzvané smyšlené řeči ...
+takzvané smyšlené řeči, aneb fero terro.
 
 249
 00:12:55,600 --> 00:12:58,200
@@ -1000,11 +1000,11 @@ ano dívky bývají vysoké, velmi vnadné
 
 251
 00:13:02,399 --> 00:13:05,390
-a otevřené. Muži obvykle svalnatí .
+a otevřené. Muži obvykle svalnatí.
 
 252
 00:13:06,000 --> 00:13:07,390
-Tak
+Tak.
 
 253
 00:13:07,390 --> 00:13:07,899
@@ -1148,7 +1148,7 @@ U Britů
 
 288
 00:15:13,399 --> 00:15:17,399
-se setkáváme s klasickou eproprietou anime postav
+se setkáváme s klasickou proprietou anime postav
 
 289
 00:15:17,399 --> 00:15:20,000
@@ -1164,11 +1164,11 @@ postava, když už to musí říct, že pochází z Británie.
 
 292
 00:15:24,700 --> 00:15:26,700
-Tak ...
+Tak obvykle zazní "Ano, a, to je ten příbuzný tamtoho a tamtoho.",
 
 293
 00:15:28,899 --> 00:15:33,299
-ještě lépe nějaké ty shojo mangy, tam je to obvykle to neurčité
+nebo, ještě lépe nějaké ty shojo mangy, tam je to obvykle to neurčité
 
 294
 00:15:33,299 --> 00:15:37,200
@@ -1228,7 +1228,7 @@ Ano i Lelouche, protože pokud upustíme od toho
 
 308
 00:16:10,700 --> 00:16:13,700
-dle vlastně ... lekce ze včerejška
+dle vlastně Hintzuovy lekce ze včerejška
 
 309
 00:16:13,700 --> 00:16:15,700
@@ -1280,11 +1280,11 @@ pořádku, co na tom, že právě povraždil jednotku britských vojáků.
 
 321
 00:16:47,899 --> 00:16:50,900
-Odpověď z publika...
+(Odpověď z publika)
 
 322
 00:16:57,700 --> 00:17:01,700
-...
+(Odpověď z publika)
 
 323
 00:17:04,599 --> 00:17:07,400
@@ -1328,15 +1328,15 @@ s tímto a málo,
 
 333
 00:17:28,000 --> 00:17:29,000
-ehm
+ehm,
 
 334
 00:17:29,000 --> 00:17:31,000
-Je to využíváno ve všech těchhletěch zápletkách,
+je to využíváno ve všech těchhletěch zápletkách,
 
 335
 00:17:31,000 --> 00:17:35,000
-když je třeba ... postava nucena jednat nekomformě,
+když je třeba podobná postava nucena jednat nekomformně,
 
 336
 00:17:35,000 --> 00:17:37,000
@@ -1392,7 +1392,7 @@ přátelství,
 
 349
 00:18:07,000 --> 00:18:11,000
-jako taková ta matrioška, že jeden ve druhém a tak dále.
+jako taková ta matrioška, že jeden ve druhém atd..
 
 350
 00:18:12,200 --> 00:18:15,599
@@ -1404,7 +1404,7 @@ další služebníky.
 
 352
 00:18:16,299 --> 00:18:18,290
-Tak nevim, možná i služebníky ...
+Tak nevim, možná i služebníky by dokázala najímat firma Amway.
 
 353
 00:18:22,599 --> 00:18:23,500
@@ -1532,11 +1532,11 @@ Velkým průlomem v tomhletom
 
 384
 00:19:38,000 --> 00:19:40,000
-byla série ...
+byla série Strike Witches,
 
 385
 00:19:40,000 --> 00:19:43,599
-Kde vlastně ve smyšleném světě existují
+kde vlastně ve smyšleném světě existují
 
 386
 00:19:43,599 --> 00:19:46,590
@@ -1544,11 +1544,11 @@ státy které odpovídají těm našim
 
 387
 00:19:46,590 --> 00:19:48,590
-včetně ...
+včetně Karlslandu,
 
 388
 00:19:49,599 --> 00:19:51,590
-Což je právě Německo
+což je právě Německo
 
 389
 00:19:51,590 --> 00:19:53,590
@@ -1588,7 +1588,7 @@ Všechny ostatní mají sukni, takže vojensky uvažující
 
 398
 00:20:14,200 --> 00:20:16,799
-charaktery. Dá se říct, že to jsou takový
+charaktery. Dá se říct, že to jsou takoví
 
 399
 00:20:17,500 --> 00:20:19,900
@@ -1676,7 +1676,7 @@ stránkách najít krásný
 
 420
 00:21:10,500 --> 00:21:12,500
-příměr: Němci, aha ...
+příměr: Němci, aha, goauldi anime.
 
 421
 00:21:14,000 --> 00:21:18,000
@@ -1752,7 +1752,7 @@ S tím jsem se až tak nesetkal, tam tak maximálně
 
 439
 00:22:10,400 --> 00:22:13,200
-jejich podobná ... ohledně jazyka
+jejich podobná konzervativnost ohledně jazyka
 
 440
 00:22:13,200 --> 00:22:15,500
@@ -1788,7 +1788,7 @@ a jsou obvykle právě spojené s chápáním Francouzů
 
 448
 00:22:32,000 --> 00:22:34,000
-V americké kultuře celkově.
+V euro-americké kultuře celkově.
 
 449
 00:22:34,000 --> 00:22:36,000
@@ -1808,15 +1808,15 @@ z počátku 20. století kdy Francouzi byli právě těmi milovníky,
 
 453
 00:22:45,400 --> 00:22:48,400
-kteří ty zámožné, nebo i ty chudé slečně
+kteří ty zámožné, nebo i ty chudé slečny, které se nějak dostaly do Francie,
 
 454
 00:22:50,700 --> 00:22:53,700
-vlastně vyzvedli, udělali z nich ty dámy
+vlastně vyzvedli, udělali z nich ty dámy,
 
 455
 00:22:53,700 --> 00:22:55,700
-milence, manželky a tak dále.
+milenky, manželky atd.
 
 456
 00:22:56,500 --> 00:22:59,400
@@ -1868,15 +1868,15 @@ teď se prosím hlašte a nekřičte, kdo ví co je to
 
 468
 00:23:27,200 --> 00:23:30,200
-Pařížský syndrom?
+Pařížský syndrom? Takže, předáme mikrofon.
 
 469
 00:23:35,799 --> 00:23:38,790
-Odpověď z publika...
+(Odpověď z publika)
 
 470
 00:23:38,800 --> 00:23:52,700
-...
+(Odpověď z publika)
 
 471
 00:23:52,700 --> 00:23:56,700
@@ -1976,11 +1976,11 @@ prostě něco a najednou zjistíte,
 
 495
 00:24:55,799 --> 00:24:57,790
-že třeba na tom ...
+že třeba na tom Sacre Coeur
 
 496
 00:24:57,790 --> 00:24:59,790
-většina těch výrazů je spíš rusky
+většina umělců umí spíš rusky
 
 497
 00:24:59,790 --> 00:25:01,790
@@ -2024,7 +2024,7 @@ velký problém.
 
 507
 00:25:29,099 --> 00:25:33,599
-Tak, další početnou skupinou která, se kterou se
+Tak, další, dost početnou skupinou která, se kterou
 
 508
 00:25:33,599 --> 00:25:34,500
@@ -2032,7 +2032,7 @@ se přímo už
 
 509
 00:25:34,500 --> 00:25:38,500
-i Japonci vlastně setkávají a to protože
+i Japonci vlastně setkávají a to protože ve 30. letech 20. zaznamenali velkou vlnu, vlastně, japonské
 
 510
 00:25:42,700 --> 00:25:44,500
@@ -2056,7 +2056,7 @@ To co můžete vidět jakožto ukázkové charaktery je Maria
 
 515
 00:25:54,400 --> 00:25:57,400
-...
+z anime Sayonara Zetsubou Sensei, a ten pán,
 
 516
 00:26:00,000 --> 00:26:02,900
@@ -2064,19 +2064,19 @@ z vašeho pohledu napravo, pozná to tu někdo?
 
 517
 00:26:02,900 --> 00:26:07,000
-je to Pedro Přesně tak ...
+je to Pedro Přesně tak, Pedro z Excel Ságy.
 
 518
 00:26:07,000 --> 00:26:11,000
-... jestli se tu někdo najde, kdosi z těch kteří ho znají,
+A jestli se tu někdo najde, kdosi z těch kteří ho znají,
 
 519
 00:26:11,000 --> 00:26:15,000
-přivítáte mě prosím jeho typickou ...
+přivítáte mě prosím jeho typickou catch-phrase?
 
 520
 00:26:16,599 --> 00:26:18,200
-Ozvalo se to, ano ...
+Ozvalo se to, ano, noo.
 
 521
 00:26:18,200 --> 00:26:22,200
@@ -2100,7 +2100,7 @@ odehrávají přímo v Jižní Americe a tam si
 
 526
 00:26:35,799 --> 00:26:39,000
-za poslední dobu tak maximálně vzpomenu na ...
+za poslední dobu tak maximálně vzpomenu na Michiko to Hatchin,
 
 527
 00:26:39,000 --> 00:26:40,799
@@ -2124,7 +2124,7 @@ Což se pak
 
 532
 00:26:50,799 --> 00:26:52,790
-...
+právě v Sayonara Zetsubou Sensei
 
 533
 00:26:52,790 --> 00:26:55,599
@@ -2140,7 +2140,7 @@ klasickém, jestli se nemýlím, tak je to
 
 536
 00:27:01,790 --> 00:27:04,799
-klasické ... to znamená jedna tatami
+klasické LDKčko to znamená jedna tatami
 
 537
 00:27:04,799 --> 00:27:06,299
@@ -2160,7 +2160,7 @@ dostat.
 
 541
 00:27:14,599 --> 00:27:17,599
-Dělají podřadné práce, viz. Pedro
+Dělají podřadné práce, viz Pedro,
 
 542
 00:27:17,599 --> 00:27:20,000
@@ -2176,7 +2176,7 @@ naspořil a koupil si
 
 545
 00:27:24,599 --> 00:27:27,590
-občanství a následujíce dostal v Japonsku svojí ženu
+občanství a následně dostal v Japonsku svojí ženu
 
 546
 00:27:27,590 --> 00:27:30,590
@@ -2236,7 +2236,7 @@ u nás není. Když jsem se ptal
 
 560
 00:28:12,700 --> 00:28:14,500
-...
+mých známých v Německu,
 
 561
 00:28:14,500 --> 00:28:18,500
@@ -2252,11 +2252,11 @@ Tak ano, exotičtí hrdinové,
 
 564
 00:28:26,400 --> 00:28:30,400
-tak obrázek je trošku zavádějící, neb je to ...
+ten obrázek je trošku zavádějící, neb je to alter-ego Tuxedo Kamena
 
 565
 00:28:30,400 --> 00:28:34,400
-z vlastně anime ... jež si hraje
+z vlastně anime Sailor Moon jež si hraje
 
 566
 00:28:34,400 --> 00:28:38,400
@@ -2284,7 +2284,7 @@ takzvané klasické věštby,
 
 572
 00:28:56,099 --> 00:28:58,200
-čeká vás ...
+čeká vás osudové setkání s vysokým, snědým cizincem.
 
 573
 00:29:03,500 --> 00:29:06,299
@@ -2308,7 +2308,7 @@ a musím
 
 578
 00:29:23,100 --> 00:29:24,900
-citovat ...:,,Když člověk hledí do
+citovat Nietzscheho:"Když člověk hledí do
 
 579
 00:29:24,900 --> 00:29:26,900
@@ -2324,7 +2324,7 @@ jediné z hlášek, kterou jsem měl možnost
 
 582
 00:29:39,000 --> 00:29:41,000
-vidět v prezentaci slečny ...
+vidět v prezentaci slečny, která dnes ráno
 
 583
 00:29:41,000 --> 00:29:43,290
@@ -2332,7 +2332,7 @@ přednášela o fanfikcích bych možná
 
 584
 00:29:43,299 --> 00:29:45,299
-i doplnil že ten ...
+i doplnil že ten, kdo bojuje s monstry by si měl
 
 585
 00:29:45,299 --> 00:29:49,290
@@ -2344,11 +2344,11 @@ Je to možné, v základě
 
 587
 00:29:56,290 --> 00:29:58,290
-jde totiž o to že.
+jde totiž o to že, hlavně
 
 588
 00:29:58,500 --> 00:30:01,200
-V 80 letech v shojo a josei
+v 80 letech v shojo a josei
 
 589
 00:30:01,200 --> 00:30:04,200
@@ -2360,7 +2360,7 @@ Japonky už nebavilo mít ty
 
 591
 00:30:07,200 --> 00:30:10,500
-Byznysmany a ty úžasné chlapy
+byznysmany a ty úžasné chlapy
 
 592
 00:30:10,500 --> 00:30:12,500
@@ -2368,7 +2368,7 @@ z toho řekněme
 
 593
 00:30:12,500 --> 00:30:14,500
-peněžního odvětví se kterými by mohli
+peněžního odvětví se kterými by mohly
 
 594
 00:30:14,500 --> 00:30:16,500
@@ -2376,7 +2376,7 @@ zakládat ty rodiny a tak dále.
 
 595
 00:30:16,500 --> 00:30:18,500
-A chtěli něco víc.
+A chtěly něco víc.
 
 596
 00:30:18,900 --> 00:30:21,099
@@ -2408,7 +2408,7 @@ vlasů, ono přece jenom manga v tomto docela
 
 603
 00:30:39,099 --> 00:30:41,090
-...
+médium s omezenou barevnou paletou.
 
 604
 00:30:41,900 --> 00:30:44,700
@@ -2416,7 +2416,7 @@ Ale jsou to právě ti úchvatní, tajemní
 
 605
 00:30:44,700 --> 00:30:47,000
-bohatí, vysocí ...
+bohatí, vysocí, snědí cizinci
 
 606
 00:30:47,000 --> 00:30:50,000
