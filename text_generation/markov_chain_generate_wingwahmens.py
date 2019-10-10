@@ -121,13 +121,14 @@ def generate_wingwahmeni():
 
     model_all, models = train_wingwahmen_models(df)
     # model_merged = markovify.combine([model_2gram, model_3gram])
-    for i in range(10):
-        print(model_all.make_sentence(max_overlap_ratio=0.8, max_overlap_total=20))
+    for i in range(5):
+        print(model_all.make_sentence(max_overlap_ratio=0.8, max_overlap_total=20, tries=30))
 
     for username, model in models.items():
+        print()
         print(username)
-        for i in range(10):
-            print(model.make_sentence(max_overlap_ratio=0.8, max_overlap_total=20))
+        for i in range(5):
+            print(model.make_sentence(max_overlap_ratio=0.8, max_overlap_total=20, tries=30))
 
 
 def main():
