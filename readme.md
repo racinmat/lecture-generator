@@ -1,5 +1,8 @@
-Plan is to generate some new lecture based on previous lectures and corpora
-learned from them. list of used lectures: 
+# Playground of text generation models 
+
+The plan is to generate some new lecture based on previous lectures and corpora learned from them. 
+
+List of used lectures: 
 - https://www.youtube.com/watch?v=EXGFGvpadnE
 - https://www.youtube.com/watch?v=AerWN3xXmuk
 - https://www.youtube.com/watch?v=p2IsK53lEEc
@@ -12,7 +15,6 @@ learned from them. list of used lectures:
 - https://www.youtube.com/watch?v=XmGr0CCEzhc
 - https://www.youtube.com/watch?v=U50SJwORuPY
 - https://www.youtube.com/watch?v=AMR09Chqxc0
-
 -   speech to text
     -   google api speech to text: https://cloud.google.com/speech-to-text/docs/
     -   files are big, so I must upload them to the google cloud storage (GCS)
